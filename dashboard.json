@@ -1,0 +1,148 @@
+{
+  "schemaVersion": "1.0",
+  "lastUpdated": "2025-09-09T12:00:00Z",
+  "ttlSeconds": 21600,
+  "languages": ["en", "hi"],
+  "theme": {
+    "accent": "#3B82F6"
+  },
+  "remoteConfig": {
+    "showDailyQuiz": true,
+    "showTier2": true,
+    "enableDownloads": true,
+    "maintenanceMode": false
+  },
+
+  "announcements": [
+    {
+      "id": "ann-2025-09-tier1",
+      "level": "info",
+      "start": "2025-09-08T00:00:00Z",
+      "end": "2025-09-15T23:59:00Z",
+      "dismissible": true,
+      "title": { "en": "New 2024 Tier-I PYQ uploaded", "hi": "नया 2024 टियर-I PYQ जोड़ा गया" },
+      "body": {
+        "en": "Practice with the latest SSC CGL Tier-I 2024 papers.",
+        "hi": "नवीनतम SSC CGL टियर-I 2024 पेपर से अभ्यास करें।"
+      },
+      "cta": {
+        "label": { "en": "View Papers", "hi": "पेपर देखें" },
+        "deeplink": "app://pyq/tier1/2024"
+      }
+    }
+  ],
+
+  "sections": [
+    {
+      "id": "hero",
+      "type": "hero",
+      "title": { "en": "Prepare smarter for SSC CGL", "hi": "SSC CGL की स्मार्ट तैयारी करें" },
+      "subtitle": { "en": "PYQ • Mocks • Analytics", "hi": "PYQ • मॉक • एनालिटिक्स" },
+      "image": "https://raw.githubusercontent.com/<your-org>/<your-repo>/main/media/hero/ssc-hero.png",
+      "ctas": [
+        {
+          "label": { "en": "Start Mock", "hi": "मॉक शुरू करें" },
+          "deeplink": "app://mocks/tier1/full"
+        },
+        {
+          "label": { "en": "Subject Practice", "hi": "विषय अभ्यास" },
+          "deeplink": "app://practice"
+        }
+      ]
+    },
+
+    {
+      "id": "quick-actions",
+      "type": "chips",
+      "title": { "en": "Quick Actions", "hi": "झटपट कार्य" },
+      "items": [
+        { "label": { "en": "Tier-I PYQ", "hi": "टियर-I PYQ" }, "deeplink": "app://pyq/tier1" },
+        { "label": { "en": "Tier-II", "hi": "टियर-II" }, "deeplink": "app://tier2" },
+        { "label": { "en": "Downloads", "hi": "डाउनलोड" }, "deeplink": "app://downloads" },
+        { "label": { "en": "Analytics", "hi": "एनालिटिक्स" }, "deeplink": "app://analyze" }
+      ]
+    },
+
+    {
+      "id": "subjects",
+      "type": "grid",
+      "title": { "en": "Practice by Subject", "hi": "विषय अनुसार अभ्यास" },
+      "items": [
+        {
+          "kind": "subject",
+          "code": "reasoning",
+          "label": { "en": "Reasoning", "hi": "रीज़निंग" },
+          "icon": "https://raw.githubusercontent.com/<your-org>/<your-repo>/main/media/icons/reasoning.png",
+          "deeplink": "app://practice/reasoning"
+        },
+        {
+          "kind": "subject",
+          "code": "quant",
+          "label": { "en": "Quantitative Aptitude", "hi": "गणित" },
+          "icon": "https://raw.githubusercontent.com/<your-org>/<your-repo>/main/media/icons/quant.png",
+          "deeplink": "app://practice/quant"
+        },
+        {
+          "kind": "subject",
+          "code": "english",
+          "label": { "en": "English", "hi": "अंग्रेज़ी" },
+          "icon": "https://raw.githubusercontent.com/<your-org>/<your-repo>/main/media/icons/english.png",
+          "deeplink": "app://practice/english"
+        },
+        {
+          "kind": "subject",
+          "code": "gk",
+          "label": { "en": "General Awareness", "hi": "सामान्य ज्ञान" },
+          "icon": "https://raw.githubusercontent.com/<your-org>/<your-repo>/main/media/icons/gk.png",
+          "deeplink": "app://practice/gk"
+        }
+      ]
+    },
+
+    {
+      "id": "pyq-years",
+      "type": "list",
+      "title": { "en": "PYQ by Year", "hi": "वर्षानुसार PYQ" },
+      "items": [
+        { "kind": "pyq-year", "year": 2024, "deeplink": "app://pyq/tier1/2024", "badge": { "en": "New", "hi": "नया" } },
+        { "kind": "pyq-year", "year": 2023, "deeplink": "app://pyq/tier1/2023" },
+        { "kind": "pyq-year", "year": 2022, "deeplink": "app://pyq/tier1/2022" },
+        { "kind": "pyq-year", "year": 2021, "deeplink": "app://pyq/tier1/2021" }
+      ]
+    },
+
+    {
+      "id": "daily-quiz",
+      "type": "card",
+      "title": { "en": "Daily Quiz", "hi": "डेली क्विज़" },
+      "subtitle": { "en": "10 questions • 10 min", "hi": "10 प्रश्न • 10 मिनट" },
+      "icon": "https://raw.githubusercontent.com/<your-org>/<your-repo>/main/media/icons/daily.png",
+      "deeplink": "app://daily/2025-09-09",
+      "badge": { "en": "New", "hi": "नया" }
+    },
+
+    {
+      "id": "featured-mocks",
+      "type": "carousel",
+      "title": { "en": "Featured Mocks", "hi": "फ़ीचर्ड मॉक" },
+      "items": [
+        {
+          "kind": "mock",
+          "mockId": "tier1-full-01",
+          "title": { "en": "Full Mock 01", "hi": "फुल मॉक 01" },
+          "subtitle": { "en": "Mixed difficulty", "hi": "मिश्रित कठिनाई" },
+          "image": "https://raw.githubusercontent.com/<your-org>/<your-repo>/main/media/mocks/full-01.png",
+          "deeplink": "app://mock/tier1/full/mock-01"
+        },
+        {
+          "kind": "mock",
+          "mockId": "tier2-paper1-01",
+          "title": { "en": "Tier-II Paper I #1", "hi": "टियर-II पेपर I #1" },
+          "subtitle": { "en": "Section I + II", "hi": "सेक्शन I + II" },
+          "image": "https://raw.githubusercontent.com/<your-org>/<your-repo>/main/media/mocks/tier2-p1-01.png",
+          "deeplink": "app://mock/tier2/paper1/mock-01"
+        }
+      ]
+    }
+  ]
+}

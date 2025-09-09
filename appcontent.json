@@ -1,0 +1,47 @@
+{
+  "id": "T1-2023-10-03-M-002",
+  "subject": "Quantitative Aptitude",
+  "topic": "Geometry",
+  "subtopic": "Triangles",
+  "difficulty": "medium",
+  "q": {
+    "hi": "दिए गए त्रिभुज का क्षेत्रफल निकालिए।",
+    "en": "Find the area of the given triangle.",
+    "image": "https://raw.githubusercontent.com/yourrepo/media/images/triangle_q1.png"
+  },
+  "options": [
+    {
+      "key": "A",
+      "hi": "50 वर्ग सेमी",
+      "en": "50 sq cm"
+    },
+    {
+      "key": "B",
+      "hi": "60 वर्ग सेमी",
+      "en": "60 sq cm",
+      "image": "https://raw.githubusercontent.com/yourrepo/media/images/option_b.png"
+    },
+    {
+      "key": "C",
+      "hi": "70 वर्ग सेमी",
+      "en": "70 sq cm"
+    },
+    {
+      "key": "D",
+      "hi": "80 वर्ग सेमी",
+      "en": "80 sq cm"
+    }
+  ],
+  "answer": "B",
+  "explanation": {
+    "hi": "त्रिभुज का क्षेत्रफल = 1/2 × आधार × ऊँचाई।",
+    "en": "Area of a triangle = 1/2 × base × height.",
+    "image": "https://raw.githubusercontent.com/yourrepo/media/images/triangle_expl.png"
+  },
+  "assets": [
+    "https://raw.githubusercontent.com/yourrepo/media/images/triangle_q1.png",
+    "https://raw.githubusercontent.com/yourrepo/media/images/option_b.png"
+  ],
+  "source": "SSC CGL Tier-I 03/10/2023 Morning",
+  "tags": ["pyq", "bilingual", "geometry", "image"]
+}

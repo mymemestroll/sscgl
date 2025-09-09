@@ -1,0 +1,57 @@
+{
+  "quiz-id-038984984": {
+    "questions": [
+      {
+        "languages": ["en", "hi"],
+        "question": {
+          "en": {
+            "content": "",
+            "correctOption": "A",
+            "explanation": "",
+            "options": [
+              {
+                "identifier": "A",
+                "content": ""
+              },
+              {
+                "identifier": "B",
+                "content": ""
+              },
+              {
+                "identifier": "C",
+                "content": ""
+              },
+              {
+                "identifier": "D",
+                "content": ""
+              }
+            ]
+          },
+          "hi": {
+            "content": "",
+            "correctOption": "A",
+            "explanation": "",
+            "options": [
+              {
+                "identifier": "A",
+                "content": ""
+              },
+              {
+                "identifier": "B",
+                "content": ""
+              },
+              {
+                "identifier": "C",
+                "content": ""
+              },
+              {
+                "identifier": "D",
+                "content": ""
+              }
+            ]
+          }
+        }
+      }
+    ]
+  }
+}
