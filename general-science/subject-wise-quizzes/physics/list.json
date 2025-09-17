@@ -3,22 +3,22 @@
   "data": [
     {
       "name": "Set 1",
-      "quizId": "add-later",
+      "quizId": "quiz1",
       "numberOfQuestions": 0
     },
     {
       "name": "Set 2",
-      "quizId": "add-later",
+      "quizId": "quiz2",
       "numberOfQuestions": 0
     },
     {
       "name": "Set 3",
-      "quizId": "add-later",
+      "quizId": "quiz3",
       "numberOfQuestions": 0
     },
     {
       "name": "Set 4",
-      "quizId": "add-later",
+      "quizId": "quiz4",
       "numberOfQuestions": 0
     }
   ]

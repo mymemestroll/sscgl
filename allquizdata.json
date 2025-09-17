@@ -8,22 +8,27 @@
             "content": "",
             "correctOption": "A",
             "explanation": "",
+            "image": "",
             "options": [
               {
                 "identifier": "A",
-                "content": ""
+                "content": "",
+                "image": ""
               },
               {
                 "identifier": "B",
-                "content": ""
+                "content": "",
+                "image": ""
               },
               {
                 "identifier": "C",
-                "content": ""
+                "content": "",
+                "image": ""
               },
               {
                 "identifier": "D",
-                "content": ""
+                "content": "",
+                "image": ""
               }
             ]
           },
@@ -31,22 +36,27 @@
             "content": "",
             "correctOption": "A",
             "explanation": "",
+            "image": "",
             "options": [
               {
                 "identifier": "A",
-                "content": ""
+                "content": "",
+                "image": ""
               },
               {
                 "identifier": "B",
-                "content": ""
+                "content": "",
+                "image": ""
               },
               {
                 "identifier": "C",
-                "content": ""
+                "content": "",
+                "image": ""
               },
               {
                 "identifier": "D",
-                "content": ""
+                "content": "",
+                "image": ""
               }
             ]
           }

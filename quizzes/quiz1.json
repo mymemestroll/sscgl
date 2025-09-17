@@ -1,0 +1,188 @@
+{
+  "subject": "Physics",
+  "questions": [
+    {
+      "languages": ["en", "hi"],
+      "question": {
+        "en": {
+          "content": "What is the SI unit of force?",
+          "correctOption": "B",
+          "explanation": "The SI unit of force is the Newton (N), named after Sir Isaac Newton. One Newton is equal to 1 kg·m/s².",
+          "image": "",
+          "options": [
+            {
+              "identifier": "A",
+              "content": "Joule",
+              "image": ""
+            },
+            {
+              "identifier": "B",
+              "content": "Newton",
+              "image": ""
+            },
+            {
+              "identifier": "C",
+              "content": "Pascal",
+              "image": ""
+            },
+            {
+              "identifier": "D",
+              "content": "Watt",
+              "image": ""
+            }
+          ]
+        },
+        "hi": {
+          "content": "बल का SI मात्रक क्या है?",
+          "correctOption": "B",
+          "explanation": "बल का SI मात्रक न्यूटन (N) है, जिसका नाम सर आइजैक न्यूटन के नाम पर रखा गया है। एक न्यूटन = 1 किग्रा·मीटर/सेकंड²।",
+          "image": "",
+          "options": [
+            {
+              "identifier": "A",
+              "content": "जूल",
+              "image": ""
+            },
+            {
+              "identifier": "B",
+              "content": "न्यूटन",
+              "image": ""
+            },
+            {
+              "identifier": "C",
+              "content": "पास्कल",
+              "image": ""
+            },
+            {
+              "identifier": "D",
+              "content": "वाट",
+              "image": ""
+            }
+          ]
+        }
+      }
+    },
+    {
+      "languages": ["en", "hi"],
+      "question": {
+        "en": {
+          "content": "Which type of lens is used in a magnifying glass?",
+          "correctOption": "C",
+          "explanation": "A magnifying glass uses a convex lens to converge light rays and produce a magnified virtual image.",
+          "image": "",
+          "options": [
+            {
+              "identifier": "A",
+              "content": "Concave lens",
+              "image": ""
+            },
+            {
+              "identifier": "B",
+              "content": "Plano-concave lens",
+              "image": ""
+            },
+            {
+              "identifier": "C",
+              "content": "Convex lens",
+              "image": ""
+            },
+            {
+              "identifier": "D",
+              "content": "Bifocal lens",
+              "image": ""
+            }
+          ]
+        },
+        "hi": {
+          "content": "आवर्धक कांच में किस प्रकार का लेंस प्रयोग किया जाता है?",
+          "correctOption": "C",
+          "explanation": "आवर्धक कांच में उत्तल लेंस का प्रयोग किया जाता है, जो प्रकाश किरणों को अभिसरित कर बड़ा आभासी प्रतिबिंब बनाता है।",
+          "image": "",
+          "options": [
+            {
+              "identifier": "A",
+              "content": "अवतल लेंस",
+              "image": ""
+            },
+            {
+              "identifier": "B",
+              "content": "प्लेनो-अवतल लेंस",
+              "image": ""
+            },
+            {
+              "identifier": "C",
+              "content": "उत्तल लेंस",
+              "image": ""
+            },
+            {
+              "identifier": "D",
+              "content": "द्विफोकस लेंस",
+              "image": ""
+            }
+          ]
+        }
+      }
+    },
+    {
+      "languages": ["en", "hi"],
+      "question": {
+        "en": {
+          "content": "What is the speed of light in vacuum?",
+          "correctOption": "A",
+          "explanation": "The speed of light in vacuum is approximately 3 × 10^8 m/s.",
+          "image": "",
+          "options": [
+            {
+              "identifier": "A",
+              "content": "3 × 10^8 m/s",
+              "image": ""
+            },
+            {
+              "identifier": "B",
+              "content": "3 × 10^6 m/s",
+              "image": ""
+            },
+            {
+              "identifier": "C",
+              "content": "3 × 10^5 km/s",
+              "image": ""
+            },
+            {
+              "identifier": "D",
+              "content": "1.5 × 10^8 m/s",
+              "image": ""
+            }
+          ]
+        },
+        "hi": {
+          "content": "निर्वात में प्रकाश की गति क्या है?",
+          "correctOption": "A",
+          "explanation": "निर्वात में प्रकाश की गति लगभग 3 × 10^8 मी/सेकंड होती है।",
+          "image": "",
+          "options": [
+            {
+              "identifier": "A",
+              "content": "3 × 10^8 मी/सेकंड",
+              "image": ""
+            },
+            {
+              "identifier": "B",
+              "content": "3 × 10^6 मी/सेकंड",
+              "image": ""
+            },
+            {
+              "identifier": "C",
+              "content": "3 × 10^5 किमी/सेकंड",
+              "image": ""
+            },
+            {
+              "identifier": "D",
+              "content": "1.5 × 10^8 मी/सेकंड",
+              "image": ""
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
