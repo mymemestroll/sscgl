@@ -1,0 +1,25 @@
+{
+  "subject": "physics",
+  "data": [
+    {
+      "name": "Set 1",
+      "quizId": "add-later",
+      "numberOfQuestions": 0
+    },
+    {
+      "name": "Set 2",
+      "quizId": "add-later",
+      "numberOfQuestions": 0
+    },
+    {
+      "name": "Set 3",
+      "quizId": "add-later",
+      "numberOfQuestions": 0
+    },
+    {
+      "name": "Set 4",
+      "quizId": "add-later",
+      "numberOfQuestions": 0
+    }
+  ]
+}
