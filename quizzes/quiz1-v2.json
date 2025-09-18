@@ -5,7 +5,7 @@
       "languages": ["en", "hi"],
       "question": {
         "en": {
-          "content": "What is the SI unit of force?",
+          "content": "Anand What is the SI unit of force?",
           "correctOption": "B",
           "explanation": "The SI unit of force is the Newton (N), named after Sir Isaac Newton. One Newton is equal to 1 kg·m/s².",
           "image": "",
