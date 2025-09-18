@@ -4,22 +4,26 @@
     {
       "name": "Set 1",
       "quizId": "quiz1",
-      "numberOfQuestions": 0
+      "numberOfQuestions": 0,
+      "quizMode": "instant"
     },
     {
       "name": "Set 2",
       "quizId": "quiz2",
-      "numberOfQuestions": 0
+      "numberOfQuestions": 0,
+      "quizMode": "instant"
     },
     {
       "name": "Set 3",
       "quizId": "quiz3",
-      "numberOfQuestions": 0
+      "numberOfQuestions": 0,
+      "quizMode": "exam"
     },
     {
       "name": "Set 4",
       "quizId": "quiz4",
-      "numberOfQuestions": 0
+      "numberOfQuestions": 0,
+      "quizMode": "exam"
     }
   ]
 }
