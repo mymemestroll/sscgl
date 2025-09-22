@@ -1,0 +1,93 @@
+{
+  "version": "1.0.1",
+  "content": [
+    {
+      "name": "Theory",
+      "nameHi": "सिद्धांत",
+      "lists": [
+        {
+          "name": "Dances",
+          "nameHi": "नृत्य",
+          "type": "text",
+          "content": "India has a rich tradition of classical and folk dances. Classical dances include Bharatanatyam (Tamil Nadu), Kathak (Uttar Pradesh), Kathakali (Kerala), Kuchipudi (Andhra Pradesh), Manipuri (Manipur), Odissi (Odisha), Mohiniyattam (Kerala), and Sattriya (Assam). Folk dances vary from state to state, such as Bhangra (Punjab), Garba (Gujarat), and Ghoomar (Rajasthan).",
+          "contentHi": "भारत में शास्त्रीय और लोक नृत्यों की समृद्ध परंपरा है। शास्त्रीय नृत्यों में भरतनाट्यम (तमिलनाडु), कथक (उत्तर प्रदेश), कथकली (केरल), कुचिपुड़ी (आंध्र प्रदेश), मणिपुरी (मणिपुर), ओडिसी (ओडिशा), मोहिनीयाट्टम (केरल) और सत्त्रिया (असम) शामिल हैं। लोक नृत्य राज्यों के अनुसार भिन्न होते हैं, जैसे भांगड़ा (पंजाब), गरबा (गुजरात) और घूमर (राजस्थान)।"
+        },
+        {
+          "name": "Indian Literature",
+          "nameHi": "भारतीय साहित्य",
+          "type": "list",
+          "content": [
+            {
+              "question": "Who is known as the ‘Father of Modern Indian Literature’?",
+              "questionHi": "आधुनिक भारतीय साहित्य के जनक किसे कहा जाता है?",
+              "answer": "Raja Ram Mohan Roy",
+              "answerHi": "राजा राम मोहन राय",
+              "explanation": "Raja Ram Mohan Roy pioneered modern prose writing and social reform through his essays and journals, laying the foundation for modern Indian literature.",
+              "explanationHi": "राजा राम मोहन राय ने अपने निबंधों और पत्रिकाओं के माध्यम से आधुनिक गद्य लेखन और सामाजिक सुधार की शुरुआत की, जिससे आधुनिक भारतीय साहित्य की नींव पड़ी।"
+            },
+            {
+              "question": "Which is considered the first Indian novel written in English?",
+              "questionHi": "अंग्रेज़ी में लिखा गया पहला भारतीय उपन्यास कौन सा माना जाता है?",
+              "answer": "Rajmohan's Wife by Bankim Chandra Chatterjee",
+              "answerHi": "बंकिमचंद्र चट्टोपाध्याय का 'राजमोहन की पत्नी'",
+              "explanation": "Published in 1864, 'Rajmohan's Wife' is widely regarded as the first Indian novel in English, exploring themes of love, family, and social issues.",
+              "explanationHi": "1864 में प्रकाशित 'राजमोहन की पत्नी' को अंग्रेज़ी में लिखा गया पहला भारतीय उपन्यास माना जाता है, जो प्रेम, परिवार और सामाजिक मुद्दों पर केंद्रित है।"
+            }
+          ]
+        },
+        {
+          "name": "World Literature",
+          "nameHi": "विश्व साहित्य",
+          "type": "list",
+          "content": [
+            {
+              "question": "Who wrote the epic poem 'Divine Comedy'?",
+              "questionHi": "'डिवाइन कॉमेडी' महाकाव्य किसने लिखा?",
+              "answer": "Dante Alighieri",
+              "answerHi": "दांते अलीगियेरी",
+              "explanation": "The Italian poet Dante Alighieri wrote 'The Divine Comedy' in the early 14th century. It is one of the greatest works of world literature, describing a journey through Hell, Purgatory, and Paradise.",
+              "explanationHi": "इतालवी कवि दांते अलीगियेरी ने 14वीं सदी की शुरुआत में 'डिवाइन कॉमेडी' लिखी। यह नर्क, पर्गेटरी और स्वर्ग की यात्रा का वर्णन करने वाला विश्व साहित्य का एक महान कृति है।"
+            },
+            {
+              "question": "Which Russian author is famous for the novels 'War and Peace' and 'Anna Karenina'?",
+              "questionHi": "'वॉर एंड पीस' और 'अन्ना कैरेनिना' उपन्यासों के लिए कौन सा रूसी लेखक प्रसिद्ध है?",
+              "answer": "Leo Tolstoy",
+              "answerHi": "लियो टॉल्स्टॉय",
+              "explanation": "Leo Tolstoy was a Russian novelist and philosopher whose works like 'War and Peace' and 'Anna Karenina' are considered masterpieces of realist fiction.",
+              "explanationHi": "लियो टॉल्स्टॉय एक रूसी उपन्यासकार और दार्शनिक थे जिनके 'वॉर एंड पीस' और 'अन्ना कैरेनिना' जैसे कार्य यथार्थवादी कथा साहित्य की उत्कृष्ट कृतियाँ माने जाते हैं।"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Current Affairs",
+      "nameHi": "समसामयिक घटनाएँ",
+      "lists": [
+        {
+          "name": "September 2025",
+          "nameHi": "सितंबर 2025",
+          "type": "list",
+          "content": [
+            {
+              "question": "Which country successfully launched the world's first commercial space hotel in September 2025?",
+              "questionHi": "सितंबर 2025 में किस देश ने दुनिया का पहला वाणिज्यिक अंतरिक्ष होटल सफलतापूर्वक लॉन्च किया?",
+              "answer": "United States",
+              "answerHi": "संयुक्त राज्य अमेरिका",
+              "explanation": "In September 2025, a US-based private space company successfully launched the world's first commercial space hotel named 'Aurora Station'. It is designed to host tourists for short-term stays in low-Earth orbit.",
+              "explanationHi": "सितंबर 2025 में, अमेरिका की एक निजी अंतरिक्ष कंपनी ने 'ऑरोरा स्टेशन' नामक दुनिया का पहला वाणिज्यिक अंतरिक्ष होटल सफलतापूर्वक लॉन्च किया। यह लो-अर्थ ऑर्बिट में पर्यटकों के अल्पकालिक ठहराव के लिए बनाया गया है।"
+            },
+            {
+              "question": "Which Indian state became the first to achieve 100% renewable energy supply in September 2025?",
+              "questionHi": "सितंबर 2025 में कौन सा भारतीय राज्य 100% नवीकरणीय ऊर्जा आपूर्ति प्राप्त करने वाला पहला राज्य बना?",
+              "answer": "Kerala",
+              "answerHi": "केरल",
+              "explanation": "Kerala announced in September 2025 that it now meets all of its electricity demand through renewable sources such as solar, wind, and hydropower, becoming the first Indian state to achieve this milestone.",
+              "explanationHi": "केरल ने सितंबर 2025 में घोषणा की कि वह अब अपनी संपूर्ण बिजली की मांग सौर, पवन और जलविद्युत जैसे नवीकरणीय स्रोतों से पूरी करता है, और ऐसा करने वाला भारत का पहला राज्य बन गया है।"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
