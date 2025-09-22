@@ -1,5 +1,5 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.2",
   "content": [
     {
       "name": "Theory",
@@ -74,8 +74,8 @@
               "questionHi": "सितंबर 2025 में किस देश ने दुनिया का पहला वाणिज्यिक अंतरिक्ष होटल सफलतापूर्वक लॉन्च किया?",
               "answer": "United States",
               "answerHi": "संयुक्त राज्य अमेरिका",
-              "explanation": "In September 2025, a US-based private space company successfully launched the world's first commercial space hotel named 'Aurora Station'. It is designed to host tourists for short-term stays in low-Earth orbit.",
-              "explanationHi": "सितंबर 2025 में, अमेरिका की एक निजी अंतरिक्ष कंपनी ने 'ऑरोरा स्टेशन' नामक दुनिया का पहला वाणिज्यिक अंतरिक्ष होटल सफलतापूर्वक लॉन्च किया। यह लो-अर्थ ऑर्बिट में पर्यटकों के अल्पकालिक ठहराव के लिए बनाया गया है।"
+              "explanation": "",
+              "explanationHi": ""
             },
             {
               "question": "Which Indian state became the first to achieve 100% renewable energy supply in September 2025?",
