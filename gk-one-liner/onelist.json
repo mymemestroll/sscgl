@@ -1,5 +1,5 @@
 {
-  "version": "1.0.4",
+  "version": "1.0.5",
   "content": [
     {
       "name": "Theory",
@@ -45,20 +45,84 @@
           "icon": "world",
           "content": [
             {
-              "question": "Who wrote the epic poem 'Divine Comedy'?",
-              "questionHi": "'डिवाइन कॉमेडी' महाकाव्य किसने लिखा?",
-              "answer": "Dante Alighieri",
-              "answerHi": "दांते अलीगियेरी",
-              "explanation": "The Italian poet Dante Alighieri wrote 'The Divine Comedy' in the early 14th century. It is one of the greatest works of world literature, describing a journey through Hell, Purgatory, and Paradise.",
-              "explanationHi": "इतालवी कवि दांते अलीगियेरी ने 14वीं सदी की शुरुआत में 'डिवाइन कॉमेडी' लिखी। यह नर्क, पर्गेटरी और स्वर्ग की यात्रा का वर्णन करने वाला विश्व साहित्य का एक महान कृति है।"
+              "question": "Who is the author of the novel 'Don Quixote', considered one of the greatest works of Western literature?",
+              "questionHi": "'डॉन क्विक्सोट', जिसे पश्चिमी साहित्य की महानतम कृतियों में से एक माना जाता है, के लेखक कौन हैं?",
+              "answer": "Miguel de Cervantes",
+              "answerHi": "मिगेल दे सर्वांतेस",
+              "explanation": "Spanish writer Miguel de Cervantes wrote 'Don Quixote' (1605, 1615), a foundational work of modern Western literature noted for its humor and deep human insight.",
+              "explanationHi": "स्पेनिश लेखक मिगेल दे सर्वांतेस ने 'डॉन क्विक्सोट' (1605, 1615) लिखा, जो आधुनिक पश्चिमी साहित्य की आधारभूत कृति मानी जाती है।"
             },
             {
-              "question": "Which Russian author is famous for the novels 'War and Peace' and 'Anna Karenina'?",
-              "questionHi": "'वॉर एंड पीस' और 'अन्ना कैरेनिना' उपन्यासों के लिए कौन सा रूसी लेखक प्रसिद्ध है?",
-              "answer": "Leo Tolstoy",
-              "answerHi": "लियो टॉल्स्टॉय",
-              "explanation": "Leo Tolstoy was a Russian novelist and philosopher whose works like 'War and Peace' and 'Anna Karenina' are considered masterpieces of realist fiction.",
-              "explanationHi": "लियो टॉल्स्टॉय एक रूसी उपन्यासकार और दार्शनिक थे जिनके 'वॉर एंड पीस' और 'अन्ना कैरेनिना' जैसे कार्य यथार्थवादी कथा साहित्य की उत्कृष्ट कृतियाँ माने जाते हैं।"
+              "question": "Which French writer is known for the classic novel 'Les Misérables'?",
+              "questionHi": "'ले मिज़राब्ल' जैसे क्लासिक उपन्यास के लिए कौन से फ्रांसीसी लेखक प्रसिद्ध हैं?",
+              "answer": "Victor Hugo",
+              "answerHi": "विक्टर ह्यूगो",
+              "explanation": "Victor Hugo's 'Les Misérables' (1862) portrays social injustice and the struggle for redemption in 19th-century France.",
+              "explanationHi": "विक्टर ह्यूगो का 'ले मिज़राब्ल' (1862) 19वीं सदी के फ्रांस में सामाजिक अन्याय और मुक्ति के संघर्ष को दर्शाता है।"
+            },
+            {
+              "question": "Who wrote the German drama 'Faust', a masterpiece of world literature?",
+              "questionHi": "जर्मन नाटक 'फाउस्ट', जो विश्व साहित्य की उत्कृष्ट कृति है, किसने लिखा?",
+              "answer": "Johann Wolfgang von Goethe",
+              "answerHi": "योहान वोल्फ़गांग वॉन गोएथे",
+              "explanation": "Goethe's 'Faust' explores ambition, desire, and salvation, and is a landmark of German literature.",
+              "explanationHi": "गोएथे का 'फाउस्ट' महत्वाकांक्षा, इच्छा और मोक्ष की खोज पर आधारित जर्मन साहित्य की प्रमुख कृति है।"
+            },
+            {
+              "question": "Which famous novel by Gabriel García Márquez popularized the genre of magical realism?",
+              "questionHi": "गेब्रियल गार्सिया मार्केज़ का कौन सा प्रसिद्ध उपन्यास जादुई यथार्थवाद की शैली को लोकप्रिय बनाने के लिए जाना जाता है?",
+              "answer": "One Hundred Years of Solitude",
+              "answerHi": "वन हंड्रेड इयर्स ऑफ सॉलिट्यूड",
+              "explanation": "Published in 1967, this Colombian novel combines political history with magical elements and is a classic of Latin American literature.",
+              "explanationHi": "1967 में प्रकाशित यह कोलंबियाई उपन्यास राजनीतिक इतिहास को जादुई तत्वों के साथ जोड़ता है और लैटिन अमेरिकी साहित्य की क्लासिक कृति है।"
+            },
+            {
+              "question": "Who is the author of the existentialist novel 'The Stranger'?",
+              "questionHi": "अस्तित्ववादी उपन्यास 'द स्ट्रेंजर' के लेखक कौन हैं?",
+              "answer": "Albert Camus",
+              "answerHi": "अल्बर्ट कामू",
+              "explanation": "French-Algerian writer Albert Camus published 'The Stranger' in 1942, exploring absurdism and human freedom.",
+              "explanationHi": "फ्रांसीसी-अल्जीरियाई लेखक अल्बर्ट कामू ने 1942 में 'द स्ट्रेंजर' प्रकाशित किया, जो निरर्थकता और मानवीय स्वतंत्रता की पड़ताल करता है।"
+            },
+            {
+              "question": "Which ancient Greek poet composed the epic poems 'Iliad' and 'Odyssey'?",
+              "questionHi": "किस प्राचीन यूनानी कवि ने 'इलियड' और 'ओडिसी' महाकाव्य लिखे?",
+              "answer": "Homer",
+              "answerHi": "होमर",
+              "explanation": "Homer's epics, composed around the 8th century BCE, are foundational texts of Western literature and mythology.",
+              "explanationHi": "8वीं शताब्दी ईसा पूर्व के आसपास रचित होमर के महाकाव्य पश्चिमी साहित्य और पौराणिक कथाओं की आधारशिला हैं।"
+            },
+            {
+              "question": "Who wrote the famous play 'Romeo and Juliet'?",
+              "questionHi": "प्रसिद्ध नाटक 'रोमियो एंड जूलियट' किसने लिखा?",
+              "answer": "William Shakespeare",
+              "answerHi": "विलियम शेक्सपियर",
+              "explanation": "English playwright William Shakespeare created 'Romeo and Juliet', a tragic love story that remains one of the most performed plays worldwide.",
+              "explanationHi": "अंग्रेज़ नाटककार विलियम शेक्सपियर का 'रोमियो एंड जूलियट' एक दुखांत प्रेमकथा है जो विश्वभर में सर्वाधिक मंचित नाटकों में से एक है।"
+            },
+            {
+              "question": "Which Japanese author is known for the novel 'Norwegian Wood'?",
+              "questionHi": "'नॉर्वेजियन वुड' उपन्यास के लिए कौन से जापानी लेखक प्रसिद्ध हैं?",
+              "answer": "Haruki Murakami",
+              "answerHi": "हारुकी मुराकामी",
+              "explanation": "Published in 1987, Haruki Murakami's 'Norwegian Wood' explores love, loss, and coming-of-age themes.",
+              "explanationHi": "1987 में प्रकाशित हारुकी मुराकामी का 'नॉर्वेजियन वुड' प्रेम, खोने और युवावस्था के विषयों की पड़ताल करता है।"
+            },
+            {
+              "question": "Who is the author of the allegorical novel 'The Little Prince'?",
+              "questionHi": "रूपकात्मक उपन्यास 'द लिटिल प्रिंस' के लेखक कौन हैं?",
+              "answer": "Antoine de Saint-Exupéry",
+              "answerHi": "एंत्वान द सेंट-एक्ज़ूपेरी",
+              "explanation": "First published in 1943, this poetic tale about childhood and human values is one of the world's most translated books.",
+              "explanationHi": "1943 में प्रकाशित यह काव्यात्मक कहानी बचपन और मानवीय मूल्यों पर आधारित है और दुनिया की सबसे अधिक अनुवादित पुस्तकों में से एक है।"
+            },
+            {
+              "question": "Which Nigerian novelist wrote the groundbreaking work 'Things Fall Apart'?",
+              "questionHi": "किस नाइजीरियाई उपन्यासकार ने 'थिंग्स फॉल अपार्ट' जैसी क्रांतिकारी कृति लिखी?",
+              "answer": "Chinua Achebe",
+              "answerHi": "चिनुआ अचेबे",
+              "explanation": "Published in 1958, 'Things Fall Apart' examines the clash between traditional Igbo society and colonial forces.",
+              "explanationHi": "1958 में प्रकाशित 'थिंग्स फॉल अपार्ट' पारंपरिक इग्बो समाज और औपनिवेशिक शक्तियों के टकराव को दर्शाता है।"
             }
           ]
         }

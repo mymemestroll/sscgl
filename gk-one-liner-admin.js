@@ -306,14 +306,22 @@ class JSONAdminPanel {
         if (list.type === 'text') {
             container.innerHTML = `
                 <div class="form-group">
-                    <label>Content (English)</label>
-                    <textarea class="form-control" rows="3" 
+                    <label>Content (English) - HTML Supported</label>
+                    <textarea class="form-control html-content" rows="4" placeholder="You can use HTML tags like &lt;b&gt;, &lt;br&gt;, &lt;i&gt;, &lt;u&gt;, etc."
                               onchange="window.adminPanel.updateList(${sectionIndex}, ${listIndex}, 'content', this.value)">${list.content || ''}</textarea>
+                    <div class="html-preview" id="preview-en-${sectionIndex}-${listIndex}">
+                        <small class="preview-label">Preview:</small>
+                        <div class="preview-content">${list.content || 'No content'}</div>
+                    </div>
                 </div>
                 <div class="form-group">
-                    <label>Content (Hindi)</label>
-                    <textarea class="form-control" rows="3" 
+                    <label>Content (Hindi) - HTML Supported</label>
+                    <textarea class="form-control html-content" rows="4" placeholder="आप HTML टैग्स का उपयोग कर सकते हैं जैसे &lt;b&gt;, &lt;br&gt;, &lt;i&gt;, &lt;u&gt;, आदि।"
                               onchange="window.adminPanel.updateList(${sectionIndex}, ${listIndex}, 'contentHi', this.value)">${list.contentHi || ''}</textarea>
+                    <div class="html-preview" id="preview-hi-${sectionIndex}-${listIndex}">
+                        <small class="preview-label">Preview:</small>
+                        <div class="preview-content">${list.contentHi || 'No content'}</div>
+                    </div>
                 </div>
             `;
         } else if (list.type === 'list') {
@@ -415,6 +423,21 @@ class JSONAdminPanel {
     updateList(sectionIndex, listIndex, field, value) {
         this.data.content[sectionIndex].lists[listIndex][field] = value;
         this.saveToStorage();
+        
+        // Update HTML preview if it's a content field
+        if ((field === 'content' || field === 'contentHi') && this.data.content[sectionIndex].lists[listIndex].type === 'text') {
+            const previewId = field === 'content' ? 
+                `preview-en-${sectionIndex}-${listIndex}` : 
+                `preview-hi-${sectionIndex}-${listIndex}`;
+            const previewElement = document.getElementById(previewId);
+            if (previewElement) {
+                const previewContent = previewElement.querySelector('.preview-content');
+                if (previewContent) {
+                    previewContent.innerHTML = value || 'No content';
+                }
+            }
+        }
+        
         // Update the header display
         if (field === 'name') {
             const listElement = document.querySelector(`#lists-${sectionIndex}`).children[listIndex];
@@ -523,6 +546,9 @@ class JSONAdminPanel {
         
         // Update the buttons and add item button
         this.renderLists(sectionIndex);
+        
+        // Update visualizer to reflect the change
+        this.updateVisualizer();
     }
 
     // UI methods
