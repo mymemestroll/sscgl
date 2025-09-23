@@ -11,8 +11,8 @@
           "nameHi": "नृत्य",
           "icon": "dance",
           "type": "text",
-          "content": "India has a rich tradition of classical and folk dances. Classical dances include Bharatanatyam (Tamil Nadu), Kathak (Uttar Pradesh), Kathakali (Kerala), Kuchipudi (Andhra Pradesh), Manipuri (Manipur), Odissi (Odisha), Mohiniyattam (Kerala), and Sattriya (Assam). Folk dances vary from state to state, such as Bhangra (Punjab), Garba (Gujarat), and Ghoomar (Rajasthan).",
-          "contentHi": "भारत में शास्त्रीय और लोक नृत्यों की समृद्ध परंपरा है। शास्त्रीय नृत्यों में भरतनाट्यम (तमिलनाडु), कथक (उत्तर प्रदेश), कथकली (केरल), कुचिपुड़ी (आंध्र प्रदेश), मणिपुरी (मणिपुर), ओडिसी (ओडिशा), मोहिनीयाट्टम (केरल) और सत्त्रिया (असम) शामिल हैं। लोक नृत्य राज्यों के अनुसार भिन्न होते हैं, जैसे भांगड़ा (पंजाब), गरबा (गुजरात) और घूमर (राजस्थान)।"
+          "content": "India has a rich tradition of classical and folk dances. Classical dances include <b>Bharatanatyam</b> (Tamil Nadu), <b>Kathak</b> (Uttar Pradesh), <b>Kathakali</b> (Kerala), <b>Kuchipudi</b> (Andhra Pradesh), <b>Manipuri</b> (Manipur), <b>Odissi</b> (Odisha), <b>Mohiniyattam</b> (Kerala), and <b>Sattriya</b> (Assam). Folk dances vary from state to state, such as <b>Bhangra</b> (Punjab), <b>Garba</b> (Gujarat), and <b>Ghoomar</b> (Rajasthan).<br><br>",
+          "contentHi": "भारत में शास्त्रीय और लोक नृत्यों की समृद्ध परंपरा है। शास्त्रीय नृत्यों में <b>भरतनाट्यम</b> (तमिलनाडु), <b>कथक</b> (उत्तर प्रदेश), <b>कथकली</b> (केरल), <b>कुचिपुड़ी</b> (आंध्र प्रदेश), <b>मणिपुरी</b> (मणिपुर), <b>ओडिसी</b> (ओडिशा), <b>मोहिनीयाट्टम</b> (केरल) और <b>सत्त्रिया</b> (असम) शामिल हैं। लोक नृत्य राज्यों के अनुसार भिन्न होते हैं, जैसे <b>भांगड़ा</b> (पंजाब), <b>गरबा</b> (गुजरात) और <b>घूमर</b> (राजस्थान)।"
         },
         {
           "name": "Indian Literature",
