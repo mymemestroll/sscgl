@@ -1,5 +1,5 @@
 {
-  "version": "1.0.18",
+  "version": "1.0.19",
   "content": [
     {
       "name": "Theory",
@@ -11984,6 +11984,2022 @@
               "questionHi": "26 नवंबर, 1949, हमारे संवैधानिक इतिहास में एक महत्वपूर्ण दिन क्यों है?",
               "answer": "The Constitution was adopted on this day.",
               "answerHi": "इस दिन संविधान को अपनाया गया था।",
+              "explanation": "",
+              "explanationHi": ""
+            }
+          ]
+        },
+        {
+          "name": "Modern History #13 (British Acts and Policies)",
+          "nameHi": "आधुनिक इतिहास #13 (ब्रिटिश अधिनियम और नीतियां)",
+          "icon": "date",
+          "type": "list",
+          "content": [
+            {
+              "question": "When was the office of District Collector created?",
+              "questionHi": "जिला कलेक्टर का पद कब बनाया गया था?",
+              "answer": "1772",
+              "answerHi": "1772",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which Act of the Parliament of Great Britain was intended to overhaul the management of the East India Company's rule in India?",
+              "questionHi": "ग्रेट ब्रिटेन की संसद का कौन सा अधिनियम भारत में ईस्ट इंडिया कंपनी के शासन के प्रबंधन में सुधार के लिए था?",
+              "answer": "The Regulating Act of 1773",
+              "answerHi": "1773 का रेगुलेटिंग एक्ट",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The Supreme Court was established at Fort William in which city as the Apex Court in 1774?",
+              "questionHi": "1774 में सर्वोच्च न्यायालय के रूप में फोर्ट विलियम में सुप्रीम कोर्ट की स्थापना किस शहर में की गई थी?",
+              "answer": "Kolkata",
+              "answerHi": "कलकत्ता",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "What kind of act was the Pitt's India Act of 1784?",
+              "questionHi": "1784 का पिट्स इंडिया एक्ट किस प्रकार का अधिनियम था?",
+              "answer": "A Regulating Act",
+              "answerHi": "एक नियामक अधिनियम",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which act ended the 'Trade Monopoly' of the East India Company?",
+              "questionHi": "किस अधिनियम ने ईस्ट इंडिया कंपनी के 'व्यापार एकाधिकार' को समाप्त कर दिया?",
+              "answer": "The Charter Act of 1813",
+              "answerHi": "1813 का चार्टर एक्ट",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who created the Madras Presidency as it existed until Indian Independence?",
+              "questionHi": "भारतीय स्वतंत्रता तक अस्तित्व में रही मद्रास प्रेसीडेंसी का निर्माण किसने किया?",
+              "answer": "Thomas Munro",
+              "answerHi": "थॉमस मुनरो",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who introduced the Ryotwari system in Madras?",
+              "questionHi": "मद्रास में रैयतवाड़ी व्यवस्था की शुरुआत किसने की?",
+              "answer": "Thomas Munro",
+              "answerHi": "थॉमस मुनरो",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which system of land settlement adopted by the English provided more protection to the interests of farmers?",
+              "questionHi": "अंग्रेजों द्वारा अपनाई गई भूमि बंदोबस्त की किस प्रणाली ने किसानों के हितों को अधिक सुरक्षा प्रदान की?",
+              "answer": "Ryotwari Settlement of Madras",
+              "answerHi": "मद्रास का रैयतवाड़ी बंदोबस्त",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who devised the Mahalwari Settlement?",
+              "questionHi": "महलवाड़ी बंदोबस्त किसने तैयार किया?",
+              "answer": "Holt Mackenzie",
+              "answerHi": "होल्ट मैकेंजी",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "By which Charter Act did the East India Company's monopoly of trade with China come to an end?",
+              "questionHi": "किस चार्टर एक्ट के द्वारा ईस्ट इंडिया कंपनी का चीन के साथ व्यापार का एकाधिकार समाप्त हो गया?",
+              "answer": "Charter Act of 1833",
+              "answerHi": "1833 का चार्टर एक्ट",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "When did the British make English the medium of instruction in India?",
+              "questionHi": "अंग्रेजों ने भारत में अंग्रेजी को शिक्षा का माध्यम कब बनाया?",
+              "answer": "1835",
+              "answerHi": "1835",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In which year was the 'Caste Disabilities Removal Act' passed?",
+              "questionHi": "'जाति निर्योग्यता निवारण अधिनियम' किस वर्ष पारित किया गया था?",
+              "answer": "1850",
+              "answerHi": "1850",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "When was the first telegraph line started in India?",
+              "questionHi": "भारत में पहली टेलीग्राफ लाइन कब शुरू हुई?",
+              "answer": "1851",
+              "answerHi": "1851",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In which year was the first telegraph line between Calcutta and Agra opened?",
+              "questionHi": "कलकत्ता और आगरा के बीच पहली टेलीग्राफ लाइन किस वर्ष खोली गई?",
+              "answer": "1853",
+              "answerHi": "1853",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "When was the first passenger train run in India?",
+              "questionHi": "भारत में पहली यात्री ट्रेन कब चली?",
+              "answer": "April 1853",
+              "answerHi": "अप्रैल 1853",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who was the man behind the first railway line in India?",
+              "questionHi": "भारत में पहली रेलवे लाइन के पीछे कौन व्यक्ति था?",
+              "answer": "George Clark",
+              "answerHi": "जॉर्ज क्लार्क",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Why did the British introduce railways in India?",
+              "questionHi": "अंग्रेजों ने भारत में रेलवे की शुरुआत क्यों की?",
+              "answer": "To facilitate British commerce and administrative control",
+              "answerHi": "ब्रिटिश वाणिज्य और प्रशासनिक नियंत्रण को सुगम बनाने के लिए",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Where was the first cotton spinning mill in India set up in 1854?",
+              "questionHi": "1854 में भारत में पहली सूती कताई मिल कहाँ स्थापित की गई थी?",
+              "answer": "Bombay",
+              "answerHi": "बंबई",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which education commission argued that European education would uplift the moral character of Indians?",
+              "questionHi": "किस शिक्षा आयोग ने तर्क दिया कि यूरोपीय शिक्षा भारतीयों के नैतिक चरित्र का उत्थान करेगी?",
+              "answer": "Wood's Despatch",
+              "answerHi": "वुड्स डिस्पैच",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "What was the Wood's Despatch about?",
+              "questionHi": "वुड्स डिस्पैच किसके बारे में था?",
+              "answer": "Education",
+              "answerHi": "शिक्षा",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Through which educational report did Calcutta University come into existence?",
+              "questionHi": "किस शैक्षिक रिपोर्ट के माध्यम से कलकत्ता विश्वविद्यालय अस्तित्व में आया?",
+              "answer": "Wood's Despatch",
+              "answerHi": "वुड्स डिस्पैच",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In which year was sea travel made mandatory for Indian soldiers?",
+              "questionHi": "किस वर्ष भारतीय सैनिकों के लिए समुद्री यात्रा अनिवार्य कर दी गई?",
+              "answer": "1856 AD",
+              "answerHi": "1856 ई.",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which act passed in August 1858 ended the rule of the company and transferred it to the British Monarch?",
+              "questionHi": "अगस्त 1858 में पारित किस अधिनियम ने कंपनी के शासन को समाप्त कर इसे ब्रिटिश सम्राट को हस्तांतरित कर दिया?",
+              "answer": "Government of India Act, 1858",
+              "answerHi": "भारत सरकार अधिनियम, 1858",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In which year were High Courts established in Calcutta, Bombay, and Madras?",
+              "questionHi": "कलकत्ता, बंबई और मद्रास में उच्च न्यायालयों की स्थापना किस वर्ष हुई?",
+              "answer": "1861",
+              "answerHi": "1861",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who was the British Prime Minister during the passage of the Royal Titles Act 1876?",
+              "questionHi": "रॉयल टाइटल एक्ट 1876 के पारित होने के दौरान ब्रिटिश प्रधानमंत्री कौन थे?",
+              "answer": "Benjamin Disraeli",
+              "answerHi": "बेंजामिन डिजरायली",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which act was passed by the British to silence those who were critical of the government?",
+              "questionHi": "सरकार की आलोचना करने वालों को चुप कराने के लिए अंग्रेजों ने कौन सा अधिनियम पारित किया?",
+              "answer": "Vernacular Press Act",
+              "answerHi": "वर्नाक्यूलर प्रेस एक्ट",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which Bill/Act provided for the trial of Europeans by Indians and sought equality between British and Indian judges?",
+              "questionHi": "किस विधेयक/अधिनियम ने भारतीयों द्वारा यूरोपीय लोगों पर मुकदमा चलाने का प्रावधान किया और ब्रिटिश तथा भारतीय न्यायाधीशों के बीच समानता की मांग की?",
+              "answer": "Ilbert Bill",
+              "answerHi": "इल्बर्ट बिल",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The Aitchison Commission of 1886 was appointed to make recommendations for reforms in what?",
+              "questionHi": "1886 के एचिन्सन आयोग को किसमें सुधारों के लिए सिफारिशें करने के लिए नियुक्त किया गया था?",
+              "answer": "Indian civil services",
+              "answerHi": "भारतीय सिविल सेवाएं",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "For which community were seats reserved by the Morley-Minto reforms?",
+              "questionHi": "मार्ले-मिंटो सुधारों द्वारा किस समुदाय के लिए सीटें आरक्षित की गईं?",
+              "answer": "Muslims",
+              "answerHi": "मुसलमान",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In which year was the communal electorate introduced for the first time in India?",
+              "questionHi": "भारत में पहली बार सांप्रदायिक निर्वाचन प्रणाली की शुरुआत किस वर्ष हुई?",
+              "answer": "1909",
+              "answerHi": "1909",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In which year was the Morley-Minto reform passed?",
+              "questionHi": "मार्ले-मिंटो सुधार किस वर्ष पारित किया गया?",
+              "answer": "1909",
+              "answerHi": "1909",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In which year was the partition of Bengal revoked by the British?",
+              "questionHi": "अंग्रेजों ने बंगाल का विभाजन किस वर्ष रद्द किया?",
+              "answer": "1911",
+              "answerHi": "1911",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In which year did King George V assume the crown of India?",
+              "questionHi": "किंग जॉर्ज पंचम ने किस वर्ष भारत का ताज ग्रहण किया?",
+              "answer": "1911",
+              "answerHi": "1911",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In which year did the British move the capital of India from Calcutta to Delhi?",
+              "questionHi": "अंग्रेजों ने भारत की राजधानी कलकत्ता से दिल्ली किस वर्ष स्थानांतरित की?",
+              "answer": "1911",
+              "answerHi": "1911",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "What did the Hunter Commission, appointed by the Viceroy, probe?",
+              "questionHi": "वायसराय द्वारा नियुक्त हंटर आयोग ने किसकी जांच की?",
+              "answer": "The Jallianwala Bagh tragedy",
+              "answerHi": "जलियांवाला बाग त्रासदी",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "What was organized as National Humiliation Day as a reaction to the Rowlatt Act?",
+              "questionHi": "रॉलेट एक्ट की प्रतिक्रिया के रूप में राष्ट्रीय अपमान दिवस के रूप में क्या आयोजित किया गया था?",
+              "answer": "A hartal (strike) on 6th April 1919",
+              "answerHi": "6 अप्रैल 1919 को एक हड़ताल",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which act authorised the British Government to imprison any person without trial?",
+              "questionHi": "किस अधिनियम ने ब्रिटिश सरकार को किसी भी व्यक्ति को बिना मुकदमे के कैद करने के लिए अधिकृत किया?",
+              "answer": "Rowlatt Act of 1919",
+              "answerHi": "1919 का रॉलेट एक्ट",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In which Act was 'Dyarchy' introduced?",
+              "questionHi": "किस अधिनियम में 'द्वैध शासन' की शुरुआत की गई?",
+              "answer": "Government of India Act of 1919",
+              "answerHi": "भारत सरकार अधिनियम 1919",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Detention of political prisoners without trial for two years was a feature of which act?",
+              "questionHi": "राजनीतिक कैदियों को दो साल तक बिना मुकदमे के हिरासत में रखना किस अधिनियम की एक विशेषता थी?",
+              "answer": "Rowlatt Act",
+              "answerHi": "रॉलेट एक्ट",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which Brigadier was associated with the Jallianwala Bagh tragedy?",
+              "questionHi": "कौन सा ब्रिगेडियर जलियांवाला बाग त्रासदी से जुड़ा था?",
+              "answer": "General Dyer",
+              "answerHi": "जनरल डायर",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who said the 'Simon Commission Report should be thrown on a heap of rubbish'?",
+              "questionHi": "किसने कहा 'साइमन कमीशन रिपोर्ट को कूड़े के ढेर पर फेंक देना चाहिए'?",
+              "answer": "Shivaswami Ayyar",
+              "answerHi": "शिवस्वामी अय्यर",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "What was Lala Lajpat Rai demonstrating against when he succumbed to police brutality?",
+              "questionHi": "लाला लाजपत राय किसके खिलाफ प्रदर्शन कर रहे थे जब उनकी पुलिस की बर्बरता से मृत्यु हो गई?",
+              "answer": "Simon Commission",
+              "answerHi": "साइमन कमीशन",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "What was the Simon Commission sent by the British Parliament to India to review?",
+              "questionHi": "ब्रिटिश संसद द्वारा साइमन कमीशन को भारत में किसकी समीक्षा के लिए भेजा गया था?",
+              "answer": "The working of dyarchy and constitutional reforms",
+              "answerHi": "द्वैध शासन और संवैधानिक सुधारों की कार्यप्रणाली",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Why was the Simon Commission boycotted?",
+              "questionHi": "साइमन कमीशन का बहिष्कार क्यों किया गया?",
+              "answer": "The commission did not have any Indian members.",
+              "answerHi": "आयोग में कोई भारतीय सदस्य नहीं था।",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In which year did the Simon Commission come to India?",
+              "questionHi": "साइमन कमीशन भारत किस वर्ष आया?",
+              "answer": "1928",
+              "answerHi": "1928",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The Mountbatten Plan (June 1947) provided for a referendum in which province?",
+              "questionHi": "माउंटबेटन योजना (जून 1947) ने किस प्रांत में जनमत संग्रह का प्रावधान किया?",
+              "answer": "North-West Frontier Province",
+              "answerHi": "उत्तर-पश्चिम सीमांत प्रांत",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "What was the group of seven Members of Parliament from the UK constituted to suggest constitutional reforms for British India?",
+              "questionHi": "ब्रिटिश भारत के लिए संवैधानिक सुधारों का सुझाव देने के लिए गठित यूनाइटेड किंगडम के सात संसद सदस्यों का समूह क्या था?",
+              "answer": "The Simon Commission",
+              "answerHi": "साइमन कमीशन",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "What did the Irwin Declaration on 31 October 1929 promise?",
+              "questionHi": "31 अक्टूबर 1929 की इरविन घोषणा ने क्या वादा किया?",
+              "answer": "A dominion status for India",
+              "answerHi": "भारत के लिए एक डोमिनियन स्टेटस",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "To whom did the Communal Award of 1932 give separate representation?",
+              "questionHi": "1932 के सांप्रदायिक पुरस्कार ने किसे अलग प्रतिनिधित्व दिया?",
+              "answer": "Harijans",
+              "answerHi": "हरिजनों को",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which British Prime Minister announced the Communal Award in 1932?",
+              "questionHi": "किस ब्रिटिश प्रधानमंत्री ने 1932 में सांप्रदायिक पुरस्कार की घोषणा की?",
+              "answer": "James Ramsay MacDonald",
+              "answerHi": "जेम्स रैमसे मैकडोनाल्ड",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Under which act was a federal form of government at the Centre introduced in India?",
+              "questionHi": "किस अधिनियम के तहत भारत में केंद्र में संघीय सरकार की शुरुआत की गई?",
+              "answer": "Government of India Act of 1935",
+              "answerHi": "भारत सरकार अधिनियम 1935",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "By which act was provincial autonomy introduced in India?",
+              "questionHi": "भारत में प्रांतीय स्वायत्तता किस अधिनियम द्वारा शुरू की गई थी?",
+              "answer": "Government of India Act of 1935",
+              "answerHi": "भारत सरकार अधिनियम 1935",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The abolition of Dyarchy in the provinces was recommended by which act?",
+              "questionHi": "प्रांतों में द्वैध शासन की समाप्ति की सिफारिश किस अधिनियम द्वारा की गई थी?",
+              "answer": "Government of India Act of 1935",
+              "answerHi": "भारत सरकार अधिनियम 1935",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The Constitution of India came into force on 26 January 1950. Which act did it replace?",
+              "questionHi": "भारत का संविधान 26 जनवरी 1950 को लागू हुआ। इसने किस अधिनियम का स्थान लिया?",
+              "answer": "Government of India Act, 1935",
+              "answerHi": "भारत सरकार अधिनियम, 1935",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In which year did the Cripps Mission come to India?",
+              "questionHi": "क्रिप्स मिशन भारत में किस वर्ष आया?",
+              "answer": "1942",
+              "answerHi": "1942",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Mahatma Gandhi's remark, 'A post-dated cheque on a crumbling bank' was regarding the proposals of what?",
+              "questionHi": "महात्मा गांधी की टिप्पणी, 'एक ढहते बैंक पर एक पोस्ट-डेटेड चेक' किसके प्रस्तावों के संबंध में थी?",
+              "answer": "The Cripps Mission",
+              "answerHi": "क्रिप्स मिशन",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who led the 'Cabinet Mission' of 1946?",
+              "questionHi": "1946 के 'कैबिनेट मिशन' का नेतृत्व किसने किया?",
+              "answer": "Sir Pethick-Lawrence",
+              "answerHi": "सर पेथिक-लॉरेंस",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In which year did the Cabinet Mission come to India?",
+              "questionHi": "कैबिनेट मिशन भारत में किस वर्ष आया?",
+              "answer": "1946",
+              "answerHi": "1946",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "When India got Independence, who was the Prime Minister of England?",
+              "questionHi": "जब भारत को स्वतंत्रता मिली, तो इंग्लैंड के प्रधानमंत्री कौन थे?",
+              "answer": "Clement Attlee",
+              "answerHi": "क्लेमेंट एटली",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "By which act was India divided into India and Pakistan?",
+              "questionHi": "किस अधिनियम द्वारा भारत को भारत और पाकिस्तान में विभाजित किया गया?",
+              "answer": "The India Independence Act",
+              "answerHi": "भारत स्वतंत्रता अधिनियम",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Why did colonial rulers struggle with educating the people in the colonies?",
+              "questionHi": "औपनिवेशिक शासकों को उपनिवेशों में लोगों को शिक्षित करने में संघर्ष क्यों करना पड़ा?",
+              "answer": "Because too much education could lead to revolt.",
+              "answerHi": "क्योंकि बहुत अधिक शिक्षा विद्रोह का कारण बन सकती थी।",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "During their rule, what did the British persuade or force cultivators in Madras to grow?",
+              "questionHi": "अपने शासन के दौरान, अंग्रेजों ने मद्रास में किसानों को क्या उगाने के लिए राजी किया या मजबूर किया?",
+              "answer": "Rice",
+              "answerHi": "चावल",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "What was meant by the 'Secretary of State for India' during British rule?",
+              "questionHi": "ब्रिटिश शासन के दौरान 'भारत के राज्य सचिव' का क्या अर्थ था?",
+              "answer": "A British minister given full control over the Government of India",
+              "answerHi": "भारत सरकार पर पूर्ण नियंत्रण दिया गया एक ब्रिटिश मंत्री",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "During the colonial period, in what was British capital mainly invested?",
+              "questionHi": "औपनिवेशिक काल के दौरान, ब्रिटिश पूंजी मुख्य रूप से किसमें निवेश की गई थी?",
+              "answer": "Agriculture",
+              "answerHi": "कृषि",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who benefited most from the British revenue system in India?",
+              "questionHi": "भारत में ब्रिटिश राजस्व प्रणाली से सबसे अधिक किसे लाभ हुआ?",
+              "answer": "Zamindars",
+              "answerHi": "जमींदार",
+              "explanation": "",
+              "explanationHi": ""
+            }
+          ]
+        },
+        {
+          "name": "Modern History #14 (Constituent Assembly & Independence)",
+          "nameHi": "आधुनिक इतिहास #14 (संविधान सभा और स्वतंत्रता)",
+          "icon": "date",
+          "type": "list",
+          "content": [
+            {
+              "question": "What was the basis for the transfer of power to India on August 15th?",
+              "questionHi": "15 अगस्त को भारत को सत्ता हस्तांतरण का आधार क्या था?",
+              "answer": "The anniversary of the surrender of the Japanese army before Admiral Mountbatten.",
+              "answerHi": "एडमिरल माउंटबेटन के समक्ष जापानी सेना के आत्मसमर्पण की वर्षगांठ।",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "On what date did India attain 'Dominion Status'?",
+              "questionHi": "भारत को 'डोमिनियन स्टेटस' किस तारीख को प्राप्त हुआ?",
+              "answer": "15th August, 1947",
+              "answerHi": "15 अगस्त, 1947",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who was the British Prime Minister when India was granted freedom?",
+              "questionHi": "जब भारत को स्वतंत्रता प्रदान की गई तब ब्रिटिश प्रधानमंत्री कौन थे?",
+              "answer": "Clement Attlee",
+              "answerHi": "क्लेमेंट एटली",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "On what date was the India Independence Bill first presented in the House of Commons in London?",
+              "questionHi": "भारतीय स्वतंत्रता विधेयक पहली बार लंदन के हाउस ऑफ कॉमन्स में किस तारीख को पेश किया गया था?",
+              "answer": "July 4, 1947",
+              "answerHi": "4 जुलाई, 1947",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "When was the Indian National Flag adopted?",
+              "questionHi": "भारतीय राष्ट्रीय ध्वज को कब अपनाया गया था?",
+              "answer": "July 22, 1947",
+              "answerHi": "22 जुलाई, 1947",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In which year was the Nehru-Liaquat Pact signed?",
+              "questionHi": "नेहरू-लियाकत समझौते पर किस वर्ष हस्ताक्षर किए गए थे?",
+              "answer": "1950",
+              "answerHi": "1950",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which Princely State was forced to merge with the Union of India after 1947?",
+              "questionHi": "1947 के बाद किस रियासत को भारत संघ में विलय के लिए मजबूर किया गया?",
+              "answer": "Hyderabad",
+              "answerHi": "हैदराबाद",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who designed the national flag of Independent India?",
+              "questionHi": "स्वतंत्र भारत के राष्ट्रीय ध्वज का डिजाइन किसने तैयार किया?",
+              "answer": "Pingali Venkaiah",
+              "answerHi": "पिंगली वेंकैया",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "On whose recommendation was the Constituent Assembly of India formulated?",
+              "questionHi": "भारत की संविधान सभा का गठन किसकी सिफारिश पर किया गया था?",
+              "answer": "Cabinet Mission",
+              "answerHi": "कैबिनेट मिशन",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who was the Chairman of the Union Powers Committee of the Constituent Assembly of India?",
+              "questionHi": "भारत की संविधान सभा की संघ शक्ति समिति के अध्यक्ष कौन थे?",
+              "answer": "Pt. Jawaharlal Nehru",
+              "answerHi": "पं. जवाहरलाल नेहरू",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who chaired the first session of the Constituent Assembly on 9th December 1946?",
+              "questionHi": "9 दिसंबर 1946 को संविधान सभा के पहले सत्र की अध्यक्षता किसने की?",
+              "answer": "Sachchidananda Sinha",
+              "answerHi": "सच्चिदानंद सिन्हा",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who presided over the inaugural meeting of the Constituent Assembly of India?",
+              "questionHi": "भारत की संविधान सभा की उद्घाटन बैठक की अध्यक्षता किसने की?",
+              "answer": "Sachchidananda Sinha",
+              "answerHi": "सच्चिदानंद सिन्हा",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In which city was the first session of the Constituent Assembly of India held?",
+              "questionHi": "भारत की संविधान सभा का पहला सत्र किस शहर में आयोजित किया गया था?",
+              "answer": "Delhi",
+              "answerHi": "दिल्ली",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In which year did the Constituent Assembly meet for the first time?",
+              "questionHi": "संविधान सभा की पहली बैठक किस वर्ष हुई?",
+              "answer": "1946",
+              "answerHi": "1946",
+              "explanation": "",
+              "explanationHi": ""
+            }
+          ]
+        },
+        {
+          "name": "Modern History #15 (Miscellaneous)",
+          "nameHi": "आधुनिक इतिहास #15 (विविध)",
+          "icon": "date",
+          "type": "list",
+          "content": [
+            {
+              "question": "During the 1850s, what was Britain known as?",
+              "questionHi": "1850 के दशक के दौरान, ब्रिटेन को किस नाम से जाना जाता था?",
+              "answer": "The workshop of the world",
+              "answerHi": "दुनिया का कारखाना",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who, before going to the gallows, wished for his ashes to be immersed in the Indus River only after India's reunification?",
+              "questionHi": "फांसी पर जाने से पहले, किसने अपनी राख को भारत के पुनः एकीकरण के बाद ही सिंधु नदी में विसर्जित करने की इच्छा व्यक्त की थी?",
+              "answer": "Nathuram Godse",
+              "answerHi": "नाथूराम गोडसे",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which library has the largest collection of manuscripts of historical value?",
+              "questionHi": "किस पुस्तकालय में ऐतिहासिक महत्व की पांडुलिपियों का सबसे बड़ा संग्रह है?",
+              "answer": "Khuda Bakhsh Oriental Public Library",
+              "answerHi": "खुदा बख्श ओरिएंटल पब्लिक लाइब्रेरी",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The former princely state of Nahan is now part of which state?",
+              "questionHi": "पूर्व रियासत नाहन अब किस राज्य का हिस्सा है?",
+              "answer": "Himachal Pradesh",
+              "answerHi": "हिमाचल प्रदेश",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In which city was Safdarjung's tomb built by Nawab Shuja-ud-Daulah?",
+              "questionHi": "नवाब शुजा-उद-दौला द्वारा सफदरजंग का मकबरा किस शहर में बनवाया गया था?",
+              "answer": "Delhi",
+              "answerHi": "दिल्ली",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who started the first newspaper in India?",
+              "questionHi": "भारत में पहला समाचार पत्र किसने शुरू किया?",
+              "answer": "James A. Hickey",
+              "answerHi": "जेम्स ए. हिक्की",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who wrote the song 'Sare Jahan Se Accha Hindoostan Hamara'?",
+              "questionHi": "'सारे जहाँ से अच्छा हिंदोस्तां हमारा' गीत किसने लिखा?",
+              "answer": "Mohammad Iqbal",
+              "answerHi": "मोहम्मद इकबाल",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who founded the Indian Association for the Cultivation of Science (IACS) in Kolkata?",
+              "questionHi": "कोलकाता में इंडियन एसोसिएशन फॉर द कल्टिवेशन ऑफ साइंस (IACS) की स्थापना किसने की?",
+              "answer": "Mahendralal Sircar",
+              "answerHi": "महेंद्रलाल सरकार",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who was the first Indian to be made a fellow of the Royal Society of London?",
+              "questionHi": "रॉयल सोसाइटी ऑफ लंदन का फेलो बनने वाले पहले भारतीय कौन थे?",
+              "answer": "A.C. Wadia",
+              "answerHi": "ए.सी. वाडिया",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "What was 'Komagata Maru'?",
+              "questionHi": "'कोमागाटा मारू' क्या था?",
+              "answer": "A ship",
+              "answerHi": "एक जहाज",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Where is 'India House' located?",
+              "questionHi": "'इंडिया हाउस' कहाँ स्थित है?",
+              "answer": "London",
+              "answerHi": "लंदन",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The government complex in New Delhi, which includes a two-mile avenue (present-day Rajpath), was formerly known as what?",
+              "questionHi": "नई दिल्ली में सरकारी परिसर, जिसमें दो मील का एवेन्यू (वर्तमान राजपथ) शामिल है, पहले किस नाम से जाना जाता था?",
+              "answer": "Kingsway",
+              "answerHi": "किंग्सवे",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who designed the famous structure, the Gateway of India?",
+              "questionHi": "प्रसिद्ध संरचना, गेटवे ऑफ इंडिया का डिजाइन किसने तैयार किया था?",
+              "answer": "George Wittet",
+              "answerHi": "जॉर्ज विटेट",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who attended the Imperial Durbar of 1877 dressed in hand-spun Khadi?",
+              "questionHi": "1877 के शाही दरबार में हाथ से काते हुए खादी पहनकर कौन शामिल हुआ?",
+              "answer": "Ganesh Vasudev Joshi",
+              "answerHi": "गणेश वासुदेव जोशी",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who originally painted the 'Bharat Mata' painting?",
+              "questionHi": "'भारत माता' की पेंटिंग मूल रूप से किसने बनाई थी?",
+              "answer": "Abanindranath Tagore",
+              "answerHi": "अवनींद्रनाथ टैगोर",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The Narendra Mandal or Chamber of Princes was inaugurated in 1921 by whom?",
+              "questionHi": "नरेंद्र मंडल या राजकुमारों के कक्ष का उद्घाटन 1921 में किसके द्वारा किया गया था?",
+              "answer": "Duke of Connaught",
+              "answerHi": "ड्यूक ऑफ कनॉट",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who first conceived the idea of Pakistan?",
+              "questionHi": "पाकिस्तान का विचार सबसे पहले किसने प्रस्तुत किया?",
+              "answer": "Muhammad Iqbal",
+              "answerHi": "मुहम्मद इकबाल",
+              "explanation": "",
+              "explanationHi": ""
+            }
+          ]
+        },
+        {
+          "name": "World History",
+          "nameHi": "विश्व इतिहास",
+          "icon": "date",
+          "type": "list",
+          "content": [
+            {
+              "question": "When did China start the Civil Services Examinations?",
+              "questionHi": "चीन ने सिविल सेवा परीक्षा कब शुरू की?",
+              "answer": "6 A.D.",
+              "answerHi": "6 ई.",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "During the reign of which dynasty was the Great Wall of China constructed?",
+              "questionHi": "चीन की महान दीवार का निर्माण किस राजवंश के शासनकाल में हुआ था?",
+              "answer": "Qin Dynasty",
+              "answerHi": "किन राजवंश",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "What is the world's oldest continuously inhabited city?",
+              "questionHi": "दुनिया का सबसे पुराना लगातार बसा हुआ शहर कौन सा है?",
+              "answer": "Damascus",
+              "answerHi": "दमिश्क",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Indonesia was a colony of which country?",
+              "questionHi": "इंडोनेशिया किस देश का उपनिवेश था?",
+              "answer": "The Dutch",
+              "answerHi": "डच",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The world's first drainage system was built by the people of which civilization?",
+              "questionHi": "दुनिया की पहली जल निकासी प्रणाली किस सभ्यता के लोगों द्वारा बनाई गई थी?",
+              "answer": "Indus Valley Civilization",
+              "answerHi": "सिंधु घाटी सभ्यता",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "What was the capital of Pakistan until 1959?",
+              "questionHi": "1959 तक पाकिस्तान की राजधानी क्या थी?",
+              "answer": "Karachi",
+              "answerHi": "कराची",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who was the chairperson of the Chinese Communist Party at the time of the liberation of China?",
+              "questionHi": "चीन की मुक्ति के समय चीनी कम्युनिस्ट पार्टी के अध्यक्ष कौन थे?",
+              "answer": "Mao Zedong",
+              "answerHi": "माओत्से तुंग",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "East Timor, in the Indonesian Archipelago, was a former colony of which country?",
+              "questionHi": "इंडोनेशियाई द्वीपसमूह में पूर्वी तिमोर किस देश का पूर्व उपनिवेश था?",
+              "answer": "Portugal",
+              "answerHi": "पुर्तगाल",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who built the Great Wall of China?",
+              "questionHi": "चीन की महान दीवार किसने बनवाई?",
+              "answer": "Qin Shi Huang",
+              "answerHi": "किन शी हुआंग",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The city of 'Tashkent' is located in which country?",
+              "questionHi": "'ताशकंद' शहर किस देश में स्थित है?",
+              "answer": "Uzbekistan",
+              "answerHi": "उज्बेकिस्तान",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "When did the 'Boxer Rebellion' happen in China?",
+              "questionHi": "चीन में 'बॉक्सर विद्रोह' कब हुआ?",
+              "answer": "1900",
+              "answerHi": "1900",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In which year did Hitler become the Chancellor of Germany?",
+              "questionHi": "हिटलर जर्मनी का चांसलर किस वर्ष बना?",
+              "answer": "1933",
+              "answerHi": "1933",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "What did 'Anti-Semitism' mean to Adolf Hitler?",
+              "questionHi": "एडॉल्फ हिटलर के लिए 'यहूदी-विरोध' का क्या मतलब था?",
+              "answer": "Anti-Jewish policy",
+              "answerHi": "यहूदी विरोधी नीति",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Where did Alexander the Great die in 323 B.C.?",
+              "questionHi": "323 ईसा पूर्व में सिकंदर महान की मृत्यु कहाँ हुई?",
+              "answer": "Babylon",
+              "answerHi": "बेबीलोन",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In which country is Waterloo located?",
+              "questionHi": "वाटरलू किस देश में स्थित है?",
+              "answer": "Belgium",
+              "answerHi": "बेल्जियम",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which country emerged as the biggest colonial power at the end of the nineteenth century?",
+              "questionHi": "उन्नीसवीं सदी के अंत में कौन सा देश सबसे बड़ी औपनिवेशिक शक्ति के रूप में उभरा?",
+              "answer": "Britain",
+              "answerHi": "ब्रिटेन",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The United Kingdom is a classic example of what form of government?",
+              "questionHi": "यूनाइटेड किंगडम किस प्रकार की सरकार का एक उत्कृष्ट उदाहरण है?",
+              "answer": "A constitutional monarchy",
+              "answerHi": "एक संवैधानिक राजतंत्र",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "What was 'The Three Emperors' League' of 1873 also known as?",
+              "questionHi": "1873 के 'तीन सम्राटों की लीग' को और किस नाम से जाना जाता था?",
+              "answer": "Dreikaiserbund",
+              "answerHi": "ड्रेइकेसरबंड",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which country was humiliated by the Treaty of Versailles?",
+              "questionHi": "वर्साय की संधि द्वारा किस देश का अपमान किया गया?",
+              "answer": "Germany",
+              "answerHi": "जर्मनी",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Where did the practice of a 'Shadow Cabinet' originate?",
+              "questionHi": "'शैडो कैबिनेट' की प्रथा कहाँ से उत्पन्न हुई?",
+              "answer": "Great Britain",
+              "answerHi": "ग्रेट ब्रिटेन",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "'The Last Supper', a famous Renaissance painting, was a masterpiece by whom?",
+              "questionHi": "'द लास्ट सपर', एक प्रसिद्ध पुनर्जागरण पेंटिंग, किसकी उत्कृष्ट कृति थी?",
+              "answer": "Leonardo da Vinci",
+              "answerHi": "लियोनार्डो दा विंची",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who said, 'I am the State'?",
+              "questionHi": "किसने कहा, 'मैं ही राज्य हूँ'?",
+              "answer": "Louis XIV of France",
+              "answerHi": "फ्रांस के लुई चौदहवें",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who was the chief advocate of Fascism?",
+              "questionHi": "फासीवाद का मुख्य प्रस्तावक कौन था?",
+              "answer": "Mussolini",
+              "answerHi": "मुसोलिनी",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who was not associated with the unification of Italy?",
+              "questionHi": "इटली के एकीकरण से कौन संबंधित नहीं था?",
+              "answer": "Mussolini",
+              "answerHi": "मुसोलिनी",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The policy of 'imperial preferences' adopted by Britain in its colonies in 1932 is also known as what?",
+              "questionHi": "1932 में ब्रिटेन द्वारा अपने उपनिवेशों में अपनाई गई 'शाही वरीयता' की नीति को और किस नाम से जाना जाता है?",
+              "answer": "The Ottawa Agreement",
+              "answerHi": "ओटावा समझौता",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who is the oldest British monarch to sit on the throne?",
+              "questionHi": "सिंहासन पर बैठने वाला सबसे पुराना ब्रिटिश सम्राट कौन है?",
+              "answer": "Queen Elizabeth II",
+              "answerHi": "महारानी एलिजाबेथ द्वितीय",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who said, 'Adolf Hitler is Germany and Germany is Adolf Hitler'?",
+              "questionHi": "किसने कहा, 'एडॉल्फ हिटलर जर्मनी है और जर्मनी एडॉल्फ हिटलर है'?",
+              "answer": "Rudolf Hess",
+              "answerHi": "रुडोल्फ हेस",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who was the first Prime Minister of England?",
+              "questionHi": "इंग्लैंड के पहले प्रधानमंत्री कौन थे?",
+              "answer": "Robert Walpole",
+              "answerHi": "रॉबर्ट वालपोल",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who played a prominent role during the 'Reign of Terror' in France?",
+              "questionHi": "फ्रांस में 'आतंक के शासन' के दौरान किसने प्रमुख भूमिका निभाई?",
+              "answer": "Robespierre",
+              "answerHi": "रॉब्सपियरे",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who introduced the potato to Europe?",
+              "questionHi": "यूरोप में आलू की शुरुआत किसने की?",
+              "answer": "The Spanish",
+              "answerHi": "स्पेनिश",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "What were the members of the British Conservative Party earlier known as?",
+              "questionHi": "ब्रिटिश कंजरवेटिव पार्टी के सदस्यों को पहले किस नाम से जाना जाता था?",
+              "answer": "Tories",
+              "answerHi": "टोरी",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In which battle was Napoleon defeated?",
+              "questionHi": "नेपोलियन किस युद्ध में पराजित हुआ था?",
+              "answer": "Battle of Waterloo",
+              "answerHi": "वाटरलू का युद्ध",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who was the Chief Architect of the World Trade Center in New York?",
+              "questionHi": "न्यूयॉर्क में वर्ल्ड ट्रेड सेंटर के मुख्य वास्तुकार कौन थे?",
+              "answer": "Minoru Yamasaki",
+              "answerHi": "मिनोरू यामासाकी",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which country was the first to establish a modern democracy?",
+              "questionHi": "आधुनिक लोकतंत्र की स्थापना करने वाला पहला देश कौन सा था?",
+              "answer": "America",
+              "answerHi": "अमेरिका",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Slash and burn agriculture is known as 'Milpa' in which region?",
+              "questionHi": "झूम खेती को किस क्षेत्र में 'मिल्पा' के नाम से जाना जाता है?",
+              "answer": "Mexico and Central America",
+              "answerHi": "मेक्सिको और मध्य अमेरिका",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The Declaration of American Independence was based on which theory?",
+              "questionHi": "अमेरिकी स्वतंत्रता की घोषणा किस सिद्धांत पर आधारित थी?",
+              "answer": "Natural Rights",
+              "answerHi": "प्राकृतिक अधिकार",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which U.S. President visited China in 1972 to strengthen diplomatic ties?",
+              "questionHi": "किस अमेरिकी राष्ट्रपति ने राजनयिक संबंधों को मजबूत करने के लिए 1972 में चीन का दौरा किया?",
+              "answer": "Richard Nixon",
+              "answerHi": "रिचर्ड निक्सन",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which U.S. President announced the 'New Deal' for economic recovery after the Great Depression?",
+              "questionHi": "किस अमेरिकी राष्ट्रपति ने महामंदी के बाद आर्थिक सुधार के लिए 'न्यू डील' की घोषणा की?",
+              "answer": "Franklin D. Roosevelt",
+              "answerHi": "फ्रैंकलिन डी. रूजवेल्ट",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which of the following is a wonder of the ancient world?",
+              "questionHi": "निम्नलिखित में से कौन प्राचीन विश्व का एक आश्चर्य है?",
+              "answer": "The statue of Jupiter at Olympia",
+              "answerHi": "ओलंपिया में बृहस्पति की मूर्ति",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "What was known as 'Calico' during the pre-imperialism period?",
+              "questionHi": "पूर्व-साम्राज्यवाद काल के दौरान 'कैलिको' के रूप में क्या जाना जाता था?",
+              "answer": "Cotton",
+              "answerHi": "कपास",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "What was the policy of racial discrimination followed in South Africa called?",
+              "questionHi": "दक्षिण अफ्रीका में अपनाई गई नस्लीय भेदभाव की नीति को क्या कहा जाता था?",
+              "answer": "Apartheid",
+              "answerHi": "रंगभेद",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who discovered the Cape of Good Hope in 1488?",
+              "questionHi": "1488 में केप ऑफ गुड होप की खोज किसने की?",
+              "answer": "Bartolomeu Dias",
+              "answerHi": "बार्थोलोम्यू डियास",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who discovered America?",
+              "questionHi": "अमेरिका की खोज किसने की?",
+              "answer": "Columbus",
+              "answerHi": "कोलंबस",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "What was the previous name of Zaire?",
+              "questionHi": "ज़ायर का पुराना नाम क्या था?",
+              "answer": "Congo",
+              "answerHi": "कांगो",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who was the American leader who led a non-violent movement for full civil rights for African Americans?",
+              "questionHi": "वह अमेरिकी नेता कौन थे जिन्होंने अफ्रीकी अमेरिकियों के लिए पूर्ण नागरिक अधिकारों के लिए एक अहिंसक आंदोलन का नेतृत्व किया?",
+              "answer": "Martin Luther King Jr.",
+              "answerHi": "मार्टिन लूथर किंग जूनियर",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "'Bullfighting' is the popular sport of which country?",
+              "questionHi": "'सांडों की लड़ाई' किस देश का लोकप्रिय खेल है?",
+              "answer": "Spain",
+              "answerHi": "स्पेन",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The 'Tanakh' is the sacred text of which religion?",
+              "questionHi": "'तनख' किस धर्म का पवित्र ग्रंथ है?",
+              "answer": "Judaism",
+              "answerHi": "यहूदी धर्म",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who was the first Caliph?",
+              "questionHi": "पहले खलीफा कौन थे?",
+              "answer": "Abu Bakr",
+              "answerHi": "अबू बक्र",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who said that 'Man by nature is a political animal'?",
+              "questionHi": "किसने कहा कि 'मनुष्य स्वभाव से एक राजनीतिक प्राणी है'?",
+              "answer": "Aristotle",
+              "answerHi": "अरस्तू",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who said, 'He who does not live in a state may either be a saint or an animal'?",
+              "questionHi": "किसने कहा, 'जो राज्य में नहीं रहता वह या तो संत हो सकता है या पशु'?",
+              "answer": "Aristotle",
+              "answerHi": "अरस्तू",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who said 'Man is a social animal'?",
+              "questionHi": "किसने कहा 'मनुष्य एक सामाजिक प्राणी है'?",
+              "answer": "Aristotle",
+              "answerHi": "अरस्तू",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Taoism, an ancient tradition of philosophy and religious belief, is deeply rooted in what?",
+              "questionHi": "ताओवाद, दर्शन और धार्मिक विश्वास की एक प्राचीन परंपरा, किसमें गहराई से निहित है?",
+              "answer": "Chinese custom and worldview",
+              "answerHi": "चीनी रीति-रिवाज और विश्वदृष्टि",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Peking is the sacred place of which philosophy?",
+              "questionHi": "पेकिंग किस दर्शन का पवित्र स्थान है?",
+              "answer": "Confucianism",
+              "answerHi": "कन्फ्यूशीवाद",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who is called the 'Greatest investigator of antiquity'?",
+              "questionHi": "'पुरातनता का सबसे बड़ा अन्वेषक' किसे कहा जाता है?",
+              "answer": "Darwin",
+              "answerHi": "डार्विन",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which country is regarded as the home of 'Fabian Socialism'?",
+              "questionHi": "किस देश को 'फेबियन समाजवाद' का घर माना जाता है?",
+              "answer": "England",
+              "answerHi": "इंग्लैंड",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who said, 'The State exists because crime exists in society; otherwise, there would be no need of a State'?",
+              "questionHi": "किसने कहा, 'राज्य इसलिए मौजूद है क्योंकि समाज में अपराध मौजूद है; अन्यथा, राज्य की कोई आवश्यकता नहीं होगी'?",
+              "answer": "Herbert Spencer",
+              "answerHi": "हर्बर्ट स्पेंसर",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Herodotus is considered the father of what?",
+              "questionHi": "हेरोडोटस को किसका जनक माना जाता है?",
+              "answer": "History",
+              "answerHi": "इतिहास",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In which country is Karbala, the holy city of Shia Muslims, located?",
+              "questionHi": "शिया मुसलमानों का पवित्र शहर कर्बला किस देश में स्थित है?",
+              "answer": "Iraq",
+              "answerHi": "इराक",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which of these is not a religion developed in ancient time (i.e., In B.C.)?",
+              "questionHi": "इनमें से कौन सा धर्म प्राचीन काल (यानी, ईसा पूर्व में) में विकसित नहीं हुआ है?",
+              "answer": "Islam",
+              "answerHi": "इस्लाम",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which 18th-century philosopher said the famous words, 'Man is born free but is everywhere in chains'?",
+              "questionHi": "किस 18वीं सदी के दार्शनिक ने यह प्रसिद्ध शब्द कहे, 'मनुष्य स्वतंत्र पैदा होता है लेकिन हर जगह जंजीरों में जकड़ा हुआ है'?",
+              "answer": "Jean-Jacques Rousseau",
+              "answerHi": "जीन-जैक्स रूसो",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who said, 'Where there is no Law there will not be Liberty'?",
+              "questionHi": "किसने कहा, 'जहाँ कानून नहीं है वहाँ स्वतंत्रता नहीं होगी'?",
+              "answer": "John Locke",
+              "answerHi": "जॉन लॉक",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "A synagogue is the place of worship for which religion?",
+              "questionHi": "एक सिनेगॉग किस धर्म का पूजा स्थल है?",
+              "answer": "Judaism",
+              "answerHi": "यहूदी धर्म",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "According to Marx, the source of value is what?",
+              "questionHi": "मार्क्स के अनुसार, मूल्य का स्रोत क्या है?",
+              "answer": "Labour",
+              "answerHi": "श्रम",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who propounded the theory of 'natural rights'?",
+              "questionHi": "'प्राकृतिक अधिकारों' का सिद्धांत किसने प्रतिपादित किया?",
+              "answer": "Locke",
+              "answerHi": "लॉक",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who said, 'Where there is no law, there is no freedom'?",
+              "questionHi": "किसने कहा, 'जहाँ कानून नहीं, वहाँ स्वतंत्रता नहीं'?",
+              "answer": "Locke",
+              "answerHi": "लॉक",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Where did Karl Marx live and write?",
+              "questionHi": "कार्ल मार्क्स कहाँ रहते और लिखते थे?",
+              "answer": "London",
+              "answerHi": "लंदन",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who spoke of the Cabinet system as 'the steering wheel of the ship of state'?",
+              "questionHi": "किसने कैबिनेट प्रणाली को 'राज्य के जहाज का स्टीयरिंग व्हील' कहा?",
+              "answer": "Muir",
+              "answerHi": "मुइर",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Zend-Avesta is the sacred book of which religion?",
+              "questionHi": "ज़ेंद-अवेस्ता किस धर्म की पवित्र पुस्तक है?",
+              "answer": "The Parsees",
+              "answerHi": "पारसी",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which group of thinkers influenced Fascism?",
+              "questionHi": "विचारकों के किस समूह ने फासीवाद को प्रभावित किया?",
+              "answer": "Plato, Machiavelli, and Herbert Spencer",
+              "answerHi": "प्लेटो, मैकियावेली, और हर्बर्ट स्पेंसर",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "According to Communism, what is the chief enemy of society?",
+              "questionHi": "साम्यवाद के अनुसार, समाज का मुख्य शत्रु क्या है?",
+              "answer": "Private property",
+              "answerHi": "निजी संपत्ति",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In Greek mythology, Apollo is the god of what?",
+              "questionHi": "ग्रीक पौराणिक कथाओं में, अपोलो किसका देवता है?",
+              "answer": "Prophecy",
+              "answerHi": "भविष्यवाणी",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Where was St. Paul beheaded?",
+              "questionHi": "सेंट पॉल का सिर कहाँ कलम किया गया था?",
+              "answer": "Rome",
+              "answerHi": "रोम",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who has given the statement, 'Man is born free but he is always in chains'?",
+              "questionHi": "यह कथन किसने दिया है, 'मनुष्य स्वतंत्र पैदा होता है लेकिन वह हमेशा जंजीरों में जकड़ा रहता है'?",
+              "answer": "Rousseau",
+              "answerHi": "रूसो",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who said, 'Go back to nature'?",
+              "questionHi": "किसने कहा, 'प्रकृति की ओर लौटो'?",
+              "answer": "Rousseau",
+              "answerHi": "रूसो",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who said, 'Liberty consists in obedience to the general will'?",
+              "questionHi": "किसने कहा, 'स्वतंत्रता सामान्य इच्छा के पालन में निहित है'?",
+              "answer": "Rousseau",
+              "answerHi": "रूसो",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The development process under Capitalism has been described as 'Creative Destruction' by whom?",
+              "questionHi": "पूंजीवाद के तहत विकास प्रक्रिया को किसके द्वारा 'रचनात्मक विनाश' के रूप में वर्णित किया गया है?",
+              "answer": "Schumpeter",
+              "answerHi": "शुम्पीटर",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Whose opinion was it that 'Democracy is a government in which everyone has a share'?",
+              "questionHi": "यह किसकी राय थी कि 'लोकतंत्र एक ऐसी सरकार है जिसमें सभी का हिस्सा होता है'?",
+              "answer": "Seeley",
+              "answerHi": "सीली",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "What is the Japanese folk tradition and ritual with no founder or single sacred scripture popularly known as?",
+              "questionHi": "जापानी लोक परंपरा और अनुष्ठान जिसका कोई संस्थापक या एकल पवित्र ग्रंथ नहीं है, को लोकप्रिय रूप से क्या कहा जाता है?",
+              "answer": "Shintoism",
+              "answerHi": "शिन्तो धर्म",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "What theory did John Locke propound?",
+              "questionHi": "जॉन लॉक ने किस सिद्धांत का प्रतिपादन किया?",
+              "answer": "Social Contract Theory",
+              "answerHi": "सामाजिक अनुबंध सिद्धांत",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "By whom have the economic dimensions of justice been emphasized?",
+              "questionHi": "न्याय के आर्थिक आयामों पर किसके द्वारा जोर दिया गया है?",
+              "answer": "Socialists",
+              "answerHi": "समाजवादियों",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The American Civil War saw the end of what?",
+              "questionHi": "अमेरिकी गृहयुद्ध में किसका अंत हुआ?",
+              "answer": "Slavery",
+              "answerHi": "दासता",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In what year did the United States of America adopt a democratic constitution?",
+              "questionHi": "संयुक्त राज्य अमेरिका ने किस वर्ष एक लोकतांत्रिक संविधान अपनाया?",
+              "answer": "1787",
+              "answerHi": "1787",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The attack by the third estate on the Bastille prison sparked which revolution?",
+              "questionHi": "बैस्टिल जेल पर तीसरे एस्टेट के हमले ने किस क्रांति को जन्म दिया?",
+              "answer": "The French Revolution",
+              "answerHi": "फ्रांसीसी क्रांति",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The slogan 'Workers of the world, unite!' was associated with which revolution?",
+              "questionHi": "'दुनिया के मजदूरों, एक हो जाओ!' का नारा किस क्रांति से जुड़ा था?",
+              "answer": "The Russian Revolution",
+              "answerHi": "रूसी क्रांति",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "What is the All-India War Memorial, built in memory of the Indian soldiers who died in the First World War, known as today?",
+              "questionHi": "प्रथम विश्व युद्ध में शहीद हुए भारतीय सैनिकों की याद में बना अखिल भारतीय युद्ध स्मारक आज किस नाम से जाना जाता है?",
+              "answer": "India Gate",
+              "answerHi": "इंडिया गेट",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "What was the codename given to the atomic bomb that exploded in Hiroshima during World War II?",
+              "questionHi": "द्वितीय विश्व युद्ध के दौरान हिरोशिमा में विस्फोट हुए परमाणु बम को क्या कोडनेम दिया गया था?",
+              "answer": "Little Boy",
+              "answerHi": "लिटिल बॉय",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "What happened to prices during the First World War (1914-1918)?",
+              "questionHi": "प्रथम विश्व युद्ध (1914-1918) के दौरान कीमतों का क्या हुआ?",
+              "answer": "Prices almost doubled.",
+              "answerHi": "कीमतें लगभग दोगुनी हो गईं।",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In which year did the Second World War start?",
+              "questionHi": "द्वितीय विश्व युद्ध किस वर्ष शुरू हुआ?",
+              "answer": "1939",
+              "answerHi": "1939",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "What happened on D-Day?",
+              "questionHi": "डी-डे पर क्या हुआ था?",
+              "answer": "Allied troops landed in Normandy.",
+              "answerHi": "मित्र देशों की सेनाएं नॉर्मंडी में उतरीं।",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "On what date was the first atom bomb dropped on Hiroshima?",
+              "questionHi": "हिरोशिमा पर पहला परमाणु बम किस तारीख को गिराया गया था?",
+              "answer": "August 6, 1945",
+              "answerHi": "6 अगस्त, 1945",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "During the Second World War, which country was not one of the three Axis Powers?",
+              "questionHi": "द्वितीय विश्व युद्ध के दौरान, कौन सा देश तीन धुरी शक्तियों में से एक नहीं था?",
+              "answer": "China",
+              "answerHi": "चीन",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who were the Axis powers in World War II?",
+              "questionHi": "द्वितीय विश्व युद्ध में धुरी शक्तियाँ कौन थीं?",
+              "answer": "Germany, Italy, Japan",
+              "answerHi": "जर्मनी, इटली, जापान",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Where was the first atomic bomb thrown?",
+              "questionHi": "पहला परमाणु बम कहाँ गिराया गया था?",
+              "answer": "Hiroshima",
+              "answerHi": "हिरोशिमा",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In which cities of Japan were atomic bombs dropped during World War II?",
+              "questionHi": "द्वितीय विश्व युद्ध के दौरान जापान के किन शहरों में परमाणु बम गिराए गए थे?",
+              "answer": "Hiroshima and Nagasaki",
+              "answerHi": "हिरोशिमा और नागासाकी",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Where were the war criminals of World War II put on trial?",
+              "questionHi": "द्वितीय विश्व युद्ध के युद्ध अपराधियों पर कहाँ मुकदमा चलाया गया?",
+              "answer": "Nuremberg",
+              "answerHi": "नूर्नबर्ग",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "What was the immediate cause for the outbreak of the First World War?",
+              "questionHi": "प्रथम विश्व युद्ध के फैलने का तात्कालिक कारण क्या था?",
+              "answer": "The assassination of Archduke Francis Ferdinand",
+              "answerHi": "आर्चड्यूक फ्रांसिस फर्डिनेंड की हत्या",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "What was one of the important factors that led to the Second World War?",
+              "questionHi": "द्वितीय विश्व युद्ध के लिए अग्रणी महत्वपूर्ण कारकों में से एक क्या था?",
+              "answer": "The humiliating provisions in the Treaty of Versailles",
+              "answerHi": "वर्साय की संधि में अपमानजनक प्रावधान",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "On which side did Japan fight in the First World War?",
+              "questionHi": "प्रथम विश्व युद्ध में जापान ने किस तरफ से लड़ाई लड़ी?",
+              "answer": "With the United Kingdom against Germany",
+              "answerHi": "जर्मनी के खिलाफ यूनाइटेड किंगडम के साथ",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "What did the 1911 Revolution of China result in?",
+              "questionHi": "1911 की चीन की क्रांति का क्या परिणाम हुआ?",
+              "answer": "The establishment of a Republic",
+              "answerHi": "एक गणराज्य की स्थापना",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who headed the independence movement of Vietnam?",
+              "questionHi": "वियतनाम के स्वतंत्रता आंदोलन का नेतृत्व किसने किया?",
+              "answer": "Ho Chi Minh",
+              "answerHi": "हो ची मिन्ह",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In which year did the French Revolution break out?",
+              "questionHi": "फ्रांसीसी क्रांति किस वर्ष हुई?",
+              "answer": "1789",
+              "answerHi": "1789",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In which year was Napoleon finally overthrown in the Battle of Waterloo?",
+              "questionHi": "वाटरलू के युद्ध में नेपोलियन को अंततः किस वर्ष पराजित किया गया?",
+              "answer": "1815",
+              "answerHi": "1815",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In which year was Pearl Harbour, where the American Pacific Fleet was stationed, attacked?",
+              "questionHi": "पर्ल हार्बर, जहां अमेरिकी प्रशांत बेड़ा तैनात था, पर किस वर्ष हमला किया गया?",
+              "answer": "1941",
+              "answerHi": "1941",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "With the fall of what did the French Revolution begin?",
+              "questionHi": "किसके पतन के साथ फ्रांसीसी क्रांति शुरू हुई?",
+              "answer": "The Bastille",
+              "answerHi": "बैस्टिल",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In which battle did Napoleonic France suffer its final defeat?",
+              "questionHi": "किस युद्ध में नेपोलियन फ्रांस को अंतिम हार का सामना करना पड़ा?",
+              "answer": "Battle of Trafalgar",
+              "answerHi": "ट्राफलगर का युद्ध",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In which battle were the French completely defeated by the English?",
+              "questionHi": "किस युद्ध में फ्रांसीसी अंग्रेजों से पूरी तरह हार गए थे?",
+              "answer": "Battle of Wandiwash",
+              "answerHi": "वांडिवाश का युद्ध",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Napoleon I and the Duke of Wellington fought which famous battle?",
+              "questionHi": "नेपोलियन प्रथम और ड्यूक ऑफ वेलिंगटन ने कौन सी प्रसिद्ध लड़ाई लड़ी?",
+              "answer": "The Battle of Waterloo",
+              "answerHi": "वाटरलू का युद्ध",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Between whom were the Opium Wars fought?",
+              "questionHi": "अफीम युद्ध किसके बीच लड़े गए थे?",
+              "answer": "Britain and China",
+              "answerHi": "ब्रिटेन और चीन",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which two countries were involved in the Hundred Years' War?",
+              "questionHi": "सौ साल के युद्ध में कौन से दो देश शामिल थे?",
+              "answer": "England and France",
+              "answerHi": "इंग्लैंड और फ्रांस",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The Industrial Revolution in England represented the climax of the transition from what to what?",
+              "questionHi": "इंग्लैंड में औद्योगिक क्रांति ने किस से किस में संक्रमण के चरमोत्कर्ष का प्रतिनिधित्व किया?",
+              "answer": "From feudalism to capitalism",
+              "answerHi": "सामंतवाद से पूंजीवाद तक",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "From where were the ideas of Liberty, Equality, and Fraternity, which influenced the Indian National Movement, taken?",
+              "questionHi": "स्वतंत्रता, समानता और बंधुत्व के विचार, जिन्होंने भारतीय राष्ट्रीय आंदोलन को प्रभावित किया, कहाँ से लिए गए थे?",
+              "answer": "The French Revolution",
+              "answerHi": "फ्रांसीसी क्रांति",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The fall of the Bastille is associated with what?",
+              "questionHi": "बैस्टिल का पतन किससे जुड़ा है?",
+              "answer": "The French Revolution of 1789",
+              "answerHi": "1789 की फ्रांसीसी क्रांति",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In which country did the first Industrial Revolution take place?",
+              "questionHi": "पहली औद्योगिक क्रांति किस देश में हुई?",
+              "answer": "Great Britain",
+              "answerHi": "ग्रेट ब्रिटेन",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Pearl Harbour, an American Naval and Airforce base, was attacked by whom?",
+              "questionHi": "पर्ल हार्बर, एक अमेरिकी नौसेना और वायुसेना अड्डे, पर किसने हमला किया था?",
+              "answer": "Japan",
+              "answerHi": "जापान",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "What was the slogan of the French Revolution?",
+              "questionHi": "फ्रांसीसी क्रांति का नारा क्या था?",
+              "answer": "Liberty, Equality, and Fraternity",
+              "answerHi": "स्वतंत्रता, समानता और बंधुत्व",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which slogan was given by the French Revolution to the world?",
+              "questionHi": "फ्रांसीसी क्रांति ने दुनिया को कौन सा नारा दिया?",
+              "answer": "Liberty, Equality, Fraternity",
+              "answerHi": "स्वतंत्रता, समानता, बंधुत्व",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who was a founder member of the Russian Populist Movement 'Anarchism'?",
+              "questionHi": "रूसी लोकलुभावन आंदोलन 'अराजकतावाद' के संस्थापक सदस्य कौन थे?",
+              "answer": "Mikhail Bakunin",
+              "answerHi": "मिखाइल बाकुनिन",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Whose teachings inspired the French Revolution?",
+              "questionHi": "किसकी शिक्षाओं ने फ्रांसीसी क्रांति को प्रेरित किया?",
+              "answer": "Rousseau",
+              "answerHi": "रूसो",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The Crimean War in 1854-1856 was fought between whom?",
+              "questionHi": "1854-1856 का क्रीमियन युद्ध किसके बीच लड़ा गया था?",
+              "answer": "Russia and Turkey",
+              "answerHi": "रूस और तुर्की",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "From which city did the Russian Revolution begin?",
+              "questionHi": "रूसी क्रांति किस शहर से शुरू हुई?",
+              "answer": "St. Petersburg",
+              "answerHi": "सेंट पीटर्सबर्ग",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The Declaration of the Rights of Man is related to what?",
+              "questionHi": "मनुष्य के अधिकारों की घोषणा किससे संबंधित है?",
+              "answer": "The French Revolution",
+              "answerHi": "फ्रांसीसी क्रांति",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "What is 'Reformation'?",
+              "questionHi": "'सुधार' क्या है?",
+              "answer": "The revolt against the authority of the Pope",
+              "answerHi": "पोप के अधिकार के खिलाफ विद्रोह",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "For what is the year 1917 known?",
+              "questionHi": "वर्ष 1917 किसके लिए जाना जाता है?",
+              "answer": "The Russian Revolution",
+              "answerHi": "रूसी क्रांति",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "By what did the Crimean War come to an end?",
+              "questionHi": "क्रीमियन युद्ध का अंत किससे हुआ?",
+              "answer": "The Treaty of Paris",
+              "answerHi": "पेरिस की संधि",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who made the declaration that 'Democracy is a Government of the people, by the people, for the people'?",
+              "questionHi": "यह घोषणा किसने की कि 'लोकतंत्र जनता का, जनता द्वारा, जनता के लिए शासन है'?",
+              "answer": "Abraham Lincoln",
+              "answerHi": "अब्राहम लिंकन",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The Wall Street collapse led to what?",
+              "questionHi": "वॉल स्ट्रीट के पतन से क्या हुआ?",
+              "answer": "The Great Depression",
+              "answerHi": "महामंदी",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "From which country did the USA purchase Alaska to make it the 50th federating state?",
+              "questionHi": "संयुक्त राज्य अमेरिका ने अलास्का को 50वां संघ राज्य बनाने के लिए किस देश से खरीदा?",
+              "answer": "Russia",
+              "answerHi": "रूस",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who was the first President of South Africa after apartheid?",
+              "questionHi": "रंगभेद के बाद दक्षिण अफ्रीका के पहले राष्ट्रपति कौन थे?",
+              "answer": "Nelson Mandela",
+              "answerHi": "नेल्सन मंडेला",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The Hanging Gardens of Babylon is associated with which ancient culture?",
+              "questionHi": "बेबीलोन के हैंगिंग गार्डन किस प्राचीन संस्कृति से जुड़े हैं?",
+              "answer": "Mesopotamia",
+              "answerHi": "मेसोपोटामिया",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "When was the first of the Geneva Conventions adopted?",
+              "questionHi": "जिनेवा सम्मेलनों में से पहला कब अपनाया गया था?",
+              "answer": "1864",
+              "answerHi": "1864",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "When did the Soviet Union disintegrate into 15 independent Republics?",
+              "questionHi": "सोवियत संघ 15 स्वतंत्र गणराज्यों में कब विघटित हुआ?",
+              "answer": "1991",
+              "answerHi": "1991",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The pamphlet 'What is the Third Estate?', associated with the French Revolution, was written by whom?",
+              "questionHi": "फ्रांसीसी क्रांति से जुड़ा पैम्फलेट 'व्हाट इज द थर्ड एस्टेट?' किसके द्वारा लिखा गया था?",
+              "answer": "Abbé Sieyès",
+              "answerHi": "अब्बे सियेस",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who advocated Nazism in Germany?",
+              "questionHi": "जर्मनी में नाजीवाद की वकालत किसने की?",
+              "answer": "Adolf Hitler",
+              "answerHi": "एडॉल्फ हिटलर",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who is known as the 'Lady with the Lamp'?",
+              "questionHi": "'लेडी विद द लैंप' के रूप में किसे जाना जाता है?",
+              "answer": "Florence Nightingale",
+              "answerHi": "फ्लोरेंस नाइटिंगेल",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who is referred to as 'Desert Fox'?",
+              "questionHi": "'डेजर्ट फॉक्स' के रूप में किसे जाना जाता है?",
+              "answer": "General Rommel",
+              "answerHi": "जनरल रोमेल",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "To which country did Marx belong?",
+              "questionHi": "मार्क्स किस देश के थे?",
+              "answer": "Germany",
+              "answerHi": "जर्मनी",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "From which language has the term 'democracy' been derived?",
+              "questionHi": "'डेमोक्रेसी' शब्द किस भाषा से लिया गया है?",
+              "answer": "Greek",
+              "answerHi": "ग्रीक",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "When was the League of Nations established?",
+              "questionHi": "राष्ट्र संघ की स्थापना कब हुई थी?",
+              "answer": "1920",
+              "answerHi": "1920",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who has called the Prime Minister 'Primus inter pares' (first among equals)?",
+              "questionHi": "किसने प्रधानमंत्री को 'प्राइमस इंटर पारेस' (बराबरों में प्रथम) कहा है?",
+              "answer": "Morely",
+              "answerHi": "मोर्ले",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "With whom is the island of Corsica associated?",
+              "questionHi": "कोर्सिका द्वीप किससे संबंधित है?",
+              "answer": "Napoleon Bonaparte",
+              "answerHi": "नेपोलियन बोनापार्ट",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Whose famous quote was 'The word impossible is found in the dictionary of fools'?",
+              "questionHi": "किसका प्रसिद्ध उद्धरण था 'असंभव शब्द मूर्खों के शब्दकोश में पाया जाता है'?",
+              "answer": "Napoleon",
+              "answerHi": "नेपोलियन",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "What is the name of the world's smallest republic, which has an area of only 21 sq. km?",
+              "questionHi": "दुनिया के सबसे छोटे गणराज्य का क्या नाम है, जिसका क्षेत्रफल केवल 21 वर्ग किमी है?",
+              "answer": "Nauru",
+              "answerHi": "नाउरू",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Where was Christopher Columbus from?",
+              "questionHi": "क्रिस्टोफर कोलंबस कहाँ से थे?",
+              "answer": "Spain",
+              "answerHi": "स्पेन",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Absolute sovereign power of the Monarch was advocated by whom?",
+              "questionHi": "सम्राट की पूर्ण संप्रभु शक्ति की वकालत किसने की?",
+              "answer": "Thomas Hobbes",
+              "answerHi": "थॉमस हॉब्स",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "For what is Marco Polo known?",
+              "questionHi": "मार्को पोलो किसके लिए जाने जाते हैं?",
+              "answer": "Travelling to China, India, and Asia",
+              "answerHi": "चीन, भारत और एशिया की यात्रा करने के लिए",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which decade is called the 'Era of Decolonisation'?",
+              "questionHi": "किस दशक को 'विउपनिवेशीकरण का युग' कहा जाता है?",
+              "answer": "The 1970s",
+              "answerHi": "1970 का दशक",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Marxian materialism came from whose idea?",
+              "questionHi": "मार्क्सवादी भौतिकवाद किसके विचार से आया?",
+              "answer": "Darwin",
+              "answerHi": "डार्विन",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The Greeks viewed 'politics' on the basis of what?",
+              "questionHi": "यूनानियों ने 'राजनीति' को किस आधार पर देखा?",
+              "answer": "Ethical terms",
+              "answerHi": "नैतिक शर्तें",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The famous painting 'Mona Lisa' was the creation of whom?",
+              "questionHi": "प्रसिद्ध पेंटिंग 'मोना लिसा' किसकी रचना थी?",
+              "answer": "Leonardo da Vinci",
+              "answerHi": "लियोनार्डो दा विंची",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Pablo Picasso, the famous painter, was from which country?",
+              "questionHi": "प्रसिद्ध चित्रकार पाब्लो पिकासो किस देश से थे?",
+              "answer": "Spanish",
+              "answerHi": "स्पेनिश",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "What was the original name of Santa Claus?",
+              "questionHi": "सांता क्लॉज का मूल नाम क्या था?",
+              "answer": "St. Nicholas",
+              "answerHi": "सेंट निकोलस",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Fascism believes in the application of which principle?",
+              "questionHi": "फासीवाद किस सिद्धांत के अनुप्रयोग में विश्वास करता है?",
+              "answer": "Totalitarianism",
+              "answerHi": "सर्वाधिकारवाद",
               "explanation": "",
               "explanationHi": ""
             }
