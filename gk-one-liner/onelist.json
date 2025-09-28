@@ -916,6 +916,1022 @@
               "explanationHi": ""
             }
           ]
+        },
+        {
+          "name": "Ancient History #3 (BUDDHISM & JAINISM)",
+          "nameHi": "प्राचीन इतिहास #3 (बौद्ध और जैन धर्म)",
+          "icon": "date",
+          "type": "list",
+          "content": [
+            {
+              "question": "Who is the founder of Jainism in India?",
+              "questionHi": "भारत में जैन धर्म के संस्थापक कौन हैं?",
+              "answer": "Mahavira",
+              "answerHi": "महावीर",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who was the mother of Mahavira?",
+              "questionHi": "महावीर की माता कौन थीं?",
+              "answer": "Trishala",
+              "answerHi": "त्रिशला",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Mahavira was born in a Kshatriya clan by what name?",
+              "questionHi": "महावीर का जन्म किस नाम के क्षत्रिय कुल में हुआ था?",
+              "answer": "Janatrika",
+              "answerHi": "ज्ञातृक",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Vardhman Mahavir is also known as what?",
+              "questionHi": "वर्धमान महावीर को और किस नाम से जाना जाता है?",
+              "answer": "Jina",
+              "answerHi": "जिन",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Where did Lord Mahavira die?",
+              "questionHi": "भगवान महावीर का देहांत कहाँ हुआ?",
+              "answer": "Pavapuri",
+              "answerHi": "पावापुरी",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who was Mahavira's first disciple?",
+              "questionHi": "महावीर का पहला शिष्य कौन था?",
+              "answer": "Jamali",
+              "answerHi": "जमालि",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who was the first Tirthankara of Jainism?",
+              "questionHi": "जैन धर्म के प्रथम तीर्थंकर कौन थे?",
+              "answer": "Rishabhdev",
+              "answerHi": "ऋषभदेव",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which of the following is not one of the 'Tri Ratna' of Jainism?",
+              "questionHi": "निम्नलिखित में से कौन सा जैन धर्म का 'त्रिरत्न' नहीं है?",
+              "answer": "Right View",
+              "answerHi": "सम्यक दृष्टि",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "With which religion is 'Kaivalya' associated?",
+              "questionHi": "'कैवल्य' किस धर्म से संबंधित है?",
+              "answer": "Jainism",
+              "answerHi": "जैन धर्म",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The Tamil classic 'Jivaka Chintamani' is associated with which religion?",
+              "questionHi": "तमिल महाकाव्य 'जीवक चिन्तामणि' किस धर्म से संबंधित है?",
+              "answer": "Jainism",
+              "answerHi": "जैन धर्म",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "What is the collective term used by Jains for their sacred literature?",
+              "questionHi": "जैनों द्वारा अपने पवित्र साहित्य के लिए प्रयुक्त सामूहिक शब्द क्या है?",
+              "answer": "Angas",
+              "answerHi": "अंग",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Svetambara and Digambara are two sects of which community?",
+              "questionHi": "श्वेतांबर और दिगंबर किस समुदाय के दो संप्रदाय हैं?",
+              "answer": "Jain",
+              "answerHi": "जैन",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "To whom are the Dilwara temples at Mount Abu in Rajasthan dedicated?",
+              "questionHi": "राजस्थान के माउंट आबू में स्थित दिलवाड़ा मंदिर किसे समर्पित हैं?",
+              "answer": "Jain Tirthankaras",
+              "answerHi": "जैन तीर्थंकर",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Syadvada was the fundamental basis of which religion?",
+              "questionHi": "स्याद्वाद किस धर्म का मूल आधार था?",
+              "answer": "Jainism",
+              "answerHi": "जैन धर्म",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The word 'Tirthankara' is related to which religion?",
+              "questionHi": "'तीर्थंकर' शब्द किस धर्म से संबंधित है?",
+              "answer": "Jainism",
+              "answerHi": "जैन धर्म",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The term 'Anuvrata' is associated with which religion?",
+              "questionHi": "'अणुव्रत' शब्द किस धर्म से संबंधित है?",
+              "answer": "Jainism",
+              "answerHi": "जैन धर्म",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which Jain text contains the biographies of the Jain Tirthankaras, most notably Parshvanath and Mahavira?",
+              "questionHi": "किस जैन ग्रंथ में जैन तीर्थंकरों, विशेष रूप से पार्श्वनाथ और महावीर की जीवनियाँ हैं?",
+              "answer": "Kalpa Sutra",
+              "answerHi": "कल्प सूत्र",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Where was Mahavira born?",
+              "questionHi": "महावीर का जन्म कहाँ हुआ था?",
+              "answer": "Kundagrama",
+              "answerHi": "कुण्डग्राम",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which is the most important work of the Hinayana school of Buddhism?",
+              "questionHi": "बौद्ध धर्म के हीनयान संप्रदाय की सबसे महत्वपूर्ण कृति कौन सी है?",
+              "answer": "Mahavastu",
+              "answerHi": "महावस्तु",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who travelled throughout South Asia to teach Jain philosophy?",
+              "questionHi": "जैन दर्शन सिखाने के लिए पूरे दक्षिण एशिया में किसने यात्रा की?",
+              "answer": "Mahavira",
+              "answerHi": "महावीर",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In which language did Vardhaman Mahavira teach?",
+              "questionHi": "वर्धमान महावीर ने किस भाषा में शिक्षा दी?",
+              "answer": "Prakrit",
+              "answerHi": "प्राकृत",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In which state are the Dilwara Jain Temples situated?",
+              "questionHi": "दिलवाड़ा जैन मंदिर किस राज्य में स्थित हैं?",
+              "answer": "Rajasthan",
+              "answerHi": "राजस्थान",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who is considered the real founder of Jainism?",
+              "questionHi": "जैन धर्म का वास्तविक संस्थापक किसे माना जाता है?",
+              "answer": "Rishabhdev",
+              "answerHi": "ऋषभदेव",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The teachings of Mahavira, written about 1500 years ago, are currently preserved at which place?",
+              "questionHi": "लगभग 1500 साल पहले लिखी गई महावीर की शिक्षाएँ वर्तमान में किस स्थान पर मौजूद हैं?",
+              "answer": "Valabhi, Gujarat",
+              "answerHi": "वल्लभी, गुजरात",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "What was Lord Mahavira's name prior to acquiring knowledge?",
+              "questionHi": "ज्ञान प्राप्त करने से पहले भगवान महावीर का नाम क्या था?",
+              "answer": "Vardhman",
+              "answerHi": "वर्धमान",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "What does the word 'Buddha' mean?",
+              "questionHi": "'बुद्ध' शब्द का क्या अर्थ है?",
+              "answer": "An Enlightened One",
+              "answerHi": "एक प्रबुद्ध व्यक्ति",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "To which clan (ganarajya) did Gautam Buddha belong?",
+              "questionHi": "गौतम बुद्ध किस कुल (गणराज्य) के थे?",
+              "answer": "Shakya",
+              "answerHi": "शाक्य",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Where did Buddha give his first sermon at the Deer Park?",
+              "questionHi": "बुद्ध ने मृगदाव (हिरण पार्क) में अपना पहला उपदेश कहाँ दिया था?",
+              "answer": "Sarnath",
+              "answerHi": "सारनाथ",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Where was Gautama Buddha born?",
+              "questionHi": "गौतम बुद्ध का जन्म कहाँ हुआ था?",
+              "answer": "Lumbini",
+              "answerHi": "लुम्बिनी",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "According to Buddhists, who is believed to be the next incarnation of Gautam Buddha?",
+              "questionHi": "बौद्धों के अनुसार, गौतम बुद्ध का अगला अवतार किसे माना जाता है?",
+              "answer": "Maitreya",
+              "answerHi": "मैत्रेय",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In which mudra did Gautam Buddha deliver his first sermon at Sarnath?",
+              "questionHi": "गौतम बुद्ध ने सारनाथ में अपना पहला उपदेश किस मुद्रा में दिया था?",
+              "answer": "Dharmachakra Mudra",
+              "answerHi": "धर्मचक्र मुद्रा",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Why does Vaishakha Poornima have great significance for Buddhists?",
+              "questionHi": "बौद्धों के लिए वैशाख पूर्णिमा का बहुत महत्व क्यों है?",
+              "answer": "On this day Buddha was born, attained enlightenment, and passed away.",
+              "answerHi": "इसी दिन बुद्ध का जन्म हुआ, उन्हें ज्ञान प्राप्त हुआ और उनका महापरिनिर्वाण हुआ।",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Where did Buddha attain enlightenment?",
+              "questionHi": "बुद्ध को ज्ञान की प्राप्ति कहाँ हुई?",
+              "answer": "Bodh Gaya",
+              "answerHi": "बोधगया",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who was a contemporary of Buddha?",
+              "questionHi": "बुद्ध के समकालीन कौन थे?",
+              "answer": "Bimbisara",
+              "answerHi": "बिम्बिसार",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "What marks the birthplace of Gautam Buddha?",
+              "questionHi": "गौतम बुद्ध के जन्मस्थान का प्रतीक क्या है?",
+              "answer": "A Rummindei Pillar of Ashoka Maurya",
+              "answerHi": "अशोक मौर्य का एक रुम्मिनदेई स्तंभ",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "What are Buddha, Dhamma, and Sangha known as collectively?",
+              "questionHi": "बुद्ध, धम्म और संघ को मिलाकर क्या कहा जाता है?",
+              "answer": "Triratna",
+              "answerHi": "त्रिरत्न",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Why did Chinese travellers primarily visit India?",
+              "questionHi": "चीनी यात्री मुख्य रूप से भारत क्यों आते थे?",
+              "answer": "They were interested in Buddhism.",
+              "answerHi": "उन्हें बौद्ध धर्म में रुचि थी।",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "What are the main sects of Buddhism?",
+              "questionHi": "बौद्ध धर्म के मुख्य संप्रदाय कौन से हैं?",
+              "answer": "Mahayana, Hinayana, Theravada",
+              "answerHi": "महायान, हीनयान, थेरवाद",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In Buddhism, what event in Buddha's life is associated with the 'Bull'?",
+              "questionHi": "बौद्ध धर्म में, 'बैल' बुद्ध के जीवन की किस घटना से जुड़ा है?",
+              "answer": "Birth",
+              "answerHi": "जन्म",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "By allowing which two sections of society into its fold did Buddhism make an important impact?",
+              "questionHi": "समाज के किन दो वर्गों को अपने में शामिल करके बौद्ध धर्म ने एक महत्वपूर्ण प्रभाव डाला?",
+              "answer": "Women and Sudras",
+              "answerHi": "महिलाएं और शूद्र",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which paths are included in the 'Eightfold Path' of Buddhism?",
+              "questionHi": "बौद्ध धर्म के 'अष्टांगिक मार्ग' में कौन से मार्ग शामिल हैं?",
+              "answer": "Right Speech, Right Contemplation, Right Conduct",
+              "answerHi": "सम्यक वाणी, सम्यक चिंतन, सम्यक आचरण",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who propounded the 'Eight-Fold Path' for the end of mankind's misery?",
+              "questionHi": "मानव जाति के दुखों के अंत के लिए 'अष्टांगिक मार्ग' का प्रतिपादन किसने किया?",
+              "answer": "Gautam Buddha",
+              "answerHi": "गौतम बुद्ध",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Where was the first Buddhist Council held?",
+              "questionHi": "प्रथम बौद्ध संगीति कहाँ आयोजित हुई थी?",
+              "answer": "Rajagriha",
+              "answerHi": "राजगृह",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Where did Ashoka call the Third Buddhist Council?",
+              "questionHi": "अशोक ने तीसरी बौद्ध संगीति कहाँ बुलाई थी?",
+              "answer": "Pataliputra",
+              "answerHi": "पाटलिपुत्र",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "What was the last Buddhist text produced in India?",
+              "questionHi": "भारत में रचित अंतिम बौद्ध ग्रंथ कौन सा था?",
+              "answer": "Vamsathapakasini",
+              "answerHi": "वंसत्थप्पकासिनी",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "What is the sacred book of the Buddhists?",
+              "questionHi": "बौद्धों का पवित्र ग्रंथ कौन सा है?",
+              "answer": "Tripitaka",
+              "answerHi": "त्रिपिटक",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In which language were the Buddhist texts 'Pitakas' composed?",
+              "questionHi": "बौद्ध ग्रंथ 'पिटक' किस भाषा में रचे गए थे?",
+              "answer": "Pali",
+              "answerHi": "पालि",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which language was mostly used for the propagation of Buddhism?",
+              "questionHi": "बौद्ध धर्म के प्रचार के लिए अधिकतर किस भाषा का प्रयोग किया गया?",
+              "answer": "Pali",
+              "answerHi": "पालि",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In Tamil literature, the glorious books 'Silappadikaram' and 'Manimekalai' are related to what?",
+              "questionHi": "तमिल साहित्य में, गौरवशाली ग्रंथ 'शिल्पादिकारम' और 'मणिमेखलै' किससे संबंधित हैं?",
+              "answer": "Buddhism",
+              "answerHi": "बौद्ध धर्म",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "What is 'Milindapanho'?",
+              "questionHi": "'मिलिंदपन्हो' क्या है?",
+              "answer": "A Buddhist text",
+              "answerHi": "एक बौद्ध ग्रंथ",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "What inspired the paintings of Ajanta?",
+              "questionHi": "अजंता के चित्रों को किससे प्रेरणा मिली?",
+              "answer": "Compassionate Buddha",
+              "answerHi": "करुणामय बुद्ध",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which term for a monastic establishment is related to Buddhism?",
+              "questionHi": "मठवासी प्रतिष्ठान के लिए कौन सा शब्द बौद्ध धर्म से संबंधित है?",
+              "answer": "Chaitya",
+              "answerHi": "चैत्य",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Where do you find the temple of Angkor Wat?",
+              "questionHi": "अंकोरवाट का मंदिर आपको कहाँ मिलेगा?",
+              "answer": "Cambodia",
+              "answerHi": "कंबोडिया",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The caves of Ajanta and Ellora belonged to which religion?",
+              "questionHi": "अजंता और एलोरा की गुफाएँ किस धर्म से संबंधित थीं?",
+              "answer": "Buddhism",
+              "answerHi": "बौद्ध धर्म",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The subject matter of Ajanta Paintings pertains to what?",
+              "questionHi": "अजंता चित्रों की विषय-वस्तु किससे संबंधित है?",
+              "answer": "Buddhism",
+              "answerHi": "बौद्ध धर्म",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Where has the world's largest monolithic statue of Buddha been installed?",
+              "questionHi": "विश्व की सबसे बड़ी अखंड बुद्ध की मूर्ति कहाँ स्थापित की गई है?",
+              "answer": "Bamiyan",
+              "answerHi": "बामियान",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which Buddhist monk spread Buddhism in Tibet?",
+              "questionHi": "किस बौद्ध भिक्षु ने तिब्बत में बौद्ध धर्म का प्रसार किया?",
+              "answer": "Padmasambhava",
+              "answerHi": "पद्मसंभव",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Buddhism in Nepal was introduced during whose reign?",
+              "questionHi": "नेपाल में बौद्ध धर्म की शुरुआत किसके शासनकाल में हुई?",
+              "answer": "Ashoka",
+              "answerHi": "अशोक",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The 'Ajivikas' were a sect contemporary to whom?",
+              "questionHi": "'आजीवक' किसके समकालीन एक संप्रदाय थे?",
+              "answer": "The Buddha",
+              "answerHi": "बुद्ध",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "During which period of Indian history did the Kshatriyas have a distinct identity?",
+              "questionHi": "भारतीय इतिहास के किस काल में क्षत्रियों की एक अलग पहचान थी?",
+              "answer": "Age of the Buddha",
+              "answerHi": "बुद्ध का युग",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "When did coins made of metal first appear in India?",
+              "questionHi": "भारत में धातु के बने सिक्के सबसे पहले कब दिखाई दिए?",
+              "answer": "Age of the Buddha",
+              "answerHi": "बुद्ध का युग",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In which Buddhist sect did the Gandhara school of art come into existence?",
+              "questionHi": "गांधार कला शैली का उदय किस बौद्ध संप्रदाय में हुआ?",
+              "answer": "Mahayana sect",
+              "answerHi": "महायान संप्रदाय",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who introduced the 'Yavanika' or curtain in Indian theatre?",
+              "questionHi": "भारतीय रंगमंच में 'यवनिका' या पर्दे की शुरुआत किसने की?",
+              "answer": "Greeks",
+              "answerHi": "यूनानी",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Taxila was a famous site of which art form?",
+              "questionHi": "तक्षशिला किस कला का प्रसिद्ध स्थल था?",
+              "answer": "Gandhara art",
+              "answerHi": "गांधार कला",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The school of Indian art that developed during the Kushan Period, also known as the Greco-Roman-Buddhist art, is which school?",
+              "questionHi": "कुषाण काल के दौरान विकसित हुई भारतीय कला की वह शैली कौन सी है, जिसे ग्रीको-रोमन-बौद्ध कला के रूप में भी जाना जाता है?",
+              "answer": "Gandhara Art",
+              "answerHi": "गांधार कला",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In which city was the third Buddhist Council held?",
+              "questionHi": "तीसरी बौद्ध संगीति किस शहर में आयोजित की गई थी?",
+              "answer": "Pataliputra",
+              "answerHi": "पाटलिपुत्र",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In which of Ashoka's inscriptions are Buddhist texts mentioned?",
+              "questionHi": "अशोक के किस शिलालेख में बौद्ध ग्रंथों का उल्लेख है?",
+              "answer": "Bhabru",
+              "answerHi": "भाब्रू",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The Mahabodhi Temple, a pilgrimage site for Buddhists, is in which state?",
+              "questionHi": "महाबोधि मंदिर, बौद्धों का एक तीर्थ स्थल, किस राज्य में है?",
+              "answer": "Bihar",
+              "answerHi": "बिहार",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which planetarium in India is inspired by the architecture of the Sanchi Stupa?",
+              "questionHi": "भारत में कौन सा तारामंडल सांची स्तूप की वास्तुकला से प्रेरित है?",
+              "answer": "Birla Planetarium, Kolkata",
+              "answerHi": "बिरला तारामंडल, कोलकाता",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Whose life-like statues were made under the Gandhara school of art?",
+              "questionHi": "गांधार कला शैली के तहत किसकी जीवंत मूर्तियाँ बनाई गईं?",
+              "answer": "Buddha",
+              "answerHi": "बुद्ध",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which epic poem by Asvaghosa narrates the life of Buddha from birth to Nirvana?",
+              "questionHi": "अश्वघोष की कौन सी महाकाव्य कविता बुद्ध के जन्म से लेकर निर्वाण तक के जीवन का वर्णन करती है?",
+              "answer": "Buddhacharita",
+              "answerHi": "बुद्धचरित",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The concept of 'The Four Noble Truths' belongs to which religion?",
+              "questionHi": "'चार आर्य सत्य' की अवधारणा किस धर्म से संबंधित है?",
+              "answer": "Buddhism",
+              "answerHi": "बौद्ध धर्म",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The religious book 'Tripitaka' is related to which religion?",
+              "questionHi": "धार्मिक ग्रंथ 'त्रिपिटक' किस धर्म से संबंधित है?",
+              "answer": "Buddhism",
+              "answerHi": "बौद्ध धर्म",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Nalanda was an ancient centre of learning for which religion?",
+              "questionHi": "नालंदा किस धर्म के लिए शिक्षा का एक प्राचीन केंद्र था?",
+              "answer": "Buddhism",
+              "answerHi": "बौद्ध धर्म",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The Mahayana text belongs to which religion?",
+              "questionHi": "महायान ग्रंथ किस धर्म से संबंधित है?",
+              "answer": "Buddhism",
+              "answerHi": "बौद्ध धर्म",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The term 'Stupa' is associated with which event in Gautam Buddha's life?",
+              "questionHi": "'स्तूप' शब्द गौतम बुद्ध के जीवन की किस घटना से जुड़ा है?",
+              "answer": "Death",
+              "answerHi": "मृत्यु",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Taxila was the capital of which of the 16 Mahajanpadas?",
+              "questionHi": "तक्षशिला 16 महाजनपदों में से किसकी राजधानी थी?",
+              "answer": "Gandhara",
+              "answerHi": "गांधार",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which art is also known as Greco-Buddhist art?",
+              "questionHi": "किस कला को ग्रीको-बौद्ध कला के रूप में भी जाना जाता है?",
+              "answer": "Gandhara Art",
+              "answerHi": "गांधार कला",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who wrote the 'Nyaya Sutra'?",
+              "questionHi": "'न्याय सूत्र' किसने लिखा?",
+              "answer": "Gautam",
+              "answerHi": "गौतम",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who is also known as the 'Light of Asia'?",
+              "questionHi": "किसे 'एशिया का प्रकाश' भी कहा जाता है?",
+              "answer": "Gautam Buddha",
+              "answerHi": "गौतम बुद्ध",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The paintings of Ajanta depict stories of what?",
+              "questionHi": "अजंता के चित्र किसकी कहानियों को दर्शाते हैं?",
+              "answer": "Jatakas",
+              "answerHi": "जातक",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Buddhism was divided into Mahayana and Hinayana during whose reign?",
+              "questionHi": "किसके शासनकाल में बौद्ध धर्म महायान और हीनयान में विभाजित हो गया?",
+              "answer": "Kanishka",
+              "answerHi": "कनिष्क",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Where did Gautam Buddha pass away (attain Mahaparinirvana)?",
+              "questionHi": "गौतम बुद्ध का महापरिनिर्वाण कहाँ हुआ?",
+              "answer": "Kushinagar",
+              "answerHi": "कुशीनगर",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In which state is 'The Great Stupa of Sanchi' located?",
+              "questionHi": "'सांची का महान स्तूप' किस राज्य में स्थित है?",
+              "answer": "Madhya Pradesh",
+              "answerHi": "मध्य प्रदेश",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "What is the term for the incident of Lord Buddha relinquishing his home?",
+              "questionHi": "भगवान बुद्ध द्वारा गृह त्याग की घटना को क्या कहा जाता है?",
+              "answer": "Mahabhinishkraman",
+              "answerHi": "महाभिनिष्क्रमण",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In which state of India are the Ajanta and Ellora caves situated?",
+              "questionHi": "अजंता और एलोरा की गुफाएँ भारत के किस राज्य में स्थित हैं?",
+              "answer": "Maharashtra",
+              "answerHi": "महाराष्ट्र",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "'Dhamma' is the Pali word for which Sanskrit term?",
+              "questionHi": "'धम्म' किस संस्कृत शब्द का पालि शब्द है?",
+              "answer": "Dharma",
+              "answerHi": "धर्म",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In which language did Gautama Buddha teach?",
+              "questionHi": "गौतम बुद्ध ने किस भाषा में उपदेश दिया?",
+              "answer": "Pali",
+              "answerHi": "पालि",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "What was the real name of Gautam Buddha?",
+              "questionHi": "गौतम बुद्ध का वास्तविक नाम क्या था?",
+              "answer": "Siddhartha",
+              "answerHi": "सिद्धार्थ",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which place is NOT associated with Gautama Buddha?",
+              "questionHi": "कौन सा स्थान गौतम बुद्ध से संबंधित नहीं है?",
+              "answer": "Pawapuri",
+              "answerHi": "पावापुरी",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which site is famous for outstanding specimens of Buddhist art and architecture from the 3rd century B.C. to the 12th century A.D.?",
+              "questionHi": "कौन सा स्थल तीसरी शताब्दी ईसा पूर्व से बारहवीं शताब्दी ईस्वी तक की बौद्ध कला और वास्तुकला के उत्कृष्ट नमूनों के लिए प्रसिद्ध है?",
+              "answer": "Sanchi",
+              "answerHi": "सांची",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In which city of India is the Dhamek Stupa located?",
+              "questionHi": "धमेख स्तूप भारत के किस शहर में स्थित है?",
+              "answer": "Varanasi",
+              "answerHi": "वाराणसी",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The Chaukhandi Stupa, a Buddhist monument, is located in which Indian state?",
+              "questionHi": "चौखंडी स्तूप, एक बौद्ध स्मारक, किस भारतीय राज्य में स्थित है?",
+              "answer": "Uttar Pradesh",
+              "answerHi": "उत्तर प्रदेश",
+              "explanation": "",
+              "explanationHi": ""
+            }
+          ]
+        },
+        {
+          "name": "Ancient History #4 (MAHAJANPADAS)",
+          "nameHi": "प्राचीन इतिहास #4 (महाजनपद)",
+          "icon": "date",
+          "type": "list",
+          "content": [
+            {
+              "question": "Name the Republic states that existed in the 7th and early 6th centuries BC in India.",
+              "questionHi": "भारत में 7वीं और 6वीं शताब्दी ईसा पूर्व में मौजूद गणराज्यों के नाम बताइए।",
+              "answer": "Malla, Vajji, Kamboja and Kuru",
+              "answerHi": "मल्ल, वज्जि, कंबोज और कुरु",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Name the kingdom which first used elephants in wars.",
+              "questionHi": "उस राज्य का नाम बताइए जिसने सबसे पहले युद्धों में हाथियों का इस्तेमाल किया।",
+              "answer": "Magadha",
+              "answerHi": "मगध",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Arrange the following Magadhan dynasties in chronological order.",
+              "questionHi": "निम्नलिखित मगध राजवंशों को कालानुक्रमिक क्रम में व्यवस्थित करें।",
+              "answer": "Haryankas -> Sisunagas -> Nandas -> Mauryas",
+              "answerHi": "हर्यक -> शिशुनाग -> नंद -> मौर्य",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "King Kharvela was the greatest ruler of the Chedi Dynasty of which kingdom?",
+              "questionHi": "राजा खारवेल किस राज्य के चेदि राजवंश के सबसे महान शासक थे?",
+              "answer": "Kalinga",
+              "answerHi": "कलिंग",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Whose army did the Greek ruler Alexander confront on the banks of the river Jhelum?",
+              "questionHi": "यूनानी शासक सिकंदर ने झेलम नदी के तट पर किसकी सेना का सामना किया?",
+              "answer": "Porus",
+              "answerHi": "पोरस",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Alexander and the army of Porus camped on the opposite banks of which river?",
+              "questionHi": "सिकंदर और पोरस की सेना ने किस नदी के विपरीत किनारों पर डेरा डाला था?",
+              "answer": "Jhelum",
+              "answerHi": "झेलम",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who was the tutor of Alexander the Great?",
+              "questionHi": "सिकंदर महान का गुरु कौन था?",
+              "answer": "Aristotle",
+              "answerHi": "अरस्तू",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which ruler murdered his father, Bimbisara, to ascend the throne?",
+              "questionHi": "किस शासक ने सिंहासन पर बैठने के लिए अपने पिता बिंबिसार की हत्या कर दी?",
+              "answer": "Ajatasatru",
+              "answerHi": "अजातशत्रु",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who wrote the grammatical work Ashtadhyayi, the first grammar book of the Sanskrit language?",
+              "questionHi": "संस्कृत भाषा की पहली व्याकरण पुस्तक, 'अष्टाध्यायी' की रचना किसने की?",
+              "answer": "Panini",
+              "answerHi": "पाणिनि",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Where was the home of Gargi, Maitreyi, and Kapila?",
+              "questionHi": "गार्गी, मैत्रेयी और कपिल का घर कहाँ था?",
+              "answer": "Mithila",
+              "answerHi": "मिथिला",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Where was the capital of Gandhara, one of the sixteen Mahajanpadas?",
+              "questionHi": "सोलह महाजनपदों में से एक, गांधार की राजधानी कहाँ थी?",
+              "answer": "Takshashila",
+              "answerHi": "तक्षशिला",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Why did the rajas of the Mahajanpadas build forts?",
+              "questionHi": "महाजनपदों के राजाओं ने किले क्यों बनवाए?",
+              "answer": "For security",
+              "answerHi": "सुरक्षा के लिए",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Taxila University is currently located in which country?",
+              "questionHi": "तक्षशिला विश्वविद्यालय वर्तमान में किस देश में स्थित है?",
+              "answer": "Pakistan",
+              "answerHi": "पाकिस्तान",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "What were 'Shrenis' in ancient India?",
+              "questionHi": "प्राचीन भारत में 'श्रेणी' क्या थीं?",
+              "answer": "Associations of merchants",
+              "answerHi": "व्यापारियों के संघ",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which was the most important Mahajanpada?",
+              "questionHi": "सबसे महत्वपूर्ण महाजनपद कौन सा था?",
+              "answer": "Magadha",
+              "answerHi": "मगध",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "How many great powers (Mahajanpadas) existed in the 7th and early 6th centuries BC, during the lifetime of Lord Gautam Buddha?",
+              "questionHi": "भगवान गौतम बुद्ध के जीवनकाल के दौरान 7वीं और 6वीं शताब्दी ईसा पूर्व में कितनी महाशक्तियाँ (महाजनपद) मौजूद थीं?",
+              "answer": "16",
+              "answerHi": "16",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which king inscribed the Hathigumpha (Elephant Cave) inscription in Udayagiri Hills?",
+              "questionHi": "किस राजा ने उदयगिरि पहाड़ियों में हाथीगुम्फा (हाथी गुफा) शिलालेख अंकित करवाया?",
+              "answer": "Kharavela",
+              "answerHi": "खारवेल",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "While Magadha was a powerful Mahajanapada, Vajji, with its capital at Vaishali, was under a different form of government known as what?",
+              "questionHi": "मगध एक शक्तिशाली महाजनपद था, जबकि वज्जि, जिसकी राजधानी वैशाली थी, एक अलग प्रकार की सरकार के अधीन था जिसे क्या कहा जाता था?",
+              "answer": "Gana or Sangha",
+              "answerHi": "गण या संघ",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "'Garha Katanga' was the kingdom of which tribe?",
+              "questionHi": "'गढ़ कटंगा' किस जनजाति का राज्य था?",
+              "answer": "Gond",
+              "answerHi": "गोंड",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which Buddhist scripture describes about 16 Mahajanapadas?",
+              "questionHi": "कौन सा बौद्ध ग्रंथ 16 महाजनपदों का वर्णन करता है?",
+              "answer": "Anguttara Nikaya",
+              "answerHi": "अंगुत्तर निकाय",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In which year did Alexander the Great invade India?",
+              "questionHi": "सिकंदर महान ने भारत पर किस वर्ष आक्रमण किया था?",
+              "answer": "326 BC",
+              "answerHi": "326 ईसा पूर्व",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The famous physician Jeevaka was appointed by the court of whom?",
+              "questionHi": "प्रसिद्ध चिकित्सक जीवक किसके दरबार द्वारा नियुक्त किया गया था?",
+              "answer": "Bimbisara",
+              "answerHi": "बिम्बिसार",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who was called 'Agrammes' or 'Xandrames' by Greek writers?",
+              "questionHi": "यूनानी लेखकों द्वारा किसे 'अग्रमीज' या 'ज़ैंड्रमीज' कहा जाता था?",
+              "answer": "Dhanananda",
+              "answerHi": "धनानंद",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "'Ashtadhyayi', the famous book by Panini, is associated with which field?",
+              "questionHi": "पाणिनि की प्रसिद्ध पुस्तक 'अष्टाध्यायी' किस क्षेत्र से संबंधित है?",
+              "answer": "Grammar",
+              "answerHi": "व्याकरण",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The Battle of ______ was fought in 326 BC by Alexander the Great against King Porus.",
+              "questionHi": "______ की लड़ाई 326 ईसा पूर्व में सिकंदर महान ने राजा पोरस के खिलाफ लड़ी थी।",
+              "answer": "Hydaspes",
+              "answerHi": "हाइडेस्पीज",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who was the first ruler of the Nanda dynasty?",
+              "questionHi": "नंद वंश का पहला शासक कौन था?",
+              "answer": "Mahapadma Nanda",
+              "answerHi": "महापद्म नंद",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which Greek travel book lists the ports situated along the Indian coastline?",
+              "questionHi": "कौन सी यूनानी यात्रा पुस्तक भारतीय तटरेखा पर स्थित बंदरगाहों को सूचीबद्ध करती है?",
+              "answer": "Periplus Maris Erythraei",
+              "answerHi": "पेरिप्लस मैरिस एरिथ्रेई",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Name the Haryanka dynasty ruler who was the son of Ajatashatru and laid the foundation of Pataliputra.",
+              "questionHi": "हर्यक वंश के उस शासक का नाम बताइए जो अजातशत्रु का पुत्र था और जिसने पाटलिपुत्र शहर की नींव रखी थी।",
+              "answer": "Udayin",
+              "answerHi": "उदायिन",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which area of India was known as Avantika in ancient times?",
+              "questionHi": "प्राचीन काल में भारत का कौन सा क्षेत्र अवंतिका के नाम से जाना जाता था?",
+              "answer": "Malwa (Ujjain)",
+              "answerHi": "मालवा (उज्जैन)",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Kamarupa is an ancient name of which region of India?",
+              "questionHi": "कामरूप भारत के किस क्षेत्र का प्राचीन नाम है?",
+              "answer": "Assam",
+              "answerHi": "असम",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "'Purushapura' is the other name for which city?",
+              "questionHi": "'पुरुषपुर' किस शहर का दूसरा नाम है?",
+              "answer": "Peshawar",
+              "answerHi": "पेशावर",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "How was Burma (now Myanmar) known to ancient Indians?",
+              "questionHi": "प्राचीन भारतीय बर्मा (अब म्यांमार) को किस नाम से जानते थे?",
+              "answer": "Suvarnabhumi",
+              "answerHi": "सुवर्णभूमि",
+              "explanation": "",
+              "explanationHi": ""
+            }
+          ]
         }
       ]
     }
