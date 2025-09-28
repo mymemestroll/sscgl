@@ -9989,7 +9989,1502 @@
             }
           ]
         },
-    
+        {
+          "name": "Modern History #11 (Prominent Leaders/Personalities)",
+          "nameHi": "आधुनिक इतिहास #11 (प्रमुख नेता/व्यक्तित्व)",
+          "icon": "date",
+          "type": "list",
+          "content": [
+            {
+              "question": "Who created the painting 'My Mother'?",
+              "questionHi": "'माई मदर' नामक पेंटिंग किसने बनाई?",
+              "answer": "Abanindranath Tagore",
+              "answerHi": "अवनींद्रनाथ टैगोर",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Maulana Abul Kalam Azad started the Urdu weekly 'Al-Hilal' in 1912, but after it was banned, he founded 'Al-Balagh' in which year?",
+              "questionHi": "मौलाना अबुल कलाम आज़ाद ने 1912 में उर्दू साप्ताहिक 'अल-हिलाल' शुरू किया, लेकिन सरकार द्वारा प्रतिबंधित किए जाने पर, उन्होंने किस वर्ष 'अल-बलाघ' की स्थापना की?",
+              "answer": "1915",
+              "answerHi": "1915",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "'India Wins Freedom' is the autobiography of whom?",
+              "questionHi": "'इंडिया विन्स फ्रीडम' किसकी आत्मकथा है?",
+              "answer": "Abul Kalam Azad",
+              "answerHi": "अबुल कलाम आज़ाद",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who was the first person to be selected for 'Individual Satyagraha' during the Indian Independence Movement?",
+              "questionHi": "भारतीय स्वतंत्रता आंदोलन के दौरान 'व्यक्तिगत सत्याग्रह' के लिए चुने जाने वाले पहले व्यक्ति कौन थे?",
+              "answer": "Acharya Vinoba Bhave",
+              "answerHi": "आचार्य विनोबा भावे",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who is known as the 'Father of Indian Ornithology'?",
+              "questionHi": "'भारतीय पक्षीविज्ञान के जनक' के रूप में किसे जाना जाता है?",
+              "answer": "Allan Octavian Hume",
+              "answerHi": "एलन ऑक्टेवियन ह्यूम",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which retired British Civil Service Officer took the initiative to convene the first meeting of the Indian National Union?",
+              "questionHi": "किस सेवानिवृत्त ब्रिटिश सिविल सेवा अधिकारी ने भारतीय राष्ट्रीय संघ की पहली बैठक बुलाने की पहल की?",
+              "answer": "Allan Octavian Hume",
+              "answerHi": "एलन ऑक्टेवियन ह्यूम",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who started the newspaper 'Mooknayak' in the year 1920?",
+              "questionHi": "वर्ष 1920 में 'मूकनायक' समाचार पत्र किसने शुरू किया?",
+              "answer": "B. R. Ambedkar",
+              "answerHi": "बी. आर. अम्बेडकर",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who attended all three Round Table Conferences?",
+              "questionHi": "तीनों गोलमेज सम्मेलनों में किसने भाग लिया?",
+              "answer": "B.R. Ambedkar",
+              "answerHi": "बी.आर. अम्बेडकर",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who founded the 'All India Depressed Classes Federation' in 1920?",
+              "questionHi": "1920 में 'अखिल भारतीय दलित वर्ग महासंघ' की स्थापना किसने की?",
+              "answer": "B.R. Ambedkar",
+              "answerHi": "बी.आर. अम्बेडकर",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who started the temple entry movement in 1927?",
+              "questionHi": "1927 में मंदिर प्रवेश आंदोलन किसने शुरू किया?",
+              "answer": "Bhimrao Ambedkar",
+              "answerHi": "भीमराव अम्बेडकर",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who was the first Law Minister of Independent India?",
+              "questionHi": "स्वतंत्र भारत के पहले कानून मंत्री कौन थे?",
+              "answer": "Bhimrao Ramji Ambedkar",
+              "answerHi": "भीमराव रामजी अम्बेडकर",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who started the Marathi fortnightly newspaper 'Bahishkrit Bharat'?",
+              "questionHi": "मराठी पाक्षिक समाचार पत्र 'बहिष्कृत भारत' किसने शुरू किया?",
+              "answer": "Dr. B. R. Ambedkar",
+              "answerHi": "डॉ. बी. आर. अम्बेडकर",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The Poona Pact of 1932 was signed between whom?",
+              "questionHi": "1932 का पूना समझौता किसके बीच हुआ था?",
+              "answer": "Dr. B.R. Ambedkar and Mahatma Gandhi",
+              "answerHi": "डॉ. बी.आर. अम्बेडकर और महात्मा गांधी",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "On what date was Aurobindo Ghose born in Calcutta?",
+              "questionHi": "कलकत्ता में अरबिंदो घोष का जन्म किस तारीख को हुआ था?",
+              "answer": "15th August, 1872",
+              "answerHi": "15 अगस्त, 1872",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "After his release from jail in 1909, which two weeklies did Aurobindo Ghose start?",
+              "questionHi": "1909 में जेल से रिहा होने के बाद, अरबिंदो घोष ने कौन से दो साप्ताहिक पत्र शुरू किए?",
+              "answer": "'Karmayogin' in English and 'Dharma' in Bengali",
+              "answerHi": "अंग्रेजी में 'कर्मयोगिन' और बंगाली में 'धर्म'",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Aurobindo Ghose was arrested in connection with which case?",
+              "questionHi": "अरबिंदो घोष को किस मामले के सिलसिले में गिरफ्तार किया गया था?",
+              "answer": "Alipore Bomb Case",
+              "answerHi": "अलीपुर बम कांड",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who was the first propounder of the Doctrine of Passive Resistance?",
+              "questionHi": "निष्क्रिय प्रतिरोध के सिद्धांत के पहले प्रस्तावक कौन थे?",
+              "answer": "Aurobindo Ghosh",
+              "answerHi": "अरबिंदो घोष",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who was the founder of the Swatantra Party?",
+              "questionHi": "स्वतंत्र पार्टी के संस्थापक कौन थे?",
+              "answer": "C. Rajagopalachari",
+              "answerHi": "सी. राजगोपालाचारी",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who was the first and last Indian Governor-General of India?",
+              "questionHi": "भारत के पहले और अंतिम भारतीय गवर्नर-जनरल कौन थे?",
+              "answer": "C. Rajagopalachari",
+              "answerHi": "सी. राजगोपालाचारी",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "'Deshbandhu' is the title of whom?",
+              "questionHi": "'देशबंधु' किसकी उपाधि है?",
+              "answer": "C.R. Das",
+              "answerHi": "सी.आर. दास",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which leader of India's freedom movement was called the 'Grand Old Man of India'?",
+              "questionHi": "भारत के स्वतंत्रता आंदोलन के किस नेता को 'भारत का ग्रैंड ओल्ड मैन' कहा जाता था?",
+              "answer": "Dadabhai Naoroji",
+              "answerHi": "दादाभाई नौरोजी",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who was the first Indian to be elected as a Member of the British House of Commons?",
+              "questionHi": "ब्रिटिश हाउस ऑफ कॉमन्स के सदस्य के रूप में चुने जाने वाले पहले भारतीय कौन थे?",
+              "answer": "Dadabhai Naoroji",
+              "answerHi": "दादाभाई नौरोजी",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who propounded the theory of 'Drain of Wealth' from India to Great Britain?",
+              "questionHi": "भारत से ग्रेट ब्रिटेन में 'धन के निष्कासन' का सिद्धांत किसने प्रतिपादित किया?",
+              "answer": "Dadabhai Naoroji",
+              "answerHi": "दादाभाई नौरोजी",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who authored the book 'Poverty and Un-British Rule in India'?",
+              "questionHi": "'पॉवर्टी एंड अन-ब्रिटिश रूल इन इंडिया' पुस्तक के लेखक कौन थे?",
+              "answer": "Dadabhai Naoroji",
+              "answerHi": "दादाभाई नौरोजी",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In which book did Dadabhai Naoroji describe his theory of 'Drain of Wealth'?",
+              "questionHi": "दादाभाई नौरोजी ने अपनी 'धन के निष्कासन' के सिद्धांत का वर्णन किस पुस्तक में किया है?",
+              "answer": "'Poverty and Un-British Rule in India'",
+              "answerHi": "'पॉवर्टी एंड अन-ब्रिटिश रूल इन इंडिया'",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "According to Dadabhai Naoroji, what did 'Swaraj' mean?",
+              "questionHi": "दादाभाई नौरोजी के अनुसार, 'स्वराज' का क्या अर्थ था?",
+              "answer": "Self-government",
+              "answerHi": "स्व-शासन",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who was the founder of the 'Servants of India Society'?",
+              "questionHi": "'सर्वेंट्स ऑफ इंडिया सोसाइटी' के संस्थापक कौन थे?",
+              "answer": "Gopal Krishna Gokhale",
+              "answerHi": "गोपाल कृष्ण गोखले",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Whom did Gandhiji regard as his political Guru?",
+              "questionHi": "गांधीजी किसे अपना राजनीतिक गुरु मानते थे?",
+              "answer": "Gopal Krishna Gokhale",
+              "answerHi": "गोपाल कृष्ण गोखले",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who was given the title 'Quaid-i-Azam'?",
+              "questionHi": "'कायद-ए-आजम' की उपाधि किसे दी गई थी?",
+              "answer": "Muhammad Ali Jinnah",
+              "answerHi": "मुहम्मद अली जिन्ना",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who was in favour of a party-less democracy?",
+              "questionHi": "दल-विहीन लोकतंत्र के पक्ष में कौन था?",
+              "answer": "Jai Prakash Narayan",
+              "answerHi": "जय प्रकाश नारायण",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who is associated with the term 'Loknayak' in India?",
+              "questionHi": "भारत में 'लोकनायक' शब्द से कौन जुड़ा है?",
+              "answer": "Jay Prakash Narayan",
+              "answerHi": "जय प्रकाश नारायण",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who wrote the book 'Prison Diary'?",
+              "questionHi": "'प्रिजन डायरी' पुस्तक किसने लिखी?",
+              "answer": "Jaya Prakash Narayan",
+              "answerHi": "जय प्रकाश नारायण",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who is referred to as 'Frontier Gandhi'?",
+              "questionHi": "'सीमांत गांधी' के रूप में किसे जाना जाता है?",
+              "answer": "Khan Abdul Ghaffar Khan",
+              "answerHi": "खान अब्दुल गफ्फार खान",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In the context of the Indian National Movement, who was known as 'Frontier Gandhi'?",
+              "questionHi": "भारतीय राष्ट्रीय आंदोलन के संदर्भ में, 'सीमांत गांधी' के रूप में किसे जाना जाता था?",
+              "answer": "Khan Abdul Ghaffar Khan",
+              "answerHi": "खान अब्दुल गफ्फार खान",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The arrest of whom in 1930 led to angry demonstrations in the streets of Peshawar?",
+              "questionHi": "1930 में किसकी गिरफ्तारी के कारण पेशावर की सड़कों पर उग्र प्रदर्शन हुए?",
+              "answer": "Khan Abdul Ghaffar Khan",
+              "answerHi": "खान अब्दुल गफ्फार खान",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "By which other name was Khan Abdul Ghaffar Khan also known?",
+              "questionHi": "खान अब्दुल गफ्फार खान को और किस नाम से जाना जाता था?",
+              "answer": "Badshah Khan",
+              "answerHi": "बादशाह खान",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who was given the title of 'Punjab Kesari'?",
+              "questionHi": "'पंजाब केसरी' की उपाधि किसे दी गई थी?",
+              "answer": "Lala Lajpat Rai",
+              "answerHi": "लाला लाजपत राय",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "To whom does the quote 'The shots that hit me are the last nails to the coffin of British rule in India' belong?",
+              "questionHi": "यह कथन किसका है 'मेरे शरीर पर पड़ी एक-एक लाठी ब्रिटिश सरकार के ताबूत में एक-एक कील का काम करेगी'?",
+              "answer": "Lala Lajpat Rai",
+              "answerHi": "लाला लाजपत राय",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In which year was Lala Lajpat Rai deported to Mandalay for organising the agrarian movement in Punjab?",
+              "questionHi": "पंजाब में कृषि आंदोलन आयोजित करने के लिए लाला लाजपत राय को किस वर्ष मांडले निर्वासित किया गया था?",
+              "answer": "1907",
+              "answerHi": "1907",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who was the first Indian to be elected as the leader of the Communist International?",
+              "questionHi": "कम्युनिस्ट इंटरनेशनल के नेता के रूप में चुने जाने वाले पहले भारतीय कौन थे?",
+              "answer": "M.N. Roy",
+              "answerHi": "एम.एन. रॉय",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In which year was Mahatma Gandhi first arrested during 'Satyagraha'?",
+              "questionHi": "'सत्याग्रह' के दौरान महात्मा गांधी को पहली बार किस वर्ष गिरफ्तार किया गया था?",
+              "answer": "1908",
+              "answerHi": "1908",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In which year did Gandhiji establish the Sabarmati Ashram in Gujarat?",
+              "questionHi": "गांधीजी ने गुजरात में साबरमती आश्रम की स्थापना किस वर्ष की?",
+              "answer": "1917",
+              "answerHi": "1917",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In which year did Gandhiji start the Satyagraha Movement?",
+              "questionHi": "गांधीजी ने सत्याग्रह आंदोलन किस वर्ष शुरू किया?",
+              "answer": "1917",
+              "answerHi": "1917",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "What was the ultimate goal of Mahatma Gandhi's Salt Satyagraha?",
+              "questionHi": "महात्मा गांधी के नमक सत्याग्रह का अंतिम लक्ष्य क्या था?",
+              "answer": "'Purna Swaraj' for India",
+              "answerHi": "भारत के लिए 'पूर्ण स्वराज'",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which leaders are associated with the Champaran Satyagraha?",
+              "questionHi": "चंपारण सत्याग्रह से कौन से नेता जुड़े हैं?",
+              "answer": "Anugrah Narayan Sinha, J.B. Kripalani, Brajkishore Prasad",
+              "answerHi": "अनुग्रह नारायण सिन्हा, जे.बी. कृपलानी, ब्रजकिशोर प्रसाद",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In which year did Mahatma Gandhi form the Natal Indian Congress?",
+              "questionHi": "महात्मा गांधी ने नेटाल भारतीय कांग्रेस का गठन किस वर्ष किया?",
+              "answer": "1894",
+              "answerHi": "1894",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "For how many days did Mahatma Gandhi's volunteers walk during the Salt Satyagraha?",
+              "questionHi": "नमक सत्याग्रह के दौरान महात्मा गांधी के स्वयंसेवक कितने दिनों तक चले?",
+              "answer": "24",
+              "answerHi": "24",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "What was the approximate distance that Mahatma Gandhi marched for the Salt Satyagraha Movement?",
+              "questionHi": "महात्मा गांधी ने नमक सत्याग्रह आंदोलन के लिए लगभग कितनी दूरी तय की?",
+              "answer": "241 miles",
+              "answerHi": "241 मील",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "When Mahatma Gandhi was arrested, who took over the leadership of the Salt Satyagraha?",
+              "questionHi": "जब महात्मा गांधी को गिरफ्तार कर लिया गया, तो नमक सत्याग्रह का नेतृत्व किसने संभाला?",
+              "answer": "Abbas Tyabji",
+              "answerHi": "अब्बास तैयबजी",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Through what did Gandhi want to realise 'truth'?",
+              "questionHi": "गांधीजी 'सत्य' को किसके माध्यम से महसूस करना चाहते थे?",
+              "answer": "Ahimsa (Non-violence)",
+              "answerHi": "अहिंसा",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In 1918, where did Mahatma Gandhi go to organise a satyagraha movement amongst cotton mill workers?",
+              "questionHi": "1918 में, महात्मा गांधी सूती मिल श्रमिकों के बीच सत्याग्रह आंदोलन आयोजित करने के लिए कहाँ गए थे?",
+              "answer": "Ahmedabad",
+              "answerHi": "अहमदाबाद",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In which movement did Mahatma Gandhi first use a hunger strike as a weapon?",
+              "questionHi": "महात्मा गांधी ने पहली बार भूख हड़ताल को हथियार के रूप में किस आंदोलन में इस्तेमाल किया?",
+              "answer": "Ahmedabad Strike, 1918",
+              "answerHi": "अहमदाबाद हड़ताल, 1918",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "When Mahatma Gandhi was assassinated, who said, 'None will believe that a man like this in body and soul ever walked on this earth'?",
+              "questionHi": "जब महात्मा गांधी की हत्या हुई, तो किसने कहा, 'कोई विश्वास नहीं करेगा कि इस जैसा कोई व्यक्ति शरीर और आत्मा से कभी इस धरती पर चला था'?",
+              "answer": "Albert Einstein",
+              "answerHi": "अल्बर्ट आइंस्टीन",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "How could a satyagrahi win a battle with non-violence?",
+              "questionHi": "एक सत्याग्रही अहिंसा से लड़ाई कैसे जीत सकता है?",
+              "answer": "By appealing to the conscience of the oppressors",
+              "answerHi": "उत्पीड़कों की अंतरात्मा से अपील करके",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The Poona Pact was signed between Mahatma Gandhi and whom?",
+              "questionHi": "पूना पैक्ट महात्मा गांधी और किसके बीच हुआ था?",
+              "answer": "B. R. Ambedkar",
+              "answerHi": "बी. आर. अम्बेडकर",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The only AICC session Gandhiji presided over was held at which place?",
+              "questionHi": "एकमात्र AICC सत्र जिसकी अध्यक्षता गांधीजी ने की, वह किस स्थान पर आयोजित किया गया था?",
+              "answer": "Belgaum",
+              "answerHi": "बेलगाम",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which scripture did Gandhiji call his 'mother'?",
+              "questionHi": "गांधीजी ने किस ग्रंथ को अपनी 'माँ' कहा?",
+              "answer": "Bhagavad Gita",
+              "answerHi": "भगवद् गीता",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Apart from Mahatma Gandhi, who was the other prominent personality to protest against untouchability in India?",
+              "questionHi": "महात्मा गांधी के अलावा, भारत में अस्पृश्यता का विरोध करने वाले दूसरे प्रमुख व्यक्तित्व कौन थे?",
+              "answer": "Bhimrao Ambedkar",
+              "answerHi": "भीमराव अम्बेडकर",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Where was Gandhiji's first satyagraha for the cause of indigo farmers against the Tinkathia system observed?",
+              "questionHi": "तिनकठिया प्रणाली के खिलाफ नील किसानों के लिए गांधीजी का पहला सत्याग्रह कहाँ हुआ था?",
+              "answer": "Champaran",
+              "answerHi": "चंपारण",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The Gandhi-Irwin Pact, signed on 5th March 1931, is associated with which movement?",
+              "questionHi": "5 मार्च 1931 को हस्ताक्षरित गांधी-इरविन समझौता किस आंदोलन से जुड़ा है?",
+              "answer": "Civil Disobedience Movement",
+              "answerHi": "सविनय अवज्ञा आंदोलन",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Gandhi's 'Dandi March' or 'Salt Satyagraha', which started from Sabarmati Ashram, is associated with which movement?",
+              "questionHi": "गांधीजी का 'दांडी मार्च' या 'नमक सत्याग्रह', जो साबरमती आश्रम से शुरू हुआ, किस आंदोलन से जुड़ा है?",
+              "answer": "Civil Disobedience Movement",
+              "answerHi": "सविनय अवज्ञा आंदोलन",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "On September 20, 1932, against what did Mahatma Gandhi begin a fast unto death in Yervada Jail?",
+              "questionHi": "20 सितंबर, 1932 को, महात्मा गांधी ने यरवदा जेल में किसके खिलाफ आमरण अनशन शुरू किया?",
+              "answer": "The Communal Award of Ramsay MacDonald",
+              "answerHi": "रैम्से मैकडोनाल्ड का सांप्रदायिक पुरस्कार",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Of what was Gandhiji a staunch supporter?",
+              "questionHi": "गांधीजी किसके कट्टर समर्थक थे?",
+              "answer": "Cottage industries",
+              "answerHi": "कुटीर उद्योग",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The Dandi March of Gandhi is an example of what?",
+              "questionHi": "गांधीजी का दांडी मार्च किसका उदाहरण है?",
+              "answer": "Direct Action",
+              "answerHi": "प्रत्यक्ष कार्रवाई",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Why did Gandhiji oppose the Communal Award?",
+              "questionHi": "गांधीजी ने सांप्रदायिक पुरस्कार का विरोध क्यों किया?",
+              "answer": "He thought it would bring division in Hindu society.",
+              "answerHi": "उन्हें लगा कि इससे हिंदू समाज में विभाजन आ जाएगा।",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Whom did Gandhiji call 'Ajatshatru'?",
+              "questionHi": "गांधीजी ने किसे 'अजातशत्रु' कहा?",
+              "answer": "Dr. Rajendra Prasad",
+              "answerHi": "डॉ. राजेंद्र प्रसाद",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In which city of South Africa was Gandhi beaten up and thrown off the pavement by white people?",
+              "questionHi": "दक्षिण अफ्रीका के किस शहर में गांधीजी को गोरे लोगों ने पीटकर फुटपाथ से फेंक दिया था?",
+              "answer": "Durban",
+              "answerHi": "डरबन",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "What did Gandhiji consider Khadi a symbol of?",
+              "questionHi": "गांधीजी खादी को किसका प्रतीक मानते थे?",
+              "answer": "Economic independence",
+              "answerHi": "आर्थिक स्वतंत्रता",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who was the author of the book 'My Experiments with Truth'?",
+              "questionHi": "'माई एक्सपेरिमेंट्स विद ट्रुथ' पुस्तक के लेखक कौन थे?",
+              "answer": "Gandhi",
+              "answerHi": "गांधी",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who coined the term 'Satyagraha'?",
+              "questionHi": "'सत्याग्रह' शब्द किसने गढ़ा?",
+              "answer": "Gandhi",
+              "answerHi": "गांधी",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who stated, 'There are no politics devoid of religion'?",
+              "questionHi": "किसने कहा, 'धर्म से रहित कोई राजनीति नहीं है'?",
+              "answer": "Gandhi",
+              "answerHi": "गांधी",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who declared as his ultimate aim 'the wiping of every tear from every eye'?",
+              "questionHi": "किसने अपना अंतिम लक्ष्य 'हर आंख से हर आंसू पोंछना' घोषित किया?",
+              "answer": "Gandhiji",
+              "answerHi": "गांधीजी",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who termed the Cripps' proposals as 'a post-dated cheque on a crashing bank'?",
+              "questionHi": "क्रिप्स के प्रस्तावों को 'एक ढहते बैंक पर पोस्ट-डेटेड चेक' किसने कहा?",
+              "answer": "Gandhiji",
+              "answerHi": "गांधीजी",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who gave the title of 'Sardar' to Vallabhbhai Patel?",
+              "questionHi": "वल्लभभाई पटेल को 'सरदार' की उपाधि किसने दी?",
+              "answer": "Gandhiji",
+              "answerHi": "गांधीजी",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who visited Gandhiji in South Africa?",
+              "questionHi": "दक्षिण अफ्रीका में गांधीजी से मिलने कौन गया?",
+              "answer": "Gopal Krishna Gokhale",
+              "answerHi": "गोपाल कृष्ण गोखले",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "What was not advocated by Mahatma Gandhi?",
+              "questionHi": "महात्मा गांधी ने किसकी वकालत नहीं की?",
+              "answer": "Heavy Industries",
+              "answerHi": "भारी उद्योग",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which paper was published by Gandhiji during his stay in South Africa?",
+              "questionHi": "दक्षिण अफ्रीका में अपने प्रवास के दौरान गांधीजी द्वारा कौन सा समाचार पत्र प्रकाशित किया गया था?",
+              "answer": "Indian Opinion",
+              "answerHi": "इंडियन ओपिनियन",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who was affectionately called 'Ba'?",
+              "questionHi": "किसे प्यार से 'बा' कहा जाता था?",
+              "answer": "Kasturba Gandhi",
+              "answerHi": "कस्तूरबा गांधी",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "What was M. K. Gandhi's profession?",
+              "questionHi": "एम. के. गांधी का पेशा क्या था?",
+              "answer": "Lawyer",
+              "answerHi": "वकील",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Mahatma Gandhi was profoundly influenced by the writings of whom?",
+              "questionHi": "महात्मा गांधी किसके लेखन से बहुत प्रभावित थे?",
+              "answer": "Leo Tolstoy",
+              "answerHi": "लियो टॉलस्टॉय",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "With whom did M.K. Gandhi attend a high-level meeting on behalf of the INC to negotiate constitutional reforms on 5 March 1931?",
+              "questionHi": "5 मार्च 1931 को संवैधानिक सुधारों पर बातचीत के लिए INC की ओर से एम.के. गांधी ने किसके साथ एक उच्च स्तरीय बैठक में भाग लिया?",
+              "answer": "Lord Irwin",
+              "answerHi": "लॉर्ड इरविन",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who said, 'Truth is the ultimate reality and it is God'?",
+              "questionHi": "किसने कहा, 'सत्य ही परम वास्तविकता है और वही ईश्वर है'?",
+              "answer": "M.K. Gandhi",
+              "answerHi": "एम.के. गांधी",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who is the founder of the concept of 'Sarvodaya'?",
+              "questionHi": "'सर्वोदय' की अवधारणा के संस्थापक कौन हैं?",
+              "answer": "Mahatma Gandhi",
+              "answerHi": "महात्मा गांधी",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "After the Bardoli Satyagraha, who gave the title of 'Sardar' to Vallabhbhai Patel?",
+              "questionHi": "बारदोली सत्याग्रह के बाद, वल्लभभाई पटेल को 'सरदार' की उपाधि किसने दी?",
+              "answer": "Mahatma Gandhi",
+              "answerHi": "महात्मा गांधी",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who gave the title of 'Mahamana' to Madan Mohan Malviya?",
+              "questionHi": "मदन मोहन मालवीय को 'महामना' की उपाधि किसने दी?",
+              "answer": "Mahatma Gandhi",
+              "answerHi": "महात्मा गांधी",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who gave the title 'Nightingale of India' to Sarojini Naidu?",
+              "questionHi": "सरोजिनी नायडू को 'भारत कोकिला' की उपाधि किसने दी?",
+              "answer": "Mahatma Gandhi",
+              "answerHi": "महात्मा गांधी",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who was awarded the 'Kaisar-i-Hind' in 1915 by Lord Hardinge for his contribution to ambulance services in South Africa?",
+              "questionHi": "दक्षिण अफ्रीका में एम्बुलेंस सेवाओं में उनके योगदान के लिए 1915 में लॉर्ड हार्डिंग द्वारा किसे 'कैसर-ए-हिंद' से सम्मानित किया गया?",
+              "answer": "Mahatma Gandhi",
+              "answerHi": "महात्मा गांधी",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who said, 'A flag is a necessity for all nations. Millions have died for it'?",
+              "questionHi": "किसने कहा, 'एक ध्वज सभी राष्ट्रों के लिए एक आवश्यकता है। लाखों लोग इसके लिए मरे हैं'?",
+              "answer": "Mahatma Gandhi",
+              "answerHi": "महात्मा गांधी",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who said, 'Sanitation is more important than independence'?",
+              "questionHi": "किसने कहा, 'स्वच्छता स्वतंत्रता से अधिक महत्वपूर्ण है'?",
+              "answer": "Mahatma Gandhi",
+              "answerHi": "महात्मा गांधी",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who developed the idea that 'means justify the ends'?",
+              "questionHi": "यह विचार किसने विकसित किया कि 'साधन ही साध्य को उचित ठहराते हैं'?",
+              "answer": "Mahatma Gandhi",
+              "answerHi": "महात्मा गांधी",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who said that 'the real seat of taste is not the tongue, but the mind'?",
+              "questionHi": "किसने कहा कि 'स्वाद का वास्तविक स्थान जीभ नहीं, बल्कि मन है'?",
+              "answer": "Mahatma Gandhi",
+              "answerHi": "महात्मा गांधी",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who was the editor of 'Young India' and 'Harijan'?",
+              "questionHi": "'यंग इंडिया' और 'हरिजन' के संपादक कौन थे?",
+              "answer": "Mahatma Gandhi",
+              "answerHi": "महात्मा गांधी",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who said that 'India's soul lives in villages'?",
+              "questionHi": "किसने कहा कि 'भारत की आत्मा गांवों में बसती है'?",
+              "answer": "Mahatma Gandhi",
+              "answerHi": "महात्मा गांधी",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who said, 'Earth provides enough to satisfy every man's need, but not every man's greed'?",
+              "questionHi": "किसने कहा, 'पृथ्वी हर आदमी की जरूरत को पूरा करने के लिए पर्याप्त प्रदान करती है, लेकिन हर आदमी के लालच को नहीं'?",
+              "answer": "Mahatma Gandhi",
+              "answerHi": "महात्मा गांधी",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who wrote Gandhiji's favorite song, 'Vaishnav Jan To'?",
+              "questionHi": "गांधीजी का पसंदीदा गीत 'वैष्णव जन तो' किसने लिखा?",
+              "answer": "Narsinh Mehta",
+              "answerHi": "नरसिंह मेहता",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "According to Mahatma Gandhi, what is the strongest force in the world?",
+              "questionHi": "महात्मा गांधी के अनुसार, दुनिया में सबसे मजबूत ताकत क्या है?",
+              "answer": "Non-violence of the brave",
+              "answerHi": "बहादुरों की अहिंसा",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In 1918, Mahatma Gandhi organised a Satyagraha in the Kheda district of Gujarat in support of whom?",
+              "questionHi": "1918 में, महात्मा गांधी ने गुजरात के खेड़ा जिले में किसके समर्थन में सत्याग्रह का आयोजन किया?",
+              "answer": "The peasants who were affected by crop failure and a plague epidemic",
+              "answerHi": "वे किसान जो फसल खराब होने और प्लेग महामारी से प्रभावित थे",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "According to Mahatma Gandhi, what two things must go hand in hand?",
+              "questionHi": "महात्मा गांधी के अनुसार, कौन सी दो चीजें साथ-साथ चलनी चाहिए?",
+              "answer": "Politics and religion",
+              "answerHi": "राजनीति और धर्म",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which Directive Principle bears the direct impact of Gandhi's moral philosophy?",
+              "questionHi": "किस निदेशक सिद्धांत पर गांधी के नैतिक दर्शन का सीधा प्रभाव है?",
+              "answer": "Prohibition of the slaughter of cows",
+              "answerHi": "गायों के वध पर प्रतिबंध",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "What was the aim of Gandhiji's movement of boycotting foreign goods?",
+              "questionHi": "विदेशी वस्तुओं के बहिष्कार के गांधीजी के आंदोलन का उद्देश्य क्या था?",
+              "answer": "Promotion of cottage industries",
+              "answerHi": "कुटीर उद्योगों को बढ़ावा देना",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who was the mother of Mahatma Gandhi?",
+              "questionHi": "महात्मा गांधी की माता कौन थीं?",
+              "answer": "Putlibai",
+              "answerHi": "पुतलीबाई",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who called Mohan Das Karamchand Gandhi 'Mahatma'?",
+              "questionHi": "मोहनदास करमचंद गांधी को 'महात्मा' किसने कहा?",
+              "answer": "Rabindranath Tagore",
+              "answerHi": "रवींद्रनाथ टैगोर",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The first major nationwide Satyagraha launched by Mahatma Gandhi in 1919 was against what?",
+              "questionHi": "1919 में महात्मा गांधी द्वारा शुरू किया गया पहला बड़ा राष्ट्रव्यापी सत्याग्रह किसके खिलाफ था?",
+              "answer": "The Rowlatt Act",
+              "answerHi": "रॉलेट एक्ट",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who participated in the Salt Satyagraha of Gandhiji?",
+              "questionHi": "गांधीजी के नमक सत्याग्रह में किसने भाग लिया?",
+              "answer": "Sarojini Naidu, Rajkumari Amrit Kaur, Kamaladevi Chattopadhyay",
+              "answerHi": "सरोजिनी नायडू, राजकुमारी अमृत कौर, कमलादेवी चट्टोपाध्याय",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "What is the quintessence of Gandhian thought?",
+              "questionHi": "गांधीवादी विचार का सार क्या है?",
+              "answer": "Satyagraha",
+              "answerHi": "सत्याग्रह",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "From where did Mahatma Gandhi return to India in January 1915?",
+              "questionHi": "जनवरी 1915 में महात्मा गांधी कहाँ से भारत लौटे?",
+              "answer": "South Africa",
+              "answerHi": "दक्षिण अफ्रीका",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Where did Mahatma Gandhi first apply his technique of Satyagraha?",
+              "questionHi": "महात्मा गांधी ने अपनी सत्याग्रह की तकनीक का सबसे पहले कहाँ प्रयोग किया?",
+              "answer": "South Africa",
+              "answerHi": "दक्षिण अफ्रीका",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In Gandhian Socialism, what is not required?",
+              "questionHi": "गांधीवादी समाजवाद में, किसकी आवश्यकता नहीं है?",
+              "answer": "The State",
+              "answerHi": "राज्य",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "What did Gandhiji mean by 'Sarvodaya'?",
+              "questionHi": "गांधीजी का 'सर्वोदय' से क्या तात्पर्य था?",
+              "answer": "The birth of a new society based on ethical values",
+              "answerHi": "नैतिक मूल्यों पर आधारित एक नए समाज का जन्म",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "What is Gandhi's definition of 'Ram Rajya'?",
+              "questionHi": "'राम राज्य' की गांधीजी की परिभाषा क्या है?",
+              "answer": "The greatest good of all",
+              "answerHi": "सभी का अधिकतम कल्याण",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "From whom did Mahatma Gandhi draw his inspiration for civil disobedience and non-payment of taxes?",
+              "questionHi": "महात्मा गांधी ने सविनय अवज्ञा और करों का भुगतान न करने की प्रेरणा किससे ली?",
+              "answer": "Henry David Thoreau",
+              "answerHi": "हेनरी डेविड थोरौ",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "What does Gandhi's concept of trusteeship do?",
+              "questionHi": "गांधीजी की न्यासिता (ट्रस्टीशिप) की अवधारणा क्या करती है?",
+              "answer": "It transforms a capitalistic society into an egalitarian one.",
+              "answerHi": "यह एक पूंजीवादी समाज को एक समतावादी समाज में बदल देती है।",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Through which principle did Mahatma Gandhi strive to bridge economic inequalities?",
+              "questionHi": "महात्मा गांधी ने किस सिद्धांत के माध्यम से आर्थिक असमानताओं को पाटने का प्रयास किया?",
+              "answer": "Trusteeship theory",
+              "answerHi": "न्यासिता (ट्रस्टीशिप) सिद्धांत",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The concept of Satyagraha emphasized the power of what?",
+              "questionHi": "सत्याग्रह की अवधारणा ने किसकी शक्ति पर जोर दिया?",
+              "answer": "Truth",
+              "answerHi": "सत्य",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Gandhiji's 'Satyagraha' meant an attachment to which two elements?",
+              "questionHi": "गांधीजी के 'सत्याग्रह' का अर्थ किन दो तत्वों से जुड़ाव था?",
+              "answer": "Truth and non-violence",
+              "answerHi": "सत्य और अहिंसा",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "'Sarvodaya' stands for what?",
+              "questionHi": "'सर्वोदय' का क्या अर्थ है?",
+              "answer": "Upliftment of all",
+              "answerHi": "सभी का उत्थान",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In 1939, Gandhiji tried out his mass struggle techniques in a native state, allowing a close associate to lead a satyagraha in Rajkot. Who was he?",
+              "questionHi": "1939 में, गांधीजी ने एक देशी रियासत में अपनी जन संघर्ष तकनीकों का परीक्षण किया, जिससे उनके एक करीबी सहयोगी को राजकोट में सत्याग्रह का नेतृत्व करने की अनुमति मिली। वह कौन थे?",
+              "answer": "Vallabhbhai Patel",
+              "answerHi": "वल्लभभाई पटेल",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In 1937, where was an educational conference held endorsing Gandhi's proposals for 'basic education' through the vernacular medium?",
+              "questionHi": "1937 में, गांधीजी के 'बुनियादी शिक्षा' के प्रस्तावों का समर्थन करने वाला एक शैक्षिक सम्मेलन कहाँ आयोजित किया गया था?",
+              "answer": "Wardha",
+              "answerHi": "वर्धा",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who said about Mahatma Gandhi that he is a 'half-naked fakir'?",
+              "questionHi": "महात्मा गांधी के बारे में किसने कहा कि वह 'अर्धनग्न फकीर' हैं?",
+              "answer": "Winston Churchill",
+              "answerHi": "विंस्टन चर्चिल",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "What was the name of the weekly paper edited by Gandhiji until 1933?",
+              "questionHi": "1933 तक गांधीजी द्वारा संपादित साप्ताहिक पत्र का क्या नाम था?",
+              "answer": "Young India",
+              "answerHi": "यंग इंडिया",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In which magazine did Mahatma Gandhi mention what he wanted the Constitution to do?",
+              "questionHi": "महात्मा गांधी ने किस पत्रिका में उल्लेख किया कि वे संविधान से क्या करवाना चाहते हैं?",
+              "answer": "Young India",
+              "answerHi": "यंग इंडिया",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which newspapers are related to Madan Mohan Malaviya?",
+              "questionHi": "कौन से समाचार पत्र मदन मोहन मालवीय से संबंधित हैं?",
+              "answer": "Leader, Hindustan, Abhyudaya",
+              "answerHi": "लीडर, हिंदुस्तान, अभ्युदय",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who was the founder of Banaras Hindu University?",
+              "questionHi": "बनारस हिंदू विश्वविद्यालय के संस्थापक कौन थे?",
+              "answer": "Madan Mohan Malviya",
+              "answerHi": "मदन मोहन मालवीय",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "On what date was Mother Teresa, the founder of 'Missionaries of Charity', born?",
+              "questionHi": "'मिशनरीज ऑफ चैरिटी' की संस्थापक मदर टेरेसा का जन्म किस तारीख को हुआ था?",
+              "answer": "26th August 1910",
+              "answerHi": "26 अगस्त 1910",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which newspaper was edited by Dadabhai Naoroji?",
+              "questionHi": "दादाभाई नौरोजी द्वारा कौन सा समाचार पत्र संपादित किया गया था?",
+              "answer": "Rast Goftar",
+              "answerHi": "रास्त गोफ्तार",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Under whose presidentship was the 'Purna Swaraj' resolution passed?",
+              "questionHi": "किसकी अध्यक्षता में 'पूर्ण स्वराज' का प्रस्ताव पारित किया गया?",
+              "answer": "Jawaharlal Nehru",
+              "answerHi": "जवाहरलाल नेहरू",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who proclaimed dams as the 'Temples of Modern India'?",
+              "questionHi": "किसने बांधों को 'आधुनिक भारत के मंदिर' घोषित किया?",
+              "answer": "Jawaharlal Nehru",
+              "answerHi": "जवाहरलाल नेहरू",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which Indian statesman said, 'Long years ago we made a tryst with destiny, and now the time comes when we shall redeem our pledge'?",
+              "questionHi": "किस भारतीय राजनेता ने कहा, 'बहुत साल पहले हमने भाग्य से एक वादा किया था, और अब समय आ गया है कि हम अपनी प्रतिज्ञा को पूरा करें'?",
+              "answer": "Jawaharlal Nehru",
+              "answerHi": "जवाहरलाल नेहरू",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who spoke: 'At the stroke of the midnight hour, when the world sleeps, India will awake to life and freedom'?",
+              "questionHi": "किसने कहा: 'आधी रात के समय, जब दुनिया सोती है, भारत जीवन और स्वतंत्रता के लिए जागेगा'?",
+              "answer": "Jawaharlal Nehru",
+              "answerHi": "जवाहरलाल नेहरू",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In which document was the idea of a federation first proposed?",
+              "questionHi": "किस दस्तावेज़ में पहली बार एक संघ का विचार प्रस्तावित किया गया था?",
+              "answer": "Nehru Report of 1928",
+              "answerHi": "1928 की नेहरू रिपोर्ट",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who called dams the 'Temples of Modern India'?",
+              "questionHi": "बांधों को 'आधुनिक भारत के मंदिर' किसने कहा?",
+              "answer": "Pt. Jawaharlal Nehru",
+              "answerHi": "पं. जवाहरलाल नेहरू",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "What was the event that fundamentally changed Sardar Vallabhbhai Patel's life and drove him towards politics?",
+              "questionHi": "वह कौन सी घटना थी जिसने सरदार वल्लभभाई पटेल के जीवन को मौलिक रूप से बदल दिया और उन्हें राजनीति की ओर धकेल दिया?",
+              "answer": "Meeting with Mahatma Gandhi in Godhra (1917)",
+              "answerHi": "गोधरा में महात्मा गांधी से मुलाकात (1917)",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which pair contributed significantly to integrating the princely states into the Indian Union?",
+              "questionHi": "किस जोड़ी ने रियासतों को भारतीय संघ में एकीकृत करने में महत्वपूर्ण योगदान दिया?",
+              "answer": "Sardar Patel and V.P. Menon",
+              "answerHi": "सरदार पटेल और वी.पी. मेनन",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who is commonly known as the 'Iron Man of India'?",
+              "questionHi": "आमतौर पर 'भारत के लौह पुरुष' के रूप में किसे जाना जाता है?",
+              "answer": "Sardar Vallabhbhai Patel",
+              "answerHi": "सरदार वल्लभभाई पटेल",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who headed the Provincial Constitution Committee?",
+              "questionHi": "प्रांतीय संविधान समिति का नेतृत्व किसने किया?",
+              "answer": "Sardar Vallabhbhai Patel",
+              "answerHi": "सरदार वल्लभभाई पटेल",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "After Independence, who became India's first Deputy Prime Minister?",
+              "questionHi": "स्वतंत्रता के बाद, भारत के पहले उप प्रधानमंत्री कौन बने?",
+              "answer": "Sardar Vallabhbhai Patel",
+              "answerHi": "सरदार वल्लभभाई पटेल",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who is known as the 'Bismarck of India'?",
+              "questionHi": "'भारत का बिस्मार्क' किसे कहा जाता है?",
+              "answer": "Sardar Vallabhbhai Patel",
+              "answerHi": "सरदार वल्लभभाई पटेल",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The movement of the local farmers of Bardoli in Gujarat against the British in 1928 was led by whom?",
+              "questionHi": "1928 में गुजरात के बारदोली के स्थानीय किसानों का अंग्रेजों के खिलाफ आंदोलन का नेतृत्व किसने किया?",
+              "answer": "Vallabhbhai Patel",
+              "answerHi": "वल्लभभाई पटेल",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who, a one-time associate of Mahatma Gandhi, broke off from him and launched a radical movement called the 'self-respect movement'?",
+              "questionHi": "महात्मा गांधी के एक समय के सहयोगी, कौन उनसे अलग हो गए और 'आत्म-सम्मान आंदोलन' नामक एक कट्टरपंथी आंदोलन शुरू किया?",
+              "answer": "E.V. Ramaswamy Naicker",
+              "answerHi": "ई.वी. रामास्वामी नायकर",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who is popularly known as 'Periyar'?",
+              "questionHi": "'पेरियार' के नाम से कौन प्रसिद्ध है?",
+              "answer": "E.V. Ramaswamy Naicker",
+              "answerHi": "ई.वी. रामास्वामी नायकर",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who was the founder of the Dravida Kazhagam?",
+              "questionHi": "द्रविड़ कझगम के संस्थापक कौन थे?",
+              "answer": "Periyar E.V. Ramasamy",
+              "answerHi": "पेरियार ई.वी. रामासामी",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who started the Tamil weekly magazine 'Kudi Arasu'?",
+              "questionHi": "तमिल साप्ताहिक पत्रिका 'कुदी अरासु' किसने शुरू की?",
+              "answer": "Periyar E.V. Ramasamy",
+              "answerHi": "पेरियार ई.वी. रामासामी",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "For which specific reason is Pingali Venkayya remembered even today?",
+              "questionHi": "पिंगली वेंकैया को आज भी किस विशेष कारण से याद किया जाता है?",
+              "answer": "He designed the Indian National Flag",
+              "answerHi": "उन्होंने भारतीय राष्ट्रीय ध्वज का डिजाइन तैयार किया",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who started the Bengali weekly newspaper 'Samvad Kaumudi' in the year 1821?",
+              "questionHi": "वर्ष 1821 में बंगाली साप्ताहिक समाचार पत्र 'संवाद कौमुदी' किसने शुरू किया?",
+              "answer": "Raja Ram Mohan Roy",
+              "answerHi": "राजा राम मोहन रॉय",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who was the founder of Kolkata's first 'Atmiya Sabha' (philosophical discussion circle) held in 1815?",
+              "questionHi": "1815 में आयोजित कोलकाता की पहली 'आत्मीय सभा' (दार्शनिक चर्चा मंडली) के संस्थापक कौन थे?",
+              "answer": "Raja Ram Mohan Roy",
+              "answerHi": "राजा राम मोहन रॉय",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who was the pioneer of social reform movements in 19th century India?",
+              "questionHi": "19वीं सदी के भारत में सामाजिक सुधार आंदोलनों के प्रणेता कौन थे?",
+              "answer": "Raja Ram Mohan Roy",
+              "answerHi": "राजा राम मोहन रॉय",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who was the pioneer of the western system of education in India?",
+              "questionHi": "भारत में पश्चिमी शिक्षा प्रणाली के प्रणेता कौन थे?",
+              "answer": "Raja Ram Mohan Roy",
+              "answerHi": "राजा राम मोहन रॉय",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who is known as the 'Father of the Indian Renaissance'?",
+              "questionHi": "'भारतीय पुनर्जागरण का जनक' किसे कहा जाता है?",
+              "answer": "Raja Ram Mohan Roy",
+              "answerHi": "राजा राम मोहन रॉय",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who is popularly known as the 'Harbinger of Modern India'?",
+              "questionHi": "'आधुनिक भारत का अग्रदूत' किसे कहा जाता है?",
+              "answer": "Raja Ram Mohan Roy",
+              "answerHi": "राजा राम मोहन रॉय",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Whose greatest achievement was the setting up of the Brahmo Samaj?",
+              "questionHi": "ब्रह्म समाज की स्थापना किसकी सबसे बड़ी उपलब्धि थी?",
+              "answer": "Raja Ram Mohan Roy",
+              "answerHi": "राजा राम मोहन रॉय",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who painted the painting 'Damayanti'?",
+              "questionHi": "'दमयंती' नामक चित्र किसने बनाया?",
+              "answer": "Raja Ravi Varma",
+              "answerHi": "राजा रवि वर्मा",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which Indian personality was given knighthood by the British monarch but returned it after the Jallianwala Bagh massacre?",
+              "questionHi": "किस भारतीय व्यक्तित्व को ब्रिटिश सम्राट द्वारा नाइटहुड की उपाधि दी गई थी, लेकिन उन्होंने जलियांवाला बाग हत्याकांड के बाद इसे लौटा दिया?",
+              "answer": "Rabindranath Tagore",
+              "answerHi": "रवींद्रनाथ टैगोर",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who used the pseudonym 'Bhanusingha'?",
+              "questionHi": "'भानुसिंह' उपनाम का प्रयोग किसने किया?",
+              "answer": "Rabindranath Tagore",
+              "answerHi": "रवींद्रनाथ टैगोर",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who composed 'Amar Sonar Bangla', the national anthem of Bangladesh?",
+              "questionHi": "बांग्लादेश के राष्ट्रगान 'आमार सोनार बांग्ला' की रचना किसने की?",
+              "answer": "Rabindranath Tagore",
+              "answerHi": "रवींद्रनाथ टैगोर",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The song 'Jana-Gana-Mana' composed by Rabindranath Tagore was first published in January 1912 under what title?",
+              "questionHi": "रवींद्रनाथ टैगोर द्वारा रचित गीत 'जन-गण-मन' पहली बार जनवरी 1912 में किस शीर्षक के तहत प्रकाशित हुआ था?",
+              "answer": "Bharat Vidhata",
+              "answerHi": "भारत विधाता",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "To whom did Rabindranath Tagore dedicate his collection of essays in science, 'Visva-Parichay'?",
+              "questionHi": "रवींद्रनाथ टैगोर ने विज्ञान में अपने निबंधों का संग्रह 'विश्व-परिचय' किसे समर्पित किया?",
+              "answer": "Professor Satyendra Nath Bose",
+              "answerHi": "प्रोफेसर सत्येंद्र नाथ बोस",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who was one of the founders of Dartington Hall School in Japan?",
+              "questionHi": "जापान में डार्टिंगटन हॉल स्कूल के संस्थापकों में से एक कौन थे?",
+              "answer": "Rabindranath Tagore",
+              "answerHi": "रवींद्रनाथ टैगोर",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who represented India in the Second Round Table Conference with Mahatma Gandhi?",
+              "questionHi": "महात्मा गांधी के साथ द्वितीय गोलमेज सम्मेलन में भारत का प्रतिनिधित्व किसने किया?",
+              "answer": "Sarojini Naidu",
+              "answerHi": "सरोजिनी नायडू",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who was the first woman to become the governor of an Indian state?",
+              "questionHi": "किसी भारतीय राज्य की राज्यपाल बनने वाली पहली महिला कौन थी?",
+              "answer": "Sarojini Naidu",
+              "answerHi": "सरोजिनी नायडू",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "'The Royal Tombs of Golconda', 'The Snake-Charmer', and 'The Queen's Rival' are poems by whom?",
+              "questionHi": "'द रॉयल टॉम्ब्स ऑफ गोलकोंडा', 'द स्नेक-चार्मर', और 'द क्वीन्स राइवल' किसकी कविताएँ हैं?",
+              "answer": "Sarojini Naidu",
+              "answerHi": "सरोजिनी नायडू",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who led the Salt Satyagraha Movement with Gandhi?",
+              "questionHi": "गांधीजी के साथ नमक सत्याग्रह आंदोलन का नेतृत्व किसने किया?",
+              "answer": "Sarojini Naidu",
+              "answerHi": "सरोजिनी नायडू",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who is called the 'Nightingale of India'?",
+              "questionHi": "'भारत कोकिला' किसे कहा जाता है?",
+              "answer": "Sarojini Naidu",
+              "answerHi": "सरोजिनी नायडू",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who was the first Indian to qualify for the Indian Civil Services?",
+              "questionHi": "भारतीय सिविल सेवा के लिए अर्हता प्राप्त करने वाले पहले भारतीय कौन थे?",
+              "answer": "Satyendra Nath Tagore",
+              "answerHi": "सत्येंद्र नाथ टैगोर",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who described the Mutiny of 1857 as the First Indian War of Independence?",
+              "questionHi": "1857 के विद्रोह को प्रथम भारतीय स्वतंत्रता संग्राम के रूप में किसने वर्णित किया?",
+              "answer": "V. D. Savarkar",
+              "answerHi": "वी. डी. सावरकर",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "'Abhinav Bharat' was founded in 1904 as a secret society of revolutionaries by whom?",
+              "questionHi": "'अभिनव भारत' की स्थापना 1904 में क्रांतिकारियों की एक गुप्त संस्था के रूप में किसके द्वारा की गई थी?",
+              "answer": "V. D. Savarkar",
+              "answerHi": "वी. डी. सावरकर",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which national leader wrote the history of India on the walls of the Andaman Cellular Jail?",
+              "questionHi": "किस राष्ट्रीय नेता ने अंडमान सेलुलर जेल की दीवारों पर भारत का इतिहास लिखा?",
+              "answer": "V. D. Savarkar",
+              "answerHi": "वी. डी. सावरकर",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "'The Loyal Muhammadans of India' was a newspaper by whom?",
+              "questionHi": "'द लॉयल मुहम्मदन्स ऑफ इंडिया' किसके द्वारा एक समाचार पत्र था?",
+              "answer": "Syed Ahmed Khan",
+              "answerHi": "सैयद अहमद खान",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In which year was the Azad Hind Fauj formed?",
+              "questionHi": "आजाद हिंद फौज का गठन किस वर्ष हुआ था?",
+              "answer": "1942",
+              "answerHi": "1942",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "What is the birthplace of Subhash Chandra Bose?",
+              "questionHi": "सुभाष चंद्र बोस का जन्म स्थान क्या है?",
+              "answer": "Cuttack",
+              "answerHi": "कटक",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which party was established by Subhash Chandra Bose after he left the Indian National Congress?",
+              "questionHi": "भारतीय राष्ट्रीय कांग्रेस छोड़ने के बाद सुभाष चंद्र बोस ने किस पार्टी की स्थापना की?",
+              "answer": "Forward Bloc",
+              "answerHi": "फॉरवर्ड ब्लॉक",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "On April 12, 1944, Subhash Chandra Bose hoisted the INA Flag in a town. In which State/Union Territory is that town now?",
+              "questionHi": "12 अप्रैल, 1944 को सुभाष चंद्र बोस ने एक शहर में आईएनए का झंडा फहराया। वह शहर अब किस राज्य/केंद्र शासित प्रदेश में है?",
+              "answer": "Manipur",
+              "answerHi": "मणिपुर",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Where was the 'Azad Hind Fauj' founded?",
+              "questionHi": "'आजाद हिंद फौज' की स्थापना कहाँ हुई थी?",
+              "answer": "Singapore",
+              "answerHi": "सिंगापुर",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Where did Subhash Chandra Bose set up the provisional Government of Free India?",
+              "questionHi": "सुभाष चंद्र बोस ने स्वतंत्र भारत की अनंतिम सरकार की स्थापना कहाँ की?",
+              "answer": "Singapore",
+              "answerHi": "सिंगापुर",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which leader raised the Indian National Army (Azad Hind Fauj)?",
+              "questionHi": "किस नेता ने भारतीय राष्ट्रीय सेना (आजाद हिंद फौज) का गठन किया?",
+              "answer": "Subhash Chandra Bose",
+              "answerHi": "सुभाष चंद्र बोस",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who said, 'Give me blood, and I shall give you freedom'?",
+              "questionHi": "किसने कहा, 'तुम मुझे खून दो, मैं तुम्हें आजादी दूंगा'?",
+              "answer": "Subhash Chandra Bose",
+              "answerHi": "सुभाष चंद्र बोस",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who gave the slogan 'Jai Hind'?",
+              "questionHi": "'जय हिंद' का नारा किसने दिया?",
+              "answer": "Subhash Chandra Bose",
+              "answerHi": "सुभाष चंद्र बोस",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who gave the slogan, 'Dilli Chalo'?",
+              "questionHi": "'दिल्ली चलो' का नारा किसने दिया?",
+              "answer": "Subhash Chandra Bose",
+              "answerHi": "सुभाष चंद्र बोस",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who referred to Mahatma Gandhi as the 'Father of the Nation' for the first time?",
+              "questionHi": "महात्मा गांधी को पहली बार 'राष्ट्रपिता' किसने कहा?",
+              "answer": "Subhash Chandra Bose",
+              "answerHi": "सुभाष चंद्र बोस",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who analysed the causes of the uprising of 1857, advocating for a reconciliation between the British and the Muslims?",
+              "questionHi": "1857 के विद्रोह के कारणों का विश्लेषण किसने किया, जिसमें अंग्रेजों और मुसलमानों के बीच सुलह की वकालत की गई?",
+              "answer": "Syed Ahmed Khan",
+              "answerHi": "सैयद अहमद खान",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who was the founder-editor of the famous newspaper 'Kesari' during the National Struggle?",
+              "questionHi": "राष्ट्रीय संघर्ष के दौरान प्रसिद्ध समाचार पत्र 'केसरी' के संस्थापक-संपादक कौन थे?",
+              "answer": "Bal Gangadhar Tilak",
+              "answerHi": "बाल गंगाधर तिलक",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who said, 'Swaraj is my birthright and I shall have it'?",
+              "questionHi": "किसने कहा, 'स्वराज मेरा जन्मसिद्ध अधिकार है और मैं इसे लेकर रहूँगा'?",
+              "answer": "Bal Gangadhar Tilak",
+              "answerHi": "बाल गंगाधर तिलक",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who is considered the father of the extremist movement in India?",
+              "questionHi": "भारत में उग्रवादी आंदोलन का जनक किसे माना जाता है?",
+              "answer": "Bal Gangadhar Tilak",
+              "answerHi": "बाल गंगाधर तिलक",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who is known as the 'Father of Indian Unrest'?",
+              "questionHi": "'भारतीय अशांति का जनक' किसे कहा जाता है?",
+              "answer": "Bal Gangadhar Tilak",
+              "answerHi": "बाल गंगाधर तिलक",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "During which movement was Bal Gangadhar Tilak given the epithet 'Lokmanya'?",
+              "questionHi": "किस आंदोलन के दौरान बाल गंगाधर तिलक को 'लोकमान्य' की उपाधि दी गई?",
+              "answer": "Home Rule Movement",
+              "answerHi": "होमरूल आंदोलन",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Upon imprisonment in 1908 by the British, where was Bal Gangadhar Tilak sent?",
+              "questionHi": "1908 में अंग्रेजों द्वारा कैद किए जाने पर बाल गंगाधर तिलक को कहाँ भेजा गया था?",
+              "answer": "Mandalay",
+              "answerHi": "मांडले",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who started the Bhoodan Movement or The Land Gift Movement in 1951?",
+              "questionHi": "1951 में भूदान आंदोलन या भूमि उपहार आंदोलन किसने शुरू किया?",
+              "answer": "Vinoba Bhave",
+              "answerHi": "विनोबा भावे",
+              "explanation": "",
+              "explanationHi": ""
+            }
+          ]
+        },
         {
           "name": "Modern History #12 (Struggle for Independence)",
           "nameHi": "आधुनिक इतिहास #12 (स्वतंत्रता संग्राम)",
