@@ -1,5 +1,5 @@
 {
-  "version": "1.0.19",
+  "version": "1.0.20",
   "content": [
     {
       "name": "Theory",
@@ -14000,6 +14000,3222 @@
               "questionHi": "फासीवाद किस सिद्धांत के अनुप्रयोग में विश्वास करता है?",
               "answer": "Totalitarianism",
               "answerHi": "सर्वाधिकारवाद",
+              "explanation": "",
+              "explanationHi": ""
+            }
+          ]
+        },
+        {
+          "name": "Art & Culture #1 (Fairs and Festivals)",
+          "nameHi": "कला और संस्कृति #1 (मेले और त्यौहार)",
+          "icon": "date",
+          "type": "list",
+          "content": [
+            {
+              "question": "The Hornbill Festival, also called the 'Festival of Festivals', is celebrated in which state?",
+              "questionHi": "हॉर्नबिल महोत्सव, जिसे 'त्योहारों का त्योहार' भी कहा जाता है, किस राज्य में मनाया जाता है?",
+              "answer": "Nagaland",
+              "answerHi": "नागालैंड",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "What is the harvest festival of South India (Tamil Nadu)?",
+              "questionHi": "दक्षिण भारत (तमिलनाडु) का फसल उत्सव कौन सा है?",
+              "answer": "Pongal",
+              "answerHi": "पोंगल",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In which state is the Madai festival celebrated?",
+              "questionHi": "मड़ई उत्सव किस राज्य में मनाया जाता है?",
+              "answer": "Chhattisgarh",
+              "answerHi": "छत्तीसगढ़",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which religious group annually celebrates the 'Paryushan Parva'?",
+              "questionHi": "कौन सा धार्मिक समूह प्रतिवर्ष 'पर्युषण पर्व' मनाता है?",
+              "answer": "Jains",
+              "answerHi": "जैन",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In which state is the Sarhul festival celebrated?",
+              "questionHi": "सरहुल पर्व किस राज्य में मनाया जाता है?",
+              "answer": "Jharkhand",
+              "answerHi": "झारखंड",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In which Indian state is the harvest festival of 'Kailpodh' celebrated by an indigenous community?",
+              "questionHi": "भारत के किस राज्य में एक स्वदेशी समुदाय द्वारा फसल उत्सव 'कैल्पोध' मनाया जाता है?",
+              "answer": "Karnataka",
+              "answerHi": "कर्नाटक",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "'Ali-Aye-Ligang', a spring festival, is associated with which state?",
+              "questionHi": "'अली-ऐ-लिगांग', एक वसंत उत्सव, किस राज्य से संबंधित है?",
+              "answer": "Assam",
+              "answerHi": "असम",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In which state is 'Me-Dam-Me-Phi', the festival of ancestor worship, celebrated?",
+              "questionHi": "पूर्वज पूजा का त्योहार 'मी-दम-मी-फी' किस राज्य में मनाया जाता है?",
+              "answer": "Assam",
+              "answerHi": "असम",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The 'Hemis Tsechu' festival commemorates whose birth anniversary?",
+              "questionHi": "'हेमिस त्सेचु' उत्सव किसकी जयंती मनाता है?",
+              "answer": "Guru Padmasambhava",
+              "answerHi": "गुरु पद्मसंभव",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In which year was the last Maha Kumbh held in Prayag?",
+              "questionHi": "प्रयाग में अंतिम महाकुंभ किस वर्ष आयोजित किया गया था?",
+              "answer": "2013",
+              "answerHi": "2013",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Where is the 'Pushkar Fair' held?",
+              "questionHi": "'पुष्कर मेला' कहाँ आयोजित किया जाता है?",
+              "answer": "Ajmer",
+              "answerHi": "अजमेर",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "'Solung' is an indigenous festival of which state?",
+              "questionHi": "'सोलुंग' किस राज्य का एक स्वदेशी त्योहार है?",
+              "answer": "Arunachal Pradesh",
+              "answerHi": "अरुणाचल प्रदेश",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The 'Me-Dam-Me-Phi' festival is celebrated by the Tai-Ahom communities of which state?",
+              "questionHi": "'मी-दम-मी-फी' त्योहार किस राज्य के ताई-अहोम समुदायों द्वारा मनाया जाता है?",
+              "answer": "Assam",
+              "answerHi": "असम",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who introduced the famous Persian festival of Navroz?",
+              "questionHi": "प्रसिद्ध फारसी त्योहार नवरोज की शुरुआत किसने की?",
+              "answer": "Balban",
+              "answerHi": "बलबन",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In which places is Lathmar Holi celebrated?",
+              "questionHi": "लठमार होली किन स्थानों पर मनाई जाती है?",
+              "answer": "Barsana and Nandgaon",
+              "answerHi": "बरसाना और नंदगांव",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which festival is associated with the worship of the sun, rivers, and ponds?",
+              "questionHi": "कौन सा त्योहार सूर्य, नदियों और तालाबों की पूजा से जुड़ा है?",
+              "answer": "Chhath",
+              "answerHi": "छठ",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In which state is the festival of 'Hareli' celebrated?",
+              "questionHi": "'हरेली' का त्योहार किस राज्य में मनाया जाता है?",
+              "answer": "Chhattisgarh",
+              "answerHi": "छत्तीसगढ़",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "All Souls' Day is a festival of which religion?",
+              "questionHi": "ऑल सोल्स डे किस धर्म का त्योहार है?",
+              "answer": "Christianity",
+              "answerHi": "ईसाई धर्म",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The annual cultural festival held at Surajkund, Faridabad is an International ____ Mela.",
+              "questionHi": "सूरजकुंड, फरीदाबाद में आयोजित होने वाला वार्षिक सांस्कृतिक उत्सव एक अंतर्राष्ट्रीय ____ मेला है।",
+              "answer": "Crafts",
+              "answerHi": "शिल्प",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The Lohri festival is mainly related to which state?",
+              "questionHi": "लोहड़ी त्योहार मुख्य रूप से किस राज्य से संबंधित है?",
+              "answer": "Punjab",
+              "answerHi": "पंजाब",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "What is the new year celebrated by Maharashtrian Hindus called?",
+              "questionHi": "महाराष्ट्र के हिंदुओं द्वारा मनाया जाने वाला नया साल क्या कहलाता है?",
+              "answer": "Gudi Padwa",
+              "answerHi": "गुड़ी पड़वा",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In which state is the 'Tarnetar' fair celebrated annually?",
+              "questionHi": "'तरणेतर' मेला प्रतिवर्ष किस राज्य में मनाया जाता है?",
+              "answer": "Gujarat",
+              "answerHi": "गुजरात",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The Kumbh Mela takes place at four locations in rotation. What are these places?",
+              "questionHi": "कुंभ मेला बारी-बारी से चार स्थानों पर लगता है। ये स्थान कौन से हैं?",
+              "answer": "Haridwar, Allahabad (Prayagraj), Nashik, and Ujjain",
+              "answerHi": "हरिद्वार, इलाहाबाद (प्रयागराज), नासिक और उज्जैन",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which state hosts the annual Surajkund Crafts fair?",
+              "questionHi": "कौन सा राज्य वार्षिक सूरजकुंड शिल्प मेले की मेजबानी करता है?",
+              "answer": "Haryana",
+              "answerHi": "हरियाणा",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The festival of Holi is also known by what name?",
+              "questionHi": "होली के त्यौहार को और किस नाम से जाना जाता है?",
+              "answer": "Phagwa",
+              "answerHi": "फगवा",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Paryushan is an important festival for which community?",
+              "questionHi": "पर्युषण किस समुदाय का एक महत्वपूर्ण त्योहार है?",
+              "answer": "Jain",
+              "answerHi": "जैन",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In which Indian state/UT is the 'Hemis Festival' celebrated?",
+              "questionHi": "भारत के किस राज्य/केंद्र शासित प्रदेश में 'हेमिस महोत्सव' मनाया जाता है?",
+              "answer": "Jammu and Kashmir (now Ladakh)",
+              "answerHi": "जम्मू और कश्मीर (अब लद्दाख)",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Karaga is one of the oldest and most widely celebrated festivals of which state?",
+              "questionHi": "करगा किस राज्य के सबसे पुराने और व्यापक रूप से मनाए जाने वाले त्योहारों में से एक है?",
+              "answer": "Karnataka",
+              "answerHi": "कर्नाटक",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The harvest festival, Puthari, is celebrated by which community?",
+              "questionHi": "फसल उत्सव, पुथारी, किस समुदाय द्वारा मनाया जाता है?",
+              "answer": "Kodava",
+              "answerHi": "कोडावा",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The 'Rath Yatra' at Puri is celebrated in honour of whom?",
+              "questionHi": "पुरी में 'रथ यात्रा' किसके सम्मान में मनाई जाती है?",
+              "answer": "Lord Jagannath",
+              "answerHi": "भगवान जगन्नाथ",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In which state is the religious festival 'Ganesh Chaturthi' celebrated with gusto?",
+              "questionHi": "धार्मिक त्योहार 'गणेश चतुर्थी' किस राज्य में उत्साह के साथ मनाया जाता है?",
+              "answer": "Maharashtra",
+              "answerHi": "महाराष्ट्र",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In which state is the Sangai festival celebrated?",
+              "questionHi": "संगाई महोत्सव किस राज्य में मनाया जाता है?",
+              "answer": "Manipur",
+              "answerHi": "मणिपुर",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which festival is celebrated to mark the birth anniversary of Prophet Muhammad?",
+              "questionHi": "पैगंबर मुहम्मद की जयंती को चिह्नित करने के लिए कौन सा त्योहार मनाया जाता है?",
+              "answer": "Milad-un-Nabi",
+              "answerHi": "मिलाद-उन-नबी",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The Losar Festival is celebrated by the people of which tribe?",
+              "questionHi": "लोसर महोत्सव किस जनजाति के लोगों द्वारा मनाया जाता है?",
+              "answer": "Monpa",
+              "answerHi": "मोनपा",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The famous 'Tsokum Samai' festival is celebrated by the people of which state to invoke blessings for a rich harvest?",
+              "questionHi": "प्रसिद्ध 'त्सोकुम समाई' त्योहार किस राज्य के लोगों द्वारा भरपूर फसल के लिए आशीर्वाद मांगने के लिए मनाया जाता है?",
+              "answer": "Nagaland",
+              "answerHi": "नागालैंड",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The 'Mongmong festival' is a harvest festival of which Indian state?",
+              "questionHi": "'मोंगमोंग महोत्सव' किस भारतीय राज्य का फसल उत्सव है?",
+              "answer": "Nagaland",
+              "answerHi": "नागालैंड",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which festival is dedicated to Goddess Durga and her nine avatars?",
+              "questionHi": "कौन सा त्योहार देवी दुर्गा और उनके नौ अवतारों को समर्पित है?",
+              "answer": "Navratri",
+              "answerHi": "नवरात्रि",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "What is the Parsi New Year known as?",
+              "questionHi": "पारसी नव वर्ष को किस नाम से जाना जाता है?",
+              "answer": "Navroz",
+              "answerHi": "नवरोज",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In which state is 'Bali Yatra', the voyage to Bali, celebrated?",
+              "questionHi": "'बाली यात्रा', बाली की समुद्री यात्रा, किस राज्य में मनाई जाती है?",
+              "answer": "Odisha",
+              "answerHi": "ओडिशा",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The Rath Yatra of Lord Jagannath is a famous festival of which state?",
+              "questionHi": "भगवान जगन्नाथ की रथ यात्रा किस राज्य का एक प्रसिद्ध त्योहार है?",
+              "answer": "Odisha",
+              "answerHi": "ओडिशा",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "What is the harvest festival of Kerala?",
+              "questionHi": "केरल का फसल उत्सव कौन सा है?",
+              "answer": "Onam",
+              "answerHi": "ओणम",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Boat races are a special feature of which festival in Kerala?",
+              "questionHi": "केरल में नौका दौड़ किस त्योहार की एक विशेष विशेषता है?",
+              "answer": "Onam",
+              "answerHi": "ओणम",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Papeti is the festival of which community?",
+              "questionHi": "पपेटी किस समुदाय का त्योहार है?",
+              "answer": "Parsis",
+              "answerHi": "पारसी",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Jallikattu is associated with which Indian festival?",
+              "questionHi": "जल्लीकट्टू किस भारतीय त्योहार से जुड़ा है?",
+              "answer": "Pongal",
+              "answerHi": "पोंगल",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which city in Uttar Pradesh is associated with the Kumbh Mela?",
+              "questionHi": "उत्तर प्रदेश का कौन सा शहर कुंभ मेले से जुड़ा है?",
+              "answer": "Prayag (Allahabad)",
+              "answerHi": "प्रयाग (इलाहाबाद)",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Where was the 'Sanskriti Kumbh', a 29-day cultural extravaganza, held in January 2019?",
+              "questionHi": "जनवरी 2019 में 29-दिवसीय सांस्कृतिक महाकुंभ 'संस्कृति कुंभ' कहाँ आयोजित किया गया था?",
+              "answer": "Prayagraj",
+              "answerHi": "प्रयागराज",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "'Teeyan' is a festival celebrated in which state of India?",
+              "questionHi": "'तीयां' भारत के किस राज्य में मनाया जाने वाला एक त्योहार है?",
+              "answer": "Punjab",
+              "answerHi": "पंजाब",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "What is the name of the annual fair of Rajasthan where camel trading is a major event?",
+              "questionHi": "राजस्थान के उस वार्षिक मेले का क्या नाम है जहाँ ऊँटों का व्यापार एक प्रमुख आयोजन है?",
+              "answer": "Pushkar Mela",
+              "answerHi": "पुष्कर मेला",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which country has allowed India to ferry Hajj pilgrims via sea route?",
+              "questionHi": "किस देश ने भारत को समुद्री मार्ग से हज यात्रियों को ले जाने की अनुमति दी है?",
+              "answer": "Saudi Arabia",
+              "answerHi": "सऊदी अरब",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Bumchu is a unique cultural festival celebrated in which Indian state?",
+              "questionHi": "बुमचू किस भारतीय राज्य में मनाया जाने वाला एक अनूठा सांस्कृतिक त्योहार है?",
+              "answer": "Sikkim",
+              "answerHi": "सिक्किम",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which New Year celebration of the Sikkimese Bhutia falls in the 10th month of the Sikkimese Lunar calendar?",
+              "questionHi": "सिक्किमी भूटिया का कौन सा नव वर्ष उत्सव सिक्किमी चंद्र कैलेंडर के 10वें महीने में पड़ता है?",
+              "answer": "Sonam Losoong",
+              "answerHi": "सोनम लोसूंग",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The Thimithi festival in Tamil Nadu is celebrated in honour of whom?",
+              "questionHi": "तमिलनाडु में थिमिथि उत्सव किसके सम्मान में मनाया जाता है?",
+              "answer": "Draupadi",
+              "answerHi": "द्रौपदी",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "By which community is the Thaipusam festival celebrated?",
+              "questionHi": "थाईपुसम त्योहार किस समुदाय द्वारा मनाया जाता है?",
+              "answer": "The Tamil community",
+              "answerHi": "तमिल समुदाय",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Eid ul-Fitr is celebrated on the first day of Shawwal, which is the ___ month of the Islamic calendar.",
+              "questionHi": "ईद-उल-फितर शव्वाल के पहले दिन मनाया जाता है, जो इस्लामी कैलेंडर का ___ महीना है।",
+              "answer": "tenth",
+              "answerHi": "दसवां",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "What is the name of a fire-walking festival that originated in Tamil Nadu?",
+              "questionHi": "तमिलनाडु में उत्पन्न हुए अग्नि-प्रदक्षिणा उत्सव का क्या नाम है?",
+              "answer": "Theemithi",
+              "answerHi": "थीमिथी",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The 'Soorya Festival' is associated with which city?",
+              "questionHi": "'सूर्य महोत्सव' किस शहर से संबंधित है?",
+              "answer": "Thiruvananthapuram",
+              "answerHi": "तिरुवनंतपुरम",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The Kumbh Mela takes place every ___ years.",
+              "questionHi": "कुंभ मेला हर ___ वर्ष में होता है।",
+              "answer": "twelve",
+              "answerHi": "बारह",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which of these cities is associated with the Kumbh Mela?",
+              "questionHi": "इनमें से कौन सा शहर कुंभ मेले से जुड़ा है?",
+              "answer": "Ujjain",
+              "answerHi": "उज्जैन",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which organization has inscribed the Kumbh Mela on the Representative List of the Intangible Cultural Heritage of Humanity?",
+              "questionHi": "किस संगठन ने कुंभ मेले को मानवता की अमूर्त सांस्कृतिक विरासत की प्रतिनिधि सूची में अंकित किया है?",
+              "answer": "UNESCO",
+              "answerHi": "यूनेस्को",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which of the following is NOT a part of the 'Char Dham Yatra' in North India?",
+              "questionHi": "निम्नलिखित में से कौन सा उत्तर भारत में 'चार धाम यात्रा' का हिस्सा नहीं है?",
+              "answer": "Vaishno Devi",
+              "answerHi": "वैष्णो देवी",
+              "explanation": "",
+              "explanationHi": ""
+            }
+          ]
+        },
+        {
+          "name": "Art & Culture #2 (Dance & Theatre)",
+          "nameHi": "कला और संस्कृति #2 (नृत्य और रंगमंच)",
+          "icon": "date",
+          "type": "list",
+          "content": [
+            {
+              "question": "Mrinalini Sarabhai, Padma Subrahmaniam, Leela Samson, Yamini Krishna Murthy, Rukmini Devi Arundale, and Sanjukta Panigrahi are famous for which type of dance?",
+              "questionHi": "मृणालिनी साराभाई, पद्मा सुब्रमण्यम, लीला सैमसन, यामिनी कृष्ण मूर्ति, रुक्मिणी देवी अरुंडेल, और संजुक्ता पाणिग्रही किस प्रकार के नृत्य के लिए प्रसिद्ध हैं?",
+              "answer": "Bharatanatyam",
+              "answerHi": "भरतनाट्यम",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The Kathakali dance form is associated with which state?",
+              "questionHi": "कथकली नृत्य शैली किस राज्य से संबंधित है?",
+              "answer": "Kerala",
+              "answerHi": "केरल",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Kuchipudi is a dance form of which state?",
+              "questionHi": "कुचिपुड़ी किस राज्य की नृत्य शैली है?",
+              "answer": "Andhra Pradesh",
+              "answerHi": "आंध्र प्रदेश",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which dance form originated as a tribal dance in the forests of Odisha and attained the status of a martial art-based dance form in the 19th century?",
+              "questionHi": "कौन सी नृत्य शैली ओडिशा के जंगलों में एक आदिवासी नृत्य के रूप में उत्पन्न हुई और 19वीं शताब्दी में एक मार्शल आर्ट-आधारित नृत्य शैली का दर्जा प्राप्त किया?",
+              "answer": "Chhau of Mayurbhanj",
+              "answerHi": "मयूरभंज का छऊ",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Garba is a folk dance that originated in which state?",
+              "questionHi": "गरबा एक लोक नृत्य है जिसकी उत्पत्ति किस राज्य में हुई?",
+              "answer": "Gujarat",
+              "answerHi": "गुजरात",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Mohiniattam is a classical dance form from which state?",
+              "questionHi": "मोहिनीअट्टम किस राज्य का एक शास्त्रीय नृत्य रूप है?",
+              "answer": "Kerala",
+              "answerHi": "केरल",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "'Gidda' and 'Bhangra' are dance forms of which state?",
+              "questionHi": "'गिद्दा' और 'भांगड़ा' किस राज्य के नृत्य रूप हैं?",
+              "answer": "Punjab",
+              "answerHi": "पंजाब",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The folk dance 'Bohag Bihu' or 'Rongali Bihu' is popular in which state?",
+              "questionHi": "लोक नृत्य 'बोहाग बिहू' या 'रोंगाली बिहू' किस राज्य में लोकप्रिय है?",
+              "answer": "Assam",
+              "answerHi": "असम",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "From which state did 'Sattriya Nritya', recognised as a classical dance form by the Sangeet Natak Akademi in 2000, originate?",
+              "questionHi": "संगीत नाटक अकादमी द्वारा 2000 में एक शास्त्रीय नृत्य के रूप में मान्यता प्राप्त 'सत्त्रिया नृत्य' की उत्पत्ति किस राज्य से हुई?",
+              "answer": "Assam",
+              "answerHi": "असम",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which of the following is NOT an Indian Classical Dance form?",
+              "questionHi": "निम्नलिखित में से कौन सा एक भारतीय शास्त्रीय नृत्य रूप नहीं है?",
+              "answer": "Bhangra",
+              "answerHi": "भांगड़ा",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Lavani is a folk dance form of which state?",
+              "questionHi": "लावणी किस राज्य का एक लोक नृत्य रूप है?",
+              "answer": "Maharashtra",
+              "answerHi": "महाराष्ट्र",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "What is the famous classical dance style of Tamil Nadu?",
+              "questionHi": "तमिलनाडु की प्रसिद्ध शास्त्रीय नृत्य शैली कौन सी है?",
+              "answer": "Bharatanatyam",
+              "answerHi": "भरतनाट्यम",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which is a post-harvest folk dance in Assam?",
+              "questionHi": "असम में फसल कटाई के बाद का लोक नृत्य कौन सा है?",
+              "answer": "Bihu",
+              "answerHi": "बिहू",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Birju Maharaj is a well-known exponent of which dance form?",
+              "questionHi": "बिरजू महाराज किस नृत्य शैली के एक प्रसिद्ध प्रतिपादक हैं?",
+              "answer": "Kathak",
+              "answerHi": "कथक",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Ottamthullal is a traditional dance form popular in which state?",
+              "questionHi": "ओट्टमथुल्लल किस राज्य में लोकप्रिय एक पारंपरिक नृत्य शैली है?",
+              "answer": "Kerala",
+              "answerHi": "केरल",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "What is the classical dance of Andhra Pradesh?",
+              "questionHi": "आंध्र प्रदेश का शास्त्रीय नृत्य कौन सा है?",
+              "answer": "Kuchipudi",
+              "answerHi": "कुचिपुड़ी",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which of these is a dance form from Arunachal Pradesh?",
+              "questionHi": "इनमें से कौन सा अरुणाचल प्रदेश का एक नृत्य रूप है?",
+              "answer": "Popir",
+              "answerHi": "पोपिर",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In which state of India did the Kuchipudi dance originate?",
+              "questionHi": "कुचिपुड़ी नृत्य की उत्पत्ति भारत के किस राज्य में हुई?",
+              "answer": "Andhra Pradesh",
+              "answerHi": "आंध्र प्रदेश",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In which state is the Ponung folk dance practised?",
+              "questionHi": "पोनंग लोक नृत्य का अभ्यास किस राज्य में किया जाता है?",
+              "answer": "Arunachal Pradesh",
+              "answerHi": "अरुणाचल प्रदेश",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The famous dancer T. Balasaraswati was an exponent of which dance form?",
+              "questionHi": "प्रसिद्ध नृत्यांगना टी. बालासरस्वती किस नृत्य शैली की प्रतिपादक थीं?",
+              "answer": "Bharatanatyam",
+              "answerHi": "भरतनाट्यम",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Cheraw is a very old traditional dance of which state?",
+              "questionHi": "चेराव किस राज्य का एक बहुत पुराना पारंपरिक नृत्य है?",
+              "answer": "Mizoram",
+              "answerHi": "मिजोरम",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "'Leshalaptu' is a folk dance of which Indian state?",
+              "questionHi": "'लेशालप्तु' किस भारतीय राज्य का लोक नृत्य है?",
+              "answer": "Nagaland",
+              "answerHi": "नागालैंड",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Guru Kelucharan Mohapatra was a maestro of which dance form?",
+              "questionHi": "गुरु केलुचरण महापात्र किस नृत्य शैली के उस्ताद थे?",
+              "answer": "Odissi",
+              "answerHi": "ओडिसी",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who among others are dancers of Odissi?",
+              "questionHi": "अन्य लोगों में से ओडिसी के नर्तक कौन हैं?",
+              "answer": "Sanjukta Panigrahi, Sonal Mansingh, Madhavi Mudgal",
+              "answerHi": "संजुक्ता पाणिग्रही, सोनल मानसिंह, माधवी मुद्गल",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which of these pairs of folk dance and state are correctly matched?",
+              "questionHi": "लोक-नृत्य और राज्य के इन जोड़ों में से कौन से सही सुमेलित हैं?",
+              "answer": "Tamasha - Maharashtra; Kajri - Uttar Pradesh; Baul - West Bengal",
+              "answerHi": "तमाशा - महाराष्ट्र; कजरी - उत्तर प्रदेश; बाउल - पश्चिम बंगाल",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which famous theatre actor is also known as the 'Father of modern Indian advertising'?",
+              "questionHi": "कौन सा प्रसिद्ध रंगमंच अभिनेता 'आधुनिक भारतीय विज्ञापन का जनक' के रूप में भी जाना जाता है?",
+              "answer": "Alyque Padamsee",
+              "answerHi": "एलिक पदमसी",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Veethi Bhagavatam is a famous dance form of which State?",
+              "questionHi": "वीथी भागवतम किस राज्य का एक प्रसिद्ध नृत्य रूप है?",
+              "answer": "Andhra Pradesh",
+              "answerHi": "आंध्र प्रदेश",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Kolattam and Chholiya are the dance forms of which two states?",
+              "questionHi": "कोलट्टम और छोलिया किन दो राज्यों के नृत्य रूप हैं?",
+              "answer": "Andhra Pradesh and Uttar Pradesh",
+              "answerHi": "आंध्र प्रदेश और उत्तर प्रदेश",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Devotional folk songs called 'Zikir' belong to which Indian state?",
+              "questionHi": "'ज़िकिर' नामक भक्ति लोकगीत किस भारतीय राज्य से संबंधित हैं?",
+              "answer": "Assam",
+              "answerHi": "असम",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "'Jhumur', a traditional dance form, is performed in which state?",
+              "questionHi": "'झूमुर', एक पारंपरिक नृत्य रूप, किस राज्य में किया जाता है?",
+              "answer": "Assam",
+              "answerHi": "असम",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "'Tabal Chongli' is a form of folk dance associated with which state?",
+              "questionHi": "'ताबाल चोंगली' किस राज्य से संबंधित एक लोक नृत्य का रूप है?",
+              "answer": "Assam",
+              "answerHi": "असम",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which contemporary Indian dancer, who merged Kathak and Kathakali, was awarded the Sangeet Natak Akademi Award in 1996?",
+              "questionHi": "कथक और कथकली का विलय करने वाले किस समकालीन भारतीय नर्तक को 1996 में संगीत नाटक अकादमी पुरस्कार से सम्मानित किया गया?",
+              "answer": "Astad Deboo",
+              "answerHi": "अस्ताद देबू",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Chhayanaut, the organization that won the Tagore Award for cultural harmony in 2014, is from which place?",
+              "questionHi": "छायानट, वह संगठन जिसने 2014 में सांस्कृतिक सद्भाव के लिए टैगोर पुरस्कार जीता, किस स्थान से है?",
+              "answer": "Bangladesh",
+              "answerHi": "बांग्लादेश",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which of these is a dance form of Karnataka?",
+              "questionHi": "इनमें से कौन सा कर्नाटक का एक नृत्य रूप है?",
+              "answer": "Bayalata",
+              "answerHi": "बयालाता",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Sadir is the ancient name of which Indian dance style?",
+              "questionHi": "सादिर किस भारतीय नृत्य शैली का प्राचीन नाम है?",
+              "answer": "Bharatanatyam",
+              "answerHi": "भरतनाट्यम",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which of the following is a 'Classical dance form'?",
+              "questionHi": "निम्नलिखित में से कौन सा एक 'शास्त्रीय नृत्य रूप' है?",
+              "answer": "Bharatanatyam",
+              "answerHi": "भरतनाट्यम",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In which style of dance is the story/theme always taken from the Mahabharata and Ramayana?",
+              "questionHi": "किस नृत्य शैली में कहानी/विषय हमेशा महाभारत और रामायण से लिया जाता है?",
+              "answer": "Bharatanatyam",
+              "answerHi": "भरतनाट्यम",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which form of folk theatre belongs to Gujarat?",
+              "questionHi": "लोक नाट्य का कौन सा रूप गुजरात से संबंधित है?",
+              "answer": "Bhavai",
+              "answerHi": "भवाई",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The Jhijhia dance originated in which Indian state?",
+              "questionHi": "झिझिया नृत्य की उत्पत्ति किस भारतीय राज्य में हुई?",
+              "answer": "Bihar",
+              "answerHi": "बिहार",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Where do striptease artists work?",
+              "questionHi": "स्ट्रिपटीज कलाकार कहाँ काम करते हैं?",
+              "answer": "Cabarets",
+              "answerHi": "कैबरे",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Pandavani is a folk singing style popular in which state?",
+              "questionHi": "पंडवानी किस राज्य में लोकप्रिय एक लोक गायन शैली है?",
+              "answer": "Chhattisgarh",
+              "answerHi": "छत्तीसगढ़",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "'Sua Nach' is a traditional dance form of which Indian state?",
+              "questionHi": "'सुआ नाच' किस भारतीय राज्य का एक पारंपरिक नृत्य रूप है?",
+              "answer": "Chhattisgarh",
+              "answerHi": "छत्तीसगढ़",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "'Panthi' is a dance form from which state?",
+              "questionHi": "'पंथी' किस राज्य का एक नृत्य रूप है?",
+              "answer": "Chhattisgarh",
+              "answerHi": "छत्तीसगढ़",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "'Pandwani' is a major folk dance form of which state?",
+              "questionHi": "'पंडवानी' किस राज्य का एक प्रमुख लोक नृत्य रूप है?",
+              "answer": "Chhattisgarh",
+              "answerHi": "छत्तीसगढ़",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which dance is on UNESCO's Intangible Heritage List?",
+              "questionHi": "कौन सा नृत्य यूनेस्को की अमूर्त विरासत सूची में है?",
+              "answer": "Chhau",
+              "answerHi": "छऊ",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Rukmini Devi Arundale is related to which of the arts?",
+              "questionHi": "रुक्मिणी देवी अरुंडेल किस कला से संबंधित हैं?",
+              "answer": "Classical dance",
+              "answerHi": "शास्त्रीय नृत्य",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "With what is Mallika Sarabhai associated?",
+              "questionHi": "मल्लिका साराभाई किससे जुड़ी हैं?",
+              "answer": "Classical dance",
+              "answerHi": "शास्त्रीय नृत्य",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Swang is a famous form of what?",
+              "questionHi": "स्वांग किसका एक प्रसिद्ध रूप है?",
+              "answer": "Dance",
+              "answerHi": "नृत्य",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Achchhan Maharaj is associated with what?",
+              "questionHi": "अच्छन महाराज किससे संबंधित हैं?",
+              "answer": "Dance",
+              "answerHi": "नृत्य",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In which creative art did Sonal Mansingh distinguish herself?",
+              "questionHi": "सोनल मानसिंह ने किस रचनात्मक कला में अपनी पहचान बनाई?",
+              "answer": "Dance",
+              "answerHi": "नृत्य",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which dance is performed by the shepherd community of Goa during Navratri?",
+              "questionHi": "नवरात्रि के दौरान गोवा के चरवाहा समुदाय द्वारा कौन सा नृत्य किया जाता है?",
+              "answer": "Dhangar",
+              "answerHi": "धनगर",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which freestyle dance form involves performers dancing with clay pots filled with burning incense?",
+              "questionHi": "किस फ्रीस्टाइल नृत्य रूप में कलाकार जलती हुई धूप से भरे मिट्टी के बर्तनों के साथ नृत्य करते हैं?",
+              "answer": "Dhunuchi Naach",
+              "answerHi": "धुनुची नाच",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which of these is a folk dance of India?",
+              "questionHi": "इनमें से कौन सा भारत का एक लोक नृत्य है?",
+              "answer": "Garba",
+              "answerHi": "गरबा",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "What is the name of the famous folk drama of the Bhils?",
+              "questionHi": "भीलों के प्रसिद्ध लोकनाट्य का क्या नाम है?",
+              "answer": "Gavari",
+              "answerHi": "गवरी",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which is a major folk dance of Rajasthan?",
+              "questionHi": "राजस्थान का एक प्रमुख लोक नृत्य कौन सा है?",
+              "answer": "Ghumar",
+              "answerHi": "घूमर",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which of the following is NOT a classical dance?",
+              "questionHi": "निम्नलिखित में से कौन सा एक शास्त्रीय नृत्य नहीं है?",
+              "answer": "Giddha",
+              "answerHi": "गिद्दा",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "'Kunbi Dance' is a popular dance associated with which Indian state?",
+              "questionHi": "'कुनबी नृत्य' किस भारतीय राज्य से जुड़ा एक लोकप्रिय नृत्य है?",
+              "answer": "Goa",
+              "answerHi": "गोवा",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "What is the precursor to the famous Odissi dance?",
+              "questionHi": "प्रसिद्ध ओडिसी नृत्य का अग्रदूत क्या है?",
+              "answer": "Gotipua",
+              "answerHi": "गोटीपुआ",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "'Dandia' is a popular dance of which state?",
+              "questionHi": "'डांडिया' किस राज्य का एक लोकप्रिय नृत्य है?",
+              "answer": "Gujarat",
+              "answerHi": "गुजरात",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "'Loor' dance is a popular dance form from which state?",
+              "questionHi": "'लूर' नृत्य किस राज्य का एक लोकप्रिय नृत्य रूप है?",
+              "answer": "Haryana",
+              "answerHi": "हरियाणा",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which statement is NOT correct about the culture of Maharashtra?",
+              "questionHi": "महाराष्ट्र की संस्कृति के बारे में कौन सा कथन सही नहीं है?",
+              "answer": "Its popular dance is called 'Gotipua'",
+              "answerHi": "इसके लोकप्रिय नृत्य को 'गोटीपुआ' कहा जाता है",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "'Rauf' is a folk dance associated with which state?",
+              "questionHi": "'रऊफ' किस राज्य से संबंधित एक लोक नृत्य है?",
+              "answer": "Jammu and Kashmir",
+              "answerHi": "जम्मू और कश्मीर",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Kud is a form of dance from which state?",
+              "questionHi": "कुद किस राज्य का एक नृत्य रूप है?",
+              "answer": "Jammu and Kashmir",
+              "answerHi": "जम्मू और कश्मीर",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Dumhal is a form of dance from which state?",
+              "questionHi": "दुम्हाल किस राज्य का एक नृत्य रूप है?",
+              "answer": "Jammu and Kashmir",
+              "answerHi": "जम्मू और कश्मीर",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Karma is a dance form of which state?",
+              "questionHi": "कर्मा किस राज्य का एक नृत्य रूप है?",
+              "answer": "Jharkhand",
+              "answerHi": "झारखंड",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "'Paika' is a traditional dance form associated with which Indian state?",
+              "questionHi": "'पाइका' किस भारतीय राज्य से संबंधित एक पारंपरिक नृत्य रूप है?",
+              "answer": "Jharkhand",
+              "answerHi": "झारखंड",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who is NOT a famous dancer of Bharatanatyam?",
+              "questionHi": "भरतनाट्यम का प्रसिद्ध नर्तक कौन नहीं है?",
+              "answer": "Jhaveri Sisters",
+              "answerHi": "झावेरी बहनें",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which of these is a dance form of Rajasthan?",
+              "questionHi": "इनमें से कौन सा राजस्थान का एक नृत्य रूप है?",
+              "answer": "Jhulan",
+              "answerHi": "झूलन",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which of these is NOT a classical dance form?",
+              "questionHi": "इनमें से कौन सा एक शास्त्रीय नृत्य रूप नहीं है?",
+              "answer": "Kalbeliya",
+              "answerHi": "कालबेलिया",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "'Yakshagana' folk dance is associated to which Indian state?",
+              "questionHi": "'यक्षगान' लोक नृत्य किस भारतीय राज्य से संबंधित है?",
+              "answer": "Karnataka",
+              "answerHi": "कर्नाटक",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which dance form represents a unique synthesis of Hindu and Muslim genius in art?",
+              "questionHi": "कौन सा नृत्य रूप कला में हिंदू और मुस्लिम प्रतिभा का एक अनूठा संश्लेषण प्रस्तुत करता है?",
+              "answer": "Kathak",
+              "answerHi": "कथक",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Sitara Devi & Damayanti Joshi are associated with which dance?",
+              "questionHi": "सितारा देवी और दमयंती जोशी किस नृत्य से संबंधित हैं?",
+              "answer": "Kathak dance",
+              "answerHi": "कथक नृत्य",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The famous dancer Chemancheri Kunhiraman Nair is associated with which dance form?",
+              "questionHi": "प्रसिद्ध नर्तक चेमनचेरी कुन्हीरमण नायर किस नृत्य शैली से जुड़े हैं?",
+              "answer": "Kathakali",
+              "answerHi": "कथकली",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The use of an attractive masquerade or mask is associated with which dance form?",
+              "questionHi": "एक आकर्षक मुखौटे का उपयोग किस नृत्य शैली से जुड़ा है?",
+              "answer": "Kathakali",
+              "answerHi": "कथकली",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Guru Gopinath was an exponent of which classical dance form?",
+              "questionHi": "गुरु गोपीनाथ किस शास्त्रीय नृत्य शैली के प्रतिपादक थे?",
+              "answer": "Kathakali",
+              "answerHi": "कथकली",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "'Theyyam' is a popular dance form of which state?",
+              "questionHi": "'थेय्यम' किस राज्य का एक लोकप्रिय नृत्य रूप है?",
+              "answer": "Kerala",
+              "answerHi": "केरल",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which dance form is from Madhya Pradesh?",
+              "questionHi": "कौन सा नृत्य रूप मध्य प्रदेश से है?",
+              "answer": "Tertia",
+              "answerHi": "तेर्तिया",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "'Matki' is a form of dance from which state?",
+              "questionHi": "'मटकी' किस राज्य का एक नृत्य रूप है?",
+              "answer": "Madhya Pradesh",
+              "answerHi": "मध्य प्रदेश",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "'Pung Cholam' is a folk dance of which state?",
+              "questionHi": "'पुंग चोलम' किस राज्य का लोक नृत्य है?",
+              "answer": "Manipur",
+              "answerHi": "मणिपुर",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The folk dance 'Lai Haraoba' is popular in which Indian state?",
+              "questionHi": "लोक नृत्य 'लाई हरोबा' किस भारतीय राज्य में लोकप्रिय है?",
+              "answer": "Manipur",
+              "answerHi": "मणिपुर",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "With which famous dancer is the 'Moonwalk' dance move associated?",
+              "questionHi": "'मूनवॉक' डांस मूव किस प्रसिद्ध डांसर से जुड़ा है?",
+              "answer": "Michael Jackson",
+              "answerHi": "माइकल जैक्सन",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Cheraw is an old traditional dance form associated with which state?",
+              "questionHi": "चेराव किस राज्य से संबंधित एक पुराना पारंपरिक नृत्य रूप है?",
+              "answer": "Mizoram",
+              "answerHi": "मिजोरम",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "What are hand gestures used in Indian classical dances called?",
+              "questionHi": "भारतीय शास्त्रीय नृत्यों में उपयोग की जाने वाली हाथ की मुद्राओं को क्या कहा जाता है?",
+              "answer": "Mudra",
+              "answerHi": "मुद्रा",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "With which folk dance did India make it into the Guinness Book of World Records in the year 2015?",
+              "questionHi": "किस लोक नृत्य के साथ भारत ने वर्ष 2015 में गिनीज बुक ऑफ वर्ल्ड रिकॉर्ड्स में अपनी जगह बनाई?",
+              "answer": "Nati",
+              "answerHi": "नाटी",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "What are ancient dance teachers or gurus of Bharatanatyam popularly known as?",
+              "questionHi": "भरतनाट्यम के प्राचीन नृत्य शिक्षकों या गुरुओं को लोकप्रिय रूप से किस नाम से जाना जाता है?",
+              "answer": "Nattuvanars",
+              "answerHi": "नट्टुवनार",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The dance form 'Dandia' is synonymous with which festival?",
+              "questionHi": "नृत्य रूप 'डांडिया' किस त्योहार का पर्याय है?",
+              "answer": "Navratri",
+              "answerHi": "नवरात्रि",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Where is the 'National School of Drama' situated?",
+              "questionHi": "'राष्ट्रीय नाट्य विद्यालय' कहाँ स्थित है?",
+              "answer": "New Delhi",
+              "answerHi": "नई दिल्ली",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The traditional folk dance 'Gotipua' belongs to which state?",
+              "questionHi": "पारंपरिक लोक नृत्य 'गोटीपुआ' किस राज्य से संबंधित है?",
+              "answer": "Odisha",
+              "answerHi": "ओडिशा",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The 'Ranappa' dance is from which state?",
+              "questionHi": "'रणप्पा' नृत्य किस राज्य का है?",
+              "answer": "Odisha",
+              "answerHi": "ओडिशा",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The 'Ghumura' dance is from which state?",
+              "questionHi": "'घुमुरा' नृत्य किस राज्य का है?",
+              "answer": "Odisha",
+              "answerHi": "ओडिशा",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Where did Odissi classical dance originate?",
+              "questionHi": "ओडिसी शास्त्रीय नृत्य की उत्पत्ति कहाँ हुई?",
+              "answer": "Orissa",
+              "answerHi": "उड़ीसा",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Where is the headquarters of the National Film Archives of India (NFAI) located?",
+              "questionHi": "भारतीय राष्ट्रीय फिल्म अभिलेखागार (NFAI) का मुख्यालय कहाँ स्थित है?",
+              "answer": "Pune",
+              "answerHi": "पुणे",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Where is the Film and Television Institute of India located?",
+              "questionHi": "फिल्म एंड टेलीविजन इंस्टीट्यूट ऑफ इंडिया कहाँ स्थित है?",
+              "answer": "Pune",
+              "answerHi": "पुणे",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which folk dance is associated with Jammu and Kashmir?",
+              "questionHi": "कौन सा लोक नृत्य जम्मू और कश्मीर से संबंधित है?",
+              "answer": "Rauf",
+              "answerHi": "रऊफ",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which is a dance form from Chhattisgarh?",
+              "questionHi": "छत्तीसगढ़ का एक नृत्य रूप कौन सा है?",
+              "answer": "Raut Nacha",
+              "answerHi": "राउत नाचा",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which institution is responsible for fostering the development of dance, drama, and music in India?",
+              "questionHi": "भारत में नृत्य, नाटक और संगीत के विकास को बढ़ावा देने के लिए कौन सी संस्था जिम्मेदार है?",
+              "answer": "Sangeet Natak Akademi",
+              "answerHi": "संगीत नाटक अकादमी",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who is a distinguished Odissi dancer?",
+              "questionHi": "एक प्रतिष्ठित ओडिसी नृत्यांगना कौन है?",
+              "answer": "Sanjukta Panigrahi",
+              "answerHi": "संजुक्ता पाणिग्रही",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who played the lead character in the movie 'Bandit Queen'?",
+              "questionHi": "'बैंडिट क्वीन' फिल्म में मुख्य किरदार किसने निभाया था?",
+              "answer": "Seema Biswas",
+              "answerHi": "सीमा बिस्वास",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who directed the film on the dacoit queen Phoolan Devi?",
+              "questionHi": "डाकू रानी फूलन देवी पर फिल्म का निर्देशन किसने किया?",
+              "answer": "Shekhar Kapur",
+              "answerHi": "शेखर कपूर",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which of the following pairs is incorrect: 1) Sanjukta Panigrahi - Odissi Dance 2) Shiv Kumar Sharma - Flute 3) Raja Ravi Varma - Painter?",
+              "questionHi": "निम्नलिखित में से कौन सा जोड़ा गलत है: 1) संजुक्ता पाणिग्रही - ओडिसी नृत्य 2) शिव कुमार शर्मा - बांसुरी 3) राजा रवि वर्मा - चित्रकार?",
+              "answer": "Shiv Kumar Sharma - Flute",
+              "answerHi": "शिव कुमार शर्मा - बांसुरी",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Keisabadi is a form of folk dance of which state in which only men can take part?",
+              "questionHi": "कैसाबादी किस राज्य का एक लोक नृत्य है जिसमें केवल पुरुष ही भाग ले सकते हैं?",
+              "answer": "Sikkim",
+              "answerHi": "सिक्किम",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who among these is not a Bharatanatyam dancer?",
+              "questionHi": "इनमें से कौन भरतनाट्यम नर्तक नहीं है?",
+              "answer": "Sitara Devi",
+              "answerHi": "सितारा देवी",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who is the first African-American actor to win the Best Actor Award in a Television Drama in the history of the Golden Globes?",
+              "questionHi": "गोल्डन ग्लोब्स के इतिहास में टेलीविज़न ड्रामा में सर्वश्रेष्ठ अभिनेता का पुरस्कार जीतने वाले पहले अफ्रीकी-अमेरिकी अभिनेता कौन हैं?",
+              "answer": "Sterling K. Brown",
+              "answerHi": "स्टर्लिंग के. ब्राउन",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which folk dance is associated with Rajasthan?",
+              "questionHi": "कौन सा लोक नृत्य राजस्थान से संबंधित है?",
+              "answer": "Suisini",
+              "answerHi": "सुईसिनी",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Most classical dances of India combine three main facets, namely, 'Bhava', 'Raga', and what?",
+              "questionHi": "भारत के अधिकांश शास्त्रीय नृत्यों में तीन मुख्य पहलू होते हैं, अर्थात् 'भाव', 'राग' और क्या?",
+              "answer": "Tala",
+              "answerHi": "ताल",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Ebrahim Alkazi is an eminent personality in which field?",
+              "questionHi": "इब्राहिम अल्काज़ी किस क्षेत्र की एक प्रतिष्ठित हस्ती हैं?",
+              "answer": "Theatre",
+              "answerHi": "रंगमंच",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which folk/tribal dance is associated with Uttar Pradesh?",
+              "questionHi": "कौन सा लोक/जनजातीय नृत्य उत्तर प्रदेश से संबंधित है?",
+              "answer": "Thora",
+              "answerHi": "थोरा",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Nautanki is a folk dance of which state?",
+              "questionHi": "नौटंकी किस राज्य का लोक नृत्य है?",
+              "answer": "Uttar Pradesh",
+              "answerHi": "उत्तर प्रदेश",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which folk/tribal dance is associated with Karnataka?",
+              "questionHi": "कौन सा लोक/जनजातीय नृत्य कर्नाटक से संबंधित है?",
+              "answer": "Yakshagana",
+              "answerHi": "यक्षगान",
+              "explanation": "",
+              "explanationHi": ""
+            }
+          ]
+        },
+        {
+          "name": "Art & Culture #3 (Music)",
+          "nameHi": "कला और संस्कृति #3 (संगीत)",
+          "icon": "date",
+          "type": "list",
+          "content": [
+            {
+              "question": "Pandit Shivkumar Sharma, a recipient of the Padma Vibhushan, is associated with which musical instrument?",
+              "questionHi": "पद्म विभूषण से सम्मानित पंडित शिवकुमार शर्मा किस वाद्य यंत्र से जुड़े हैं?",
+              "answer": "Santoor",
+              "answerHi": "संतूर",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Amjad Ali Khan is a maestro of which instrument?",
+              "questionHi": "अमजद अली खान किस वाद्य यंत्र के उस्ताद हैं?",
+              "answer": "Sarod",
+              "answerHi": "सरोद",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who is famous for playing the flute?",
+              "questionHi": "बांसुरी बजाने के लिए कौन प्रसिद्ध है?",
+              "answer": "Hariprasad Chaurasia",
+              "answerHi": "हरिप्रसाद चौरसिया",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who is considered the father of the Sitar?",
+              "questionHi": "सितार का जनक किसे माना जाता है?",
+              "answer": "Amir Khusro",
+              "answerHi": "अमीर खुसरो",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "What has been the field of activity of Pt. Bhimsen Joshi?",
+              "questionHi": "पं. भीमसेन जोशी की गतिविधि का क्षेत्र क्या रहा है?",
+              "answer": "Classical music (Vocal)",
+              "answerHi": "शास्त्रीय संगीत (गायन)",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "What is the most ancient style of Hindustani classical music?",
+              "questionHi": "हिन्दुस्तानी शास्त्रीय संगीत की सबसे प्राचीन शैली कौन सी है?",
+              "answer": "Dhrupad",
+              "answerHi": "ध्रुपद",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Pannalal Ghosh is related to which musical instrument?",
+              "questionHi": "पन्नालाल घोष किस वाद्य यंत्र से संबंधित हैं?",
+              "answer": "Flute",
+              "answerHi": "बांसुरी",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "With which musical instrument is Hariprasad Chaurasia associated?",
+              "questionHi": "हरिप्रसाद चौरसिया किस वाद्य यंत्र से जुड़े हैं?",
+              "answer": "Flute",
+              "answerHi": "बांसुरी",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which musical instrument did Ustad Bismillah Khan use to play?",
+              "questionHi": "उस्ताद बिस्मिल्लाह खान कौन सा वाद्य यंत्र बजाते थे?",
+              "answer": "Shehnai",
+              "answerHi": "शहनाई",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "How many strings are on a Sarod?",
+              "questionHi": "एक सरोद पर कितने तार होते हैं?",
+              "answer": "Typically 17 to 25 strings",
+              "answerHi": "आमतौर पर 17 से 25 तार",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In which year did All India Radio start its operations with its original name, Indian Broadcasting Company?",
+              "questionHi": "ऑल इंडिया रेडियो ने अपने मूल नाम, इंडियन ब्रॉडकास्टिंग कंपनी के साथ अपना परिचालन किस वर्ष शुरू किया?",
+              "answer": "1927",
+              "answerHi": "1927",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In which year did the legendary Hindustani classical musician Annapurna Devi die?",
+              "questionHi": "प्रसिद्ध हिंदुस्तानी शास्त्रीय संगीतकार अन्नपूर्णा देवी का निधन किस वर्ष हुआ?",
+              "answer": "2018",
+              "answerHi": "2018",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "With which musical instrument is the musician Sikkil Mala Chandrasekhar associated?",
+              "questionHi": "संगीतकार सिक्किल माला चंद्रशेखर किस वाद्य यंत्र से जुड़े हैं?",
+              "answer": "Flute",
+              "answerHi": "बांसुरी",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "'Turi', 'Bungal', and 'Pava' are folk musical instruments from which state?",
+              "questionHi": "'तुरी', 'बुंगल' और 'पावा' किस राज्य के लोक वाद्य यंत्र हैं?",
+              "answer": "Gujarat",
+              "answerHi": "गुजरात",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "'Mahuri' is a traditional musical instrument belonging to which state?",
+              "questionHi": "'महुरी' किस राज्य का एक पारंपरिक वाद्य यंत्र है?",
+              "answer": "Odisha",
+              "answerHi": "ओडिशा",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who among others are related to ghazal singing?",
+              "questionHi": "अन्य लोगों में से कौन गजल गायन से संबंधित हैं?",
+              "answer": "Begum Akhtar, Malika Pukhraj, Penaz Masani",
+              "answerHi": "बेगम अख्तर, मलिका पुखराज, पीनाज़ मसानी",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which Indian is given the popular name 'Mozart of Madras'?",
+              "questionHi": "किस भारतीय को 'मद्रास का मोजार्ट' का लोकप्रिय नाम दिया गया है?",
+              "answer": "A. R. Rahman",
+              "answerHi": "ए. आर. रहमान",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who is a distinguished Tabla player?",
+              "questionHi": "एक प्रतिष्ठित तबला वादक कौन हैं?",
+              "answer": "Alla Rakha",
+              "answerHi": "अल्ला रक्खा",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which Indian musician has won an Academy Award?",
+              "questionHi": "किस भारतीय संगीतकार ने अकादमी पुरस्कार जीता है?",
+              "answer": "A.R. Rahman",
+              "answerHi": "ए.आर. रहमान",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who is India's only female Shehnai player?",
+              "questionHi": "भारत की एकमात्र महिला शहनाई वादक कौन हैं?",
+              "answer": "Bageshwari Qamar",
+              "answerHi": "बागेश्वरी कमर",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who is famous for Classical Carnatic Music?",
+              "questionHi": "शास्त्रीय कर्नाटक संगीत के लिए कौन प्रसिद्ध है?",
+              "answer": "Balamuralikrishna",
+              "answerHi": "बालमुरलीकृष्ण",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which Indian vocalist and musician established the Academy of Performing Arts and Research in Switzerland?",
+              "questionHi": "किस भारतीय गायक और संगीतकार ने स्विट्जरलैंड में एकेडमी ऑफ परफॉर्मिंग आर्ट्स एंड रिसर्च की स्थापना की?",
+              "answer": "Balamuralikrishna",
+              "answerHi": "बालमुरलीकृष्ण",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "What is the name for the folk songs of Goa, usually sung to mourn the death of loved ones?",
+              "questionHi": "गोवा के उन लोक गीतों का क्या नाम है, जो आमतौर पर प्रियजनों की मृत्यु पर शोक व्यक्त करने के लिए गाए जाते हैं?",
+              "answer": "Banvarh",
+              "answerHi": "बनवर्ह",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which famous music composer was deaf?",
+              "questionHi": "कौन सा प्रसिद्ध संगीतकार बहरा था?",
+              "answer": "Ludwig van Beethoven",
+              "answerHi": "लुडविग वैन बीथोवेन",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which of these is an evening 'Raag'?",
+              "questionHi": "इनमें से कौन सा एक शाम का 'राग' है?",
+              "answer": "Bhairavi",
+              "answerHi": "भैरवी",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who is a famous shehnai player of India?",
+              "questionHi": "भारत के एक प्रसिद्ध शहनाई वादक कौन हैं?",
+              "answer": "Bismillah Khan",
+              "answerHi": "बिस्मिल्लाह खान",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which Indian city has been included in UNESCO's creative cities network for its contribution to music?",
+              "questionHi": "संगीत में योगदान के लिए किस भारतीय शहर को यूनेस्को के रचनात्मक शहरों के नेटवर्क में शामिल किया गया है?",
+              "answer": "Chennai",
+              "answerHi": "चेन्नई",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In which area has Pandit Jasraj established his reputation?",
+              "questionHi": "पंडित जसराज ने किस क्षेत्र में अपनी प्रतिष्ठा स्थापित की है?",
+              "answer": "Classical singing",
+              "answerHi": "शास्त्रीय गायन",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "What is the name for the folk songs of Sikkim that describe the natural beauty of the state?",
+              "questionHi": "सिक्किम के उन लोक गीतों का क्या नाम है जो राज्य की प्राकृतिक सुंदरता का वर्णन करते हैं?",
+              "answer": "Gha To Kito",
+              "answerHi": "घा तो कीटो",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The 'Ghumot' is an indigenous traditional percussion instrument of which state?",
+              "questionHi": "'घुमोट' किस राज्य का एक स्वदेशी पारंपरिक ताल वाद्य है?",
+              "answer": "Goa",
+              "answerHi": "गोवा",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "What is the pen name of Sampooran Singh Kalra, an Indian poet, lyricist, and film director?",
+              "questionHi": "एक भारतीय कवि, गीतकार और फिल्म निर्देशक सम्पूर्ण सिंह कालरा का उपनाम क्या है?",
+              "answer": "Gulzar",
+              "answerHi": "गुलजार",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Group singing of 'Shabad' is related to which festival?",
+              "questionHi": "'शबद' का सामूहिक गायन किस त्योहार से संबंधित है?",
+              "answer": "Guru Purab",
+              "answerHi": "गुरु पर्व",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who was the Guru of the music maestro Tansen?",
+              "questionHi": "संगीत सम्राट तानसेन के गुरु कौन थे?",
+              "answer": "Haridas",
+              "answerHi": "हरिदास",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Ragini is a popular form of folk song belonging to which state?",
+              "questionHi": "रागिनी किस राज्य का एक लोकप्रिय लोक गीत है?",
+              "answer": "Haryana",
+              "answerHi": "हरियाणा",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Pandit Bhimsen Joshi is associated with which tradition of classical music?",
+              "questionHi": "पंडित भीमसेन जोशी शास्त्रीय संगीत की किस परंपरा से जुड़े हैं?",
+              "answer": "Hindustani",
+              "answerHi": "हिन्दुस्तानी",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Ten 'thaats' or scales belong to which system of music?",
+              "questionHi": "दस 'थाट' या स्केल किस संगीत प्रणाली से संबंधित हैं?",
+              "answer": "Hindustani Music",
+              "answerHi": "हिन्दुस्तानी संगीत",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "What kind of musician is Pandit Bhimsen Joshi?",
+              "questionHi": "पंडित भीमसेन जोशी किस प्रकार के संगीतकार हैं?",
+              "answer": "A Hindustani vocalist",
+              "answerHi": "एक हिंदुस्तानी गायक",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "'Chakri' is a type of traditional music popular in which Indian state?",
+              "questionHi": "'चक्री' किस भारतीय राज्य में लोकप्रिय एक प्रकार का पारंपरिक संगीत है?",
+              "answer": "Jammu and Kashmir",
+              "answerHi": "जम्मू और कश्मीर",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who is the singer and composer of the official anthem for the 'Bharat Ke Veer' initiative?",
+              "questionHi": "'भारत के वीर' पहल के आधिकारिक गान के गायक और संगीतकार कौन हैं?",
+              "answer": "Kailash Kher",
+              "answerHi": "कैलाश खेर",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "What is the name for the devotional folk music of Manipur, usually sung by a group of people?",
+              "questionHi": "मणिपुर के भक्ति लोक संगीत का क्या नाम है, जो आमतौर पर लोगों के एक समूह द्वारा गाया जाता है?",
+              "answer": "Khubak eshei",
+              "answerHi": "खुबक एशी",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "To which gharana of classical singing did the late Pandit Bhimsen Joshi belong?",
+              "questionHi": "दिवंगत पंडित भीमसेन जोशी शास्त्रीय गायन के किस घराने से संबंधित थे?",
+              "answer": "Kirana",
+              "answerHi": "किराना",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In which performing art is the 'Mizhavu' a major musical instrument?",
+              "questionHi": "किस प्रदर्शन कला में 'मिझावु' एक प्रमुख वाद्य यंत्र है?",
+              "answer": "Koodiyattam",
+              "answerHi": "कुटियाट्टम",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "By what name is the popular singer Kedarnath Bhattacharya better known?",
+              "questionHi": "लोकप्रिय गायक केदारनाथ भट्टाचार्य किस नाम से बेहतर जाने जाते हैं?",
+              "answer": "Kumar Sanu",
+              "answerHi": "कुमार शानू",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Where is the Bhatkhande Music College located?",
+              "questionHi": "भातखंडे संगीत महाविद्यालय कहाँ स्थित है?",
+              "answer": "Lucknow",
+              "answerHi": "लखनऊ",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who is a renowned vocalist in Hindustani classical music?",
+              "questionHi": "हिन्दुस्तानी शास्त्रीय संगीत में एक प्रसिद्ध गायिका कौन हैं?",
+              "answer": "M. S. Subbalakshmi",
+              "answerHi": "एम. एस. सुब्बुलक्ष्मी",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The government of which state started the 'Tansen Samman'?",
+              "questionHi": "किस राज्य की सरकार ने 'तानसेन सम्मान' शुरू किया?",
+              "answer": "Madhya Pradesh",
+              "answerHi": "मध्य प्रदेश",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which instrument is used in Bharatanatyam?",
+              "questionHi": "भरतनाट्यम में किस वाद्य यंत्र का प्रयोग किया जाता है?",
+              "answer": "Mridangam",
+              "answerHi": "मृदंगम",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who was the first musician to be awarded the Bharat Ratna?",
+              "questionHi": "भारत रत्न से सम्मानित होने वाले पहले संगीतकार कौन थे?",
+              "answer": "M. S. Subbulakshmi",
+              "answerHi": "एम. एस. सुब्बुलक्ष्मी",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "To which art form is Begum Akhtar associated?",
+              "questionHi": "बेगम अख्तर किस कला से संबंधित हैं?",
+              "answer": "Music",
+              "answerHi": "संगीत",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "With what is Zubin Mehta associated?",
+              "questionHi": "जुबिन मेहता किससे जुड़े हैं?",
+              "answer": "Music",
+              "answerHi": "संगीत",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which of these is a wind musical instrument?",
+              "questionHi": "इनमें से कौन सा एक सुषिर वाद्य यंत्र है?",
+              "answer": "Nadaswaram",
+              "answerHi": "नादस्वरम",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Dhenka is a well-known musical instrument of which state?",
+              "questionHi": "ढ़ेंका किस राज्य का एक प्रसिद्ध वाद्य यंत्र है?",
+              "answer": "Odisha",
+              "answerHi": "ओडिशा",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Famous musician Annapurna Devi was a recipient of which award?",
+              "questionHi": "प्रसिद्ध संगीतकार अन्नपूर्णा देवी को कौन सा पुरस्कार मिला था?",
+              "answer": "Padma Bhushan",
+              "answerHi": "पद्म भूषण",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who composed Raga Kameshwari?",
+              "questionHi": "राग कामेश्वरी की रचना किसने की?",
+              "answer": "Pandit Ravi Shankar",
+              "answerHi": "पंडित रविशंकर",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who is renowned in Hindustani Classical Music (vocal)?",
+              "questionHi": "हिन्दुस्तानी शास्त्रीय संगीत (गायन) में कौन प्रसिद्ध है?",
+              "answer": "Pt. Jasraj",
+              "answerHi": "पं. जसराज",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which form of Sufi devotional music originated in the Indian subcontinent?",
+              "questionHi": "सूफी भक्ति संगीत का कौन सा रूप भारतीय उपमहाद्वीप में उत्पन्न हुआ?",
+              "answer": "Qawwali",
+              "answerHi": "कव्वाली",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which musical framework, once present in the ancient text 'Brihaddeshi', was grouped into folk and classical music?",
+              "questionHi": "कौन सी संगीत रूपरेखा, जो कभी प्राचीन ग्रंथ 'बृहद्देशी' में मौजूद थी, को लोक और शास्त्रीय संगीत में समूहीकृत किया गया था?",
+              "answer": "Ragas",
+              "answerHi": "राग",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which of these is NOT a popular gharana (style) of Hindustani classical music?",
+              "questionHi": "इनमें से कौन सा हिंदुस्तानी शास्त्रीय संगीत का एक लोकप्रिय घराना (शैली) नहीं है?",
+              "answer": "Rajwadi Gharana",
+              "answerHi": "रजवाड़ी घराना",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In which field has Ustad Bismillah Khan distinguished himself?",
+              "questionHi": "उस्ताद बिस्मिल्लाह खान ने किस क्षेत्र में अपनी पहचान बनाई है?",
+              "answer": "Shehnai",
+              "answerHi": "शहनाई",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who is a famous singer of Hindustani classical music?",
+              "questionHi": "हिन्दुस्तानी शास्त्रीय संगीत की एक प्रसिद्ध गायिका कौन हैं?",
+              "answer": "Shubha Mudgal",
+              "answerHi": "शुभा मुद्गल",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "With which musical instrument is Pandit Budhaditya Mukherjee associated?",
+              "questionHi": "पंडित बुधादित्य मुखर्जी किस वाद्य यंत्र से जुड़े हैं?",
+              "answer": "Sitar",
+              "answerHi": "सितार",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Anoushka Shankar is related to which musical instrument?",
+              "questionHi": "अनुष्का शंकर किस वाद्य यंत्र से संबंधित हैं?",
+              "answer": "Sitar",
+              "answerHi": "सितार",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which of these is NOT recognized as an Intangible Cultural Heritage (ICH) by UNESCO?",
+              "questionHi": "इनमें से किसे यूनेस्को द्वारा एक अमूर्त सांस्कृतिक विरासत (ICH) के रूप में मान्यता नहीं दी गई है?",
+              "answer": "Sitar Vadan",
+              "answerHi": "सितार वादन",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Renowned musician Annapurna Devi is associated with which instrument?",
+              "questionHi": "प्रसिद्ध संगीतकार अन्नपूर्णा देवी किस वाद्य यंत्र से जुड़ी हैं?",
+              "answer": "Surbahar",
+              "answerHi": "सुरबहार",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which of these is not a stringed instrument?",
+              "questionHi": "इनमें से कौन सा एक तार वाला वाद्य यंत्र नहीं है?",
+              "answer": "Tabla",
+              "answerHi": "तबला",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "With which instrument was the late Pandit Lachhu Maharaj associated?",
+              "questionHi": "दिवंगत पंडित लच्छू महाराज किस वाद्य यंत्र से जुड़े थे?",
+              "answer": "Tabla",
+              "answerHi": "तबला",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which of the following matches of musician and instrument is correct?",
+              "questionHi": "संगीतकार और वाद्य यंत्र का निम्नलिखित में से कौन सा मिलान सही है?",
+              "answer": "Tabla - Zakir Hussain",
+              "answerHi": "तबला - जाकिर हुसैन",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which of these is not a stringed musical instrument?",
+              "questionHi": "इनमें से कौन सा एक तार वाला वाद्य यंत्र नहीं है?",
+              "answer": "Tabor/Drum",
+              "answerHi": "टैबर/ड्रम",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who is believed to have created the raga 'Miyan Ki Malhar'?",
+              "questionHi": "माना जाता है कि राग 'मियां की मल्हार' की रचना किसने की?",
+              "answer": "Tansen",
+              "answerHi": "तानसेन",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which of these is not a form of Carnatic music?",
+              "questionHi": "इनमें से कौन सा कर्नाटक संगीत का एक रूप नहीं है?",
+              "answer": "Tappa",
+              "answerHi": "टप्पा",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "What is 'Vishva Mohini'?",
+              "questionHi": "'विश्व मोहिनी' क्या है?",
+              "answer": "The title given to Lata Mangeshkar for her contribution to music",
+              "answerHi": "संगीत में उनके योगदान के लिए लता मंगेशकर को दी गई उपाधि",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which of these is not a stringed instrument?",
+              "questionHi": "इनमें से कौन सा एक तार वाला वाद्य यंत्र नहीं है?",
+              "answer": "Trumpet",
+              "answerHi": "ट्रम्पेट",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which renowned tabla player is also the son of a famous tabla player and has collaborated internationally?",
+              "questionHi": "कौन सा प्रसिद्ध तबला वादक एक प्रसिद्ध तबला वादक का बेटा भी है और उसने अंतरराष्ट्रीय स्तर पर सहयोग किया है?",
+              "answer": "Zakir Hussain (son of Ustad Allah Rakha)",
+              "answerHi": "जाकिर हुसैन (उस्ताद अल्ला रक्खा के पुत्र)",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who among these is not an Indian classical singer?",
+              "questionHi": "इनमें से कौन एक भारतीय शास्त्रीय गायक नहीं है?",
+              "answer": "Ustad Bismillah Khan",
+              "answerHi": "उस्ताद बिस्मिल्लाह खान",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "S. Balachander is associated with which musical instrument?",
+              "questionHi": "एस. बालचंदर किस वाद्य यंत्र से संबंधित हैं?",
+              "answer": "Veena",
+              "answerHi": "वीणा",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "What is the most ancient musical instrument of India?",
+              "questionHi": "भारत का सबसे प्राचीन वाद्य यंत्र कौन सा है?",
+              "answer": "Veena",
+              "answerHi": "वीणा",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Govind Swami Pillai is associated with which musical instrument?",
+              "questionHi": "गोविंद स्वामी पिल्लई किस वाद्य यंत्र से जुड़े हैं?",
+              "answer": "Violin",
+              "answerHi": "वायलिन",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "V.G. Jog is famous for playing which musical instrument?",
+              "questionHi": "वी.जी. जोग कौन सा वाद्य यंत्र बजाने के लिए प्रसिद्ध हैं?",
+              "answer": "Violin",
+              "answerHi": "वायलिन",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who was not a great master of Carnatic music?",
+              "questionHi": "कर्नाटक संगीत का महान उस्ताद कौन नहीं था?",
+              "answer": "Vishnu Digambar Paluskar",
+              "answerHi": "विष्णु दिगंबर पलुस्कर",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "To which state does the folk song 'Bhawaiya' belong?",
+              "questionHi": "लोक गीत 'भैया' किस राज्य से संबंधित है?",
+              "answer": "West Bengal",
+              "answerHi": "पश्चिम बंगाल",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who is a famous Tabla player?",
+              "questionHi": "एक प्रसिद्ध तबला वादक कौन है?",
+              "answer": "Zakir Hussain",
+              "answerHi": "जाकिर हुसैन",
+              "explanation": "",
+              "explanationHi": ""
+            }
+          ]
+        },
+        {
+          "name": "Art & Culture #4 (Painting)",
+          "nameHi": "कला और संस्कृति #4 (चित्रकला)",
+          "icon": "date",
+          "type": "list",
+          "content": [
+            {
+              "question": "Madhubani art is the traditional art of which state?",
+              "questionHi": "मधुबनी कला किस राज्य की पारंपरिक कला है?",
+              "answer": "Bihar",
+              "answerHi": "बिहार",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "'Young Girls' is the famous work of which painter?",
+              "questionHi": "'यंग गर्ल्स' किस चित्रकार की प्रसिद्ध कृति है?",
+              "answer": "Amrita Shergill",
+              "answerHi": "अमृता शेरगिल",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Pattachitra style of painting is one of the oldest and most popular art forms of which state?",
+              "questionHi": "पट्टचित्र चित्रकला शैली किस राज्य की सबसे पुरानी और सबसे लोकप्रिय कला रूपों में से एक है?",
+              "answer": "Odisha",
+              "answerHi": "ओडिशा",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who painted the famous image of Bharat Mata in 1905?",
+              "questionHi": "1905 में भारत माता की प्रसिद्ध छवि किसने चित्रित की?",
+              "answer": "Abanindranath Tagore",
+              "answerHi": "अवनींद्रनाथ टैगोर",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "'Jamini Roy' was associated with which art form?",
+              "questionHi": "'जामिनी रॉय' किस कला रूप से जुड़े थे?",
+              "answer": "Painting",
+              "answerHi": "चित्रकला",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who painted the masterpiece 'Hamsa Damayanti'?",
+              "questionHi": "उत्कृष्ट कृति 'हंस दमयंती' को किसने चित्रित किया?",
+              "answer": "Raja Ravi Varma",
+              "answerHi": "राजा रवि वर्मा",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "To which state does the Bagh style of textile art printing belong?",
+              "questionHi": "कपड़ा कला मुद्रण की बाघ शैली किस राज्य से संबंधित है?",
+              "answer": "Madhya Pradesh",
+              "answerHi": "मध्य प्रदेश",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which style of painting belongs to Maharashtra?",
+              "questionHi": "कौन सी चित्रकला शैली महाराष्ट्र से संबंधित है?",
+              "answer": "Warli",
+              "answerHi": "वर्ली",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "What does Kalamkari painting refer to?",
+              "questionHi": "कलमकारी पेंटिंग से क्या तात्पर्य है?",
+              "answer": "A hand-painted cotton textile in South India",
+              "answerHi": "दक्षिण भारत में एक हाथ से चित्रित सूती कपड़ा",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "What is the birthplace of the iconic personality, Amrita Sher-Gil?",
+              "questionHi": "प्रतिष्ठित व्यक्तित्व, अमृता शेर-गिल का जन्म स्थान क्या है?",
+              "answer": "Hungary",
+              "answerHi": "हंगरी",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which statement is correct with reference to the Kangra School of Painting?",
+              "questionHi": "कांगड़ा चित्रकला शैली के संदर्भ में कौन सा कथन सही है?",
+              "answer": "It was inspired by the Vaishnavite traditions",
+              "answerHi": "यह वैष्णव परंपराओं से प्रेरित थी",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In which art form is painting done by pen?",
+              "questionHi": "किस कला रूप में कलम से चित्रकारी की जाती है?",
+              "answer": "Kalamkari",
+              "answerHi": "कलमकारी",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Raja Ravi Varma was a great painter from which state?",
+              "questionHi": "राजा रवि वर्मा किस राज्य के एक महान चित्रकार थे?",
+              "answer": "Kerala",
+              "answerHi": "केरल",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Where did the miniature paintings of Indian heritage develop?",
+              "questionHi": "भारतीय विरासत की लघु चित्रकलाएँ कहाँ विकसित हुईं?",
+              "answer": "Kishangarh",
+              "answerHi": "किशनगढ़",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Kalighat painting derives its name from its place of origin, Kalighat, in which city?",
+              "questionHi": "कालीघाट चित्रकला का नाम उसके उत्पत्ति स्थान, कालीघाट से लिया गया है, जो किस शहर में है?",
+              "answer": "Kolkata",
+              "answerHi": "कोलकाता",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who is a famous Indian painter?",
+              "questionHi": "एक प्रसिद्ध भारतीय चित्रकार कौन है?",
+              "answer": "M.F. Husain",
+              "answerHi": "एम.एफ. हुसैन",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Warli paintings derive their name from a small tribe of which state?",
+              "questionHi": "वर्ली पेंटिंग का नाम किस राज्य की एक छोटी जनजाति के नाम पर पड़ा है?",
+              "answer": "Maharashtra",
+              "answerHi": "महाराष्ट्र",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The world-famous painting 'The Last Judgment' was created by which painter?",
+              "questionHi": "विश्व प्रसिद्ध पेंटिंग 'द लास्ट जजमेंट' किस चित्रकार द्वारा बनाई गई थी?",
+              "answer": "Michelangelo",
+              "answerHi": "माइकल एंजेलो",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "What was the new kind of painting that developed in Eastern India during the Pala kingdom (9th-10th century A.D.)?",
+              "questionHi": "पाल साम्राज्य (9वीं-10वीं शताब्दी ई.) के दौरान पूर्वी भारत में विकसित हुई नई तरह की चित्रकला क्या थी?",
+              "answer": "Miniature painting",
+              "answerHi": "लघु चित्रकला",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The Madhubani paintings of Bihar are also called what?",
+              "questionHi": "बिहार की मधुबनी पेंटिंग को और क्या कहा जाता है?",
+              "answer": "Mithila paintings",
+              "answerHi": "मिथिला पेंटिंग",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Basavan was a famous ___ in ancient India.",
+              "questionHi": "बसावन प्राचीन भारत में एक प्रसिद्ध ___ थे।",
+              "answer": "Painter",
+              "answerHi": "चित्रकार",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Raja Ravi Varma of Kerala was a distinguished what?",
+              "questionHi": "केरल के राजा रवि वर्मा एक प्रतिष्ठित क्या थे?",
+              "answer": "Painter",
+              "answerHi": "चित्रकार",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In which field did Nandalal Bose earn fame?",
+              "questionHi": "नंदलाल बोस ने किस क्षेत्र में प्रसिद्धि प्राप्त की?",
+              "answer": "Painting",
+              "answerHi": "चित्रकला",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In which field of art did Jamini Roy make his name?",
+              "questionHi": "जामिनी रॉय ने कला के किस क्षेत्र में अपना नाम बनाया?",
+              "answer": "Painting",
+              "answerHi": "चित्रकला",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "For what are the Rajasthani and Pahari schools of art famous?",
+              "questionHi": "राजस्थानी और पहाड़ी कला शैलियाँ किसके लिए प्रसिद्ध हैं?",
+              "answer": "Painting",
+              "answerHi": "चित्रकला",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which cartoonist is best known for his creation of the 'common man'?",
+              "questionHi": "कौन सा कार्टूनिस्ट 'आम आदमी' के अपने सृजन के लिए सबसे ज्यादा जाना जाता है?",
+              "answer": "R.K. Laxman",
+              "answerHi": "आर.के. लक्ष्मण",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In which Indian state is 'Dabu' printing practiced, which involves applying earth in delicate patterns to cloth?",
+              "questionHi": "किस भारतीय राज्य में 'डाबू' छपाई का अभ्यास किया जाता है, जिसमें कपड़े पर मिट्टी से नाजुक पैटर्न लगाना शामिल है?",
+              "answer": "Rajasthan",
+              "answerHi": "राजस्थान",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The Bikaner, Jaipur, Marwar, and Mewar schools are all schools of what?",
+              "questionHi": "बीकानेर, जयपुर, मारवाड़ और मेवाड़ स्कूल सभी किसकी शैलियाँ हैं?",
+              "answer": "Rajput paintings",
+              "answerHi": "राजपूत चित्रकला",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Phad paintings are a type of ____ based painting.",
+              "questionHi": "फड़ पेंटिंग एक प्रकार की ____ आधारित पेंटिंग है।",
+              "answer": "Scroll",
+              "answerHi": "स्क्रॉल (पटचित्र)",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "What is a person who draws or makes maps or charts called?",
+              "questionHi": "नक्शे या चार्ट बनाने वाले व्यक्ति को क्या कहा जाता है?",
+              "answer": "A Cartographer",
+              "answerHi": "एक मानचित्रकार",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "For what is R. K. Laxman famous?",
+              "questionHi": "आर. के. लक्ष्मण किस लिए प्रसिद्ध हैं?",
+              "answer": "Cartoons",
+              "answerHi": "कार्टून",
+              "explanation": "",
+              "explanationHi": ""
+            }
+          ]
+        },
+        {
+          "name": "Art & Culture #5 (Films)",
+          "nameHi": "कला और संस्कृति #5 (फिल्में)",
+          "icon": "date",
+          "type": "list",
+          "content": [
+            {
+              "question": "What was the first Indian talkie film, produced in 1931?",
+              "questionHi": "1931 में निर्मित भारत की पहली बोलती फिल्म कौन सी थी?",
+              "answer": "Alam Ara",
+              "answerHi": "आलम आरा",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "With what was Satyajit Ray associated?",
+              "questionHi": "सत्यजीत रे किससे संबंधित थे?",
+              "answer": "Film direction",
+              "answerHi": "फिल्म निर्देशन",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which of these films was not directed by Satyajit Ray?",
+              "questionHi": "इनमें से कौन सी फिल्म सत्यजीत रे द्वारा निर्देशित नहीं थी?",
+              "answer": "Salaam Bombay",
+              "answerHi": "सलाम बॉम्बे",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In which film did Pran act as a character artist and not as a villain?",
+              "questionHi": "किस फिल्म में प्राण ने खलनायक के बजाय एक चरित्र कलाकार के रूप में अभिनय किया?",
+              "answer": "Zanjeer",
+              "answerHi": "जंजीर",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which ad filmmaker also played a role in the historical film 'Gandhi'?",
+              "questionHi": "किस विज्ञापन फिल्म निर्माता ने ऐतिहासिक फिल्म 'गांधी' में भी भूमिका निभाई?",
+              "answer": "Alyque Padamsee",
+              "answerHi": "एलिक पदमसी",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who was officially acknowledged as the most recorded artist in music history by the Guinness Book of World Records in 2011?",
+              "questionHi": "2011 में गिनीज बुक ऑफ वर्ल्ड रिकॉर्ड्स द्वारा संगीत इतिहास में सबसे अधिक रिकॉर्ड किए गए कलाकार के रूप में किसे आधिकारिक तौर पर स्वीकार किया गया?",
+              "answer": "Asha Bhosle",
+              "answerHi": "आशा भोसले",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "What is the name of Malala Yousafzai's biopic?",
+              "questionHi": "मलाला यूसुफजई की बायोपिक का क्या नाम है?",
+              "answer": "Gul Makai",
+              "answerHi": "गुल मकई",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which film was not directed by Satyajit Ray?",
+              "questionHi": "कौन सी फिल्म सत्यजीत रे द्वारा निर्देशित नहीं थी?",
+              "answer": "Gumnam",
+              "answerHi": "गुमनाम",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who directed the film 'Bhuvan Shome'?",
+              "questionHi": "'भुवन शोम' फिल्म का निर्देशन किसने किया?",
+              "answer": "Mrinal Sen",
+              "answerHi": "मृणाल सेन",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who inaugurated the National Museum of Indian Cinema in Mumbai in Jan 2019?",
+              "questionHi": "जनवरी 2019 में मुंबई में भारतीय सिनेमा के राष्ट्रीय संग्रहालय का उद्घाटन किसने किया?",
+              "answer": "Narendra Modi",
+              "answerHi": "नरेंद्र मोदी",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who is the director of the film 'PM Narendra Modi'?",
+              "questionHi": "फिल्म 'पीएम नरेंद्र मोदी' के निर्देशक कौन हैं?",
+              "answer": "Omung Kumar",
+              "answerHi": "ओमंग कुमार",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The Indian movie star Rahul Bose is associated with which sport?",
+              "questionHi": "भारतीय फिल्म स्टार राहुल बोस किस खेल से जुड़े हैं?",
+              "answer": "Rugby",
+              "answerHi": "रग्बी",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Name the theatre and film actor who, apart from training Miss India contestants, also hosted a popular quiz show in the 1970s.",
+              "questionHi": "उस थिएटर और फिल्म अभिनेता का नाम बताइए, जिसने मिस इंडिया प्रतियोगियों को प्रशिक्षित करने के अलावा, 1970 के दशक में एक लोकप्रिय क्विज शो की मेजबानी भी की।",
+              "answer": "Sabira Merchant",
+              "answerHi": "सबीरा मर्चेंट",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which popular Indian band of the 90s released their first album 'Boondein' with Mohit Chauhan as the lead singer?",
+              "questionHi": "90 के दशक के किस लोकप्रिय भारतीय बैंड ने अपना पहला एल्बम 'बूंदें' रिलीज किया, जिसमें मोहित चौहान मुख्य गायक थे?",
+              "answer": "Silk Route",
+              "answerHi": "सिल्क रूट",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "A character in the Hindi feature film '3 idiots' was inspired by whom, an engineer based in Ladakh?",
+              "questionHi": "हिंदी फीचर फिल्म '3 इडियट्स' का एक पात्र लद्दाख के एक इंजीनियर, किससे प्रेरित था?",
+              "answer": "Sonam Wangchuk",
+              "answerHi": "सोनम वांगचुक",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which film was awarded Best Environment Film at the 64th National Film Awards?",
+              "questionHi": "64वें राष्ट्रीय फिल्म पुरस्कार में किस फिल्म को सर्वश्रेष्ठ पर्यावरण फिल्म का पुरस्कार दिया गया?",
+              "answer": "The Tiger Who Crossed the Line",
+              "answerHi": "द टाइगर हू क्रॉस्ड द लाइन",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The Hindi film 'Kai Po Che!' is based on which book by Chetan Bhagat?",
+              "questionHi": "हिंदी फिल्म 'काई पो चे!' चेतन भगत की किस किताब पर आधारित है?",
+              "answer": "The 3 Mistakes of My Life",
+              "answerHi": "द 3 मिस्टेक्स ऑफ माय लाइफ",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which movie has won the most number of Oscars?",
+              "questionHi": "किस फिल्म ने सबसे ज्यादा ऑस्कर जीते हैं?",
+              "answer": "Titanic",
+              "answerHi": "टाइटैनिक",
+              "explanation": "",
+              "explanationHi": ""
+            }
+          ]
+        },
+        {
+          "name": "Art & Culture #6 (Languages)",
+          "nameHi": "कला और संस्कृति #6 (भाषाएँ)",
+          "icon": "date",
+          "type": "list",
+          "content": [
+            {
+              "question": "Santhali and Khasi belong to which language family?",
+              "questionHi": "संथाली और खासी किस भाषा परिवार से संबंधित हैं?",
+              "answer": "Austro-Asiatic",
+              "answerHi": "ऑस्ट्रो-एशियाई",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "From which script did Devanagari evolve?",
+              "questionHi": "देवनागरी किस लिपि से विकसित हुई?",
+              "answer": "Brahmi",
+              "answerHi": "ब्राह्मी",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In which state/union territory is the Dogri language mainly spoken?",
+              "questionHi": "डोगरी भाषा मुख्य रूप से किस राज्य/केंद्र शासित प्रदेश में बोली जाती है?",
+              "answer": "Jammu and Kashmir",
+              "answerHi": "जम्मू और कश्मीर",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which language is spoken by the people of Lakshadweep?",
+              "questionHi": "लक्षद्वीप के लोग कौन सी भाषा बोलते हैं?",
+              "answer": "Malayalam",
+              "answerHi": "मलयालम",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which of these languages is declared 'classical' by the Government of India?",
+              "questionHi": "इनमें से किस भाषा को भारत सरकार द्वारा 'शास्त्रीय' घोषित किया गया है?",
+              "answer": "Odia",
+              "answerHi": "ओड़िया",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which of the following is NOT a classical language of India?",
+              "questionHi": "निम्नलिखित में से कौन सी भारत की शास्त्रीय भाषा नहीं है?",
+              "answer": "Pali",
+              "answerHi": "पालि",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which is the most ancient language of our country?",
+              "questionHi": "हमारे देश की सबसे प्राचीन भाषा कौन सी है?",
+              "answer": "Sanskrit",
+              "answerHi": "संस्कृत",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which language has been given the status of a classical language by the Central Government?",
+              "questionHi": "केंद्र सरकार द्वारा किस भाषा को शास्त्रीय भाषा का दर्जा दिया गया है?",
+              "answer": "Tamil",
+              "answerHi": "तमिल",
+              "explanation": "",
+              "explanationHi": ""
+            }
+          ]
+        },
+        {
+          "name": "Art & Culture #7 (Art & Sculpture)",
+          "nameHi": "कला और संस्कृति #7 (कला और मूर्तिकला)",
+          "icon": "date",
+          "type": "list",
+          "content": [
+            {
+              "question": "What is the 14th Intangible Cultural Heritage from India to be listed on UNESCO's list of Intangible Cultural Heritage of Humanity?",
+              "questionHi": "भारत की 14वीं अमूर्त सांस्कृतिक विरासत कौन सी है जिसे यूनेस्को की मानवता की अमूर्त सांस्कृतिक विरासत की सूची में सूचीबद्ध किया गया है?",
+              "answer": "Kumbh Mela",
+              "answerHi": "कुंभ मेला",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which place is famous for Chikankari embroidery?",
+              "questionHi": "चिकनकारी कढ़ाई के लिए कौन सा स्थान प्रसिद्ध है?",
+              "answer": "Lucknow",
+              "answerHi": "लखनऊ",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The Dhoti-Gamosa is the indigenous textile symbol of which state?",
+              "questionHi": "धोती-गमोसा किस राज्य का स्वदेशी वस्त्र प्रतीक है?",
+              "answer": "Assam",
+              "answerHi": "असम",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Where is the Gnana Saraswati temple of southern India located?",
+              "questionHi": "दक्षिण भारत का ज्ञान सरस्वती मंदिर कहाँ स्थित है?",
+              "answer": "Basar",
+              "answerHi": "बसर",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which of these is NOT a martial art form?",
+              "questionHi": "इनमें से कौन सा एक मार्शल आर्ट रूप नहीं है?",
+              "answer": "Bhavai",
+              "answerHi": "भवाई",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The 'Mysuru Peta' is a traditional attire worn on what part of the body?",
+              "questionHi": "'मैसूर पेटा' शरीर के किस अंग पर पहना जाने वाला एक पारंपरिक परिधान है?",
+              "answer": "Head",
+              "answerHi": "सिर",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In which state is the Kardang Monastery situated?",
+              "questionHi": "कार्दांग मठ किस राज्य में स्थित है?",
+              "answer": "Himachal Pradesh",
+              "answerHi": "हिमाचल प्रदेश",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Edwin Lutyens and Herbert Baker are two architects credited with designing which city?",
+              "questionHi": "एडविन लुटियंस और हरबर्ट बेकर को किस शहर का डिजाइन तैयार करने का श्रेय दिया जाता है?",
+              "answer": "New Delhi",
+              "answerHi": "नई दिल्ली",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who was the pioneer of the Bengal School of Art?",
+              "questionHi": "बंगाल स्कूल ऑफ आर्ट के प्रणेता कौन थे?",
+              "answer": "Abanindranath Tagore",
+              "answerHi": "अवनींद्रनाथ टैगोर",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Charles Correa is a renowned Indian architect and what else?",
+              "questionHi": "चार्ल्स कोरिया एक प्रसिद्ध भारतीय वास्तुकार और क्या हैं?",
+              "answer": "Urban planner",
+              "answerHi": "शहरी नियोजक",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "'All the world's a stage, and all the men and women merely players' is a phrase from which play?",
+              "questionHi": "'सारी दुनिया एक रंगमंच है, और सभी पुरुष और स्त्रियाँ केवल खिलाड़ी हैं' - यह वाक्यांश किस नाटक का है?",
+              "answer": "As You Like It",
+              "answerHi": "एज यू लाइक इट",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Muga silk is the product of a silkworm endemic to which state?",
+              "questionHi": "मूगा रेशम किस राज्य के स्थानीय रेशमकीट का उत्पाद है?",
+              "answer": "Assam",
+              "answerHi": "असम",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The Lotus Temple is known for which religion?",
+              "questionHi": "लोटस टेम्पल किस धर्म के लिए जाना जाता है?",
+              "answer": "Baháʼí Faith",
+              "answerHi": "बहाई धर्म",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "What is the name of a textile art from Gujarat/Rajasthan?",
+              "questionHi": "गुजरात/राजस्थान की एक कपड़ा कला का नाम क्या है?",
+              "answer": "Bandhani",
+              "answerHi": "बंधनी",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The UNESCO World Heritage Site 'Mahabodhi Vihar' is situated in which Indian state?",
+              "questionHi": "यूनेस्को विश्व धरोहर स्थल 'महाबोधि विहार' किस भारतीय राज्य में स्थित है?",
+              "answer": "Bihar",
+              "answerHi": "बिहार",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Phulkari, Kantha, and Chikankari are famous forms of what?",
+              "questionHi": "फुलकारी, कांथा और चिकनकारी किसके प्रसिद्ध रूप हैं?",
+              "answer": "Embroidery",
+              "answerHi": "कढ़ाई",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The Lalit Kala Akademi is devoted to the promotion of what?",
+              "questionHi": "ललित कला अकादमी किसके प्रचार के लिए समर्पित है?",
+              "answer": "Fine Arts",
+              "answerHi": "ललित कला",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Le Corbusier, the architect of Chandigarh, was a national of which country?",
+              "questionHi": "चंडीगढ़ के वास्तुकार ले कॉर्बूसियर किस देश के नागरिक थे?",
+              "answer": "France",
+              "answerHi": "फ्रांस",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The famous 'Tangaliya shawl' is associated with which state of India?",
+              "questionHi": "प्रसिद्ध 'तंगालिया शॉल' भारत के किस राज्य से संबंधित है?",
+              "answer": "Gujarat",
+              "answerHi": "गुजरात",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which region of India is famous for Patola print dupattas?",
+              "questionHi": "भारत का कौन सा क्षेत्र पटोला प्रिंट दुपट्टों के लिए प्रसिद्ध है?",
+              "answer": "Gujarat",
+              "answerHi": "गुजरात",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "What is the best example of Vijayanagar Art?",
+              "questionHi": "विजयनगर कला का सबसे अच्छा उदाहरण क्या है?",
+              "answer": "Hampi",
+              "answerHi": "हम्पी",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In which state is 'Vishwa Mitra Ka Tila' situated?",
+              "questionHi": "'विश्वामित्र का टीला' किस राज्य में स्थित है?",
+              "answer": "Haryana",
+              "answerHi": "हरियाणा",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Where is the Charminar located?",
+              "questionHi": "चारमीनार कहाँ स्थित है?",
+              "answer": "Hyderabad",
+              "answerHi": "हैदराबाद",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Where is the Salar Jung Museum situated in India?",
+              "questionHi": "सालार जंग संग्रहालय भारत में कहाँ स्थित है?",
+              "answer": "Hyderabad",
+              "answerHi": "हैदराबाद",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In which city is the Hawa Mahal located?",
+              "questionHi": "हवा महल किस शहर में स्थित है?",
+              "answer": "Jaipur",
+              "answerHi": "जयपुर",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which Indian cultural site is NOT included in the World Heritage List?",
+              "questionHi": "कौन सा भारतीय सांस्कृतिक स्थल विश्व विरासत सूची में शामिल नहीं है?",
+              "answer": "Jama Masjid, Delhi",
+              "answerHi": "जामा मस्जिद, दिल्ली",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The Kani shawl handicraft variety belongs to which state of India?",
+              "questionHi": "कानी शॉल हस्तकला किस भारतीय राज्य से संबंधित है?",
+              "answer": "Jammu & Kashmir",
+              "answerHi": "जम्मू और कश्मीर",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "'Kashida' is a type of embroidery famous in which region?",
+              "questionHi": "'कशीदा' किस क्षेत्र में प्रसिद्ध एक प्रकार की कढ़ाई है?",
+              "answer": "Jammu and Kashmir",
+              "answerHi": "जम्मू और कश्मीर",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Rangavalli is a traditional folk art of which state?",
+              "questionHi": "रंगवल्ली किस राज्य की एक पारंपरिक लोक कला है?",
+              "answer": "Karnataka",
+              "answerHi": "कर्नाटक",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Kollam is a traditional folk art of which state?",
+              "questionHi": "कोल्लम किस राज्य की एक पारंपरिक लोक कला है?",
+              "answer": "Kerala",
+              "answerHi": "केरल",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Kalaripayattu is the martial art of which state?",
+              "questionHi": "कलरिपयट्टु किस राज्य की मार्शल आर्ट है?",
+              "answer": "Kerala",
+              "answerHi": "केरल",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Where is the Victoria Memorial located?",
+              "questionHi": "विक्टोरिया मेमोरियल कहाँ स्थित है?",
+              "answer": "Kolkata",
+              "answerHi": "कोलकाता",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Paithani Sarees belong to which state?",
+              "questionHi": "पैठणी साड़ियाँ किस राज्य से संबंधित हैं?",
+              "answer": "Maharashtra",
+              "answerHi": "महाराष्ट्र",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "From which Indian state did 'Warli Art' originate?",
+              "questionHi": "'वर्ली कला' की उत्पत्ति किस भारतीय राज्य से हुई?",
+              "answer": "Maharashtra",
+              "answerHi": "महाराष्ट्र",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Where is the Chand Minar located?",
+              "questionHi": "चांद मीनार कहाँ स्थित है?",
+              "answer": "Maharashtra",
+              "answerHi": "महाराष्ट्र",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In which state is the Aga Khan Palace located?",
+              "questionHi": "आगा खान पैलेस किस राज्य में स्थित है?",
+              "answer": "Maharashtra",
+              "answerHi": "महाराष्ट्र",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "For what craft does the Thatheras community figure in UNESCO's List of Intangible Cultural Heritage?",
+              "questionHi": "यूनेस्को की अमूर्त सांस्कृतिक विरासत की सूची में ठठेरा समुदाय किस शिल्प के लिए शामिल है?",
+              "answer": "Manufacturing brass and copper utensils",
+              "answerHi": "पीतल और तांबे के बर्तन बनाना",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In which place of India is the paper craft 'Sanjhi' said to have originated?",
+              "questionHi": "भारत के किस स्थान पर 'सांझी' नामक कागज शिल्प की उत्पत्ति मानी जाती है?",
+              "answer": "Mathura",
+              "answerHi": "मथुरा",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "'Pawnpui' is a traditional textile variety in which state?",
+              "questionHi": "'पॉनपुई' किस राज्य की एक पारंपरिक कपड़ा किस्म है?",
+              "answer": "Mizoram",
+              "answerHi": "मिजोरम",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Where is the Gateway of India located?",
+              "questionHi": "गेटवे ऑफ इंडिया कहाँ स्थित है?",
+              "answer": "Mumbai",
+              "answerHi": "मुंबई",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Where is Shankar's International Dolls Museum situated?",
+              "questionHi": "शंकर का अंतर्राष्ट्रीय गुड़िया संग्रहालय कहाँ स्थित है?",
+              "answer": "New Delhi",
+              "answerHi": "नई दिल्ली",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Where is the National War Memorial of India located?",
+              "questionHi": "भारत का राष्ट्रीय युद्ध स्मारक कहाँ स्थित है?",
+              "answer": "New Delhi",
+              "answerHi": "नई दिल्ली",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Jean-Jacques Rousseau was a famous what?",
+              "questionHi": "जीन-जैक्स रूसो एक प्रसिद्ध क्या थे?",
+              "answer": "Philosopher",
+              "answerHi": "दार्शनिक",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which place is originally related to the famous Meenakari named 'Theva Kala'?",
+              "questionHi": "कौन सा स्थान मूल रूप से 'थेवा कला' नामक प्रसिद्ध मीनाकारी से संबंधित है?",
+              "answer": "Rajasthan",
+              "answerHi": "राजस्थान",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which state is famous for its tie and dye fabrics called Bandhini?",
+              "questionHi": "कौन सा राज्य अपने टाई और डाई कपड़ों के लिए प्रसिद्ध है जिन्हें बंधनी कहा जाता है?",
+              "answer": "Rajasthan",
+              "answerHi": "राजस्थान",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who is renowned in the field of sculpture?",
+              "questionHi": "मूर्तिकला के क्षेत्र में कौन प्रसिद्ध है?",
+              "answer": "Ram Kinkar Baij",
+              "answerHi": "राम किंकर बैज",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who designed the Statue of Unity in Gujarat?",
+              "questionHi": "गुजरात में स्टैच्यू ऑफ यूनिटी का डिजाइन किसने तैयार किया?",
+              "answer": "Ram Vanji Sutar",
+              "answerHi": "राम वनजी सुतार",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "What is called the storehouse of world-art collections?",
+              "questionHi": "विश्व-कला संग्रहों का भंडार किसे कहा जाता है?",
+              "answer": "Salar Jung Museum",
+              "answerHi": "सालार जंग संग्रहालय",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The Statue of Unity in India is the world's tallest statue of whom?",
+              "questionHi": "भारत में स्टैच्यू ऑफ यूनिटी किसकी दुनिया की सबसे ऊंची प्रतिमा है?",
+              "answer": "Sardar Vallabhbhai Patel",
+              "answerHi": "सरदार वल्लभभाई पटेल",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In which field did Pradosh Dasgupta distinguish himself?",
+              "questionHi": "प्रदोष दासगुप्ता ने किस क्षेत्र में अपनी पहचान बनाई?",
+              "answer": "Sculpture",
+              "answerHi": "मूर्तिकला",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who is the famous Madhubani artist who won the Bihar Ratna in 1984?",
+              "questionHi": "1984 में बिहार रत्न जीतने वाली प्रसिद्ध मधुबनी कलाकार कौन हैं?",
+              "answer": "Sita Devi",
+              "answerHi": "सीता देवी",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In which monument can Pietra Dura, the inlay technique of architecture, be found?",
+              "questionHi": "वास्तुकला की जड़ाऊ तकनीक, पिएट्रा ड्यूरा, किस स्मारक में पाई जा सकती है?",
+              "answer": "Taj Mahal",
+              "answerHi": "ताजमहल",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Cheriyal Scrolls is a dying art form from which modern-day state?",
+              "questionHi": "चेरियाल स्क्रॉल किस आधुनिक राज्य की एक लुप्त होती कला है?",
+              "answer": "Telangana",
+              "answerHi": "तेलंगाना",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "'Paithani' is a form of ____ from Maharashtra.",
+              "questionHi": "'पैठणी' महाराष्ट्र का एक ____ का रूप है।",
+              "answer": "Textile weaving",
+              "answerHi": "कपड़ा बुनाई",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Sanjhi Art is associated with which state of India?",
+              "questionHi": "सांझी कला भारत के किस राज्य से संबंधित है?",
+              "answer": "Uttar Pradesh",
+              "answerHi": "उत्तर प्रदेश",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Khurja pottery is associated with which state of India?",
+              "questionHi": "खुर्जा मिट्टी के बर्तन भारत के किस राज्य से संबंधित हैं?",
+              "answer": "Uttar Pradesh",
+              "answerHi": "उत्तर प्रदेश",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Aipan is a traditional folk art of which state?",
+              "questionHi": "ऐपण किस राज्य की एक पारंपरिक लोक कला है?",
+              "answer": "Uttarakhand",
+              "answerHi": "उत्तराखंड",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Alpana is a traditional folk art of which state?",
+              "questionHi": "अल्पना किस राज्य की एक पारंपरिक लोक कला है?",
+              "answer": "West Bengal",
+              "answerHi": "पश्चिम बंगाल",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which colour saree with bright golden borders is worn by Mohiniyattam dancers?",
+              "questionHi": "मोहिनीअट्टम नर्तकियों द्वारा चमकीले सुनहरे बॉर्डर वाली किस रंग की साड़ी पहनी जाती है?",
+              "answer": "White/off-white",
+              "answerHi": "सफेद/ऑफ-व्हाइट",
+              "explanation": "",
+              "explanationHi": ""
+            }
+          ]
+        },
+        {
+          "name": "Art & Culture #8 (Cultural History)",
+          "nameHi": "कला और संस्कृति #8 (सांस्कृतिक इतिहास)",
+          "icon": "date",
+          "type": "list",
+          "content": [
+            {
+              "question": "In which year was Kisan Diwas (Farmer's Day) first celebrated in India?",
+              "questionHi": "भारत में पहली बार किसान दिवस किस वर्ष मनाया गया?",
+              "answer": "1936",
+              "answerHi": "1936",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In which year did the Government of India establish the Lalit Kala Akademi in New Delhi?",
+              "questionHi": "भारत सरकार ने नई दिल्ली में ललित कला अकादमी की स्थापना किस वर्ष की?",
+              "answer": "1954",
+              "answerHi": "1954",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In the context of Sufi tradition, what did the term 'khanqah' stand for?",
+              "questionHi": "सूफी परंपरा के संदर्भ में, 'खानकाह' शब्द का क्या अर्थ था?",
+              "answer": "A hospice",
+              "answerHi": "एक धर्मशाला",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In which dialect did Kabir write?",
+              "questionHi": "कबीर ने किस बोली में लिखा?",
+              "answer": "Avadhi",
+              "answerHi": "अवधी",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which are among the Upavedas (sub-Vedas)?",
+              "questionHi": "उपवेदों में कौन से शामिल हैं?",
+              "answer": "Ayurveda, Gandharva Veda, Shilpa Veda",
+              "answerHi": "आयुर्वेद, गंधर्व वेद, शिल्प वेद",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who is also known as 'The Light of Asia'?",
+              "questionHi": "'एशिया का प्रकाश' के रूप में किसे जाना जाता है?",
+              "answer": "Buddha",
+              "answerHi": "बुद्ध",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Where is the Swaminarayan temple, Akshardham, located?",
+              "questionHi": "स्वामीनारायण मंदिर, अक्षरधाम कहाँ स्थित है?",
+              "answer": "Gandhinagar, Gujarat",
+              "answerHi": "गांधीनगर, गुजरात",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which city was given as 'guru dakshina' by the Pandavas to Guru Dronacharya?",
+              "questionHi": "पांडवों द्वारा गुरु द्रोणाचार्य को 'गुरु दक्षिणा' के रूप में कौन सा शहर दिया गया था?",
+              "answer": "Gurgaon (now Gurugram)",
+              "answerHi": "गुड़गांव (अब गुरुग्राम)",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The holy place of the Jains, Shravanabelagola, is situated in which district of Karnataka?",
+              "questionHi": "जैनों का पवित्र स्थान, श्रवणबेलगोला, कर्नाटक के किस जिले में स्थित है?",
+              "answer": "Hassan District",
+              "answerHi": "हसन जिला",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which monument is known as 'The National Monument of India'?",
+              "questionHi": "'भारत का राष्ट्रीय स्मारक' के रूप में कौन सा स्मारक जाना जाता है?",
+              "answer": "India Gate",
+              "answerHi": "इंडिया गेट",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Navakalevara is a ritual that takes place in which temple?",
+              "questionHi": "नवकलेवर एक अनुष्ठान है जो किस मंदिर में होता है?",
+              "answer": "Jagannath Temple, Puri",
+              "answerHi": "जगन्नाथ मंदिर, पुरी",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The famous Dilwara temples of Mount Abu are a sacred pilgrimage place for which religion?",
+              "questionHi": "माउंट आबू के प्रसिद्ध दिलवाड़ा मंदिर किस धर्म के लिए एक पवित्र तीर्थ स्थान हैं?",
+              "answer": "Jainism",
+              "answerHi": "जैन धर्म",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "What do the paintings of Ajanta depict?",
+              "questionHi": "अजंता की पेंटिंग क्या दर्शाती हैं?",
+              "answer": "The Jatakas",
+              "answerHi": "जातक कथाएं",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The Hindu pilgrimage centre Sabarimala is located in which state?",
+              "questionHi": "हिंदू तीर्थस्थल सबरीमाला किस राज्य में स्थित है?",
+              "answer": "Kerala",
+              "answerHi": "केरल",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The Urs Festival in Ajmer commemorates the death anniversary of which Sufi saint?",
+              "questionHi": "अजमेर में उर्स महोत्सव किस सूफी संत की पुण्यतिथि पर मनाया जाता है?",
+              "answer": "Khwaja Moinuddin Chishti",
+              "answerHi": "ख्वाजा मोइनुद्दीन चिश्ती",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The prominent Saint Vallabhacharya was associated with which sect?",
+              "questionHi": "प्रमुख संत वल्लभाचार्य किस संप्रदाय से जुड़े थे?",
+              "answer": "Krishnashrayi",
+              "answerHi": "कृष्णाश्रयी",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "During which period did the Gandhara Art flourish?",
+              "questionHi": "गांधार कला किस काल में फली-फूली?",
+              "answer": "The Kushan period",
+              "answerHi": "कुषाण काल",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The Madai tribal festival in Chhattisgarh is dedicated to which goddess?",
+              "questionHi": "छत्तीसगढ़ में मड़ई आदिवासी त्योहार किस देवी को समर्पित है?",
+              "answer": "Goddess Kesharpal Kesharpalin Devi",
+              "answerHi": "देवी केसरपाल केसरपालिन",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which place of Sikh religious heritage is not in India?",
+              "questionHi": "सिख धर्म की विरासत का कौन सा स्थान भारत में नहीं है?",
+              "answer": "Nankana Sahib",
+              "answerHi": "ननकाना साहिब",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "What principles are mentioned in the Dhamma?",
+              "questionHi": "धम्म में किन सिद्धांतों का उल्लेख है?",
+              "answer": "Obedience to parents, charity, and paternalism",
+              "answerHi": "माता-पिता की आज्ञाकारिता, दान और पितृवाद",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The Sun Temple is situated in which state?",
+              "questionHi": "सूर्य मंदिर किस राज्य में स्थित है?",
+              "answer": "Odisha",
+              "answerHi": "ओडिशा",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which festival is associated with the 'Vamana' incarnation of Vishnu?",
+              "questionHi": "कौन सा त्योहार विष्णु के 'वामन' अवतार से जुड़ा है?",
+              "answer": "Onam",
+              "answerHi": "ओणम",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which Veda is referred to as the starting source of the word 'Rudra'?",
+              "questionHi": "'रुद्र' शब्द का प्रारंभिक स्रोत किस वेद को माना जाता है?",
+              "answer": "Rigveda",
+              "answerHi": "ऋग्वेद",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Where is the Ranganathaswamy Temple situated?",
+              "questionHi": "रंगनाथस्वामी मंदिर कहाँ स्थित है?",
+              "answer": "Srirangam",
+              "answerHi": "श्रीरंगम",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "What is a semi-circular structure with a dome-shaped roof, erected over the sacred relics of Buddha, known as?",
+              "questionHi": "बुद्ध के पवित्र अवशेषों पर बने गुंबद के आकार की छत वाली अर्ध-वृत्ताकार संरचना को क्या कहा जाता है?",
+              "answer": "Stupa",
+              "answerHi": "स्तूप",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which temple is also known by the name 'Black Pagoda'?",
+              "questionHi": "किस मंदिर को 'ब्लैक पैगोडा' के नाम से भी जाना जाता है?",
+              "answer": "Sun Temple, Konark",
+              "answerHi": "सूर्य मंदिर, कोणार्क",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "What is the name of the religious text of the Jews?",
+              "questionHi": "यहूदियों के धार्मिक ग्रंथ का क्या नाम है?",
+              "answer": "The Torah",
+              "answerHi": "तोराह",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Andal, a Bhakti saint, was associated with which religious sect?",
+              "questionHi": "एक भक्ति संत, अंदाल, किस धार्मिक संप्रदाय से जुड़ी थीं?",
+              "answer": "Vaishnavism",
+              "answerHi": "वैष्णववाद",
               "explanation": "",
               "explanationHi": ""
             }
