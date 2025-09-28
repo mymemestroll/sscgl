@@ -3892,6 +3892,918 @@
               "explanationHi": ""
             }
           ]
+        },
+        {
+          "name": "Medieval History #1 (Arab Invasion)",
+          "nameHi": "मध्यकालीन इतिहास #1 (अरब आक्रमण)",
+          "icon": "date",
+          "type": "list",
+          "content": [
+            {
+              "question": "Who attacked and looted the famous Somnath temple in 1026 AD?",
+              "questionHi": "1026 ई. में प्रसिद्ध सोमनाथ मंदिर पर किसने आक्रमण किया और उसे लूटा?",
+              "answer": "Mahmud of Ghazni",
+              "answerHi": "महमूद गजनी",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which Turkish ruler invaded India 17 times between 1000 and 1026 AD?",
+              "questionHi": "किस तुर्की शासक ने 1000 और 1026 ईस्वी के बीच भारत पर 17 बार आक्रमण किया?",
+              "answer": "Mahmud of Ghazni",
+              "answerHi": "महमूद गजनी",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "With whom did Alberuni come to India?",
+              "questionHi": "अलबरूनी किसके साथ भारत आया था?",
+              "answer": "Mahmud of Ghazni",
+              "answerHi": "महमूद गजनी",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Sultan Mahmud was a ruler of which place?",
+              "questionHi": "सुल्तान महमूद कहाँ का शासक था?",
+              "answer": "Ghazni",
+              "answerHi": "गजनी",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "What is the name of Al-Biruni's Arabic work that gave an account of the subcontinent?",
+              "questionHi": "अल-बिरूनी की उस अरबी कृति का क्या नाम है जिसमें उपमहाद्वीप का विवरण दिया गया है?",
+              "answer": "Kitab-al-Hind",
+              "answerHi": "किताब-अल-हिन्द",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which Rajput king defeated Muhammad Ghori for the first time?",
+              "questionHi": "किस राजपूत राजा ने मुहम्मद गोरी को पहली बार हराया था?",
+              "answer": "Baghel Bhim in 1178",
+              "answerHi": "1178 में बघेल भीम",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who was victorious in the first battle of Tarain (AD 1191)?",
+              "questionHi": "तराइन की पहली लड़ाई (1191 ई.) में कौन विजयी हुआ?",
+              "answer": "Prithviraj Chauhan defeated Mohammad Ghauri",
+              "answerHi": "पृथ्वीराज चौहान ने मुहम्मद गोरी को हराया",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who defeated whom in the Second Battle of Tarain (AD 1192)?",
+              "questionHi": "तराइन की दूसरी लड़ाई (1192 ई.) में किसने किसको हराया?",
+              "answer": "Mohammad Ghauri defeated Prithviraj",
+              "answerHi": "मुहम्मद गोरी ने पृथ्वीराज को हराया",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which battle led to the foundation of Muslim power in India?",
+              "questionHi": "किस लड़ाई ने भारत में मुस्लिम सत्ता की नींव रखी?",
+              "answer": "The second battle of Tarain",
+              "answerHi": "तराइन की दूसरी लड़ाई",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which Indian ruler was defeated by Mahmud Ghazni in his first attack in the year 1000 AD?",
+              "questionHi": "1000 ई. में अपने पहले हमले में महमूद गजनवी से कौन सा भारतीय शासक पराजित हुआ था?",
+              "answer": "Jaya Pala",
+              "answerHi": "जयपाल",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which scholar was entrusted by Sultan Mahmud of Ghazni to write an account of the subcontinent?",
+              "questionHi": "सुल्तान महमूद गजनवी ने किस विद्वान को उपमहाद्वीप का वृत्तांत लिखने का काम सौंपा था?",
+              "answer": "Al-Biruni",
+              "answerHi": "अल-बिरूनी",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Queen Naiki Devi is remembered as the woman who defeated whom in 1178 CE?",
+              "questionHi": "रानी नाइकी देवी को 1178 ई. में किसे हराने वाली महिला के रूप में याद किया जाता है?",
+              "answer": "Muhammad Ghori",
+              "answerHi": "मुहम्मद गोरी",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who was a slave of Muhammad Ghori who became the ruler after his master's death and founded the Slave Dynasty?",
+              "questionHi": "मुहम्मद गोरी का वह कौन सा गुलाम था जो अपने स्वामी की मृत्यु के बाद शासक बना और गुलाम वंश की स्थापना की?",
+              "answer": "Qutub-ud-din Aibak",
+              "answerHi": "कुतुबुद्दीन ऐबक",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who was born to the Chauhan King Someshvara and his queen Karpuradevi in 1166 CE?",
+              "questionHi": "1166 ई. में चौहान राजा सोमेश्वर और उनकी रानी कर्पूरदेवी के घर किसका जन्म हुआ था?",
+              "answer": "Prithviraj Chauhan",
+              "answerHi": "पृथ्वीराज चौहान",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In what year was the first invasion of Muhammad Ghori when he attacked Multan?",
+              "questionHi": "मुहम्मद गोरी का पहला आक्रमण किस वर्ष हुआ था जब उसने मुल्तान पर हमला किया?",
+              "answer": "1175 AD",
+              "answerHi": "1175 ई.",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who was the best-known Chahamana ruler who defeated Sultan Muhammad Ghori in 1191 A.D?",
+              "questionHi": "सबसे प्रसिद्ध चाहमान शासक कौन था जिसने 1191 ई. में सुल्तान मुहम्मद गोरी को हराया था?",
+              "answer": "Prithviraja III",
+              "answerHi": "पृथ्वीराज तृतीय",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who was defeated by Muhammad Ghori in the Battle of Chandawar?",
+              "questionHi": "चंदावर के युद्ध में मुहम्मद गोरी से कौन पराजित हुआ?",
+              "answer": "Jai Chand",
+              "answerHi": "जयचंद",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which dynasty did not rule the Delhi Sultanate?",
+              "questionHi": "दिल्ली सल्तनत पर किस वंश ने शासन नहीं किया?",
+              "answer": "Ghori dynasty",
+              "answerHi": "गोरी वंश",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Sultan Muhammad Ghori, who defeated Prithviraja III in 1192, was a ruler from where?",
+              "questionHi": "1192 में पृथ्वीराज तृतीय को हराने वाला सुल्तान मुहम्मद गोरी कहाँ का शासक था?",
+              "answer": "Afghanistan",
+              "answerHi": "अफगानिस्तान",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In the context of Medieval Indian History, which geographical belt was denoted as 'Turan'?",
+              "questionHi": "मध्यकालीन भारतीय इतिहास के संदर्भ में, किस भौगोलिक क्षेत्र को 'तूरान' कहा जाता था?",
+              "answer": "Central Asia",
+              "answerHi": "मध्य एशिया",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In which year did Tamerlane invade India?",
+              "questionHi": "तैमूरलंग ने भारत पर किस वर्ष आक्रमण किया?",
+              "answer": "1398",
+              "answerHi": "1398",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The 'Chachnama' records the history of which conquest?",
+              "questionHi": "'चचनामा' में किस विजय के इतिहास का रिकॉर्ड है?",
+              "answer": "Arabs",
+              "answerHi": "अरबों",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "What did the Arabs name Multan?",
+              "questionHi": "अरबों ने मुल्तान को क्या नाम दिया?",
+              "answer": "City of Gold",
+              "answerHi": "सोने का शहर",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Where is the mosque situated where a hair of Prophet Muhammad has been preserved?",
+              "questionHi": "वह मस्जिद कहाँ स्थित है जहाँ पैगंबर मुहम्मद का एक बाल संरक्षित किया गया है?",
+              "answer": "Srinagar",
+              "answerHi": "श्रीनगर",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The state of Assam derives its name from a tribe that conquered the region. Where did the tribesmen come from?",
+              "questionHi": "असम राज्य का नाम उस जनजाति से लिया गया है जिसने इस क्षेत्र पर विजय प्राप्त की थी। वे जनजाति के लोग कहाँ से आए थे?",
+              "answer": "Siam (now Thailand)",
+              "answerHi": "स्याम (अब थाईलैंड)",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The capital city 'Daidu' established by Kublai Khan is situated where?",
+              "questionHi": "कुबलई खान द्वारा स्थापित राजधानी 'दैदु' कहाँ स्थित है?",
+              "answer": "Beijing",
+              "answerHi": "बीजिंग",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "To which tribe did Genghis Khan belong?",
+              "questionHi": "चंगेज खान किस जनजाति का था?",
+              "answer": "Mongol",
+              "answerHi": "मंगोल",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The Mongols under whom invaded Transoxiana in north-east Iran in 1219?",
+              "questionHi": "किसके अधीन मंगोलों ने 1219 में उत्तर-पूर्वी ईरान में ट्रांसोक्सियाना पर आक्रमण किया?",
+              "answer": "Genghis Khan",
+              "answerHi": "चंगेज खान",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which Muslim adventurer destroyed Nalanda University?",
+              "questionHi": "किस मुस्लिम साहसी ने नालंदा विश्वविद्यालय को नष्ट कर दिया?",
+              "answer": "Muhammad-bin-Bhaktiyar",
+              "answerHi": "मुहम्मद-बिन-बख्तियार",
+              "explanation": "",
+              "explanationHi": ""
+            }
+          ]
+        },
+        {
+          "name": "Medieval History #2 (Delhi Sultanate)",
+          "nameHi": "मध्यकालीन इतिहास #2 (दिल्ली सल्तनत)",
+          "icon": "date",
+          "type": "list",
+          "content": [
+            {
+              "question": "The period between which years in India's history is known as the Delhi Sultanate period?",
+              "questionHi": "भारत के इतिहास में किन वर्षों के बीच की अवधि को दिल्ली सल्तनत काल के रूप में जाना जाता है?",
+              "answer": "1206 A.D. and 1526 A.D.",
+              "answerHi": "1206 ई. और 1526 ई.",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In the Delhi Sultanate, what did the term 'muqti' mean?",
+              "questionHi": "दिल्ली सल्तनत में 'मुक्ति' शब्द का क्या अर्थ था?",
+              "answer": "The holder of a land assignment called 'iqta'",
+              "answerHi": "'इक्ता' नामक भूमि अनुदान का धारक",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "When did the rule of the Delhi Sultanate begin?",
+              "questionHi": "दिल्ली सल्तनत का शासन कब शुरू हुआ?",
+              "answer": "1206 A.D.",
+              "answerHi": "1206 ई.",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "When did the reign of the Delhi Sultanate come to an end?",
+              "questionHi": "दिल्ली सल्तनत का शासनकाल कब समाप्त हुआ?",
+              "answer": "1526 A.D.",
+              "answerHi": "1526 ई.",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "What was the official court language of the Delhi Sultanate?",
+              "questionHi": "दिल्ली सल्तनत की राजभाषा क्या थी?",
+              "answer": "Persian",
+              "answerHi": "फ़ारसी",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which language was designated as the 'Camp Language' during the Medieval Period?",
+              "questionHi": "मध्यकाल में किस भाषा को 'शिविर भाषा' के रूप में नामित किया गया था?",
+              "answer": "Urdu",
+              "answerHi": "उर्दू",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which art form reached its peak during the Sultanate period?",
+              "questionHi": "सल्तनत काल में कौन सी कला अपने चरम पर पहुँची?",
+              "answer": "Architecture",
+              "answerHi": "वास्तुकला",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Arrange the following dynasties in chronological order: 1. Khilji Dynasty 2. Lodhi Dynasty 3. Tughlaq Dynasty.",
+              "questionHi": "निम्नलिखित राजवंशों को कालानुक्रमिक क्रम में व्यवस्थित करें: 1. खिलजी वंश 2. लोधी वंश 3. तुगलक वंश।",
+              "answer": "1, 3, 2 (Khilji, Tughlaq, Lodhi)",
+              "answerHi": "1, 3, 2 (खिलजी, तुगलक, लोधी)",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which ruler built the 'Adhai Din Ka Jhonpra' mosque at Ajmer?",
+              "questionHi": "अजमेर में 'अढाई दिन का झोपड़ा' मस्जिद का निर्माण किस शासक ने करवाया था?",
+              "answer": "Qutub-ud-Din Aibak",
+              "answerHi": "कुतुब-उद-दीन ऐबक",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which dynasty was founded by Qutb ud-din Aibak?",
+              "questionHi": "कुतुब-उद-दीन ऐबक ने किस वंश की स्थापना की?",
+              "answer": "Slave Dynasty",
+              "answerHi": "गुलाम वंश",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which was the first Muslim dynasty that ruled India?",
+              "questionHi": "भारत पर शासन करने वाला पहला मुस्लिम राजवंश कौन सा था?",
+              "answer": "Slave Dynasty (Mamluk dynasty)",
+              "answerHi": "गुलाम वंश (मामलुक वंश)",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The dynasty that ruled North India from 1206 to 1290, established by Qutbuddin Aibak, was which one?",
+              "questionHi": "1206 से 1290 तक उत्तर भारत पर शासन करने वाला राजवंश, जिसकी स्थापना कुतुबुद्दीन ऐबक ने की थी, कौन सा था?",
+              "answer": "Slave dynasty",
+              "answerHi": "गुलाम वंश",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who was the first and only Muslim woman to ever sit on the throne of Delhi?",
+              "questionHi": "दिल्ली की गद्दी पर बैठने वाली पहली और एकमात्र मुस्लिम महिला कौन थी?",
+              "answer": "Razia Begum",
+              "answerHi": "रजिया बेगम",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The Qutub Minar was named after which Sufi saint?",
+              "questionHi": "कुतुब मीनार का नाम किस सूफी संत के नाम पर रखा गया था?",
+              "answer": "Khwaja Qutbuddin Bakhtiyar Kaki",
+              "answerHi": "ख्वाजा कुतुबुद्दीन बख्तियार काकी",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Where is the Dargah of Sheikh Khwaja Qutubuddin Bakhtiyar Kaki located?",
+              "questionHi": "शेख ख्वाजा कुतुबुद्दीन बख्तियार काकी की दरगाह कहाँ स्थित है?",
+              "answer": "Delhi",
+              "answerHi": "दिल्ली",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "During Iltutmish's reign, what were the special slaves bought for military service called?",
+              "questionHi": "इल्तुतमिश के शासनकाल में सैन्य सेवा के लिए खरीदे गए विशेष दासों को क्या कहा जाता था?",
+              "answer": "Bandgan",
+              "answerHi": "बंदगान",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which Delhi Sultan traced his descent to the ancient hero Afrasiyab to claim noble birth?",
+              "questionHi": "किस दिल्ली सुल्तान ने कुलीन जन्म का दावा करने के लिए अपने वंश को प्राचीन नायक अफरासियाब से जोड़ा?",
+              "answer": "Balban",
+              "answerHi": "बलबन",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which of the Delhi Sultans pursued the policy of 'blood and iron'?",
+              "questionHi": "दिल्ली के किस सुल्तान ने 'रक्त और लौह' की नीति अपनाई?",
+              "answer": "Balban",
+              "answerHi": "बलबन",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who is considered the saviour of the Delhi Sultanate?",
+              "questionHi": "दिल्ली सल्तनत का रक्षक किसे माना जाता है?",
+              "answer": "Ghias-ud-din Balban",
+              "answerHi": "गियास-उद-दीन बलबन",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who was the first Sultan to request and obtain letters of investiture from the Caliph?",
+              "questionHi": "खलीफा से अधिकार पत्र का अनुरोध करने और प्राप्त करने वाला पहला सुल्तान कौन था?",
+              "answer": "Iltutmish",
+              "answerHi": "इल्तुतमिश",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who was the first Sultan of Delhi to issue regular currency and declare Delhi as the capital?",
+              "questionHi": "नियमित मुद्रा जारी करने और दिल्ली को राजधानी घोषित करने वाला दिल्ली का पहला सुल्तान कौन था?",
+              "answer": "Iltutmish",
+              "answerHi": "इल्तुतमिश",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who completed the construction of the Qutub Minar?",
+              "questionHi": "कुतुब मीनार का निर्माण किसने पूरा करवाया?",
+              "answer": "Iltutmish",
+              "answerHi": "इल्तुतमिश",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which Sultan received a 'robe of honour' from the Caliph?",
+              "questionHi": "किस सुल्तान को खलीफा से 'सम्मान का वस्त्र' प्राप्त हुआ?",
+              "answer": "Iltutmish",
+              "answerHi": "इल्तुतमिश",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who introduced the silver coin 'tanka'?",
+              "questionHi": "चांदी का सिक्का 'टंका' किसने चलाया?",
+              "answer": "Iltutmish",
+              "answerHi": "इल्तुतमिश",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Razia Sultan was the daughter of which Sultan?",
+              "questionHi": "रजिया सुल्तान किस सुल्तान की बेटी थी?",
+              "answer": "Iltutmish",
+              "answerHi": "इल्तुतमिश",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Before becoming Sultan, Balban was the Prime Minister of which Sultan?",
+              "questionHi": "सुल्तान बनने से पहले, बलबन किस सुल्तान का प्रधानमंत्री था?",
+              "answer": "Nasir-ud-din",
+              "answerHi": "नासिर-उद-दीन",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Where did Iltutmish establish a centre of learning?",
+              "questionHi": "इल्तुतमिश ने एक शिक्षण केंद्र की स्थापना कहाँ की?",
+              "answer": "Patna",
+              "answerHi": "पटना",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which Delhi Sultan died from a fall from a horse while playing Polo (Chaugan) in Lahore?",
+              "questionHi": "लाहौर में पोलो (चौगान) खेलते समय घोड़े से गिरकर किस दिल्ली सुल्तान की मृत्यु हो गई?",
+              "answer": "Qutbuddin Aibak",
+              "answerHi": "कुतुबुद्दीन ऐबक",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Whom did Mohammad Ghori leave behind as his trusted general to take care of conquered lands?",
+              "questionHi": "मुहम्मद गोरी ने विजित भूमि की देखभाल के लिए अपने किस विश्वसनीय सेनापति को पीछे छोड़ा था?",
+              "answer": "Qutbuddin Aibak",
+              "answerHi": "कुतुबुद्दीन ऐबक",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who built the 'Quwwat-ul-Islam' Mosque?",
+              "questionHi": "'कुव्वत-उल-इस्लाम' मस्जिद का निर्माण किसने करवाया?",
+              "answer": "Qutbuddin Aibak",
+              "answerHi": "कुतुबुद्दीन ऐबक",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which ruler was given the title 'Lakh Baksh'?",
+              "questionHi": "किस शासक को 'लाख बख्श' की उपाधि दी गई थी?",
+              "answer": "Qutub-ud-din Aibak",
+              "answerHi": "कुतुब-उद-दीन ऐबक",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who was the first Muslim ruler of Delhi?",
+              "questionHi": "दिल्ली का पहला मुस्लिम शासक कौन था?",
+              "answer": "Qutub-ud-din Aibak",
+              "answerHi": "कुतुब-उद-दीन ऐबक",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In 1236, Sultan Iltutmish's daughter, who, became Sultan?",
+              "questionHi": "1236 में, सुल्तान इल्तुतमिश की बेटी, कौन, सुल्तान बनी?",
+              "answer": "Raziyya",
+              "answerHi": "रजिया",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "What was the capital of the Sultanate during the reign of Iltutmish?",
+              "questionHi": "इल्तुतमिश के शासनकाल में सल्तनत की राजधानी क्या थी?",
+              "answer": "Delhi",
+              "answerHi": "दिल्ली",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In which centuries was the Qutub Minar of Delhi built?",
+              "questionHi": "दिल्ली का कुतुब मीनार किस शताब्दी में बनाया गया था?",
+              "answer": "12th and 13th Century",
+              "answerHi": "12वीं और 13वीं शताब्दी",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "During whose reign did the Mongols under Genghis Khan invade India?",
+              "questionHi": "किसके शासनकाल में चंगेज खान के नेतृत्व में मंगोलों ने भारत पर आक्रमण किया?",
+              "answer": "Iltutmish",
+              "answerHi": "इल्तुतमिश",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who was popularly known as the 'parrot of India'?",
+              "questionHi": "किसे 'भारत का तोता' के नाम से जाना जाता था?",
+              "answer": "Amir Khusro",
+              "answerHi": "अमीर खुसरो",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who created a new system of musicology called 'Indraprastha Mata' or 'Chaturdandi Sampradaya'?",
+              "questionHi": "किसने 'इंद्रप्रस्थ मत' या 'चतुर्दंडी सम्प्रदाय' नामक संगीतशास्त्र की एक नई प्रणाली बनाई?",
+              "answer": "Amir Khusro",
+              "answerHi": "अमीर खुसरो",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who created the largest standing army of the Sultanate, paid directly by the state?",
+              "questionHi": "सल्तनत की सबसे बड़ी स्थायी सेना, जिसे सीधे राज्य द्वारा भुगतान किया जाता था, किसने बनाई?",
+              "answer": "Alauddin Khilji",
+              "answerHi": "अलाउद्दीन खिलजी",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which Sultan described himself as 'The Second Alexander' (Sikander-i-Sani)?",
+              "questionHi": "किस सुल्तान ने खुद को 'दूसरा सिकंदर' (सिकंदर-ए-सानी) बताया?",
+              "answer": "Alauddin Khilji",
+              "answerHi": "अलाउद्दीन खिलजी",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who was the first Sultan of Delhi to attempt the conquest of South India?",
+              "questionHi": "दक्षिण भारत पर विजय का प्रयास करने वाला दिल्ली का पहला सुल्तान कौन था?",
+              "answer": "Ala-ud-din Khilji",
+              "answerHi": "अला-उद-दीन खिलजी",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who introduced the Market Regulation system?",
+              "questionHi": "बाजार विनियमन प्रणाली किसने शुरू की?",
+              "answer": "Ala-ud-din Khilji",
+              "answerHi": "अला-उद-दीन खिलजी",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which Khilji ruler killed his father-in-law to ascend the throne of Delhi?",
+              "questionHi": "दिल्ली की गद्दी पर बैठने के लिए किस खिलजी शासक ने अपने ससुर की हत्या कर दी?",
+              "answer": "Ala-ud-din Khilji",
+              "answerHi": "अला-उद-दीन खिलजी",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The Khilji Sultans of Delhi were of what origin?",
+              "questionHi": "दिल्ली के खिलजी सुल्तान किस मूल के थे?",
+              "answer": "Turks",
+              "answerHi": "तुर्क",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which Delhi General successfully advanced up to Madurai?",
+              "questionHi": "कौन सा दिल्ली का जनरल सफलतापूर्वक मदुरै तक पहुंचा?",
+              "answer": "Malik Kafur",
+              "answerHi": "मलिक काफूर",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "What is the Alai Darwaza in relation to the Quwwat-ul-Islam mosque?",
+              "questionHi": "कुव्वत-उल-इस्लाम मस्जिद के संबंध में अलाई दरवाजा क्या है?",
+              "answer": "A gateway to its enclosure",
+              "answerHi": "इसके परिसर का एक प्रवेश द्वार",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In which Indian city is the Hauz Khas fort located?",
+              "questionHi": "हौज खास किला किस भारतीय शहर में स्थित है?",
+              "answer": "Delhi",
+              "answerHi": "दिल्ली",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "What was Amir Khusro's profession?",
+              "questionHi": "अमीर खुसरो का पेशा क्या था?",
+              "answer": "Poet",
+              "answerHi": "कवि",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who was the last ruler of the Vaghela Dynasty of Gujarat, after whose defeat the kingdom passed to Alauddin Khilji?",
+              "questionHi": "गुजरात के वाघेला वंश का अंतिम शासक कौन था, जिसकी हार के बाद राज्य अलाउद्दीन खिलजी के पास चला गया?",
+              "answer": "Karandev",
+              "answerHi": "कर्णदेव",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who was one of the governors during the reign of Alauddin Khilji?",
+              "questionHi": "अलाउद्दीन खिलजी के शासनकाल के दौरान राज्यपालों में से एक कौन था?",
+              "answer": "Ghiyasuddin Tughlaq",
+              "answerHi": "गियासुद्दीन तुगलक",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The Khilji dynasty ruled large parts of the Indian subcontinent between which years?",
+              "questionHi": "खिलजी वंश ने भारतीय उपमहाद्वीप के बड़े हिस्से पर किन वर्षों के बीच शासन किया?",
+              "answer": "1290 and 1320",
+              "answerHi": "1290 और 1320",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who was the first Muslim ruler whose empire covered almost the whole of India up to its extreme south?",
+              "questionHi": "पहला मुस्लिम शासक कौन था जिसका साम्राज्य लगभग पूरे भारत को उसके चरम दक्षिण तक कवर करता था?",
+              "answer": "Alauddin Khilji",
+              "answerHi": "अलाउद्दीन खिलजी",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "What was Alauddin Khilji's first military operation against?",
+              "questionHi": "अलाउद्दीन खिलजी का पहला सैन्य अभियान किसके खिलाफ था?",
+              "answer": "Ranthambore",
+              "answerHi": "रणथंभौर",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Amir Khusro was the disciple of whom?",
+              "questionHi": "अमीर खुसरो किसके शिष्य थे?",
+              "answer": "Nizamuddin Auliya",
+              "answerHi": "निजामुद्दीन औलिया",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which tax was initiated by Alauddin Khilji?",
+              "questionHi": "अलाउद्दीन खिलजी द्वारा कौन सा कर शुरू किया गया था?",
+              "answer": "Ghari (House Tax)",
+              "answerHi": "घरी (गृह कर)",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Mir Hassan Dehlavi was in whose court?",
+              "questionHi": "मीर हसन देहलवी किसके दरबार में थे?",
+              "answer": "Alauddin Khilji",
+              "answerHi": "अलाउद्दीन खिलजी",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Near which modern city is Daulatabad, where Muhammad-bin-Tughlaq transferred the capital from Delhi?",
+              "questionHi": "आधुनिक किस शहर के पास दौलताबाद स्थित है, जहाँ मुहम्मद-बिन-तुगलक ने दिल्ली से राजधानी स्थानांतरित की थी?",
+              "answer": "Aurangabad",
+              "answerHi": "औरंगाबाद",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Muhammad-bin-Tughlaq's token currency using copper and brass coins was modelled after which country's example?",
+              "questionHi": "मुहम्मद-बिन-तुगलक द्वारा तांबे और पीतल के सिक्कों का उपयोग करके सांकेतिक मुद्रा किस देश के उदाहरण के बाद बनाई गई थी?",
+              "answer": "China",
+              "answerHi": "चीन",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "From where did Mohammed Bin Tughlaq transfer his capital?",
+              "questionHi": "मोहम्मद बिन तुगलक ने अपनी राजधानी कहाँ से स्थानांतरित की?",
+              "answer": "From Delhi to Devagiri (Daulatabad)",
+              "answerHi": "दिल्ली से देवगिरि (दौलताबाद)",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which Delhi Sultan imposed Jizya even on the Brahmins?",
+              "questionHi": "किस दिल्ली सुल्तान ने ब्राह्मणों पर भी जजिया लगाया?",
+              "answer": "Feroz Shah Tughlaq",
+              "answerHi": "फिरोज शाह तुगलक",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which Sultan of Delhi established an employment bureau, a charity bureau, and a charitable hospital?",
+              "questionHi": "दिल्ली के किस सुल्तान ने एक रोजगार ब्यूरो, एक दान ब्यूरो और एक धर्मार्थ अस्पताल की स्थापना की?",
+              "answer": "Feroz Shah Tughlaq",
+              "answerHi": "फिरोज शाह तुगलक",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who finally rebuilt the Qutub Minar as we find it at present?",
+              "questionHi": "वर्तमान में जैसा हम कुतुब मीनार पाते हैं, उसका अंतिम पुनर्निर्माण किसने करवाया?",
+              "answer": "Feroz Shah Tughlaq",
+              "answerHi": "फिरोज शाह तुगलक",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Why was Mohammad-bin-Tughlaq considered a failure?",
+              "questionHi": "मोहम्मद-बिन-तुगलक को असफल क्यों माना गया?",
+              "answer": "He was not a practical statesman.",
+              "answerHi": "वह एक व्यावहारिक राजनेता नहीं थे।",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which Sultan tried to prohibit sati?",
+              "questionHi": "किस सुल्तान ने सती प्रथा पर रोक लगाने का प्रयास किया?",
+              "answer": "Mohammad Bin Tughlaq",
+              "answerHi": "मोहम्मद बिन तुगलक",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who created the agricultural department known as 'Diwan-i-kohi'?",
+              "questionHi": "'दीवान-ए-कोही' नामक कृषि विभाग की स्थापना किसने की?",
+              "answer": "Mohammad-bin-Tughlaq",
+              "answerHi": "मोहम्मद-बिन-तुगलक",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who is known as the 'Prince of Moneyers'?",
+              "questionHi": "'धनवानों का राजकुमार' किसे कहा जाता है?",
+              "answer": "Mohammad-Bin-Tughlaq",
+              "answerHi": "मोहम्मद-बिन-तुगलक",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which Sultan of Delhi has been described by historians as the 'mixture of opposites'?",
+              "questionHi": "दिल्ली के किस सुल्तान को इतिहासकारों ने 'विरोधाभासों का मिश्रण' बताया है?",
+              "answer": "Muhammad Bin Tughlaq",
+              "answerHi": "मुहम्मद बिन तुगलक",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who issued a token currency in copper coins between AD 1329 and 1330?",
+              "questionHi": "1329 और 1330 ईस्वी के बीच तांबे के सिक्कों में सांकेतिक मुद्रा किसने जारी की?",
+              "answer": "Muhammad-bin-Tughlaq",
+              "answerHi": "मुहम्मद-बिन-तुगलक",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In what subject was Muhammad-bin-Tughlaq proficient?",
+              "questionHi": "मुहम्मद-बिन-तुगलक किस विषय में निपुण था?",
+              "answer": "Philosophy",
+              "answerHi": "दर्शनशास्त्र",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The Sultans of which dynasty ruled for the longest time?",
+              "questionHi": "किस वंश के सुल्तानों ने सबसे लंबे समय तक शासन किया?",
+              "answer": "Tughlaq dynasty",
+              "answerHi": "तुगलक वंश",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "During whose reign did Timur invade India?",
+              "questionHi": "तैमूर ने किसके शासनकाल में भारत पर आक्रमण किया?",
+              "answer": "Nasir-ud-Din Mahmud Shah Tughluq",
+              "answerHi": "नासिर-उद-दीन महमूद शाह तुगलक",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which Moroccan traveller came to India during the regime of Muhammad bin Tughlaq?",
+              "questionHi": "कौन सा मोरक्को का यात्री मुहम्मद बिन तुगलक के शासनकाल में भारत आया था?",
+              "answer": "Ibn Battuta",
+              "answerHi": "इब्न बतूता",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The invasion of Delhi by Timur in what year marked the end of the Tughlaq empire?",
+              "questionHi": "किस वर्ष में तैमूर द्वारा दिल्ली पर आक्रमण ने तुगलक साम्राज्य का अंत कर दिया?",
+              "answer": "1398 AD",
+              "answerHi": "1398 ई.",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which Sultan of Delhi transferred his capital from Delhi to Agra?",
+              "questionHi": "दिल्ली के किस सुल्तान ने अपनी राजधानी दिल्ली से आगरा स्थानांतरित की?",
+              "answer": "Sikandar Lodi",
+              "answerHi": "सिकंदर लोदी",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which dynasty came to power in India after the Tughlaq dynasty?",
+              "questionHi": "तुगलक वंश के बाद भारत में कौन सा वंश सत्ता में आया?",
+              "answer": "The Sayyids",
+              "answerHi": "सैय्यद",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which Delhi Sultan was the first in the Sultanate's history to plan a campaign to capture Mongol territory?",
+              "questionHi": "सल्तनत के इतिहास में मंगोल क्षेत्र पर कब्जा करने के लिए अभियान की योजना बनाने वाला पहला दिल्ली सुल्तान कौन था?",
+              "answer": "Muhammad Tughlaq",
+              "answerHi": "मुहम्मद तुगलक",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In which year did Timur Lang (Tamerlane) invade India?",
+              "questionHi": "तैमूर लंग ने भारत पर किस वर्ष आक्रमण किया?",
+              "answer": "1398 AD",
+              "answerHi": "1398 ई.",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which ruler of Bengal had relations with China?",
+              "questionHi": "बंगाल के किस शासक के चीन के साथ संबंध थे?",
+              "answer": "Ghiyasuddin Azam Shah",
+              "answerHi": "गयासुद्दीन आजम शाह",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who founded the Sayyid dynasty?",
+              "questionHi": "सैय्यद वंश की स्थापना किसने की?",
+              "answer": "Khizr Khan",
+              "answerHi": "खिज्र खान",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In the Battle of Khatoli (1517), Rana Sanga of Mewar defeated which Sultan of Delhi?",
+              "questionHi": "खतौली के युद्ध (1517) में, मेवाड़ के राणा सांगा ने दिल्ली के किस सुल्तान को हराया था?",
+              "answer": "Ibrahim Lodhi",
+              "answerHi": "इब्राहिम लोदी",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who was the founder of the Lodhi dynasty?",
+              "questionHi": "लोधी वंश का संस्थापक कौन था?",
+              "answer": "Bahlol Lodhi",
+              "answerHi": "बहलोल लोदी",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who was the last ruler of the Lodi Dynasty?",
+              "questionHi": "लोदी वंश का अंतिम शासक कौन था?",
+              "answer": "Ibrahim Lodi",
+              "answerHi": "इब्राहिम लोदी",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who was the founder of the city of Agra?",
+              "questionHi": "आगरा शहर का संस्थापक कौन था?",
+              "answer": "Sikandar Lodi",
+              "answerHi": "सिकंदर लोदी",
+              "explanation": "",
+              "explanationHi": ""
+            }
+          ]
         }
       ]
     }
