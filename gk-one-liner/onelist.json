@@ -1,5 +1,5 @@
 {
-  "version": "1.0.10",
+  "version": "1.0.11",
   "content": [
     {
       "name": "Theory",
@@ -3304,6 +3304,590 @@
               "questionHi": "विक्रमादित्य के दरबार में 'नवरत्न' का हिस्सा कौन नहीं था?",
               "answer": "Surdas",
               "answerHi": "सूरदास",
+              "explanation": "",
+              "explanationHi": ""
+            }
+          ]
+        },
+        {
+          "name": "Ancient History #9 (VARDHAN DYNASTY)",
+          "nameHi": "प्राचीन इतिहास #9 (वर्धन वंश)",
+          "icon": "date",
+          "type": "list",
+          "content": [
+            {
+              "question": "Who was the last Buddhist king who was a great Sanskrit scholar and writer?",
+              "questionHi": "अंतिम बौद्ध राजा कौन था जो एक महान संस्कृत विद्वान और लेखक था?",
+              "answer": "Harshavardhana",
+              "answerHi": "हर्षवर्धन",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "From where did Harsha move his capital to Kannauj?",
+              "questionHi": "हर्ष ने अपनी राजधानी कहाँ से कन्नौज स्थानांतरित की?",
+              "answer": "Thanesar",
+              "answerHi": "थानेसर",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who was the court poet of Harsha Vardhana?",
+              "questionHi": "हर्षवर्धन का दरबारी कवि कौन था?",
+              "answer": "Banabhatta",
+              "answerHi": "बाणभट्ट",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who was the author of 'Kadambari', a great romantic play?",
+              "questionHi": "एक महान रूमानी नाटक 'कादम्बरी' के लेखक कौन थे?",
+              "answer": "Banabhatta",
+              "answerHi": "बाणभट्ट",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who wrote 'Harsha Charita'?",
+              "questionHi": "'हर्षचरित' किसने लिखा?",
+              "answer": "Banabhatta",
+              "answerHi": "बाणभट्ट",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which Chinese pilgrim visited India during Harsha Vardhan's period?",
+              "questionHi": "हर्षवर्धन के काल में किस चीनी तीर्थयात्री ने भारत का दौरा किया?",
+              "answer": "Hiuen-Tsang",
+              "answerHi": "ह्वेन त्सांग",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "To whom was the name 'Prince of Pilgrims' attributed?",
+              "questionHi": "'यात्रियों का राजकुमार' नाम किसे दिया गया था?",
+              "answer": "Hiuen Tsang",
+              "answerHi": "ह्वेन त्सांग",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The Kannauj assembly organized by Harsha was held in honour of whom?",
+              "questionHi": "हर्ष द्वारा आयोजित कन्नौज सभा किसके सम्मान में आयोजित की गई थी?",
+              "answer": "Hiuen-Tsang",
+              "answerHi": "ह्वेन त्सांग",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Where did Harshavardhana organise his religious assembly?",
+              "questionHi": "हर्षवर्धन ने अपनी धार्मिक सभा का आयोजन कहाँ किया?",
+              "answer": "Prayag",
+              "answerHi": "प्रयाग",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who defeated Harshavardhan on the banks of the Narmada in 618 CE?",
+              "questionHi": "618 ई. में नर्मदा के तट पर हर्षवर्धन को किसने हराया?",
+              "answer": "Pulakesin II",
+              "answerHi": "पुलकेशिन द्वितीय",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "What was the period of King Harsha's rule?",
+              "questionHi": "राजा हर्ष के शासन की अवधि क्या थी?",
+              "answer": "606-647 CE",
+              "answerHi": "606-647 ई.",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which emperor wrote the play 'Nagananda' in the Sanskrit language?",
+              "questionHi": "किस सम्राट ने संस्कृत भाषा में 'नागानन्द' नाटक लिखा?",
+              "answer": "Harshavardhana",
+              "answerHi": "हर्षवर्धन",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The Chinese traveller, Hiuen Tsang, visited India during whose rule?",
+              "questionHi": "चीनी यात्री ह्वेन त्सांग ने किसके शासनकाल में भारत का दौरा किया?",
+              "answer": "Harshavardhana",
+              "answerHi": "हर्षवर्धन",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Banabhatta was the court poet of which emperor?",
+              "questionHi": "बाणभट्ट किस सम्राट का दरबारी कवि था?",
+              "answer": "Harshavardhana",
+              "answerHi": "हर्षवर्धन",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "With the commencement of the 7th century, who ascended the throne of Thaneshwar and Kannauj?",
+              "questionHi": "7वीं शताब्दी के प्रारंभ में थानेश्वर और कन्नौज के सिंहासन पर कौन बैठा?",
+              "answer": "Harshavardhana",
+              "answerHi": "हर्षवर्धन",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "What were the big landlords or warrior chiefs in the seventh century acknowledged as by the existing kings?",
+              "questionHi": "सातवीं शताब्दी में बड़े जमींदारों या योद्धा प्रमुखों को मौजूदा राजाओं द्वारा क्या कहकर स्वीकार किया जाता था?",
+              "answer": "Samantas",
+              "answerHi": "सामंत",
+              "explanation": "",
+              "explanationHi": ""
+            }
+          ]
+        },
+        {
+          "name": "Ancient History #10 (SOUTHERN KINGDOM)",
+          "nameHi": "प्राचीन इतिहास #10 (दक्षिणी राज्य)",
+          "icon": "date",
+          "type": "list",
+          "content": [
+            {
+              "question": "Who was the most distinguished ruler of the Chalukya dynasty?",
+              "questionHi": "चालुक्य वंश का सबसे प्रतिष्ठित शासक कौन था?",
+              "answer": "Pulakesin II",
+              "answerHi": "पुलकेशिन द्वितीय",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Ravikirti, a Jain who composed the Aihole Inscriptions, was patronized by whom?",
+              "questionHi": "ऐहोल शिलालेखों की रचना करने वाले एक जैन, रविकीर्ति को किसका संरक्षण प्राप्त था?",
+              "answer": "Pulakesin II",
+              "answerHi": "पुलकेशिन द्वितीय",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who defeated the Arabs in 738 A.D.?",
+              "questionHi": "738 ई. में अरबों को किसने हराया?",
+              "answer": "The Chalukyas",
+              "answerHi": "चालुक्यों ने",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Where are the Chalukya temples (Jain temples) at Dilwara situated?",
+              "questionHi": "दिलवाड़ा में चालुक्य मंदिर (जैन मंदिर) कहाँ स्थित हैं?",
+              "answer": "Rajasthan (Mount Abu)",
+              "answerHi": "राजस्थान (माउंट आबू)",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The Virupaksha Temple was built by which dynasty?",
+              "questionHi": "विरुपाक्ष मंदिर का निर्माण किस राजवंश ने करवाया था?",
+              "answer": "The Chalukyas",
+              "answerHi": "चालुक्य",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "What was the capital of the Pallava Dynasty?",
+              "questionHi": "पल्लव वंश की राजधानी क्या थी?",
+              "answer": "Kanchipuram",
+              "answerHi": "कांचीपुरम",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who established Mahabalipuram?",
+              "questionHi": "महाबलीपुरम की स्थापना किसने की?",
+              "answer": "The Pallavas",
+              "answerHi": "पल्लवों ने",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "During the reign of which Pallava ruler did the long-drawn struggle between the Pallavas and the Chalukyas begin?",
+              "questionHi": "किस पल्लव शासक के शासनकाल में पल्लवों और चालुक्यों के बीच लंबा संघर्ष शुरू हुआ?",
+              "answer": "Mahendravarman I",
+              "answerHi": "महेंद्रवर्मन प्रथम",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which Pallava King assumed the title of 'Vatapikonda' after defeating the great Chalukyan King Pulakesin II?",
+              "questionHi": "किस पल्लव राजा ने महान चालुक्य राजा पुलकेशिन द्वितीय को हराने के बाद 'वातापिकोंड' की उपाधि धारण की?",
+              "answer": "Narasimhavarman I",
+              "answerHi": "नरसिंहवर्मन प्रथम",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The seashore temple at Mahabalipuram was built in the reign of which Pallava ruler?",
+              "questionHi": "महाबलीपुरम का तट मंदिर किस पल्लव शासक के शासनकाल में बनाया गया था?",
+              "answer": "Narasimhavarman I",
+              "answerHi": "नरसिंहवर्मन प्रथम",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The famous Kailasanath Temple at Kanchi was built by whom?",
+              "questionHi": "कांची का प्रसिद्ध कैलाशनाथ मंदिर किसके द्वारा बनवाया गया था?",
+              "answer": "Narasimhavarman II",
+              "answerHi": "नरसिंहवर्मन द्वितीय",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The Rathas of Mahabalipuram were built during the reign of which dynasty?",
+              "questionHi": "महाबलीपुरम के रथों का निर्माण किस वंश के शासन काल में हुआ था?",
+              "answer": "The Pallavas",
+              "answerHi": "पल्लव",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The Seven Pagodas of Mahabalipuram are a witness to the art patronised by whom?",
+              "questionHi": "महाबलीपुरम के सप्त पैगोडा किसके द्वारा संरक्षित कला के साक्षी हैं?",
+              "answer": "The Pallavas",
+              "answerHi": "पल्लव",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In which year did the Chalukya ruler Pulakesin achieve victory over Harshavardhana?",
+              "questionHi": "चालुक्य शासक पुलकेशिन ने किस वर्ष हर्षवर्धन पर विजय प्राप्त की थी?",
+              "answer": "618 A.D.",
+              "answerHi": "618 ई.",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Where did the Badami Chalukyas first have their capital before moving it to Badami?",
+              "questionHi": "बादामी में अपनी राजधानी स्थानांतरित करने से पहले बादामी चालुक्यों की पहली राजधानी कहाँ थी?",
+              "answer": "Aihole",
+              "answerHi": "ऐहोल",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The Pattadakal Temple was built during the reign of which dynasty?",
+              "questionHi": "पट्टदकल मंदिर का निर्माण किस राजवंश के शासन काल में हुआ था?",
+              "answer": "The Chalukyas",
+              "answerHi": "चालुक्य",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who was the founder of the Rashtrakuta dynasty?",
+              "questionHi": "राष्ट्रकूट वंश का संस्थापक कौन था?",
+              "answer": "Dantidurga",
+              "answerHi": "दंतिदुर्ग",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who performed the 'Hiranya-garbha' ritual?",
+              "questionHi": "'हिरण्य-गर्भ' अनुष्ठान किसने किया?",
+              "answer": "Dantidurga",
+              "answerHi": "दंतिदुर्ग",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who was the first and most important king of the Rashtrakuta dynasty of Karnataka who defeated the Chalukyas of Badami?",
+              "questionHi": "कर्नाटक के राष्ट्रकूट वंश का पहला और सबसे महत्वपूर्ण राजा कौन था जिसने बादामी के चालुक्यों को हराया था?",
+              "answer": "Dantidurga",
+              "answerHi": "दंतिदुर्ग",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "After which century did the practice of donating land in South India become widespread?",
+              "questionHi": "किस शताब्दी के बाद दक्षिण भारत में भूमि दान करने की प्रथा व्यापक हो गई?",
+              "answer": "Eighth century",
+              "answerHi": "आठवीं शताब्दी",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who wrote 'Silappadikaram', a Tamil epic?",
+              "questionHi": "एक तमिल महाकाव्य 'शिलप्पादिकारम' किसने लिखा?",
+              "answer": "Ilango Adigal",
+              "answerHi": "इलांगो आदिगल",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Marco Polo, a famous traveller, was a native of which country?",
+              "questionHi": "एक प्रसिद्ध यात्री मार्को पोलो किस देश का मूल निवासी था?",
+              "answer": "Italy",
+              "answerHi": "इटली",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "During whose reign did Hiuen Tsang visit Kanchipuram, the capital of the Pallavas?",
+              "questionHi": "ह्वेन त्सांग ने किसके शासनकाल में पल्लवों की राजधानी कांचीपुरम का दौरा किया?",
+              "answer": "Narasimhavarman I",
+              "answerHi": "नरसिंहवर्मन प्रथम",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who was the founder of the Chalukya dynasty?",
+              "questionHi": "चालुक्य वंश का संस्थापक कौन था?",
+              "answer": "Pulakesin I",
+              "answerHi": "पुलकेशिन प्रथम",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The Ratha temples of Mahabalipuram are an example of what kind of architecture?",
+              "questionHi": "महाबलीपुरम के रथ मंदिर किस प्रकार की वास्तुकला का उदाहरण हैं?",
+              "answer": "Rock-cut Temple",
+              "answerHi": "शैलकृत मंदिर",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which queen of the Kakatiya dynasty ruled over Warangal, part of modern Andhra Pradesh?",
+              "questionHi": "काकतीय वंश की किस रानी ने आधुनिक आंध्र प्रदेश के हिस्से वारंगल पर शासन किया था?",
+              "answer": "Rudramadevi",
+              "answerHi": "रुद्रमादेवी",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which part of India was mainly ruled by the Pallavas and Chalukyas?",
+              "questionHi": "भारत के किस भाग पर मुख्य रूप से पल्लवों और चालुक्यों का शासन था?",
+              "answer": "Southern",
+              "answerHi": "दक्षिणी",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The ruler of which South Indian dynasty assumed the title of 'Dharmaraj'?",
+              "questionHi": "दक्षिण भारत के किस राजवंश के शासक ने 'धर्मराज' की उपाधि धारण की?",
+              "answer": "Western Ganga",
+              "answerHi": "पश्चिमी गंग",
+              "explanation": "",
+              "explanationHi": ""
+            }
+          ]
+        },
+        {
+          "name": "Ancient History #11 (Age of 3 Empires)",
+          "nameHi": "प्राचीन इतिहास #11 (3 साम्राज्यों का युग)",
+          "icon": "date",
+          "type": "list",
+          "content": [
+            {
+              "question": "Bitpala and Dhiman, two great artists, belonged to which age?",
+              "questionHi": "दो महान कलाकार, बिटपाल और धीमान, किस युग के थे?",
+              "answer": "Pala Age",
+              "answerHi": "पाल युग",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Vikramashila University was founded by whom?",
+              "questionHi": "विक्रमशिला विश्वविद्यालय की स्थापना किसके द्वारा की गई थी?",
+              "answer": "Dharmapala",
+              "answerHi": "धर्मपाल",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which dynasty succeeded the Chalukyas in Western India?",
+              "questionHi": "पश्चिमी भारत में चालुक्यों के बाद किस वंश का उदय हुआ?",
+              "answer": "Rashtrakutas",
+              "answerHi": "राष्ट्रकूट",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The Rashtrakuta kingdom was founded by whom?",
+              "questionHi": "राष्ट्रकूट साम्राज्य की स्थापना किसके द्वारा की गई थी?",
+              "answer": "Dantidurga",
+              "answerHi": "दंतिदुर्ग",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The famous rock-cut temple of Kailasa is at which location?",
+              "questionHi": "कैलाश का प्रसिद्ध चट्टानों को काटकर बनाया गया मंदिर किस स्थान पर है?",
+              "answer": "Ellora",
+              "answerHi": "एलोरा",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "What was the early capital of the Rashtrakutas?",
+              "questionHi": "राष्ट्रकूटों की प्रारंभिक राजधानी क्या थी?",
+              "answer": "Ellora",
+              "answerHi": "एलोरा",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The famous Kailasa temple at Ellora was built under the patronage of which Rashtrakuta King?",
+              "questionHi": "एलोरा का प्रसिद्ध कैलाश मंदिर किस राष्ट्रकूट राजा के संरक्षण में बनवाया गया था?",
+              "answer": "Krishna I",
+              "answerHi": "कृष्ण प्रथम",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "What are the most lasting contributions of the Rashtrakutas?",
+              "questionHi": "राष्ट्रकूटों का सबसे स्थायी योगदान क्या है?",
+              "answer": "Pampa, Ponna, Ranna (three writers of Kannada poetry) and the Kailasha Temple",
+              "answerHi": "पम्पा, पोन्ना, रन्ना (कन्नड़ कविता के तीन लेखक) और कैलाश मंदिर",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who was the greatest king of the Pratihara dynasty?",
+              "questionHi": "प्रतिहार वंश का सबसे महान राजा कौन था?",
+              "answer": "Mihir Bhoja",
+              "answerHi": "मिहिर भोज",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which year witnessed the rise of the Rashtrakuta dynasty?",
+              "questionHi": "किस वर्ष राष्ट्रकूट वंश का उदय हुआ?",
+              "answer": "753 AD",
+              "answerHi": "753 ई.",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The Khajuraho group of monuments consists of temples of which religion(s)?",
+              "questionHi": "खजुराहो समूह के स्मारकों में किस धर्म/धर्मों के मंदिर हैं?",
+              "answer": "Both Hindu and Jain",
+              "answerHi": "हिंदू और जैन दोनों",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The famous Khajuraho Group of Monuments was constructed by whom?",
+              "questionHi": "प्रसिद्ध खजुराहो स्मारक समूह का निर्माण किसके द्वारा करवाया गया था?",
+              "answer": "The Chandelas",
+              "answerHi": "चंदेल",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In which state are the Ellora caves situated?",
+              "questionHi": "एलोरा की गुफाएँ किस राज्य में स्थित हैं?",
+              "answer": "Maharashtra",
+              "answerHi": "महाराष्ट्र",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The Kailasa temple in the Ellora Caves is the largest what in the world?",
+              "questionHi": "एलोरा की गुफाओं में स्थित कैलाश मंदिर दुनिया का सबसे बड़ा क्या है?",
+              "answer": "Rock-cut monument",
+              "answerHi": "शैलकृत स्मारक",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which famous temple was built by the Rashtrakuta Dynasty?",
+              "questionHi": "राष्ट्रकूट राजवंश द्वारा कौन सा प्रसिद्ध मंदिर बनवाया गया था?",
+              "answer": "Kailash Temple",
+              "answerHi": "कैलाश मंदिर",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Where is the famous Kandariya Mahadeva temple located?",
+              "questionHi": "प्रसिद्ध कंदरिया महादेव मंदिर कहाँ स्थित है?",
+              "answer": "Khajuraho",
+              "answerHi": "खजुराहो",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which temples are well-known for their Nagara-style architecture and erotic sculptures?",
+              "questionHi": "कौन से मंदिर अपनी नागर-शैली की वास्तुकला और कामुक मूर्तियों के लिए प्रसिद्ध हैं?",
+              "answer": "Khajuraho",
+              "answerHi": "खजुराहो",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Al-Masudi, a resident of Baghdad, visited India during whose reign?",
+              "questionHi": "बगदाद निवासी अल-मसूदी ने किसके शासनकाल में भारत की यात्रा की थी?",
+              "answer": "Mahipala I",
+              "answerHi": "महिपाल प्रथम",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The Sanskrit poet Rajasekhara lived in whose court?",
+              "questionHi": "संस्कृत कवि राजशेखर किसके दरबार में रहते थे?",
+              "answer": "Mahipala I",
+              "answerHi": "महिपाल प्रथम",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The present-day city of Bhopal was built by which Pratihara ruler?",
+              "questionHi": "वर्तमान भोपाल शहर का निर्माण किस प्रतिहार शासक ने करवाया था?",
+              "answer": "Mihir Bhoja",
+              "answerHi": "मिहिर भोज",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which Pratihara king took the title of 'Pramana'?",
+              "questionHi": "किस प्रतिहार राजा ने 'प्रमाण' की उपाधि धारण की थी?",
+              "answer": "Mihir Bhoja",
+              "answerHi": "मिहिर भोज",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Mihira Bhoja was the ruler of which dynasty?",
+              "questionHi": "मिहिर भोज किस वंश का शासक था?",
+              "answer": "Pratihara",
+              "answerHi": "प्रतिहार",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who was Dantidurga?",
+              "questionHi": "दंतिदुर्ग कौन था?",
+              "answer": "A Rashtrakuta chief",
+              "answerHi": "एक राष्ट्रकूट प्रमुख",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The Kailash temple at Ellora is an example of what?",
+              "questionHi": "एलोरा का कैलाश मंदिर किसका उदाहरण है?",
+              "answer": "Rock-cut Temple",
+              "answerHi": "शैलकृत मंदिर",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "After the decline of the Palas, which dynasty established its rule in Bengal?",
+              "questionHi": "पालों के पतन के बाद, बंगाल में किस राजवंश ने अपना शासन स्थापित किया?",
+              "answer": "Sena dynasty",
+              "answerHi": "सेन वंश",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The 'Kulina' tradition was related to which dynasty?",
+              "questionHi": "'कुलीन' परंपरा किस राजवंश से संबंधित थी?",
+              "answer": "Sena dynasty",
+              "answerHi": "सेन वंश",
               "explanation": "",
               "explanationHi": ""
             }
