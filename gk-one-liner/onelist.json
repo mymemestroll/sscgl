@@ -129,33 +129,426 @@
       ]
     },
     {
-      "name": "Current Affairs",
-      "nameHi": "समसामयिक घटनाएँ",
-      "icon": "ca",
-      "lists": [
+      "name": "Ancient History #1 (INDUS VALLEY CIVILIZATION)",
+      "nameHi": "प्राचीन इतिहास #1 (सिंधु घाटी सभ्यता)",
+      "icon": "date",
+      "type": "list",
+      "content": [
         {
-          "name": "September 2025",
-          "nameHi": "सितंबर 2025",
-          "icon": "date",
-          "type": "list",
-          "content": [
-            {
-              "question": "Which country successfully launched the world's first commercial space hotel in September 2025?",
-              "questionHi": "सितंबर 2025 में किस देश ने दुनिया का पहला वाणिज्यिक अंतरिक्ष होटल सफलतापूर्वक लॉन्च किया?",
-              "answer": "United States",
-              "answerHi": "संयुक्त राज्य अमेरिका",
-              "explanation": "",
-              "explanationHi": ""
-            },
-            {
-              "question": "Which Indian state became the first to achieve 100% renewable energy supply in September 2025?",
-              "questionHi": "सितंबर 2025 में कौन सा भारतीय राज्य 100% नवीकरणीय ऊर्जा आपूर्ति प्राप्त करने वाला पहला राज्य बना?",
-              "answer": "Kerala",
-              "answerHi": "केरल",
-              "explanation": "Kerala announced in September 2025 that it now meets all of its electricity demand through renewable sources such as solar, wind, and hydropower, becoming the first Indian state to achieve this milestone.",
-              "explanationHi": "केरल ने सितंबर 2025 में घोषणा की कि वह अब अपनी संपूर्ण बिजली की मांग सौर, पवन और जलविद्युत जैसे नवीकरणीय स्रोतों से पूरी करता है, और ऐसा करने वाला भारत का पहला राज्य बन गया है।"
-            }
-          ]
+          "question": "Name the oldest Indian civilization.",
+          "questionHi": "सबसे पुरानी भारतीय सभ्यता का नाम बताएं।",
+          "answer": "Indus Valley civilization",
+          "answerHi": "सिंधु घाटी सभ्यता",
+          "explanation": "",
+          "explanationHi": ""
+        },
+        {
+          "question": "Who among others, was one of the discoverers of Indus Valley Civilization?",
+          "questionHi": "सिंधु घाटी सभ्यता के खोजकर्ताओं में से एक कौन थे?",
+          "answer": "Daya Ram Sahni",
+          "answerHi": "दया राम साहनी",
+          "explanation": "",
+          "explanationHi": ""
+        },
+        {
+          "question": "The ancient cities of Harappa and Mohenjo-Daro emerged along the banks of which river?",
+          "questionHi": "हड़प्पा और मोहनजो-दड़ो के प्राचीन शहर किस नदी के किनारे उभरे?",
+          "answer": "Indus River",
+          "answerHi": "सिंधु नदी",
+          "explanation": "",
+          "explanationHi": ""
+        },
+        {
+          "question": "What was the striking feature of the Indus Valley Civilization?",
+          "questionHi": "सिंधु घाटी सभ्यता की सबसे खास विशेषता क्या थी?",
+          "answer": "Urban Civilization",
+          "answerHi": "शहरी सभ्यता",
+          "explanation": "",
+          "explanationHi": ""
+        },
+        {
+          "question": "Which domesticated animal was absent in the terracottas of the Indus civilisation?",
+          "questionHi": "सिंधु सभ्यता की टेराकोटा मूर्तियों में कौन सा पालतू जानवर अनुपस्थित था?",
+          "answer": "Cow",
+          "answerHi": "गाय",
+          "explanation": "",
+          "explanationHi": ""
+        },
+        {
+          "question": "What was the first metal used by man?",
+          "questionHi": "मनुष्य द्वारा उपयोग की जाने वाली पहली धातु कौन सी थी?",
+          "answer": "Copper",
+          "answerHi": "तांबा",
+          "explanation": "",
+          "explanationHi": ""
+        },
+        {
+          "question": "Which metal was not found in Harappan civilization?",
+          "questionHi": "हड़प्पा सभ्यता में कौन सी धातु नहीं पाई गई थी?",
+          "answer": "Iron",
+          "answerHi": "लोहा",
+          "explanation": "",
+          "explanationHi": ""
+        },
+        {
+          "question": "Whom did the people of the Indus valley civilisation worship?",
+          "questionHi": "सिंधु घाटी सभ्यता के लोग किसकी पूजा करते थे?",
+          "answer": "Pashupati / Mother Goddess",
+          "answerHi": "पशुपति / मातृ देवी",
+          "explanation": "",
+          "explanationHi": ""
+        },
+        {
+          "question": "What is the script of the Indus Valley Civilization?",
+          "questionHi": "सिंधु घाटी सभ्यता की लिपि कैसी है?",
+          "answer": "Undeciphered",
+          "answerHi": "अपठित (जिसे पढ़ा न जा सका हो)",
+          "explanation": "",
+          "explanationHi": ""
+        },
+        {
+          "question": "Which remains excavated in Indus Valley indicate commercial and economic development?",
+          "questionHi": "सिंधु घाटी में खोदे गए कौन से अवशेष वाणिज्यिक और आर्थिक विकास को दर्शाते हैं?",
+          "answer": "Seals",
+          "answerHi": "मुहरें",
+          "explanation": "",
+          "explanationHi": ""
+        },
+        {
+          "question": "The idol of the dancing girl (Bronze) belongs to which civilization?",
+          "questionHi": "नृत्य करती लड़की की मूर्ति (कांस्य) किस सभ्यता से संबंधित है?",
+          "answer": "Indus Valley Civilization",
+          "answerHi": "सिंधु घाटी सभ्यता",
+          "explanation": "",
+          "explanationHi": ""
+        },
+        {
+          "question": "Which statement about the Indus Valley Civilization is NOT true?",
+          "questionHi": "सिंधु घाटी सभ्यता के बारे में कौन सा कथन सत्य नहीं है?",
+          "answer": "Animal meat was the staple food",
+          "answerHi": "पशु मांस मुख्य भोजन था",
+          "explanation": "",
+          "explanationHi": ""
+        },
+        {
+          "question": "The discovery of a seal at which site proves that the Indus people knew the use of weights and measures?",
+          "questionHi": "किस स्थल पर एक मुहर की खोज यह साबित करती है कि सिंधु के लोग वजन और माप का उपयोग जानते थे?",
+          "answer": "Harappa",
+          "answerHi": "हड़प्पा",
+          "explanation": "",
+          "explanationHi": ""
+        },
+        {
+          "question": "Which Indus Valley site was the first to be discovered?",
+          "questionHi": "सबसे पहले किस सिंधु घाटी स्थल की खोज की गई थी?",
+          "answer": "Harappa",
+          "answerHi": "हड़प्पा",
+          "explanation": "",
+          "explanationHi": ""
+        },
+        {
+          "question": "Harappa is situated on the bank of which river?",
+          "questionHi": "हड़प्पा किस नदी के तट पर स्थित है?",
+          "answer": "Ravi",
+          "answerHi": "रावी",
+          "explanation": "",
+          "explanationHi": ""
+        },
+        {
+          "question": "The Harappan site Ropar was situated on the banks of which river?",
+          "questionHi": "हड़प्पा स्थल रोपड़ किस नदी के किनारे स्थित था?",
+          "answer": "Sutlej",
+          "answerHi": "सतलुज",
+          "explanation": "",
+          "explanationHi": ""
+        },
+        {
+          "question": "The Harappan site 'Manda' was situated on the banks of which river?",
+          "questionHi": "हड़प्पा स्थल 'मांडा' किस नदी के किनारे स्थित था?",
+          "answer": "Chenab",
+          "answerHi": "चिनाब",
+          "explanation": "",
+          "explanationHi": ""
+        },
+        {
+          "question": "What was the earliest city discovered in India?",
+          "questionHi": "भारत में खोजा गया सबसे पहला शहर कौन सा था?",
+          "answer": "Harappa",
+          "answerHi": "हड़प्पा",
+          "explanation": "",
+          "explanationHi": ""
+        },
+        {
+          "question": "Which most popular Indus Valley sites lie in present-day Pakistan?",
+          "questionHi": "सिंधु घाटी के कौन से सबसे लोकप्रिय स्थल वर्तमान पाकिस्तान में स्थित हैं?",
+          "answer": "Harappa / Mohenjodaro",
+          "answerHi": "हड़प्पा / मोहनजोदड़ो",
+          "explanation": "",
+          "explanationHi": ""
+        },
+        {
+          "question": "Were the Harappans rural or urban?",
+          "questionHi": "हड़प्पावासी ग्रामीण थे या शहरी?",
+          "answer": "Urban",
+          "answerHi": "शहरी",
+          "explanation": "",
+          "explanationHi": ""
+        },
+        {
+          "question": "What was the social system of the Harappans?",
+          "questionHi": "हड़प्पावासियों की सामाजिक व्यवस्था कैसी थी?",
+          "answer": "Fairly Egalitarian",
+          "answerHi": "काफी हद तक समतावादी",
+          "explanation": "",
+          "explanationHi": ""
+        },
+        {
+          "question": "Which material was mainly used in the manufacture of Harappan seals?",
+          "questionHi": "हड़प्पा की मुहरों के निर्माण में मुख्य रूप से किस सामग्री का उपयोग किया गया था?",
+          "answer": "Terracotta",
+          "answerHi": "टेराकोटा",
+          "explanation": "",
+          "explanationHi": ""
+        },
+        {
+          "question": "What has not been found in the excavation of Harappan sites?",
+          "questionHi": "हड़प्पा स्थलों की खुदाई में क्या नहीं मिला है?",
+          "answer": "Temple with Shikhar",
+          "answerHi": "शिखर वाला मंदिर",
+          "explanation": "",
+          "explanationHi": ""
+        },
+        {
+          "question": "At which location was a sculpture of a chariot from the Harappan time found?",
+          "questionHi": "हड़प्पा काल के रथ की एक मूर्ति किस स्थान पर मिली थी?",
+          "answer": "Daimabad",
+          "answerHi": "दैमाबाद",
+          "explanation": "",
+          "explanationHi": ""
+        },
+        {
+          "question": "Which of these Harappan sites was not located in Gujarat?",
+          "questionHi": "इनमें से कौन सा हड़प्पा स्थल गुजरात में स्थित नहीं था?",
+          "answer": "Daimabad",
+          "answerHi": "दैमाबाद",
+          "explanation": "",
+          "explanationHi": ""
+        },
+        {
+          "question": "Who was the first scholar to discover the traces of the Harappan Civilisation?",
+          "questionHi": "हड़प्पा सभ्यता के निशान खोजने वाले पहले विद्वान कौन थे?",
+          "answer": "A. Cunningham",
+          "answerHi": "ए. कनिंघम",
+          "explanation": "",
+          "explanationHi": ""
+        },
+        {
+          "question": "Who is associated with the study of the Harappan Civilisation?",
+          "questionHi": "हड़प्पा सभ्यता के अध्ययन से कौन संबंधित है?",
+          "answer": "M.S. Vats",
+          "answerHi": "एम.एस. वत्स",
+          "explanation": "",
+          "explanationHi": ""
+        },
+        {
+          "question": "Which city was excavated in 1922 in Larkana district on the banks of Indus?",
+          "questionHi": "1922 में सिंधु नदी के तट पर लरकाना जिले में किस शहर की खुदाई की गई थी?",
+          "answer": "Mohanjodaro",
+          "answerHi": "मोहनजोदड़ो",
+          "explanation": "",
+          "explanationHi": ""
+        },
+        {
+          "question": "In which province of Pakistan is the site of the ancient civilisation of Mohenjo Daro located?",
+          "questionHi": "मोहनजोदड़ो की प्राचीन सभ्यता का स्थल पाकिस्तान के किस प्रांत में स्थित है?",
+          "answer": "Sindh",
+          "answerHi": "सिंध",
+          "explanation": "",
+          "explanationHi": ""
+        },
+        {
+          "question": "Where is the Great Bath of Indus Valley Civilization found?",
+          "questionHi": "सिंधु घाटी सभ्यता का विशाल स्नानागार कहाँ पाया गया है?",
+          "answer": "Mohenjodaro",
+          "answerHi": "मोहनजोदड़ो",
+          "explanation": "",
+          "explanationHi": ""
+        },
+        {
+          "question": "What does 'Mohan-jo-daro' mean in Sindhi?",
+          "questionHi": "सिंधी में 'मोहन-जो-दड़ो' का क्या अर्थ है?",
+          "answer": "The mound of the dead",
+          "answerHi": "मृतकों का टीला",
+          "explanation": "",
+          "explanationHi": ""
+        },
+        {
+          "question": "Which site of Indus Valley Civilization was known as the Oasis of Sindh?",
+          "questionHi": "सिंधु घाटी सभ्यता का कौन सा स्थल सिंध के नखलिस्तान (ओएसिस) के रूप में जाना जाता था?",
+          "answer": "Mohenjodaro",
+          "answerHi": "मोहनजोदड़ो",
+          "explanation": "",
+          "explanationHi": ""
+        },
+        {
+          "question": "Which country has asked India to return the 'Dancing Girl' statue found at Mohenjodaro?",
+          "questionHi": "किस देश ने भारत से मोहनजोदड़ो में मिली 'नृत्य करती लड़की' की मूर्ति वापस करने को कहा है?",
+          "answer": "Pakistan",
+          "answerHi": "पाकिस्तान",
+          "explanation": "",
+          "explanationHi": ""
+        },
+        {
+          "question": "Where is the Great Bath located?",
+          "questionHi": "विशाल स्नानागार कहाँ स्थित है?",
+          "answer": "Mohenjo-daro",
+          "answerHi": "मोहनजोदड़ो",
+          "explanation": "",
+          "explanationHi": ""
+        },
+        {
+          "question": "In Mohanjadaro, what is the largest building?",
+          "questionHi": "मोहनजोदड़ो में सबसे बड़ी इमारत कौन सी है?",
+          "answer": "A Granary",
+          "answerHi": "एक अन्न भंडार",
+          "explanation": "",
+          "explanationHi": ""
+        },
+        {
+          "question": "Where is Kalibangan situated?",
+          "questionHi": "कालीबंगन कहाँ स्थित है?",
+          "answer": "Rajasthan",
+          "answerHi": "राजस्थान",
+          "explanation": "",
+          "explanationHi": ""
+        },
+        {
+          "question": "From which Harappan site has evidence of a plowed field been found?",
+          "questionHi": "किस हड़प्पा स्थल से जुताई वाले खेत के साक्ष्य मिले हैं?",
+          "answer": "Kalibangan",
+          "answerHi": "कालीबंगन",
+          "explanation": "",
+          "explanationHi": ""
+        },
+        {
+          "question": "In Indus Valley Civilization, what is Kalibangan famous for?",
+          "questionHi": "सिंधु घाटी सभ्यता में, कालीबंगन किसके लिए प्रसिद्ध है?",
+          "answer": "Pottery",
+          "answerHi": "मिट्टी के बर्तन",
+          "explanation": "",
+          "explanationHi": ""
+        },
+        {
+          "question": "Which Harappan site used ample mud-bricks for the construction of houses?",
+          "questionHi": "किस हड़प्पा स्थल ने घरों के निर्माण के लिए प्रचुर मात्रा में कच्ची ईंटों का उपयोग किया?",
+          "answer": "Kalibangan",
+          "answerHi": "कालीबंगन",
+          "explanation": "",
+          "explanationHi": ""
+        },
+        {
+          "question": "Which was the only Indus site with an artificial brick dockyard (Port-town)?",
+          "questionHi": "कृत्रिम ईंटों के गोदी (बंदरगाह-शहर) वाला एकमात्र सिंधु स्थल कौन सा था?",
+          "answer": "Lothal (Gujarat)",
+          "answerHi": "लोथल (गुजरात)",
+          "explanation": "",
+          "explanationHi": ""
+        },
+        {
+          "question": "From which Harappan site was a couple burial found?",
+          "questionHi": "किस हड़प्पा स्थल से एक युगल शवाधान मिला था?",
+          "answer": "Lothal",
+          "answerHi": "लोथल",
+          "explanation": "",
+          "explanationHi": ""
+        },
+        {
+          "question": "Which Harappan site is thought to have direct sea trade links with Mesopotamia?",
+          "questionHi": "माना जाता है कि किस हड़प्पा स्थल के मेसोपोटामिया के साथ सीधे समुद्री व्यापारिक संबंध थे?",
+          "answer": "Lothal",
+          "answerHi": "लोथल",
+          "explanation": "",
+          "explanationHi": ""
+        },
+        {
+          "question": "The city of Lothal stood beside a tributary of which river?",
+          "questionHi": "लोथल शहर किस नदी की सहायक नदी के किनारे स्थित था?",
+          "answer": "Sabarmati",
+          "answerHi": "साबरमती",
+          "explanation": "",
+          "explanationHi": ""
+        },
+        {
+          "question": "Which was the only Indus city without a citadel?",
+          "questionHi": "बिना गढ़ वाला एकमात्र सिंधु शहर कौन सा था?",
+          "answer": "Chanhudaro",
+          "answerHi": "चन्हुदड़ो",
+          "explanation": "",
+          "explanationHi": ""
+        },
+        {
+          "question": "In Indus valley civilization, what is Dholavira famous for?",
+          "questionHi": "सिंधु घाटी सभ्यता में, धोलावीरा किसके लिए प्रसिद्ध है?",
+          "answer": "Water Conservation",
+          "answerHi": "जल संरक्षण",
+          "explanation": "",
+          "explanationHi": ""
+        },
+        {
+          "question": "Which site of the Indus Valley Civilization was situated on the bank of Luni River?",
+          "questionHi": "सिंधु घाटी सभ्यता का कौन सा स्थल लूनी नदी के तट पर स्थित था?",
+          "answer": "Dholavira",
+          "answerHi": "धोलावीरा",
+          "explanation": "",
+          "explanationHi": ""
+        },
+        {
+          "question": "In which state of India is the Indus Valley site Dholavira located?",
+          "questionHi": "सिंधु घाटी स्थल धोलावीरा भारत के किस राज्य में स्थित है?",
+          "answer": "Gujarat (Rann of Kutch)",
+          "answerHi": "गुजरात (कच्छ का रण)",
+          "explanation": "",
+          "explanationHi": ""
+        },
+        {
+          "question": "In which state is the archaeological site of Surkotada situated?",
+          "questionHi": "सुरकोटदा का पुरातात्विक स्थल किस राज्य में स्थित है?",
+          "answer": "Gujarat",
+          "answerHi": "गुजरात",
+          "explanation": "",
+          "explanationHi": ""
+        },
+        {
+          "question": "Which archaeological site has evidence of pit-dwellings?",
+          "questionHi": "किस पुरातात्विक स्थल में गड्ढा-घरों (गर्त-आवास) के प्रमाण मिले हैं?",
+          "answer": "Burzahom",
+          "answerHi": "बुर्जहोम",
+          "explanation": "",
+          "explanationHi": ""
+        },
+        {
+          "question": "At which site did archaeologists recover the burial of five wild dogs?",
+          "questionHi": "किस स्थल पर पुरातत्वविदों ने पांच जंगली कुत्तों के दफन के अवशेष बरामद किए?",
+          "answer": "Burzahom",
+          "answerHi": "बुर्जहोम",
+          "explanation": "",
+          "explanationHi": ""
+        },
+        {
+          "question": "Shatughai (an Indus Valley Civilization site) is in which country?",
+          "questionHi": "शतुघई (एक सिंधु घाटी सभ्यता स्थल) किस देश में है?",
+          "answer": "Afghanistan",
+          "answerHi": "अफगानिस्तान",
+          "explanation": "",
+          "explanationHi": ""
+        },
+        {
+          "question": "The term 'India' is derived from which language?",
+          "questionHi": "'इंडिया' शब्द किस भाषा से लिया गया है?",
+          "answer": "Persian",
+          "answerHi": "फारसी",
+          "explanation": "",
+          "explanationHi": ""
         }
       ]
     }
