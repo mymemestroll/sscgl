@@ -1,5 +1,5 @@
 {
-  "version": "1.0.8",
+  "version": "1.0.9",
   "content": [
     {
       "name": "Theory",
@@ -1928,6 +1928,430 @@
               "questionHi": "प्राचीन भारतीय बर्मा (अब म्यांमार) को किस नाम से जानते थे?",
               "answer": "Suvarnabhumi",
               "answerHi": "सुवर्णभूमि",
+              "explanation": "",
+              "explanationHi": ""
+            }
+          ]
+        },
+        {
+          "name": "Ancient History #5 (MAURYAN EMPIRE)",
+          "nameHi": "प्राचीन इतिहास #5 (मौर्य साम्राज्य)",
+          "icon": "date",
+          "type": "list",
+          "content": [
+            {
+              "question": "Who drove the Greeks out of India?",
+              "questionHi": "यूनानियों को भारत से किसने खदेड़ा?",
+              "answer": "Chandragupta Maurya",
+              "answerHi": "चंद्रगुप्त मौर्य",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who defeated Seleucus Nicator?",
+              "questionHi": "सेल्यूकस निकेटर को किसने हराया?",
+              "answer": "Chandragupta Maurya",
+              "answerHi": "चंद्रगुप्त मौर्य",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The author of 'Arthashastra' was a contemporary of whom?",
+              "questionHi": "'अर्थशास्त्र' के लेखक किसके समकालीन थे?",
+              "answer": "Chandragupta Maurya",
+              "answerHi": "चंद्रगुप्त मौर्य",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Up to where did Chandragupta Maurya's empire extend in the north-west?",
+              "questionHi": "चंद्रगुप्त मौर्य का साम्राज्य उत्तर-पश्चिम में कहाँ तक फैला हुआ था?",
+              "answer": "Indus river",
+              "answerHi": "सिंधु नदी",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "With which center of learning was Chanakya, the famous teacher of Chandragupta Maurya, associated?",
+              "questionHi": "चंद्रगुप्त मौर्य के प्रसिद्ध शिक्षक चाणक्य किस शिक्षण केंद्र से जुड़े थे?",
+              "answer": "Takshashila",
+              "answerHi": "तक्षशिला",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who was the original founder of the Manuscripts and Editor of Kautilya's Arthashastra?",
+              "questionHi": "कौटिल्य के अर्थशास्त्र के पांडुलिपियों के मूल संस्थापक और संपादक कौन थे?",
+              "answer": "R. Shamashastri",
+              "answerHi": "आर. शमशास्त्री",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Kautilya's 'Arthashastra' mainly deals with what?",
+              "questionHi": "कौटिल्य का 'अर्थशास्त्र' मुख्य रूप से किससे संबंधित है?",
+              "answer": "Political statecraft",
+              "answerHi": "राजनीतिक शासन कला",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who wrote the Arthasastra?",
+              "questionHi": "अर्थशास्त्र किसने लिखा?",
+              "answer": "Kautilya",
+              "answerHi": "कौटिल्य",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who was the Greek ambassador sent to Chandragupta Maurya's court?",
+              "questionHi": "चंद्रगुप्त मौर्य के दरबार में भेजा गया यूनानी राजदूत कौन था?",
+              "answer": "Megasthenes",
+              "answerHi": "मेगस्थनीज",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "During the reign of Bindusara, where was there unrest?",
+              "questionHi": "बिंदुसार के शासनकाल में कहाँ अशांति थी?",
+              "answer": "Takshashila",
+              "answerHi": "तक्षशिला",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Whom did Bindusara send to quell the rebellion in Ujjain?",
+              "questionHi": "बिंदुसार ने उज्जैन में विद्रोह को दबाने के लिए किसे भेजा?",
+              "answer": "Ashoka",
+              "answerHi": "अशोक",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Ashoka was a king of which dynasty?",
+              "questionHi": "अशोक किस वंश का राजा था?",
+              "answer": "Maurya",
+              "answerHi": "मौर्य",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which wife of Emperor Ashoka influenced him?",
+              "questionHi": "सम्राट अशोक की किस पत्नी ने उन्हें प्रभावित किया?",
+              "answer": "Karuwaki",
+              "answerHi": "करुवाकी",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which Indian ruler fought the Kalinga War?",
+              "questionHi": "किस भारतीय शासक ने कलिंग युद्ध लड़ा?",
+              "answer": "Ashoka",
+              "answerHi": "अशोक",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In the Mauryan dynasty, in which year did the Kalinga war take place?",
+              "questionHi": "मौर्य वंश में कलिंग युद्ध किस वर्ष हुआ था?",
+              "answer": "261 BC",
+              "answerHi": "261 ईसा पूर्व",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which event brought about a profound change in Ashoka's administrative policy?",
+              "questionHi": "किस घटना ने अशोक की प्रशासनिक नीति में गहरा परिवर्तन लाया?",
+              "answer": "The Kalinga War",
+              "answerHi": "कलिंग युद्ध",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In which Rock Edict does Ashoka mention the casualties of the Kalinga War and declare the renunciation of war?",
+              "questionHi": "किस शिलालेख में अशोक ने कलिंग युद्ध में हताहतों का उल्लेख किया है और युद्ध के त्याग की घोषणा की है?",
+              "answer": "Rock Edict XIII",
+              "answerHi": "शिलालेख XIII",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which monk influenced Ashoka to embrace Buddhism?",
+              "questionHi": "किस भिक्षु ने अशोक को बौद्ध धर्म अपनाने के लिए प्रभावित किया?",
+              "answer": "Upagupta",
+              "answerHi": "उपगुप्त",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "How did Ashoka spread Buddhism?",
+              "questionHi": "अशोक ने बौद्ध धर्म का प्रसार कैसे किया?",
+              "answer": "By sending the Dharma Mahamatras",
+              "answerHi": "धम्म महामात्रों को भेजकर",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which script was used in Ashoka's inscriptions?",
+              "questionHi": "अशोक के शिलालेखों में किस लिपि का प्रयोग किया गया था?",
+              "answer": "Brahmi",
+              "answerHi": "ब्राह्मी",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "What would be the most accurate description of the Mauryan Monarchy under Ashoka?",
+              "questionHi": "अशोक के अधीन मौर्य राजतंत्र का सबसे सटीक वर्णन क्या होगा?",
+              "answer": "Enlightened despotism",
+              "answerHi": "प्रबुद्ध निरंकुशता",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which is not one of the animals carved on the Sarnath Pillar?",
+              "questionHi": "सारनाथ स्तंभ पर खुदे हुए जानवरों में से कौन सा एक नहीं है?",
+              "answer": "Deer",
+              "answerHi": "हिरण",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "From which ruler has the Government of India borrowed and adopted its symbols?",
+              "questionHi": "भारत सरकार ने अपने प्रतीकों को किस शासक से उधार लिया और अपनाया है?",
+              "answer": "Ashoka",
+              "answerHi": "अशोक",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "How many spokes are there in the Dharma Chakra of the National flag?",
+              "questionHi": "राष्ट्रीय ध्वज के धर्म चक्र में कितनी तीलियाँ हैं?",
+              "answer": "24",
+              "answerHi": "24",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Under Mauryan administration, the 'Sitadhyaksha' was the officer in charge of what?",
+              "questionHi": "मौर्य प्रशासन के तहत, 'सीताध्यक्ष' किस विभाग का अधिकारी था?",
+              "answer": "Agriculture",
+              "answerHi": "कृषि",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "A pillar containing inscriptions from the Mauryan, Gupta, and Mughal periods is located where?",
+              "questionHi": "मौर्य, गुप्त और मुगल काल के शिलालेखों वाला एक स्तंभ कहाँ स्थित है?",
+              "answer": "Allahabad (Prayagraj)",
+              "answerHi": "इलाहाबाद (प्रयागराज)",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who was the son of Bindusara?",
+              "questionHi": "बिंदुसार का पुत्र कौन था?",
+              "answer": "Ashoka",
+              "answerHi": "अशोक",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who was the most famous Mauryan ruler?",
+              "questionHi": "सबसे प्रसिद्ध मौर्य शासक कौन था?",
+              "answer": "Ashoka",
+              "answerHi": "अशोक",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which Mauryan ruler was the first to try to take his message to the people through inscriptions?",
+              "questionHi": "कौन सा मौर्य शासक पहला था जिसने शिलालेखों के माध्यम से अपना संदेश लोगों तक पहुँचाने का प्रयास किया?",
+              "answer": "Ashoka",
+              "answerHi": "अशोक",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who built the Dhamek Stupa?",
+              "questionHi": "धमेख स्तूप किसने बनवाया?",
+              "answer": "Ashoka",
+              "answerHi": "अशोक",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who built the Sanchi Stupa?",
+              "questionHi": "सांची स्तूप किसने बनवाया?",
+              "answer": "Ashoka",
+              "answerHi": "अशोक",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who was known as 'Devanampiya'?",
+              "questionHi": "'देवनामप्रिय' के नाम से कौन जाना जाता था?",
+              "answer": "Ashoka",
+              "answerHi": "अशोक",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who was the only king in the history of the world to give up conquest after winning a war?",
+              "questionHi": "विश्व के इतिहास में एकमात्र राजा कौन था जिसने युद्ध जीतने के बाद विजय का त्याग कर दिया?",
+              "answer": "Ashoka",
+              "answerHi": "अशोक",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who was the son of Chandragupta Maurya?",
+              "questionHi": "चंद्रगुप्त मौर्य का पुत्र कौन था?",
+              "answer": "Bindusara",
+              "answerHi": "बिंदुसार",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who founded the Maurya dynasty after defeating Dhana Nanda?",
+              "questionHi": "धनानंद को हराने के बाद मौर्य वंश की स्थापना किसने की?",
+              "answer": "Chandragupta Maurya",
+              "answerHi": "चंद्रगुप्त मौर्य",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In whose reign did Megasthenes, a Greek historian and ambassador, visit India?",
+              "questionHi": "यूनानी इतिहासकार और राजदूत मेगस्थनीज ने किसके शासनकाल में भारत का दौरा किया?",
+              "answer": "Chandragupta Maurya",
+              "answerHi": "चंद्रगुप्त मौर्य",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The Dhamekh Stupa at Sarnath was constructed by which great Mauryan King?",
+              "questionHi": "सारनाथ में धमेख स्तूप का निर्माण किस महान मौर्य राजा ने करवाया था?",
+              "answer": "Ashoka",
+              "answerHi": "अशोक",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "How did Ashoka try to hold his empire together?",
+              "questionHi": "अशोक ने अपने साम्राज्य को एक साथ रखने की कोशिश कैसे की?",
+              "answer": "By propagating Dhamma",
+              "answerHi": "धम्म का प्रचार करके",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "What were the religious officials appointed by Ashoka known as?",
+              "questionHi": "अशोक द्वारा नियुक्त धार्मिक अधिकारियों को क्या कहा जाता था?",
+              "answer": "Dhamma-mahamatta",
+              "answerHi": "धम्म-महामत्त",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Takshashila University was located between which two rivers?",
+              "questionHi": "तक्षशिला विश्वविद्यालय किन दो नदियों के बीच स्थित था?",
+              "answer": "Indus and Jhelum",
+              "answerHi": "सिंधु और झेलम",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "What was the ancient name of Coastal Orissa?",
+              "questionHi": "तटीय उड़ीसा का प्राचीन नाम क्या था?",
+              "answer": "Kalinga",
+              "answerHi": "कलिंग",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "What information is found in Ashoka's inscriptions?",
+              "questionHi": "अशोक के शिलालेखों में कौन सी जानकारी मिलती है?",
+              "answer": "Life story, Internal policy, Foreign policy",
+              "answerHi": "जीवन की कहानी, आंतरिक नीति, विदेश नीति",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The Barabar Caves, the oldest surviving rock-cut caves in India, mostly belong to which period?",
+              "questionHi": "भारत में सबसे पुरानी जीवित चट्टानों को काटकर बनाई गई गुफाएं, बराबर गुफाएं, अधिकतर किस काल की हैं?",
+              "answer": "Maurya Empire",
+              "answerHi": "मौर्य साम्राज्य",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which pillars are representative of rock pillars?",
+              "questionHi": "कौन से स्तंभ चट्टानी स्तंभों का प्रतिनिधित्व करते हैं?",
+              "answer": "Mauryan Pillar",
+              "answerHi": "मौर्य स्तंभ",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In the Mauryan period, what was under the sole authority of the state?",
+              "questionHi": "मौर्य काल में, राज्य के एकमात्र अधिकार में क्या था?",
+              "answer": "Mines",
+              "answerHi": "खानें",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Chandragupta Maurya established the Mauryan Empire by defeating whom?",
+              "questionHi": "चंद्रगुप्त मौर्य ने किसे हराकर मौर्य साम्राज्य की स्थापना की?",
+              "answer": "The Nandas",
+              "answerHi": "नंदों को",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which state did Chandragupta I get in dowry from the Lichhavis?",
+              "questionHi": "चंद्रगुप्त प्रथम को लिच्छवियों से दहेज में कौन सा राज्य मिला?",
+              "answer": "Pataliputra",
+              "answerHi": "पाटलिपुत्र",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "What was the capital of the Mauryan empire?",
+              "questionHi": "मौर्य साम्राज्य की राजधानी क्या थी?",
+              "answer": "Pataliputra",
+              "answerHi": "पाटलिपुत्र",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which historical site is located in 'Jaugada' in Odisha?",
+              "questionHi": "ओडिशा के 'जौगड़ा' में कौन सा ऐतिहासिक स्थल स्थित है?",
+              "answer": "Rock edicts of Ashoka",
+              "answerHi": "अशोक के शिलालेख",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "What has not been adopted from the Mauryan Dynasty in the emblem of the Government of India?",
+              "questionHi": "भारत सरकार के प्रतीक में मौर्य वंश से क्या नहीं अपनाया गया है?",
+              "answer": "Satyameva Jayate",
+              "answerHi": "सत्यमेव जयते",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The lions on top of the Sarnath pillar, seen on our currency notes, were originally carved from what material?",
+              "questionHi": "हमारे करेंसी नोटों पर देखे जाने वाले सारनाथ स्तंभ के शीर्ष पर स्थित शेर मूल रूप से किस सामग्री से उकेरे गए थे?",
+              "answer": "Stone",
+              "answerHi": "पत्थर",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who was the contemporary ruler of Emperor Ashoka in Sri Lanka?",
+              "questionHi": "श्रीलंका में सम्राट अशोक के समकालीन शासक कौन थे?",
+              "answer": "Tissa",
+              "answerHi": "तिस्स",
               "explanation": "",
               "explanationHi": ""
             }
