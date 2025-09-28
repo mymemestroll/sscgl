@@ -1,5 +1,5 @@
 {
-  "version": "1.0.16",
+  "version": "1.0.17",
   "content": [
     {
       "name": "Theory",
@@ -11480,6 +11480,510 @@
               "questionHi": "1951 में भूदान आंदोलन या भूमि उपहार आंदोलन किसने शुरू किया?",
               "answer": "Vinoba Bhave",
               "answerHi": "विनोबा भावे",
+              "explanation": "",
+              "explanationHi": ""
+            }
+          ]
+        },
+        {
+          "name": "Modern History #12 (Struggle for Independence)",
+          "nameHi": "आधुनिक इतिहास #12 (स्वतंत्रता संग्राम)",
+          "icon": "date",
+          "type": "list",
+          "content": [
+            {
+              "question": "Who started the Aligarh Movement?",
+              "questionHi": "अलीगढ़ आंदोलन किसने शुरू किया?",
+              "answer": "Syed Ahmed Khan",
+              "answerHi": "सैयद अहमद खान",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who founded the Mohammedan Anglo-Oriental College at Aligarh?",
+              "questionHi": "अलीगढ़ में मोहम्मडन एंग्लो-ओरिएंटल कॉलेज की स्थापना किसने की?",
+              "answer": "Sir Syed Ahmed Khan",
+              "answerHi": "सर सैयद अहमद खान",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In which year was Bengal partitioned?",
+              "questionHi": "बंगाल का विभाजन किस वर्ष हुआ था?",
+              "answer": "1905",
+              "answerHi": "1905",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In which year was the Salt Satyagraha initiated?",
+              "questionHi": "नमक सत्याग्रह किस वर्ष शुरू किया गया था?",
+              "answer": "1930",
+              "answerHi": "1930",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which massive movement began after the 1930 Dandi March?",
+              "questionHi": "1930 के दांडी मार्च के बाद कौन सा विशाल आंदोलन शुरू हुआ?",
+              "answer": "Civil Disobedience Movement",
+              "answerHi": "सविनय अवज्ञा आंदोलन",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The Gandhi-Irwin Pact was associated with which movement in India?",
+              "questionHi": "गांधी-इरविन समझौता भारत के किस आंदोलन से जुड़ा था?",
+              "answer": "Civil Disobedience Movement",
+              "answerHi": "सविनय अवज्ञा आंदोलन",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Where did the Salt March end?",
+              "questionHi": "नमक मार्च कहाँ समाप्त हुआ?",
+              "answer": "Dandi (Gujarat)",
+              "answerHi": "दांडी (गुजरात)",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "What was the main issue on which the Civil Disobedience Movement of 1930 was launched?",
+              "questionHi": "1930 का सविनय अवज्ञा आंदोलन किस मुख्य मुद्दे पर शुरू किया गया था?",
+              "answer": "The salt monopoly exercised by the British Government",
+              "answerHi": "ब्रिटिश सरकार द्वारा नमक पर एकाधिकार",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "When did Gandhiji undertake the famous Dandi March / Civil Disobedience Movement?",
+              "questionHi": "गांधीजी ने प्रसिद्ध दांडी मार्च / सविनय अवज्ञा आंदोलन कब किया?",
+              "answer": "12th March, 1930",
+              "answerHi": "12 मार्च, 1930",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which Satyagraha was held at Nagpur in 1923?",
+              "questionHi": "1923 में नागपुर में कौन सा सत्याग्रह हुआ था?",
+              "answer": "Flag Satyagraha",
+              "answerHi": "झंडा सत्याग्रह",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who founded 'The Gadar Party' in San Francisco, USA?",
+              "questionHi": "संयुक्त राज्य अमेरिका के सैन फ्रांसिस्को में 'गदर पार्टी' की स्थापना किसने की?",
+              "answer": "Lala Hardayal and Sohan Singh Bhakna",
+              "answerHi": "लाला हरदयाल और सोहन सिंह भकना",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who founded the Home Rule League in Calcutta in 1916 A.D.?",
+              "questionHi": "1916 ई. में कलकत्ता में होमरूल लीग की स्थापना किसने की?",
+              "answer": "Mrs. Annie Besant",
+              "answerHi": "श्रीमती एनी बेसेंट",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who started the Home Rule League?",
+              "questionHi": "होमरूल लीग की शुरुआत किसने की?",
+              "answer": "Bal Gangadhar Tilak",
+              "answerHi": "बाल गंगाधर तिलक",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Against whom did the Indian National Army (Azad Hind Fauj) fight in the Second World War?",
+              "questionHi": "द्वितीय विश्व युद्ध में भारतीय राष्ट्रीय सेना (आजाद हिंद फौज) ने किसके खिलाफ लड़ाई लड़ी?",
+              "answer": "Great Britain",
+              "answerHi": "ग्रेट ब्रिटेन",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Bhulabhai Desai's most memorable achievement was his defence of the Indian National Army (INA) personnel at the Red Fort Trial towards the end of which year?",
+              "questionHi": "भुलाभाई देसाई की सबसे यादगार उपलब्धि किस वर्ष के अंत में लाल किला मुकदमे में भारतीय राष्ट्रीय सेना (INA) के कर्मियों का बचाव करना था?",
+              "answer": "1945",
+              "answerHi": "1945",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who was the founder of the Indian National Army?",
+              "questionHi": "भारतीय राष्ट्रीय सेना के संस्थापक कौन थे?",
+              "answer": "Mohan Singh",
+              "answerHi": "मोहन सिंह",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "On which date did the Jallianwala Bagh massacre take place in Amritsar, Punjab?",
+              "questionHi": "पंजाब के अमृतसर में जलियाँवाला बाग हत्याकांड किस तारीख को हुआ था?",
+              "answer": "13th April 1919",
+              "answerHi": "13 अप्रैल 1919",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Whose firing order on a gathering on Baisakhi Day became a turning point in India's freedom struggle?",
+              "questionHi": "बैसाखी के दिन एक सभा पर किसके गोली चलाने के आदेश ने भारत के स्वतंत्रता संग्राम में एक महत्वपूर्ण मोड़ ला दिया?",
+              "answer": "General Dyer",
+              "answerHi": "जनरल डायर",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which commission was set up to investigate the Jallianwala Bagh massacre?",
+              "questionHi": "जलियाँवाला बाग हत्याकांड की जाँच के लिए किस आयोग का गठन किया गया था?",
+              "answer": "The Hunter Commission",
+              "answerHi": "हंटर आयोग",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The Khilafat Movement was launched to protest against the humiliation of whom?",
+              "questionHi": "खिलाफत आंदोलन किसके अपमान के विरोध में शुरू किया गया था?",
+              "answer": "The Turkish Caliph",
+              "answerHi": "तुर्की के खलीफा",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In which year did the Khilafat Movement start?",
+              "questionHi": "खिलाफत आंदोलन किस वर्ष शुरू हुआ?",
+              "answer": "1920",
+              "answerHi": "1920",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which movement was led by Muhammad Ali and Shaukat Ali?",
+              "questionHi": "किस आंदोलन का नेतृत्व मुहम्मद अली और शौकत अली ने किया था?",
+              "answer": "The Khilafat Movement",
+              "answerHi": "खिलाफत आंदोलन",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In which region did the Kuka movement start in the mid-nineteenth century?",
+              "questionHi": "उन्नीसवीं सदी के मध्य में कूका आंदोलन किस क्षेत्र में शुरू हुआ?",
+              "answer": "Western Punjab",
+              "answerHi": "पश्चिमी पंजाब",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who was given the title 'The Ambassador of Hindu-Muslim Unity' by Sarojini Naidu for architecting the Lucknow Pact?",
+              "questionHi": "लखनऊ समझौते की संरचना के लिए सरोजिनी नायडू द्वारा किसे 'हिंदू-मुस्लिम एकता का राजदूत' की उपाधि दी गई थी?",
+              "answer": "Muhammad Ali Jinnah",
+              "answerHi": "मुहम्मद अली जिन्ना",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In which year did the Congress and the Muslim League sign the historic Lucknow Pact?",
+              "questionHi": "कांग्रेस और मुस्लिम लीग ने ऐतिहासिक लखनऊ समझौते पर किस वर्ष हस्ताक्षर किए?",
+              "answer": "1916",
+              "answerHi": "1916",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "What was an important feature of the Lucknow Pact of 1916?",
+              "questionHi": "1916 के लखनऊ समझौते की एक महत्वपूर्ण विशेषता क्या थी?",
+              "answer": "It marked the reunion of the moderate and radical wings of the Congress.",
+              "answerHi": "इसने कांग्रेस के नरमपंथी और गरमपंथी धड़ों के पुनर्मिलन को चिह्नित किया।",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The 'Lucknow Pact' was a deal between whom regarding seat sharing in legislatures?",
+              "questionHi": "विधायिकाओं में सीटों के बंटवारे को लेकर 'लखनऊ समझौता' किसके बीच हुआ था?",
+              "answer": "Hindus and Muslims",
+              "answerHi": "हिंदू और मुसलमान",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In which report was Dominion Status for the entire territory of India first demanded?",
+              "questionHi": "भारत के संपूर्ण क्षेत्र के लिए डोमिनियन स्टेटस की मांग सबसे पहले किस रिपोर्ट में की गई थी?",
+              "answer": "Nehru Report, 1928",
+              "answerHi": "नेहरू रिपोर्ट, 1928",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In which year was the Non-Cooperation Movement started?",
+              "questionHi": "असहयोग आंदोलन किस वर्ष शुरू किया गया था?",
+              "answer": "1920",
+              "answerHi": "1920",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In which year did Mahatma Gandhi call off the Non-Cooperation Movement?",
+              "questionHi": "महात्मा गांधी ने असहयोग आंदोलन किस वर्ष बंद कर दिया?",
+              "answer": "1922",
+              "answerHi": "1922",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which title given by the British Government to Mahatma Gandhi was surrendered during the Non-Cooperation Movement?",
+              "questionHi": "असहयोग आंदोलन के दौरान महात्मा गांधी को ब्रिटिश सरकार द्वारा दी गई कौन सी उपाधि वापस कर दी गई थी?",
+              "answer": "Kaisar-i-Hind",
+              "answerHi": "कैसर-ए-हिंद",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "After the failure of the Non-Cooperation Movement, which party did Motilal Nehru and C.R. Das found?",
+              "questionHi": "असहयोग आंदोलन की विफलता के बाद, मोतीलाल नेहरू और सी.आर. दास ने किस पार्टी की स्थापना की?",
+              "answer": "Swarajya Party",
+              "answerHi": "स्वराज्य पार्टी",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "At which session in 1920 did the Indian National Congress pass the famous resolution on 'Non-Cooperation'?",
+              "questionHi": "1920 में किस अधिवेशन में भारतीय राष्ट्रीय कांग्रेस ने 'असहयोग' पर प्रसिद्ध प्रस्ताव पारित किया?",
+              "answer": "Calcutta",
+              "answerHi": "कलकत्ता",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In which month and year was the Non-Cooperation Movement withdrawn by Gandhiji due to the Chauri-Chaura incident?",
+              "questionHi": "चौरी-चौरा कांड के कारण गांधीजी द्वारा असहयोग आंदोलन किस महीने और साल में वापस ले लिया गया था?",
+              "answer": "February 1922",
+              "answerHi": "फरवरी 1922",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "What did the ideas of the Non-Cooperation Movement not envisage?",
+              "questionHi": "असहयोग आंदोलन के विचारों में क्या परिकल्पित नहीं था?",
+              "answer": "Violence / Common riots",
+              "answerHi": "हिंसा / आम दंगे",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Arrange in chronological order: I. Non-Cooperation Movement II. Civil Disobedience Movement III. Chauri-Chaura incident.",
+              "questionHi": "कालानुक्रमिक क्रम में व्यवस्थित करें: I. असहयोग आंदोलन II. सविनय अवज्ञा आंदोलन III. चौरी-चौरा कांड।",
+              "answer": "I, III, II",
+              "answerHi": "I, III, II",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which movement received support from both Hindus and Muslims?",
+              "questionHi": "किस आंदोलन को हिंदुओं और मुसलमानों दोनों का समर्थन मिला?",
+              "answer": "Non-Cooperation Movement",
+              "answerHi": "असहयोग आंदोलन",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In which movement does Satyagraha find expression?",
+              "questionHi": "सत्याग्रह किस आंदोलन में अभिव्यक्ति पाता है?",
+              "answer": "Non-Cooperation Movement",
+              "answerHi": "असहयोग आंदोलन",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Name three important forms of Satyagraha.",
+              "questionHi": "सत्याग्रह के तीन महत्वपूर्ण रूपों के नाम बताइए।",
+              "answer": "Non-cooperation, civil disobedience, and boycott",
+              "answerHi": "असहयोग, सविनय अवज्ञा और बहिष्कार",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "For how long was the Non-Cooperation Movement conducted?",
+              "questionHi": "असहयोग आंदोलन कब तक चला?",
+              "answer": "September 1920 to February 1922",
+              "answerHi": "सितंबर 1920 से फरवरी 1922 तक",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In the context of the national movement in India, when was the Poona Pact signed?",
+              "questionHi": "भारत में राष्ट्रीय आंदोलन के संदर्भ में, पूना समझौता पर कब हस्ताक्षर किए गए?",
+              "answer": "1932",
+              "answerHi": "1932",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "What did the Poona Pact, signed in 1932, provide for?",
+              "questionHi": "1932 में हस्ताक्षरित पूना पैक्ट ने क्या प्रावधान किया?",
+              "answer": "Joint electorate with reservation for Harijans",
+              "answerHi": "हरिजनों के लिए आरक्षण के साथ संयुक्त निर्वाचक मंडल",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who was the Viceroy at the time of the Quit India Movement?",
+              "questionHi": "भारत छोड़ो आंदोलन के समय वायसराय कौन था?",
+              "answer": "Lord Linlithgow",
+              "answerHi": "लॉर्ड लिनलिथगो",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In which year did the Congress adopt the 'Quit India Resolution'?",
+              "questionHi": "कांग्रेस ने 'भारत छोड़ो प्रस्ताव' किस वर्ष अपनाया?",
+              "answer": "1942",
+              "answerHi": "1942",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "When was Mahatma Gandhi arrested during the 'Quit India Movement' of 1942?",
+              "questionHi": "1942 के 'भारत छोड़ो आंदोलन' के दौरान महात्मा गांधी को कब गिरफ्तार किया गया?",
+              "answer": "9th August 1942",
+              "answerHi": "9 अगस्त 1942",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who gave the mantra 'Do or Die' for the struggle proposed by the Quit India Resolution of 1942?",
+              "questionHi": "1942 के भारत छोड़ो प्रस्ताव द्वारा प्रस्तावित संघर्ष के लिए 'करो या मरो' का मंत्र किसने दिया?",
+              "answer": "Mahatma Gandhi",
+              "answerHi": "महात्मा गांधी",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "When did the Quit India Movement start?",
+              "questionHi": "भारत छोड़ो आंदोलन कब शुरू हुआ?",
+              "answer": "August 1942",
+              "answerHi": "अगस्त 1942",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "During the Quit India Movement, where was a 'Parallel Government' constituted?",
+              "questionHi": "भारत छोड़ो आंदोलन के दौरान, 'समानांतर सरकार' का गठन कहाँ किया गया था?",
+              "answer": "Ballia",
+              "answerHi": "बलिया",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Where did the Working Committee of the National Congress sanction the resolution named 'Quit India'?",
+              "questionHi": "राष्ट्रीय कांग्रेस की कार्यसमिति ने 'भारत छोड़ो' नामक प्रस्ताव को कहाँ मंजूरी दी?",
+              "answer": "Wardha",
+              "answerHi": "वर्धा",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "What was the main cause for starting the Quit India Movement in 1942?",
+              "questionHi": "1942 में भारत छोड़ो आंदोलन शुरू करने का मुख्य कारण क्या था?",
+              "answer": "Failure of the Cripps Mission",
+              "answerHi": "क्रिप्स मिशन की विफलता",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who persuaded the ratings of the RIN (Royal Indian Navy) to surrender on 23rd February 1946?",
+              "questionHi": "23 फरवरी 1946 को RIN (रॉयल इंडियन नेवी) के नौसैनिकों को आत्मसमर्पण करने के लिए किसने राजी किया?",
+              "answer": "Vallabhbhai Patel and M.A. Jinnah",
+              "answerHi": "वल्लभभाई पटेल और एम.ए. जिन्ना",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "With which movement is E.V. Ramaswamy Naicker associated?",
+              "questionHi": "ई.वी. रामास्वामी नायकर किस आंदोलन से जुड़े हैं?",
+              "answer": "Self-Respect Movement",
+              "answerHi": "आत्म-सम्मान आंदोलन",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In which year did the Indian National Congress split, referred to as the Surat Split, take place?",
+              "questionHi": "भारतीय राष्ट्रीय कांग्रेस का विभाजन, जिसे सूरत विभाजन कहा जाता है, किस वर्ष हुआ था?",
+              "answer": "1907",
+              "answerHi": "1907",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who presided over the Conference of Nationalist Delegates at Surat in December 1907?",
+              "questionHi": "दिसंबर 1907 में सूरत में राष्ट्रवादी प्रतिनिधियों के सम्मेलन की अध्यक्षता किसने की?",
+              "answer": "Sri Aurobindo",
+              "answerHi": "श्री अरबिंदो",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The Swadeshi Movement was launched as a protest against what?",
+              "questionHi": "स्वदेशी आंदोलन किसके विरोध में शुरू किया गया था?",
+              "answer": "The Partition of Bengal in 1905",
+              "answerHi": "1905 में बंगाल का विभाजन",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which of these movements was not led by Mahatma Gandhi?",
+              "questionHi": "इनमें से किस आंदोलन का नेतृत्व महात्मा गांधी ने नहीं किया था?",
+              "answer": "Swadeshi Movement",
+              "answerHi": "स्वदेशी आंदोलन",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "By what name was the Swadeshi Movement known in deltaic Andhra?",
+              "questionHi": "डेल्टाई आंध्र में स्वदेशी आंदोलन को किस नाम से जाना जाता था?",
+              "answer": "Vande Mataram Movement",
+              "answerHi": "वंदे मातरम आंदोलन",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In which year were the Battles of Kohima and Imphal fought during World War II?",
+              "questionHi": "द्वितीय विश्व युद्ध के दौरान कोहिमा और इंफाल की लड़ाई किस वर्ष लड़ी गई थी?",
+              "answer": "1944",
+              "answerHi": "1944",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Arrange the following in chronological order: (I) Champaran Satyagraha (II) Partition of Bengal (III) Jallianwala Bagh Massacre.",
+              "questionHi": "निम्नलिखित को कालानुक्रमिक क्रम में व्यवस्थित करें: (I) चंपारण सत्याग्रह (II) बंगाल का विभाजन (III) जलियाँवाला बाग हत्याकांड।",
+              "answer": "II, I, III",
+              "answerHi": "II, I, III",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Where was the Vaikom Satyagraha (1924-25) started?",
+              "questionHi": "वायकोम सत्याग्रह (1924-25) कहाँ शुरू किया गया था?",
+              "answer": "Kerala",
+              "answerHi": "केरल",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In India, the growth of the anti-colonial movement led to what?",
+              "questionHi": "भारत में, उपनिवेशवाद विरोधी आंदोलन के विकास से क्या हुआ?",
+              "answer": "Unity",
+              "answerHi": "एकता",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Why is November 26, 1949, a significant day in our constitutional history?",
+              "questionHi": "26 नवंबर, 1949, हमारे संवैधानिक इतिहास में एक महत्वपूर्ण दिन क्यों है?",
+              "answer": "The Constitution was adopted on this day.",
+              "answerHi": "इस दिन संविधान को अपनाया गया था।",
               "explanation": "",
               "explanationHi": ""
             }
