@@ -1,5 +1,5 @@
 {
-  "version": "1.0.14",
+  "version": "1.0.15",
   "content": [
     {
       "name": "Theory",
@@ -6278,245 +6278,1973 @@
           ]
         },
         {
-  "name": "Medieval History #5 (Powerful Kingdoms: Sikhs)",
-  "nameHi": "मध्यकालीन इतिहास #5 (शक्तिशाली राज्य: सिख)",
-  "icon": "date",
-  "type": "list",
-  "content": [
-    {
-      "question": "Guru Gobind Singh was which Sikh Guru in sequence?",
-      "questionHi": "गुरु गोबिंद सिंह क्रम में कौन से सिख गुरु थे?",
-      "answer": "Tenth",
-      "answerHi": "दसवें",
-      "explanation": "",
-      "explanationHi": ""
-    },
-    {
-      "question": "Which Guru is known as the cobbler saint?",
-      "questionHi": "किस गुरु को मोची संत के रूप में जाना जाता है?",
-      "answer": "Ravidas",
-      "answerHi": "रविदास",
-      "explanation": "",
-      "explanationHi": ""
-    },
-    {
-      "question": "Who is well-known for the golden beautification of the Harmandir Sahib Gurdwara in Amritsar (the Golden Temple)?",
-      "questionHi": "अमृतसर में हरमंदिर साहिब गुरुद्वारे (स्वर्ण मंदिर) के सुनहरे सौंदर्यीकरण के लिए कौन प्रसिद्ध है?",
-      "answer": "Ranjit Singh",
-      "answerHi": "रणजीत सिंह",
-      "explanation": "",
-      "explanationHi": ""
-    },
-    {
-      "question": "Which five items did Guru Gobind Singh command Sikhs to wear at all times?",
-      "questionHi": "गुरु गोबिंद सिंह ने सिखों को हर समय कौन सी पांच चीजें पहनने का आदेश दिया?",
-      "answer": "Kara, Kachera, Kirpan, Kesh, and Kanga",
-      "answerHi": "कड़ा, कचेरा, कृपाण, केश और कंघा",
-      "explanation": "",
-      "explanationHi": ""
-    },
-    {
-      "question": "Who was the fifth of the ten Sikh gurus?",
-      "questionHi": "दस सिख गुरुओं में से पांचवें कौन थे?",
-      "answer": "Guru Arjan Dev",
-      "answerHi": "गुरु अर्जन देव",
-      "explanation": "",
-      "explanationHi": ""
-    },
-    {
-      "question": "Which Sikh Guru compiled the Adi Granth, the first official edition of the Sikh scripture?",
-      "questionHi": "किस सिख गुरु ने सिख धर्मग्रंथ के पहले आधिकारिक संस्करण, आदि ग्रंथ का संकलन किया?",
-      "answer": "Guru Arjan Dev",
-      "answerHi": "गुरु अर्जन देव",
-      "explanation": "",
-      "explanationHi": ""
-    },
-    {
-      "question": "The Gurmukhi script of the Punjabi language was created in the 16th century CE by which second Sikh guru?",
-      "questionHi": "पंजाबी भाषा की गुरुमुखी लिपि 16वीं शताब्दी ईस्वी में किस दूसरे सिख गुरु द्वारा बनाई गई थी?",
-      "answer": "Guru Angad",
-      "answerHi": "गुरु अंगद",
-      "explanation": "",
-      "explanationHi": ""
-    },
-    {
-      "question": "Who built the world-famous Harmandir Sahib, popularly known as the Golden Temple, in Amritsar?",
-      "questionHi": "अमृतसर में विश्व प्रसिद्ध हरमंदिर साहिब, जिसे स्वर्ण मंदिर के नाम से जाना जाता है, का निर्माण किसने करवाया?",
-      "answer": "Guru Arjan Dev",
-      "answerHi": "गुरु अर्जन देव",
-      "explanation": "",
-      "explanationHi": ""
-    },
-    {
-      "question": "In which year did Guru Gobind Singh create the Khalsa Panth?",
-      "questionHi": "गुरु गोबिंद सिंह ने खालसा पंथ की स्थापना किस वर्ष की थी?",
-      "answer": "1699",
-      "answerHi": "1699",
-      "explanation": "",
-      "explanationHi": ""
-    },
-    {
-      "question": "Who introduced the Sikh military sect, 'the Khalsa'?",
-      "questionHi": "सिख सैन्य पंथ 'खालसा' की शुरुआत किसने की?",
-      "answer": "Guru Gobind Singh",
-      "answerHi": "गुरु गोबिंद सिंह",
-      "explanation": "",
-      "explanationHi": ""
-    },
-    {
-      "question": "Who succeeded Guru Nanak?",
-      "questionHi": "गुरु नानक का उत्तराधिकारी कौन था?",
-      "answer": "Guru Angad",
-      "answerHi": "गुरु अंगद",
-      "explanation": "",
-      "explanationHi": ""
-    },
-    {
-      "question": "Which Sikh Guru wrote Guru Nanak's biography?",
-      "questionHi": "किस सिख गुरु ने गुरु नानक की जीवनी लिखी?",
-      "answer": "Guru Angad Dev",
-      "answerHi": "गुरु अंगद देव",
-      "explanation": "",
-      "explanationHi": ""
-    },
-    {
-      "question": "Which Sikh Guru wrote 'Zafarnama' in Persian?",
-      "questionHi": "किस सिख गुरु ने फारसी में 'जफरनामा' लिखा?",
-      "answer": "Guru Gobind Singh",
-      "answerHi": "गुरु गोबिंद सिंह",
-      "explanation": "",
-      "explanationHi": ""
-    },
-    {
-      "question": "Who was the last Guru of the Sikhs?",
-      "questionHi": "सिखों के अंतिम गुरु कौन थे?",
-      "answer": "Guru Gobind Singh",
-      "answerHi": "गुरु गोबिंद सिंह",
-      "explanation": "",
-      "explanationHi": ""
-    },
-    {
-      "question": "What is the holy book of the Sikh religion?",
-      "questionHi": "सिख धर्म की पवित्र पुस्तक कौन सी है?",
-      "answer": "Guru Granth Sahib",
-      "answerHi": "गुरु ग्रंथ साहिब",
-      "explanation": "",
-      "explanationHi": ""
-    },
-    {
-      "question": "Who built the Akaal Takht?",
-      "questionHi": "अकाल तख्त का निर्माण किसने करवाया?",
-      "answer": "Guru Hargobind",
-      "answerHi": "गुरु हरगोबिंद",
-      "explanation": "",
-      "explanationHi": ""
-    },
-    {
-      "question": "Which Sikh Guru laid the foundation of Amritsar?",
-      "questionHi": "किस सिख गुरु ने अमृतसर की नींव रखी थी?",
-      "answer": "Guru Ram Das",
-      "answerHi": "गुरु राम दास",
-      "explanation": "",
-      "explanationHi": ""
-    },
-    {
-      "question": "Which Sikh Guru called himself the 'Sacha Badshah' (True Emperor)?",
-      "questionHi": "किस सिख गुरु ने स्वयं को 'सच्चा बादशाह' कहा?",
-      "answer": "Guru Tegh Bahadur",
-      "answerHi": "गुरु तेग बहादुर",
-      "explanation": "",
-      "explanationHi": ""
-    },
-    {
-      "question": "Who was the founder of the independent Sikh State?",
-      "questionHi": "स्वतंत्र सिख राज्य के संस्थापक कौन थे?",
-      "answer": "Ranjit Singh",
-      "answerHi": "रणजीत सिंह",
-      "explanation": "",
-      "explanationHi": ""
-    },
-    {
-      "question": "Where was Guru Nanak Dev, the originator of the Sikh religion, born?",
-      "questionHi": "सिख धर्म के प्रवर्तक गुरु नानक देव का जन्म कहाँ हुआ था?",
-      "answer": "Talwandi",
-      "answerHi": "तलवंडी",
-      "explanation": "",
-      "explanationHi": ""
-    },
-    {
-      "question": "The Sikh Khalsa Army was formed under whose rule?",
-      "questionHi": "सिख खालसा सेना का गठन किसके शासन में हुआ था?",
-      "answer": "Ranjit Singh",
-      "answerHi": "रणजीत सिंह",
-      "explanation": "",
-      "explanationHi": ""
-    },
-    {
-      "question": "Lahore was Ranjit Singh's political capital. Which city was called his religious capital?",
-      "questionHi": "लाहौर रणजीत सिंह की राजनीतिक राजधानी थी। किस शहर को उनकी धार्मिक राजधानी कहा जाता था?",
-      "answer": "Amritsar",
-      "answerHi": "अमृतसर",
-      "explanation": "",
-      "explanationHi": ""
-    },
-    {
-      "question": "What is the birthplace of the tenth and last Guru of the Sikhs, Guru Gobind Singh?",
-      "questionHi": "सिखों के दसवें और अंतिम गुरु, गुरु गोबिंद सिंह का जन्म स्थान क्या है?",
-      "answer": "Patna Sahib",
-      "answerHi": "पटना साहिब",
-      "explanation": "",
-      "explanationHi": ""
-    },
-    {
-      "question": "Who was the successor of Sikh Guru Har Krishan?",
-      "questionHi": "सिख गुरु हर कृष्ण के उत्तराधिकारी कौन थे?",
-      "answer": "Guru Tegh Bahadur",
-      "answerHi": "गुरु तेग बहादुर",
-      "explanation": "",
-      "explanationHi": ""
-    },
-    {
-      "question": "Guru Gobind Singh, the 10th Guru of Sikhs, was the son of whom?",
-      "questionHi": "सिखों के 10वें गुरु, गुरु गोबिंद सिंह किसके पुत्र थे?",
-      "answer": "Guru Tegh Bahadur",
-      "answerHi": "गुरु तेग बहादुर",
-      "explanation": "",
-      "explanationHi": ""
-    },
-    {
-      "question": "Where was Guru Gobind Singh educated and where did he learn Persian?",
-      "questionHi": "गुरु गोबिंद सिंह ने कहाँ शिक्षा प्राप्त की और फारसी सीखी?",
-      "answer": "Anandpur Sahib",
-      "answerHi": "आनंदपुर साहिब",
-      "explanation": "",
-      "explanationHi": ""
-    },
-    {
-      "question": "In which centuries was Sikhism founded?",
-      "questionHi": "सिख धर्म की स्थापना किस शताब्दी में हुई थी?",
-      "answer": "15th-16th century",
-      "answerHi": "15वीं-16वीं शताब्दी",
-      "explanation": "",
-      "explanationHi": ""
-    },
-    {
-      "question": "When was Guru Nanak Dev born?",
-      "questionHi": "गुरु नानक देव का जन्म कब हुआ था?",
-      "answer": "1469 AD",
-      "answerHi": "1469 ई.",
-      "explanation": "",
-      "explanationHi": ""
-    },
-    {
-      "question": "What was the capital city of Maharaja Ranjit Singh's empire?",
-      "questionHi": "महाराजा रणजीत सिंह के साम्राज्य की राजधानी क्या थी?",
-      "answer": "Lahore",
-      "answerHi": "लाहौर",
-      "explanation": "",
-      "explanationHi": ""
-    }
-  ]
-}
+          "name": "Medieval History #5 (Powerful Kingdoms: Sikhs)",
+          "nameHi": "मध्यकालीन इतिहास #5 (शक्तिशाली राज्य: सिख)",
+          "icon": "date",
+          "type": "list",
+          "content": [
+            {
+              "question": "Guru Gobind Singh was which Sikh Guru in sequence?",
+              "questionHi": "गुरु गोबिंद सिंह क्रम में कौन से सिख गुरु थे?",
+              "answer": "Tenth",
+              "answerHi": "दसवें",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which Guru is known as the cobbler saint?",
+              "questionHi": "किस गुरु को मोची संत के रूप में जाना जाता है?",
+              "answer": "Ravidas",
+              "answerHi": "रविदास",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who is well-known for the golden beautification of the Harmandir Sahib Gurdwara in Amritsar (the Golden Temple)?",
+              "questionHi": "अमृतसर में हरमंदिर साहिब गुरुद्वारे (स्वर्ण मंदिर) के सुनहरे सौंदर्यीकरण के लिए कौन प्रसिद्ध है?",
+              "answer": "Ranjit Singh",
+              "answerHi": "रणजीत सिंह",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which five items did Guru Gobind Singh command Sikhs to wear at all times?",
+              "questionHi": "गुरु गोबिंद सिंह ने सिखों को हर समय कौन सी पांच चीजें पहनने का आदेश दिया?",
+              "answer": "Kara, Kachera, Kirpan, Kesh, and Kanga",
+              "answerHi": "कड़ा, कचेरा, कृपाण, केश और कंघा",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who was the fifth of the ten Sikh gurus?",
+              "questionHi": "दस सिख गुरुओं में से पांचवें कौन थे?",
+              "answer": "Guru Arjan Dev",
+              "answerHi": "गुरु अर्जन देव",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which Sikh Guru compiled the Adi Granth, the first official edition of the Sikh scripture?",
+              "questionHi": "किस सिख गुरु ने सिख धर्मग्रंथ के पहले आधिकारिक संस्करण, आदि ग्रंथ का संकलन किया?",
+              "answer": "Guru Arjan Dev",
+              "answerHi": "गुरु अर्जन देव",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The Gurmukhi script of the Punjabi language was created in the 16th century CE by which second Sikh guru?",
+              "questionHi": "पंजाबी भाषा की गुरुमुखी लिपि 16वीं शताब्दी ईस्वी में किस दूसरे सिख गुरु द्वारा बनाई गई थी?",
+              "answer": "Guru Angad",
+              "answerHi": "गुरु अंगद",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who built the world-famous Harmandir Sahib, popularly known as the Golden Temple, in Amritsar?",
+              "questionHi": "अमृतसर में विश्व प्रसिद्ध हरमंदिर साहिब, जिसे स्वर्ण मंदिर के नाम से जाना जाता है, का निर्माण किसने करवाया?",
+              "answer": "Guru Arjan Dev",
+              "answerHi": "गुरु अर्जन देव",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In which year did Guru Gobind Singh create the Khalsa Panth?",
+              "questionHi": "गुरु गोबिंद सिंह ने खालसा पंथ की स्थापना किस वर्ष की थी?",
+              "answer": "1699",
+              "answerHi": "1699",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who introduced the Sikh military sect, 'the Khalsa'?",
+              "questionHi": "सिख सैन्य पंथ 'खालसा' की शुरुआत किसने की?",
+              "answer": "Guru Gobind Singh",
+              "answerHi": "गुरु गोबिंद सिंह",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who succeeded Guru Nanak?",
+              "questionHi": "गुरु नानक का उत्तराधिकारी कौन था?",
+              "answer": "Guru Angad",
+              "answerHi": "गुरु अंगद",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which Sikh Guru wrote Guru Nanak's biography?",
+              "questionHi": "किस सिख गुरु ने गुरु नानक की जीवनी लिखी?",
+              "answer": "Guru Angad Dev",
+              "answerHi": "गुरु अंगद देव",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which Sikh Guru wrote 'Zafarnama' in Persian?",
+              "questionHi": "किस सिख गुरु ने फारसी में 'जफरनामा' लिखा?",
+              "answer": "Guru Gobind Singh",
+              "answerHi": "गुरु गोबिंद सिंह",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who was the last Guru of the Sikhs?",
+              "questionHi": "सिखों के अंतिम गुरु कौन थे?",
+              "answer": "Guru Gobind Singh",
+              "answerHi": "गुरु गोबिंद सिंह",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "What is the holy book of the Sikh religion?",
+              "questionHi": "सिख धर्म की पवित्र पुस्तक कौन सी है?",
+              "answer": "Guru Granth Sahib",
+              "answerHi": "गुरु ग्रंथ साहिब",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who built the Akaal Takht?",
+              "questionHi": "अकाल तख्त का निर्माण किसने करवाया?",
+              "answer": "Guru Hargobind",
+              "answerHi": "गुरु हरगोबिंद",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which Sikh Guru laid the foundation of Amritsar?",
+              "questionHi": "किस सिख गुरु ने अमृतसर की नींव रखी थी?",
+              "answer": "Guru Ram Das",
+              "answerHi": "गुरु राम दास",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which Sikh Guru called himself the 'Sacha Badshah' (True Emperor)?",
+              "questionHi": "किस सिख गुरु ने स्वयं को 'सच्चा बादशाह' कहा?",
+              "answer": "Guru Tegh Bahadur",
+              "answerHi": "गुरु तेग बहादुर",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who was the founder of the independent Sikh State?",
+              "questionHi": "स्वतंत्र सिख राज्य के संस्थापक कौन थे?",
+              "answer": "Ranjit Singh",
+              "answerHi": "रणजीत सिंह",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Where was Guru Nanak Dev, the originator of the Sikh religion, born?",
+              "questionHi": "सिख धर्म के प्रवर्तक गुरु नानक देव का जन्म कहाँ हुआ था?",
+              "answer": "Talwandi",
+              "answerHi": "तलवंडी",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The Sikh Khalsa Army was formed under whose rule?",
+              "questionHi": "सिख खालसा सेना का गठन किसके शासन में हुआ था?",
+              "answer": "Ranjit Singh",
+              "answerHi": "रणजीत सिंह",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Lahore was Ranjit Singh's political capital. Which city was called his religious capital?",
+              "questionHi": "लाहौर रणजीत सिंह की राजनीतिक राजधानी थी। किस शहर को उनकी धार्मिक राजधानी कहा जाता था?",
+              "answer": "Amritsar",
+              "answerHi": "अमृतसर",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "What is the birthplace of the tenth and last Guru of the Sikhs, Guru Gobind Singh?",
+              "questionHi": "सिखों के दसवें और अंतिम गुरु, गुरु गोबिंद सिंह का जन्म स्थान क्या है?",
+              "answer": "Patna Sahib",
+              "answerHi": "पटना साहिब",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who was the successor of Sikh Guru Har Krishan?",
+              "questionHi": "सिख गुरु हर कृष्ण के उत्तराधिकारी कौन थे?",
+              "answer": "Guru Tegh Bahadur",
+              "answerHi": "गुरु तेग बहादुर",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Guru Gobind Singh, the 10th Guru of Sikhs, was the son of whom?",
+              "questionHi": "सिखों के 10वें गुरु, गुरु गोबिंद सिंह किसके पुत्र थे?",
+              "answer": "Guru Tegh Bahadur",
+              "answerHi": "गुरु तेग बहादुर",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Where was Guru Gobind Singh educated and where did he learn Persian?",
+              "questionHi": "गुरु गोबिंद सिंह ने कहाँ शिक्षा प्राप्त की और फारसी सीखी?",
+              "answer": "Anandpur Sahib",
+              "answerHi": "आनंदपुर साहिब",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In which centuries was Sikhism founded?",
+              "questionHi": "सिख धर्म की स्थापना किस शताब्दी में हुई थी?",
+              "answer": "15th-16th century",
+              "answerHi": "15वीं-16वीं शताब्दी",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "When was Guru Nanak Dev born?",
+              "questionHi": "गुरु नानक देव का जन्म कब हुआ था?",
+              "answer": "1469 AD",
+              "answerHi": "1469 ई.",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "What was the capital city of Maharaja Ranjit Singh's empire?",
+              "questionHi": "महाराजा रणजीत सिंह के साम्राज्य की राजधानी क्या थी?",
+              "answer": "Lahore",
+              "answerHi": "लाहौर",
+              "explanation": "",
+              "explanationHi": ""
+            }
+          ]
+        },
+        {
+          "name": "Medieval History #6 (Powerful Kingdoms: Marathas)",
+          "nameHi": "मध्यकालीन इतिहास #6 (शक्तिशाली राज्य: मराठा)",
+          "icon": "date",
+          "type": "list",
+          "content": [
+            {
+              "question": "What was 'Sardeshmukhi' in the Maratha regime?",
+              "questionHi": "मराठा शासन में 'सरदेशमुखी' क्या था?",
+              "answer": "A tax levied on revenue (10%)",
+              "answerHi": "राजस्व पर लगाया गया कर (10%)",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which Maratha warrior died in the successful defense of the Sinhagad fort against the Mughal army?",
+              "questionHi": "मुगल सेना के खिलाफ सिंहगढ़ किले की सफल रक्षा में किस मराठा योद्धा की मृत्यु हो गई?",
+              "answer": "Tanaji Malusare",
+              "answerHi": "तानाजी मालुसरे",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "What was the name of Shivaji's son from his wife Saibai?",
+              "questionHi": "शिवाजी की पत्नी साईबाई से हुए पुत्र का क्या नाम था?",
+              "answer": "Sambhaji",
+              "answerHi": "संभाजी",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "What did Chhatrapati Shivaji and his wife Soyarabai name their son?",
+              "questionHi": "छत्रपति शिवाजी और उनकी पत्नी सोयराबाई ने अपने पुत्र का क्या नाम रखा?",
+              "answer": "Rajaram",
+              "answerHi": "राजाराम",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The Treaty of Purandar was signed between whom?",
+              "questionHi": "पुरंदर की संधि किसके बीच हुई थी?",
+              "answer": "Mughals and Marathas",
+              "answerHi": "मुगल और मराठा",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who founded the Holkar dynasty, one of the regional Maratha dynasties?",
+              "questionHi": "क्षेत्रीय मराठा राजवंशों में से एक, होल्कर वंश की स्थापना किसने की?",
+              "answer": "Malhar Rao",
+              "answerHi": "मल्हार राव",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who was killed by Chhatrapati Shivaji in the Battle of Pratapgarh?",
+              "questionHi": "प्रतापगढ़ के युद्ध में छत्रपति शिवाजी द्वारा कौन मारा गया?",
+              "answer": "Afzal Khan",
+              "answerHi": "अफजल खान",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "From which European power did Shivaji obtain cannons and ammunition?",
+              "questionHi": "शिवाजी ने किस यूरोपीय शक्ति से तोपें और गोला-बारूद प्राप्त किया?",
+              "answer": "The Portuguese",
+              "answerHi": "पुर्तगाली",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "What was the immediate aim of the Treaty of Purandar in 1665?",
+              "questionHi": "1665 में पुरंदर की संधि का तात्कालिक उद्देश्य क्या था?",
+              "answer": "To sow seeds of contention between Shivaji and the Sultan of Bijapur",
+              "answerHi": "शिवाजी और बीजापुर के सुल्तान के बीच विवाद के बीज बोना",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "How many times did Shivaji plunder Surat?",
+              "questionHi": "शिवाजी ने सूरत को कितनी बार लूटा?",
+              "answer": "Twice",
+              "answerHi": "दो बार",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In which year did the coronation of Shivaji take place?",
+              "questionHi": "शिवाजी का राज्याभिषेक किस वर्ष हुआ था?",
+              "answer": "1674 A.D.",
+              "answerHi": "1674 ई.",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who was the most powerful Peshwa?",
+              "questionHi": "सबसे शक्तिशाली पेशवा कौन था?",
+              "answer": "Baji Rao I",
+              "answerHi": "बाजी राव प्रथम",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who was called the 'Second founder of the Maratha Kingdom'?",
+              "questionHi": "किसे 'मराठा साम्राज्य का दूसरा संस्थापक' कहा जाता था?",
+              "answer": "Balaji Vishwanath",
+              "answerHi": "बालाजी विश्वनाथ",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who was the founder of the house of Peshwa?",
+              "questionHi": "पेशवा घराने के संस्थापक कौन थे?",
+              "answer": "Balaji Vishwanath",
+              "answerHi": "बालाजी विश्वनाथ",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "What was 'Chauth'?",
+              "questionHi": "'चौथ' क्या था?",
+              "answer": "A land tax (25%) levied by Shivaji on neighbouring states",
+              "answerHi": "शिवाजी द्वारा पड़ोसी राज्यों पर लगाया गया एक भू-राजस्व कर (25%)",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In Shivaji's Council of Ministers, what was the Prime Minister called?",
+              "questionHi": "शिवाजी के मंत्रिपरिषद में प्रधानमंत्री को क्या कहा जाता था?",
+              "answer": "Peshwa",
+              "answerHi": "पेशवा",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "By which treaty did Shivaji cede forts to the Mughals?",
+              "questionHi": "किस संधि के द्वारा शिवाजी ने किलों को मुगलों को सौंप दिया?",
+              "answer": "Treaty of Purandar",
+              "answerHi": "पुरंदर की संधि",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "What was the capital of Shivaji?",
+              "questionHi": "शिवाजी की राजधानी क्या थी?",
+              "answer": "Raigarh",
+              "answerHi": "रायगढ़",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who was the Guru of Shivaji?",
+              "questionHi": "शिवाजी के गुरु कौन थे?",
+              "answer": "Ramdas",
+              "answerHi": "रामदास",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who applied the concept of guerrilla warfare in India in the 17th Century?",
+              "questionHi": "17वीं शताब्दी में भारत में गुरिल्ला युद्ध की अवधारणा को किसने लागू किया?",
+              "answer": "Shivaji",
+              "answerHi": "शिवाजी",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "During the Maratha period, who was the officer responsible for village administration?",
+              "questionHi": "मराठा काल में, ग्राम प्रशासन के लिए कौन सा अधिकारी जिम्मेदार था?",
+              "answer": "Patil",
+              "answerHi": "पाटिल",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "To which dynasty did Mahadji Scindia and Nana Phadnis belong?",
+              "questionHi": "महादजी सिंधिया और नाना फडणवीस किस राजवंश से संबंधित थे?",
+              "answer": "Maratha",
+              "answerHi": "मराठा",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which ruler of Bengal gave a portion of Orissa to the Marathas?",
+              "questionHi": "बंगाल के किस शासक ने उड़ीसा का एक हिस्सा मराठों को दिया?",
+              "answer": "Alivardi Khan",
+              "answerHi": "अलीवर्दी खान",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who was defeated in the 3rd Battle of Panipat in 1761?",
+              "questionHi": "1761 में पानीपत की तीसरी लड़ाई में कौन पराजित हुआ?",
+              "answer": "The Marathas",
+              "answerHi": "मराठा",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who was the ruler of Delhi when Ahmad Shah Abdali defeated the Marathas in the third Battle of Panipat in 1761?",
+              "questionHi": "1761 में पानीपत की तीसरी लड़ाई में जब अहमद शाह अब्दाली ने मराठों को हराया, तब दिल्ली का शासक कौन था?",
+              "answer": "Shah Alam II",
+              "answerHi": "शाह आलम द्वितीय",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The third battle of Panipat was fought between whom?",
+              "questionHi": "पानीपत की तीसरी लड़ाई किसके बीच लड़ी गई थी?",
+              "answer": "Maratha and Durrani (Afghans)",
+              "answerHi": "मराठा और दुर्रानी (अफगान)",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Why were the Marathas defeated at Panipat?",
+              "questionHi": "पानीपत में मराठा क्यों पराजित हुए?",
+              "answer": "The Marathas were not equal to the Afghans in strength.",
+              "answerHi": "मराठे शक्ति में अफगानों के बराबर नहीं थे।",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The Peshwaship was abolished by the British during the time of which Peshwa?",
+              "questionHi": "किस पेशवा के समय अंग्रेजों ने पेशवा पद को समाप्त कर दिया?",
+              "answer": "Baji Rao II",
+              "answerHi": "बाजी राव द्वितीय",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which treaty brought an end to the independent existence of Peshwa Baji Rao II?",
+              "questionHi": "किस संधि ने पेशवा बाजी राव द्वितीय के स्वतंत्र अस्तित्व को समाप्त कर दिया?",
+              "answer": "Treaty of Bassein",
+              "answerHi": "बसीन की संधि",
+              "explanation": "",
+              "explanationHi": ""
+            }
+          ]
+        },
+        {
+          "name": "Medieval History #7 (Powerful Kingdoms: Vijaynagar)",
+          "nameHi": "मध्यकालीन इतिहास #7 (शक्तिशाली राज्य: विजयनगर)",
+          "icon": "date",
+          "type": "list",
+          "content": [
+            {
+              "question": "Which temple in Karnataka is the most extravagant architectural showpiece of Hampi?",
+              "questionHi": "कर्नाटक का कौन सा मंदिर हम्पी का सबसे भव्य स्थापत्य प्रदर्शन है?",
+              "answer": "Vittala Temple",
+              "answerHi": "विट्ठल मंदिर",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Harihar and Bukka were the founders of which empire?",
+              "questionHi": "हरिहर और बुक्का किस साम्राज्य के संस्थापक थे?",
+              "answer": "Vijaynagar",
+              "answerHi": "विजयनगर",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In which language was 'Amuktamalyada', one of the works of Vijaynagar ruler Krishnadevaraya, written?",
+              "questionHi": "विजयनगर शासक कृष्णदेवराय की कृतियों में से एक 'अमुक्तमाल्यद' किस भाषा में लिखी गई थी?",
+              "answer": "Telugu",
+              "answerHi": "तेलुगु",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The temple at Lepakshi, famous for its hanging pillars and constructed in the Vijayanagara style, is also called which temple?",
+              "questionHi": "लेपाक्षी में स्थित मंदिर, जो अपने लटकते स्तंभों के लिए प्रसिद्ध है और विजयनगर शैली में निर्मित है, को और क्या कहा जाता है?",
+              "answer": "Veerabhadra Temple",
+              "answerHi": "वीरभद्र मंदिर",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Where is Hampi, the ancient capital of Vijayanagara, located?",
+              "questionHi": "विजयनगर की प्राचीन राजधानी हम्पी कहाँ स्थित है?",
+              "answer": "Karnataka",
+              "answerHi": "कर्नाटक",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "After the death of Rajaram in 1700 A.D., under whom did the Marathas continue the war against the Mughals?",
+              "questionHi": "1700 ई. में राजाराम की मृत्यु के बाद, मराठों ने किसके नेतृत्व में मुगलों के खिलाफ युद्ध जारी रखा?",
+              "answer": "Tarabai",
+              "answerHi": "ताराबाई",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In which year was the famous Battle of Talikota fought?",
+              "questionHi": "प्रसिद्ध तालीकोटा का युद्ध किस वर्ष लड़ा गया था?",
+              "answer": "1565 A.D.",
+              "answerHi": "1565 ई.",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which battle led to the downfall of the Vijayanagar empire?",
+              "questionHi": "किस युद्ध के कारण विजयनगर साम्राज्य का पतन हुआ?",
+              "answer": "Battle of Talikota",
+              "answerHi": "तालीकोटा का युद्ध",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Where is Gol Gumbaz, the largest dome in the world, situated?",
+              "questionHi": "विश्व का सबसे बड़ा गुंबद, गोल गुंबज कहाँ स्थित है?",
+              "answer": "Bijapur",
+              "answerHi": "बीजापुर",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "For what is Bijapur known?",
+              "questionHi": "बीजापुर किसके लिए जाना जाता है?",
+              "answer": "Gol Gumbaz",
+              "answerHi": "गोल गुंबज",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The famous Koh-i-Noor diamond was produced from a mine in which region?",
+              "questionHi": "प्रसिद्ध कोह-ए-नूर हीरा किस क्षेत्र की खदान से निकाला गया था?",
+              "answer": "Golconda",
+              "answerHi": "गोलकुंडा",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Where can the remains of the great Vijayanagar Empire be found?",
+              "questionHi": "महान विजयनगर साम्राज्य के अवशेष कहाँ पाए जा सकते हैं?",
+              "answer": "Hampi",
+              "answerHi": "हम्पी",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who was the first Vijayanagar ruler to seize the important fort of Goa from the Bahmanis?",
+              "questionHi": "बहमनी सल्तनत से गोवा का महत्वपूर्ण किला छीनने वाला पहला विजयनगर शासक कौन था?",
+              "answer": "Harihara II",
+              "answerHi": "हरिहर द्वितीय",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Krishnadevaraya built the Krishnaswami temple in Hampi, which is situated in which present-day state?",
+              "questionHi": "कृष्णदेवराय ने हम्पी में कृष्णस्वामी मंदिर का निर्माण करवाया, जो वर्तमान में किस राज्य में स्थित है?",
+              "answer": "Karnataka",
+              "answerHi": "कर्नाटक",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who is considered the greatest of all the Vijayanagar rulers?",
+              "questionHi": "विजयनगर के सभी शासकों में सबसे महान किसे माना जाता है?",
+              "answer": "Krishnadeva Raya",
+              "answerHi": "कृष्णदेव राय",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who constructed the monumental 'Raya Gopurams' in front of the temples at Hampi, Tiruvannamalai, Chidambaram, Srirangam, and Tirupati?",
+              "questionHi": "हम्पी, तिरुवन्नामलाई, चिदंबरम, श्रीरंगम और तिरुपति के मंदिरों के सामने विशाल 'राय गोपुरम' का निर्माण किसने करवाया?",
+              "answer": "Krishnadevaraya",
+              "answerHi": "कृष्णदेवराय",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "What is Gol Gumbaz?",
+              "questionHi": "गोल गुंबज क्या है?",
+              "answer": "Mausoleum of Mohammed Adil Shah",
+              "answerHi": "मोहम्मद आदिल शाह का मकबरा",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which languages did the rulers of Vijayanagar promote?",
+              "questionHi": "विजयनगर के शासकों ने किन भाषाओं को बढ़ावा दिया?",
+              "answer": "Tamil, Telugu, and Sanskrit",
+              "answerHi": "तमिल, तेलुगु और संस्कृत",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which dynasty was ruling the Vijaynagar empire at the time of the Battle of Talikota?",
+              "questionHi": "तालीकोटा के युद्ध के समय विजयनगर साम्राज्य पर किस वंश का शासन था?",
+              "answer": "Tuluva",
+              "answerHi": "तुलुव",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "On the banks of which river is the city of Vijayanagar located?",
+              "questionHi": "विजयनगर शहर किस नदी के किनारे स्थित है?",
+              "answer": "Tungabhadra",
+              "answerHi": "तुंगभद्रा",
+              "explanation": "",
+              "explanationHi": ""
+            }
+          ]
+        },
+        {
+          "name": "Medieval History #8 (Powerful Kingdoms: Bahmani)",
+          "nameHi": "मध्यकालीन इतिहास #8 (शक्तिशाली राज्य: बहमनी)",
+          "icon": "date",
+          "type": "list",
+          "content": [
+            {
+              "question": "The Bahmani ruler Tajuddin Firuz married the daughter of which Vijayanagara ruler?",
+              "questionHi": "बहमनी शासक ताजुद्दीन फिरोज ने किस विजयनगर शासक की बेटी से शादी की?",
+              "answer": "Devaraya I",
+              "answerHi": "देवराय प्रथम",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The Golconda Fort was built by which dynasty?",
+              "questionHi": "गोलकुंडा किला किस राजवंश द्वारा बनवाया गया था?",
+              "answer": "Kakatiya Dynasty",
+              "answerHi": "काकतीय राजवंश",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which heritage site shows the Dravidian style of architecture?",
+              "questionHi": "कौन सा विरासत स्थल वास्तुकला की द्रविड़ शैली को दर्शाता है?",
+              "answer": "Hampi",
+              "answerHi": "हम्पी",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Where is the 'Gol Gumbaz' located?",
+              "questionHi": "'गोल गुंबज' कहाँ स्थित है?",
+              "answer": "Bijapur (Karnataka)",
+              "answerHi": "बीजापुर (कर्नाटक)",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who founded the Bahmani kingdom?",
+              "questionHi": "बहमनी साम्राज्य की स्थापना किसने की?",
+              "answer": "Alauddin Hasan",
+              "answerHi": "अलाउद्दीन हसन",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "What was the capital of the Bahmani Kings?",
+              "questionHi": "बहमनी राजाओं की राजधानी क्या थी?",
+              "answer": "Gulbarga",
+              "answerHi": "गुलबर्गा",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who built the 'Gol Gumbaz' at Bijapur, famous for the world's second-largest dome and its whispering gallery?",
+              "questionHi": "बीजापुर में 'गोल गुंबज' का निर्माण किसने करवाया, जो दुनिया के दूसरे सबसे बड़े गुंबद और अपनी फुसफुसाती गैलरी के लिए प्रसिद्ध है?",
+              "answer": "Yusuf Adil Shah",
+              "answerHi": "यूसुफ आदिल शाह",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who designed Gol Gumbaz?",
+              "questionHi": "गोल गुंबज का डिजाइन किसने बनाया था?",
+              "answer": "Yaqut of Dabul",
+              "answerHi": "दाबुल के याकूत",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who built the Charminar?",
+              "questionHi": "चारमीनार का निर्माण किसने करवाया?",
+              "answer": "Mohammed Quli Qutb Shah",
+              "answerHi": "मुहम्मद कुली कुतुब शाह",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which medieval ruler was called 'Jagat Guru'?",
+              "questionHi": "किस मध्ययुगीन शासक को 'जगत गुरु' कहा जाता था?",
+              "answer": "Ibrahim Adil Shah II",
+              "answerHi": "इब्राहिम आदिल शाह द्वितीय",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The Group of Monuments at Hampi was built by whom?",
+              "questionHi": "हम्पी में स्मारकों का समूह किसके द्वारा बनवाया गया था?",
+              "answer": "Harihara and Bukka",
+              "answerHi": "हरिहर और बुक्का",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In which century was Gol Gumbaz built?",
+              "questionHi": "गोल गुंबज का निर्माण किस शताब्दी में हुआ था?",
+              "answer": "17th century",
+              "answerHi": "17वीं शताब्दी",
+              "explanation": "",
+              "explanationHi": ""
+            }
+          ]
+        },
+        {
+          "name": "Medieval History #9 (Bhakti & Sufi Period)",
+          "nameHi": "मध्यकालीन इतिहास #9 (भक्ति और सूफी काल)",
+          "icon": "date",
+          "type": "list",
+          "content": [
+            {
+              "question": "The Bhakti cult spread in Maharashtra with whose teachings?",
+              "questionHi": "महाराष्ट्र में भक्ति पंथ का प्रसार किसकी शिक्षाओं से हुआ?",
+              "answer": "Sant Jnaneshwar",
+              "answerHi": "संत ज्ञानेश्वर",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which Sufi saint maintained that devotional music was one way of moving closer to God?",
+              "questionHi": "किस सूफी संत का मानना ​​था कि भक्ति संगीत ईश्वर के करीब जाने का एक तरीका है?",
+              "answer": "Baba Farid",
+              "answerHi": "बाबा फरीद",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "What is the tomb of a Sufi saint called?",
+              "questionHi": "सूफी संत की कब्र को क्या कहा जाता है?",
+              "answer": "Dargah",
+              "answerHi": "दरगाह",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In the context of medieval Sufi tradition, what did the term 'wali' mean?",
+              "questionHi": "मध्यकालीन सूफी परंपरा के संदर्भ में, 'वली' शब्द का क्या अर्थ था?",
+              "answer": "Saint",
+              "answerHi": "संत",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which Sufi order was the most orthodox?",
+              "questionHi": "कौन सा सूफी सिलसिला सबसे रूढ़िवादी था?",
+              "answer": "Naqshbandi",
+              "answerHi": "नक्शबंदी",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who was one of the main proponents of the Vaishnava sect in Assam during the 15th century?",
+              "questionHi": "15वीं शताब्दी के दौरान असम में वैष्णव संप्रदाय के मुख्य समर्थकों में से एक कौन थे?",
+              "answer": "Shankardev",
+              "answerHi": "शंकरदेव",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The southernmost Jyotirlinga temple is located in which Indian state?",
+              "questionHi": "सबसे दक्षिणी ज्योतिर्लिंग मंदिर किस भारतीय राज्य में स्थित है?",
+              "answer": "Tamil Nadu",
+              "answerHi": "तमिलनाडु",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which religion did NOT originate in India?",
+              "questionHi": "किस धर्म की उत्पत्ति भारत में नहीं हुई?",
+              "answer": "Zoroastrianism",
+              "answerHi": "पारसी धर्म",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who was the leading saint-poet of the Rama cult who wrote the poem 'Ramacharitamanasa'?",
+              "questionHi": "राम पंथ के प्रमुख संत-कवि कौन थे जिन्होंने 'रामचरितमानस' कविता लिखी थी?",
+              "answer": "Tulsidas",
+              "answerHi": "तुलसीदास",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "It is believed that Lord Shiva assumed the form of whom to marry Parvati at the site of the Meenakshi Temple?",
+              "questionHi": "ऐसा माना जाता है कि भगवान शिव ने मीनाक्षी मंदिर के स्थल पर पार्वती से विवाह करने के लिए किसका रूप धारण किया था?",
+              "answer": "Sundareshwarar",
+              "answerHi": "सुन्दरेश्वर",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who was the leader of the Bhakti Movement focusing on Lord Rama?",
+              "questionHi": "भगवान राम पर ध्यान केंद्रित करने वाले भक्ति आंदोलन के नेता कौन थे?",
+              "answer": "Ramananda",
+              "answerHi": "रामानंद",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "From which guru did Saint Kabir get his spiritual training?",
+              "questionHi": "संत कबीर ने किस गुरु से अपनी आध्यात्मिक शिक्षा प्राप्त की?",
+              "answer": "Ramananda",
+              "answerHi": "रामानंद",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which text gives a detailed account of the kings of Kashmir?",
+              "questionHi": "कौन सा ग्रंथ कश्मीर के राजाओं का विस्तृत विवरण देता है?",
+              "answer": "Rajatarangini",
+              "answerHi": "राजतरंगिणी",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which book did Kalhana pen in the 12th century, a historical chronicle of the kings of Kashmir?",
+              "questionHi": "कल्हण ने 12वीं शताब्दी में कौन सी पुस्तक लिखी, जो कश्मीर के राजाओं का एक ऐतिहासिक वृत्तांत है?",
+              "answer": "Rajatarangini",
+              "answerHi": "राजतरंगिणी",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "What are other names for Ram Setu?",
+              "questionHi": "राम सेतु के अन्य नाम क्या हैं?",
+              "answer": "Adam's Bridge, Sethu Bandha, Ramar Palam",
+              "answerHi": "एडम्स ब्रिज, सेतु बंध, रामर पालम",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Panchavati, a key part of the Valmiki Ramayana, is located in which state of India?",
+              "questionHi": "पंचवटी, वाल्मीकि रामायण का एक प्रमुख हिस्सा, भारत के किस राज्य में स्थित है?",
+              "answer": "Maharashtra",
+              "answerHi": "महाराष्ट्र",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "What were the Sufi lodges called where people used to discuss spiritual matters?",
+              "questionHi": "सूफी लॉज को क्या कहा जाता था जहाँ लोग आध्यात्मिक मामलों पर चर्चा करने आते थे?",
+              "answer": "Khanqah",
+              "answerHi": "खानकाह",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who founded the Satnami movement in central India in the 19th century?",
+              "questionHi": "19वीं शताब्दी में मध्य भारत में सतनामी आंदोलन की स्थापना किसने की?",
+              "answer": "Guru Ghasidas",
+              "answerHi": "गुरु घासीदास",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In 12th century Karnataka, Veerashaivism was a movement inspired by followers of whom?",
+              "questionHi": "12वीं शताब्दी के कर्नाटक में, वीरशैववाद किसके अनुयायियों से प्रेरित एक आंदोलन था?",
+              "answer": "Basavanna",
+              "answerHi": "बसवन्ना",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Select the correct chronological order of these saints.",
+              "questionHi": "इन संतों का सही कालानुक्रम चुनें।",
+              "answer": "Nizamuddin Auliya, Kabir, Mirabai, Tulsidas",
+              "answerHi": "निजामुद्दीन औलिया, कबीर, मीराबाई, तुलसीदास",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The Dilwara temples at Mount Abu in Rajasthan were built by the followers of which religion?",
+              "questionHi": "राजस्थान के माउंट आबू में स्थित दिलवाड़ा मंदिर किस धर्म के अनुयायियों द्वारा बनवाए गए थे?",
+              "answer": "Jainism",
+              "answerHi": "जैन धर्म",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "What is meant by a 'pir' in the Sufi tradition?",
+              "questionHi": "सूफी परंपरा में 'पीर' का क्या अर्थ है?",
+              "answer": "The Guru of the Sufis",
+              "answerHi": "सूफियों का गुरु",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which aspect is not common to both the Bhakti movement and the Sufi movement?",
+              "questionHi": "कौन सा पहलू भक्ति आंदोलन और सूफी आंदोलन दोनों में समान नहीं है?",
+              "answer": "Worship of idols",
+              "answerHi": "मूर्ति पूजा",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Where is the most important Sufi shrine in India located?",
+              "questionHi": "भारत में सबसे महत्वपूर्ण सूफी दरगाह कहाँ स्थित है?",
+              "answer": "Ajmer",
+              "answerHi": "अजमेर",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who organised the first Bhakti Movement?",
+              "questionHi": "प्रथम भक्ति आंदोलन का आयोजन किसने किया?",
+              "answer": "Ramanujacharya",
+              "answerHi": "रामानुजाचार्य",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "To whom was 'Inam land' assigned?",
+              "questionHi": "'इनाम भूमि' किसे सौंपी जाती थी?",
+              "answer": "Scholars and religious persons",
+              "answerHi": "विद्वानों और धार्मिक व्यक्तियों को",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Abul Fazl was the son of which Sufi saint?",
+              "questionHi": "अबुल फजल किस सूफी संत के पुत्र थे?",
+              "answer": "Sheikh Mubarak",
+              "answerHi": "शेख मुबारक",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Sriperumbudur is the birthplace of whom?",
+              "questionHi": "श्रीपेरंबुदूर किसका जन्मस्थान है?",
+              "answer": "Sri Ramanujacharya",
+              "answerHi": "श्री रामानुजाचार्य",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who was the greatest Bhakti poet of Maharashtra?",
+              "questionHi": "महाराष्ट्र के सबसे महान भक्ति कवि कौन थे?",
+              "answer": "Tukaram",
+              "answerHi": "तुकाराम",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Where was saint Kabir born?",
+              "questionHi": "संत कबीर का जन्म कहाँ हुआ था?",
+              "answer": "Varanasi",
+              "answerHi": "वाराणसी",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "What is the correct chronological order of these 'Acharyas'?",
+              "questionHi": "इन 'आचार्यों' का सही कालानुक्रम क्या है?",
+              "answer": "Shankara - Ramanuja - Madhva - Chaitanya",
+              "answerHi": "शंकर - रामानुज - माधव - चैतन्य",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which famous Bhakti Saint belonged to the royal family of Mewar?",
+              "questionHi": "कौन सी प्रसिद्ध भक्ति संत मेवाड़ के शाही परिवार से थीं?",
+              "answer": "Meerabai",
+              "answerHi": "मीराबाई",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which Sufi's dargah is at Ajmer?",
+              "questionHi": "अजमेर में किस सूफी की दरगाह है?",
+              "answer": "Moinuddin Chishti",
+              "answerHi": "मोइनुद्दीन चिश्ती",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who was the author of 'Gita Govinda'?",
+              "questionHi": "'गीत गोविंद' के लेखक कौन थे?",
+              "answer": "Jayadeva",
+              "answerHi": "जयदेव",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "To which deity are most of the sculptures in 'Rani ki Vav' devoted?",
+              "questionHi": "'रानी की वाव' में अधिकांश मूर्तियां किस देवता को समर्पित हैं?",
+              "answer": "Vishnu",
+              "answerHi": "विष्णु",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which musical forms are considered Amir Khusro's creations?",
+              "questionHi": "कौन सी संगीत विधाएं अमीर खुसरो की रचना मानी जाती हैं?",
+              "answer": "Khaliq-e-bari, Khayal, Tarana, Qawwali",
+              "answerHi": "खालिक-ए-बारी, ख्याल, तराना, कव्वाली",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The queen with the title 'Didda' ruled over which part of India between 980-1003?",
+              "questionHi": "'दिद्दा' की उपाधि वाली रानी ने 980-1003 के बीच भारत के किस हिस्से पर शासन किया?",
+              "answer": "Kashmir",
+              "answerHi": "कश्मीर",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who is considered the promoter of the Bhakti Movement in Bengal?",
+              "questionHi": "बंगाल में भक्ति आंदोलन का प्रवर्तक किसे माना जाता है?",
+              "answer": "Chaitanya",
+              "answerHi": "चैतन्य",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which language did Tulsidas use for 'Ramcharitmanas'?",
+              "questionHi": "तुलसीदास ने 'रामचरितमानस' के लिए किस भाषा का प्रयोग किया?",
+              "answer": "Awadhi",
+              "answerHi": "अवधी",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The famous Saint Chaitanya of Bengal was a contemporary of which ruler?",
+              "questionHi": "बंगाल के प्रसिद्ध संत चैतन्य किस शासक के समकालीन थे?",
+              "answer": "Alauddin Husain Shah",
+              "answerHi": "अलाउद्दीन हुसैन शाह",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In which century did the Bhakti movement begin?",
+              "questionHi": "भक्ति आंदोलन किस शताब्दी में शुरू हुआ?",
+              "answer": "7th century",
+              "answerHi": "7वीं शताब्दी",
+              "explanation": "",
+              "explanationHi": ""
+            }
+          ]
+        },
+        {
+          "name": "Modern History #1 (Advent of Europeans)",
+          "nameHi": "आधुनिक इतिहास #1 (यूरोपीय लोगों का आगमन)",
+          "icon": "date",
+          "type": "list",
+          "content": [
+            {
+              "question": "The Portuguese built their first fort on Indian soil in the territory of the Raja of which place?",
+              "questionHi": "पुर्तगालियों ने भारतीय धरती पर अपना पहला किला किस राजा के क्षेत्र में बनाया?",
+              "answer": "Cochin",
+              "answerHi": "कोचीन",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In which year was the 'Battle of Goa' fought?",
+              "questionHi": "'गोवा का युद्ध' किस वर्ष लड़ा गया था?",
+              "answer": "1510",
+              "answerHi": "1510",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In which year did Vasco da Gama land in Calicut (Kozhikode)?",
+              "questionHi": "वास्को डी गामा किस वर्ष कालीकट (कोझिकोड) में उतरा?",
+              "answer": "1498",
+              "answerHi": "1498",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Where is the Mattancherry Palace located?",
+              "questionHi": "मट्टनचेरी पैलेस कहाँ स्थित है?",
+              "answer": "Kerala",
+              "answerHi": "केरल",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Where did Vasco da Gama arrive in India in 1498?",
+              "questionHi": "1498 में वास्को डी गामा भारत में कहाँ आया था?",
+              "answer": "Calicut",
+              "answerHi": "कालीकट",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The 'Instrument of Surrender', which ended Portuguese rule in India, was signed on which date?",
+              "questionHi": "'आत्मसमर्पण का दस्तावेज', जिसने भारत में पुर्तगाली शासन को समाप्त कर दिया, पर किस तारीख को हस्ताक्षर किए गए थे?",
+              "answer": "19th December 1961",
+              "answerHi": "19 दिसंबर 1961",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who was the first Viceroy of the Portuguese in the East?",
+              "questionHi": "पूर्व में पुर्तगालियों का पहला वायसराय कौन था?",
+              "answer": "Francisco de Almeida",
+              "answerHi": "फ्रांसिस्को डी अल्मीडा",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The 'Blue Water Policy' was introduced by which Portuguese leader?",
+              "questionHi": "'ब्लू वॉटर पॉलिसी' किस पुर्तगाली नेता द्वारा शुरू की गई थी?",
+              "answer": "Francisco de Almeida",
+              "answerHi": "फ्रांसिस्को डी अल्मीडा",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Where are the traces of Portuguese culture found in India?",
+              "questionHi": "भारत में पुर्तगाली संस्कृति के निशान कहाँ पाए जाते हैं?",
+              "answer": "Goa",
+              "answerHi": "गोवा",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which Portuguese Governor abolished Sati in Goa?",
+              "questionHi": "किस पुर्तगाली गवर्नर ने गोवा में सती प्रथा को समाप्त किया?",
+              "answer": "Alfonso de Albuquerque",
+              "answerHi": "अल्फांसो डी अल्बुकर्क",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which Portuguese leader captured Goa?",
+              "questionHi": "किस पुर्तगाली नेता ने गोवा पर कब्जा किया?",
+              "answer": "Alfonso de Albuquerque",
+              "answerHi": "अल्फांसो डी अल्बुकर्क",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which was the first country to discover the sea route to India?",
+              "questionHi": "भारत के लिए समुद्री मार्ग की खोज करने वाला पहला देश कौन सा था?",
+              "answer": "Portugal",
+              "answerHi": "पुर्तगाल",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who controlled the maximum trade in the western coastal region during the 17th century?",
+              "questionHi": "17वीं शताब्दी के दौरान पश्चिमी तटीय क्षेत्र में अधिकतम व्यापार को कौन नियंत्रित करता था?",
+              "answer": "The Portuguese",
+              "answerHi": "पुर्तगाली",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which ruler of Vijayanagar allowed the Portuguese to build a church in his empire?",
+              "questionHi": "विजयनगर के किस शासक ने पुर्तगालियों को अपने साम्राज्य में एक चर्च बनाने की अनुमति दी?",
+              "answer": "Venkat II",
+              "answerHi": "वेंकट द्वितीय",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who were the first to come and the last to leave India?",
+              "questionHi": "भारत में सबसे पहले आने वाले और सबसे अंत में जाने वाले कौन थे?",
+              "answer": "The Portuguese",
+              "answerHi": "पुर्तगाली",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "What was the first commodity that encouraged Europeans for Indian business?",
+              "questionHi": "वह पहली वस्तु क्या थी जिसने यूरोपीय लोगों को भारतीय व्यापार के लिए प्रोत्साहित किया?",
+              "answer": "Spice",
+              "answerHi": "मसाला",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which European country was the first to start a trading station in Kerala?",
+              "questionHi": "केरल में एक व्यापारिक केंद्र शुरू करने वाला पहला यूरोपीय देश कौन सा था?",
+              "answer": "Portugal",
+              "answerHi": "पुर्तगाल",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Bahadur Shah, the ruler of Gujarat, was killed in a conflict with whom?",
+              "questionHi": "गुजरात के शासक बहादुर शाह की किसके साथ संघर्ष में मृत्यु हो गई?",
+              "answer": "The Portuguese",
+              "answerHi": "पुर्तगाली",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who were the first Europeans to come to India?",
+              "questionHi": "भारत आने वाले पहले यूरोपीय कौन थे?",
+              "answer": "The Portuguese",
+              "answerHi": "पुर्तगाली",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The famous traveller Duarte Barbosa was from where?",
+              "questionHi": "प्रसिद्ध यात्री डुआर्टे बारबोसा कहाँ से थे?",
+              "answer": "Portugal",
+              "answerHi": "पुर्तगाल",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which ruler of the Vijayanagar empire was a friend of the Portuguese Governor Albuquerque?",
+              "questionHi": "विजयनगर साम्राज्य का कौन सा शासक पुर्तगाली गवर्नर अल्बुकर्क का मित्र था?",
+              "answer": "Krishna Deva Raya",
+              "answerHi": "कृष्ण देव राय",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "What were cotton textiles taken by the Portuguese from Calicut generally named in Europe?",
+              "questionHi": "पुर्तगालियों द्वारा कालीकट से ले जाए जाने वाले सूती वस्त्रों को यूरोप में आम तौर पर क्या नाम दिया गया?",
+              "answer": "Calico",
+              "answerHi": "कैलिको",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "What was the earliest settlement of the Dutch in India?",
+              "questionHi": "भारत में डचों की सबसे पहली बस्ती कौन सी थी?",
+              "answer": "Pulicat",
+              "answerHi": "पुलिकट",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "At which place in Bengal was the East India Company given permission by the Mughals to trade and build a factory in 1651?",
+              "questionHi": "1651 में मुगलों द्वारा ईस्ट इंडिया कंपनी को बंगाल में किस स्थान पर व्यापार करने और एक कारखाना बनाने की अनुमति दी गई थी?",
+              "answer": "Qasim Bazar",
+              "answerHi": "कासिम बाजार",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "What was the name of the first English ship that came to India?",
+              "questionHi": "भारत आने वाले पहले अंग्रेजी जहाज का नाम क्या था?",
+              "answer": "Red Dragon",
+              "answerHi": "रेड ड्रैगन",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which was the first fort built by the British East India Company in India?",
+              "questionHi": "भारत में ब्रिटिश ईस्ट इंडिया कंपनी द्वारा बनाया गया पहला किला कौन सा था?",
+              "answer": "Fort Saint George",
+              "answerHi": "फोर्ट सेंट जॉर्ज",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Where did the English establish their first factory in India?",
+              "questionHi": "अंग्रेजों ने भारत में अपना पहला कारखाना कहाँ स्थापित किया?",
+              "answer": "Surat",
+              "answerHi": "सूरत",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "What is the correct chronological order in which the British established their trading centres?",
+              "questionHi": "अंग्रेजों ने अपने व्यापारिक केंद्र किस सही कालानुक्रम में स्थापित किए?",
+              "answer": "Surat, Madras, Bombay, Calcutta",
+              "answerHi": "सूरत, मद्रास, बंबई, कलकत्ता",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "When the East India Company was formed, who was the Mughal emperor in India?",
+              "questionHi": "जब ईस्ट इंडिया कंपनी का गठन हुआ, तब भारत में मुगल सम्राट कौन था?",
+              "answer": "Akbar",
+              "answerHi": "अकबर",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In which Indian city did the East India Company first land?",
+              "questionHi": "ईस्ट इंडिया कंपनी सबसे पहले किस भारतीय शहर में उतरी?",
+              "answer": "Surat",
+              "answerHi": "सूरत",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which seaport declined after the emergence of the East India Company?",
+              "questionHi": "ईस्ट इंडिया कंपनी के उदय के बाद किस बंदरगाह का पतन हुआ?",
+              "answer": "Surat",
+              "answerHi": "सूरत",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who spent four years (1615-1619) at the Mughal Court?",
+              "questionHi": "मुगल दरबार में चार साल (1615-1619) किसने बिताए?",
+              "answer": "Sir Thomas Roe",
+              "answerHi": "सर थॉमस रो",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In which year did the English East India Company make its first appearance in India?",
+              "questionHi": "अंग्रेजी ईस्ट इंडिया कंपनी भारत में पहली बार किस वर्ष प्रकट हुई?",
+              "answer": "1608",
+              "answerHi": "1608",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In which year was the East India Company established?",
+              "questionHi": "ईस्ट इंडिया कंपनी की स्थापना किस वर्ष हुई थी?",
+              "answer": "1600",
+              "answerHi": "1600",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "What is the name of the fort built by the English in Calcutta?",
+              "questionHi": "कलकत्ता में अंग्रेजों द्वारा बनाए गए किले का नाम क्या है?",
+              "answer": "Fort William",
+              "answerHi": "फोर्ट विलियम",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which European colonisers did not have a settlement on the Eastern Coast of India?",
+              "questionHi": "किन यूरोपीय उपनिवेशवादियों का भारत के पूर्वी तट पर कोई समझौता नहीं था?",
+              "answer": "The Danish",
+              "answerHi": "डेनिश",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In which year did the French traveller Francois Bernier arrive in India?",
+              "questionHi": "फ्रांसीसी यात्री फ्रेंकोइस बर्नियर किस वर्ष भारत आया था?",
+              "answer": "1658",
+              "answerHi": "1658",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who was the French Governor of Pondicherry who tried to make the French Company a powerful company?",
+              "questionHi": "पॉन्डिचेरी का वह फ्रांसीसी गवर्नर कौन था जिसने फ्रांसीसी कंपनी को एक शक्तिशाली कंपनी बनाने की कोशिश की?",
+              "answer": "Joseph Francois Dupleix",
+              "answerHi": "जोसेफ फ्रेंकोइस डुप्लेक्स",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "What was the capital of the French colony in India?",
+              "questionHi": "भारत में फ्रांसीसी उपनिवेश की राजधानी क्या थी?",
+              "answer": "Pondicherry",
+              "answerHi": "पॉन्डिचेरी",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which was not a French settlement in India?",
+              "questionHi": "भारत में कौन सी फ्रांसीसी बस्ती नहीं थी?",
+              "answer": "Goa",
+              "answerHi": "गोवा",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "From whom did the French East India Company acquire Pondicherry?",
+              "questionHi": "फ्रांसीसी ईस्ट इंडिया कंपनी ने पॉन्डिचेरी किससे प्राप्त किया?",
+              "answer": "The Sultan of Bijapur",
+              "answerHi": "बीजापुर के सुल्तान से",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Shirts, trousers, and skirts were brought to India in the eighteenth century by whom?",
+              "questionHi": "अठारहवीं शताब्दी में शर्ट, पतलून और स्कर्ट भारत में किसके द्वारा लाए गए थे?",
+              "answer": "The Europeans",
+              "answerHi": "यूरोपीय",
+              "explanation": "",
+              "explanationHi": ""
+            }
+          ]
+        },
+        {
+          "name": "Modern History #2 (Expansion of British Power)",
+          "nameHi": "आधुनिक इतिहास #2 (ब्रिटिश शक्ति का विस्तार)",
+          "icon": "date",
+          "type": "list",
+          "content": [
+            {
+              "question": "Which of these battles proved decisive in the Anglo-French rivalry in India?",
+              "questionHi": "भारत में आंग्ल-फ्रांसीसी प्रतिद्वंद्विता में कौन सी लड़ाई निर्णायक साबित हुई?",
+              "answer": "Battle of Wandiwash",
+              "answerHi": "वांडिवाश का युद्ध",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "After the Anglo-Mysore wars, whom did the East India Company appoint as the Governor of Bengal?",
+              "questionHi": "आंग्ल-मैसूर युद्धों के बाद, ईस्ट इंडिया कंपनी ने बंगाल का गवर्नर किसे नियुक्त किया?",
+              "answer": "Robert Clive",
+              "answerHi": "रॉबर्ट क्लाइव",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which event made the English East India Company the legitimate masters of the Bengal Suba?",
+              "questionHi": "किस घटना ने अंग्रेजी ईस्ट इंडिया कंपनी को बंगाल सूबा का वैध स्वामी बना दिया?",
+              "answer": "Battle of Buxar, 1764",
+              "answerHi": "बक्सर का युद्ध, 1764",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who led the English Army in the Battle of Buxar?",
+              "questionHi": "बक्सर के युद्ध में अंग्रेजी सेना का नेतृत्व किसने किया?",
+              "answer": "Hector Munro",
+              "answerHi": "हेक्टर मुनरो",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which battle was fought between the East India Company and the combined forces of the Nawabs and the Mughal Empire in 1764?",
+              "questionHi": "1764 में ईस्ट इंडिया कंपनी और नवाबों तथा मुगल साम्राज्य की संयुक्त सेनाओं के बीच कौन सा युद्ध लड़ा गया था?",
+              "answer": "Battle of Buxar",
+              "answerHi": "बक्सर का युद्ध",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In which year was the Battle of Buxar fought?",
+              "questionHi": "बक्सर का युद्ध किस वर्ष लड़ा गया था?",
+              "answer": "1764",
+              "answerHi": "1764",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "After which battle did the British achieve political power in India?",
+              "questionHi": "किस युद्ध के बाद अंग्रेजों ने भारत में राजनीतिक शक्ति प्राप्त की?",
+              "answer": "Battle of Plassey",
+              "answerHi": "प्लासी का युद्ध",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "After the defeat at Plassey, Siraj-ud-Daulah was assassinated and who was made the nawab?",
+              "questionHi": "प्लासी में हार के बाद, सिराज-उद-दौला की हत्या कर दी गई और किसे नवाब बनाया गया?",
+              "answer": "Mir Jafar",
+              "answerHi": "मीर जाफर",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Siraj-ud-Daulah renamed which city as Alinagar?",
+              "questionHi": "सिराज-उद-दौला ने किस शहर का नाम बदलकर अलीनगर रखा?",
+              "answer": "Calcutta",
+              "answerHi": "कलकत्ता",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Murshid Quli Khan, Alivardi Khan, and Siraj-ud-Daulah were all nawabs of which province?",
+              "questionHi": "मुर्शिद कुली खान, अलीवर्दी खान और सिराज-उद-दौला सभी किस प्रांत के नवाब थे?",
+              "answer": "Bengal",
+              "answerHi": "बंगाल",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The Battle of Plassey was fought on which date between Siraj-ud-Daulah and Lord Clive?",
+              "questionHi": "प्लासी का युद्ध सिराज-उद-दौला और लॉर्ड क्लाइव के बीच किस तारीख को लड़ा गया था?",
+              "answer": "23 June 1757",
+              "answerHi": "23 जून 1757",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In which war against Mysore did the East India Company ultimately win?",
+              "questionHi": "मैसूर के खिलाफ किस युद्ध में ईस्ट इंडिया कंपनी को अंततः जीत मिली?",
+              "answer": "Fourth Anglo-Mysore War",
+              "answerHi": "चौथा आंग्ल-मैसूर युद्ध",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who introduced the Ryotwari System?",
+              "questionHi": "रैयतवाड़ी व्यवस्था की शुरुआत किसने की?",
+              "answer": "Thomas Munro",
+              "answerHi": "थॉमस मुनरो",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The Treaty of Sagauli was signed between the British and whom?",
+              "questionHi": "सुगौली की संधि अंग्रेजों और किसके बीच हुई थी?",
+              "answer": "The Gurkhas",
+              "answerHi": "गोरखा",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who ruled Mysore under a subsidiary alliance with the British after the defeat of Tipu Sultan at Seringapatam?",
+              "questionHi": "श्रीरंगपट्टम की लड़ाई में टीपू सुल्तान की हार के बाद अंग्रेजों के साथ सहायक संधि के तहत मैसूर पर किसने शासन किया?",
+              "answer": "The Wodeyars",
+              "answerHi": "वोडेयार",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "When was the Permanent Settlement introduced by the East India Company?",
+              "questionHi": "ईस्ट इंडिया कंपनी द्वारा स्थायी बंदोबस्त कब शुरू किया गया?",
+              "answer": "1793",
+              "answerHi": "1793",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In which year did the Convention of Wadgaon take place?",
+              "questionHi": "वडगांव का समझौता किस वर्ष हुआ था?",
+              "answer": "1779",
+              "answerHi": "1779",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In British revenue records, what was a 'Mahal'?",
+              "questionHi": "ब्रिटिश राजस्व रिकॉर्ड में, 'महल' क्या था?",
+              "answer": "A revenue estate, which could be a village or a group of villages.",
+              "answerHi": "एक राजस्व संपदा, जो एक गाँव या गाँवों का समूह हो सकता है।",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Where is the Srirangapatnam Fort located?",
+              "questionHi": "श्रीरंगपट्टनम किला कहाँ स्थित है?",
+              "answer": "Karnataka",
+              "answerHi": "कर्नाटक",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "During their rule, the British persuaded or forced cultivators in Bengal to grow what?",
+              "questionHi": "अपने शासन के दौरान, अंग्रेजों ने बंगाल में किसानों को क्या उगाने के लिए राजी किया या मजबूर किया?",
+              "answer": "Jute",
+              "answerHi": "जूट",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Where did the so-called 'Black Hole Tragedy' take place?",
+              "questionHi": "तथाकथित 'ब्लैक होल त्रासदी' कहाँ हुई थी?",
+              "answer": "Calcutta",
+              "answerHi": "कलकत्ता",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who betrayed Siraj-ud-Daula in the Battle of Plassey in 1757?",
+              "questionHi": "1757 में प्लासी के युद्ध में सिराज-उद-दौला को किसने धोखा दिया?",
+              "answer": "Mir Jafar",
+              "answerHi": "मीर जाफर",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The first Anglo-Mysore War fought between the British and Hyder Ali ended with which treaty?",
+              "questionHi": "अंग्रेजों और हैदर अली के बीच लड़ा गया पहला आंग्ल-मैसूर युद्ध किस संधि के साथ समाप्त हुआ?",
+              "answer": "Treaty of Madras",
+              "answerHi": "मद्रास की संधि",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "To end the Third Anglo-Mysore War, which treaty did Tipu Sultan sign with the British?",
+              "questionHi": "तीसरे आंग्ल-मैसूर युद्ध को समाप्त करने के लिए, टीपू सुल्तान ने अंग्रेजों के साथ कौन सी संधि पर हस्ताक्षर किए?",
+              "answer": "Treaty of Srirangapatnam",
+              "answerHi": "श्रीरंगपट्टनम की संधि",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who became the Nawab of Bengal after Alivardi Khan?",
+              "questionHi": "अलीवर्दी खान के बाद बंगाल का नवाब कौन बना?",
+              "answer": "Siraj-ud-Daulah",
+              "answerHi": "सिराज-उद-दौला",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "During their rule, the British persuaded or forced cultivators in Punjab to grow what?",
+              "questionHi": "अपने शासन के दौरान, अंग्रेजों ने पंजाब में किसानों को क्या उगाने के लिए राजी किया या मजबूर किया?",
+              "answer": "Wheat",
+              "answerHi": "गेहूं",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The First Anglo-Burmese War ended with the signing of which treaty?",
+              "questionHi": "प्रथम आंग्ल-बर्मी युद्ध किस संधि पर हस्ताक्षर के साथ समाप्त हुआ?",
+              "answer": "Treaty of Yandabo",
+              "answerHi": "यांडोबो की संधि",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In the Rohilla War of 1774, the Rohillas were defeated by which Nawab of Awadh?",
+              "questionHi": "1774 के रोहिल्ला युद्ध में, रोहिल्लाओं को अवध के किस नवाब ने हराया था?",
+              "answer": "Shuja-ud-Daula",
+              "answerHi": "शुजा-उद-दौला",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who was the father of Tipu Sultan?",
+              "questionHi": "टीपू सुल्तान के पिता कौन थे?",
+              "answer": "Haider Ali",
+              "answerHi": "हैदर अली",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "How many wars were fought by the East India Company against Mysore?",
+              "questionHi": "ईस्ट इंडिया कंपनी ने मैसूर के खिलाफ कितने युद्ध लड़े?",
+              "answer": "Four",
+              "answerHi": "चार",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Against which neighbouring country did Britain use Indian Sepoys in the Opium Wars?",
+              "questionHi": "अफीम युद्धों में ब्रिटेन ने किस पड़ोसी देश के खिलाफ भारतीय सिपाहियों का इस्तेमाल किया?",
+              "answer": "China",
+              "answerHi": "चीन",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The Opium Wars were fought between the British and whom?",
+              "questionHi": "अफीम युद्ध अंग्रेजों और किसके बीच लड़े गए थे?",
+              "answer": "China",
+              "answerHi": "चीन",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which city was the capital of British India until 1911?",
+              "questionHi": "1911 तक ब्रिटिश भारत की राजधानी कौन सा शहर था?",
+              "answer": "Calcutta",
+              "answerHi": "कलकत्ता",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In 1824, the sepoys refused to go to which place by sea route to fight for the East India Company?",
+              "questionHi": "1824 में, सिपाहियों ने ईस्ट इंडिया कंपनी के लिए लड़ने के लिए समुद्री मार्ग से किस स्थान पर जाने से इनकार कर दिया?",
+              "answer": "Burma",
+              "answerHi": "बर्मा",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "What was the unit of land measurement before British rule, which they standardized to about one-third of an acre in Bengal?",
+              "questionHi": "ब्रिटिश शासन से पहले भूमि माप की इकाई क्या थी, जिसे उन्होंने बंगाल में लगभग एक-तिहाई एकड़ के बराबर मानकीकृत किया?",
+              "answer": "Bigha",
+              "answerHi": "बीघा",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Before 1905, which was the biggest province of British India?",
+              "questionHi": "1905 से पहले, ब्रिटिश भारत का सबसे बड़ा प्रांत कौन सा था?",
+              "answer": "Bengal",
+              "answerHi": "बंगाल",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In which battle did the British East India Company defeat the Portuguese?",
+              "questionHi": "किस युद्ध में ब्रिटिश ईस्ट इंडिया कंपनी ने पुर्तगालियों को हराया?",
+              "answer": "Battle of Suvali",
+              "answerHi": "सुवाली का युद्ध",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which state of India was ruled by the Ahom Dynasty?",
+              "questionHi": "भारत के किस राज्य पर अहोम वंश का शासन था?",
+              "answer": "Assam",
+              "answerHi": "असम",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "'Talatal Ghar' is a historical monument situated in which Indian state?",
+              "questionHi": "'तलातल घर' एक ऐतिहासिक स्मारक है जो किस भारतीय राज्य में स्थित है?",
+              "answer": "Assam",
+              "answerHi": "असम",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which Indian territory was formerly known as 'Black Water' before Independence?",
+              "questionHi": "स्वतंत्रता से पहले किस भारतीय क्षेत्र को 'काला पानी' के नाम से जाना जाता था?",
+              "answer": "Andaman and Nicobar Islands",
+              "answerHi": "अंडमान और निकोबार द्वीप समूह",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "During British rule in India, what was a 'gomastha'?",
+              "questionHi": "भारत में ब्रिटिश शासन के दौरान, 'गुमाश्ता' क्या था?",
+              "answer": "A paid servant to supervise weavers, collect supplies, and examine the quality of cloth.",
+              "answerHi": "बुनकरों की निगरानी करने, आपूर्ति एकत्र करने और कपड़े की गुणवत्ता की जांच करने के लिए एक वेतनभोगी नौकर।",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "For nearly how many years did the British rule India?",
+              "questionHi": "अंग्रेजों ने भारत पर लगभग कितने वर्षों तक शासन किया?",
+              "answer": "200 years",
+              "answerHi": "200 वर्ष",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In which year did Tipu Sultan and the British East India Company sign the Treaty of Mangalore?",
+              "questionHi": "टीपू सुल्तान और ब्रिटिश ईस्ट इंडिया कंपनी ने किस वर्ष मैंगलोर की संधि पर हस्ताक्षर किए?",
+              "answer": "1784",
+              "answerHi": "1784",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In which year did Calcutta become the capital of British India?",
+              "questionHi": "कलकत्ता किस वर्ष ब्रिटिश भारत की राजधानी बना?",
+              "answer": "1772",
+              "answerHi": "1772",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "How was land revenue collected under Tipu Sultan?",
+              "questionHi": "टीपू सुल्तान के अधीन भू-राजस्व कैसे एकत्र किया जाता था?",
+              "answer": "It was mainly collected by government officials appointed by Tipu.",
+              "answerHi": "यह मुख्य रूप से टीपू द्वारा नियुक्त सरकारी अधिकारियों द्वारा एकत्र किया जाता था।",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In which places was the Ryotwari settlement introduced?",
+              "questionHi": "रैयतवाड़ी बंदोबस्त किन स्थानों पर शुरू किया गया था?",
+              "answer": "Madras and Bombay",
+              "answerHi": "मद्रास और बंबई",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who was instrumental in introducing the Ryotwari system in the Madras Presidency during British rule?",
+              "questionHi": "ब्रिटिश शासन के दौरान तत्कालीन मद्रास प्रेसीडेंसी में रैयतवाड़ी प्रणाली की शुरुआत के लिए कौन जिम्मेदार था?",
+              "answer": "Thomas Munro",
+              "answerHi": "थॉमस मुनरो",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who was the Nawab of Awadh when Dalhousie annexed it in 1856?",
+              "questionHi": "1856 में जब डलहौजी ने अवध पर कब्जा किया तो नवाब कौन था?",
+              "answer": "Wajid Ali Shah",
+              "answerHi": "वाजिद अली शाह",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "On what grounds did Lord Dalhousie annex Awadh for the British Empire?",
+              "questionHi": "लॉर्ड डलहौजी ने किस आधार पर अवध को ब्रिटिश साम्राज्य के लिए मिला लिया?",
+              "answer": "On the grounds of the state being maladministered.",
+              "answerHi": "राज्य के कुशासन के आधार पर।",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In which year did the Maratha Empire cease to exist, ending the Third Anglo-Maratha War?",
+              "questionHi": "किस वर्ष मराठा साम्राज्य का अस्तित्व समाप्त हो गया, जिससे तीसरा आंग्ल-मराठा युद्ध समाप्त हुआ?",
+              "answer": "1818",
+              "answerHi": "1818",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who was the last Nizam of Hyderabad?",
+              "questionHi": "हैदराबाद का अंतिम निज़ाम कौन था?",
+              "answer": "Mir Osman Ali Khan",
+              "answerHi": "मीर उस्मान अली खान",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The former princely state of Tripura was ruled by which dynasty?",
+              "questionHi": "पूर्ववर्ती त्रिपुरा रियासत पर किस राजवंश का शासन था?",
+              "answer": "Manikya Dynasty",
+              "answerHi": "माणिक्य राजवंश",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "According to the Treaty of Srirangapatnam, which region was ceded to the British?",
+              "questionHi": "श्रीरंगपट्टनम की संधि के अनुसार, कौन सा क्षेत्र अंग्रेजों को सौंप दिया गया था?",
+              "answer": "Malabar",
+              "answerHi": "मालाबार",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In which year was Tantia Tope killed?",
+              "questionHi": "तांत्या टोपे किस वर्ष मारे गए थे?",
+              "answer": "1859",
+              "answerHi": "1859",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In which year did representatives of the Maratha Empire and the British East India Company sign the 'Treaty of Salbai'?",
+              "questionHi": "मराठा साम्राज्य और ब्रिटिश ईस्ट इंडिया कंपनी के प्रतिनिधियों ने किस वर्ष 'सालबाई की संधि' पर हस्ताक्षर किए?",
+              "answer": "1782",
+              "answerHi": "1782",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "By applying which policy was Satara annexed to the East India Company?",
+              "questionHi": "किस नीति को लागू करके सतारा को ईस्ट इंडिया कंपनी में मिला लिया गया?",
+              "answer": "Doctrine of Lapse",
+              "answerHi": "व्यपगत का सिद्धान्त (हड़प नीति)",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In which year was the Battle of Saragarhi fought?",
+              "questionHi": "सारागढ़ी का युद्ध किस वर्ष लड़ा गया था?",
+              "answer": "1897",
+              "answerHi": "1897",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who was the last Nawab of Awadh?",
+              "questionHi": "अवध का अंतिम नवाब कौन था?",
+              "answer": "Wajid Ali Shah",
+              "answerHi": "वाजिद अली शाह",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "During their rule, the British persuaded or forced cultivators in Assam to grow what?",
+              "questionHi": "अपने शासन के दौरान, अंग्रेजों ने असम में किसानों को क्या उगाने के लिए राजी किया या मजबूर किया?",
+              "answer": "Tea",
+              "answerHi": "चाय",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who led an anti-British movement when the British tried to annex the state of Kitoor?",
+              "questionHi": "जब अंग्रेजों ने कित्तूर राज्य पर कब्जा करने की कोशिश की तो किसने ब्रिटिश विरोधी आंदोलन का नेतृत्व किया?",
+              "answer": "Rani Channamma",
+              "answerHi": "रानी चेन्नम्मा",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which place was ruled by the Wadiyar dynasty?",
+              "questionHi": "किस स्थान पर वाडियार वंश का शासन था?",
+              "answer": "Mysore",
+              "answerHi": "मैसूर",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who is also known by the name 'Tiger of Mysore'?",
+              "questionHi": "'मैसूर का शेर' नाम से किसे जाना जाता है?",
+              "answer": "Tipu Sultan",
+              "answerHi": "टीपू सुल्तान",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who was inspired by the ideals of the French Revolution?",
+              "questionHi": "फ्रांसीसी क्रांति के आदर्शों से कौन प्रेरित था?",
+              "answer": "Tipu Sultan",
+              "answerHi": "टीपू सुल्तान",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Through which policy was the State of Jhansi made a part of the British Empire in India?",
+              "questionHi": "किस नीति के माध्यम से झांसी राज्य को भारत में ब्रिटिश साम्राज्य का हिस्सा बनाया गया?",
+              "answer": "Doctrine of Lapse",
+              "answerHi": "व्यपगत का सिद्धान्त (हड़प नीति)",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "To which princely state was the 'Doctrine of Lapse' first applied?",
+              "questionHi": "'व्यपगत का सिद्धान्त' सबसे पहले किस रियासत पर लागू किया गया था?",
+              "answer": "Satara",
+              "answerHi": "सतारा",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who was the first to sign the 'Instrument of Accession'?",
+              "questionHi": "'विलय पत्र' पर सबसे पहले किसने हस्ताक्षर किए?",
+              "answer": "The Dewan of Travancore",
+              "answerHi": "त्रावणकोर के दीवान",
+              "explanation": "",
+              "explanationHi": ""
+            }
+          ]
+        }
       ]
     }
   ]
