@@ -4804,6 +4804,1318 @@
               "explanationHi": ""
             }
           ]
+        },
+        {
+          "name": "Medieval History #3 (Mughal Empire)",
+          "nameHi": "मध्यकालीन इतिहास #3 (मुगल साम्राज्य)",
+          "icon": "date",
+          "type": "list",
+          "content": [
+            {
+              "question": "During the Mughal period, rank and salary were determined by a numerical value called what?",
+              "questionHi": "मुगल काल में पद और वेतन का निर्धारण किस संख्यात्मक मान से होता था?",
+              "answer": "Zat",
+              "answerHi": "जात",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "During the Mughal Empire, the Jizya tax was levied on whom?",
+              "questionHi": "मुगल साम्राज्य के दौरान, जजिया कर किस पर लगाया जाता था?",
+              "answer": "Non-Muslim citizens",
+              "answerHi": "गैर-मुस्लिम नागरिक",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who introduced the 'Charbagh' style of architecture in India?",
+              "questionHi": "भारत में 'चारबाग' शैली की वास्तुकला की शुरुआत किसने की?",
+              "answer": "Mughals",
+              "answerHi": "मुगलों ने",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The terms 'Zat' and 'Sawar' are related to which administrative system?",
+              "questionHi": "'जात' और 'सवार' शब्द किस प्रशासनिक व्यवस्था से संबंधित हैं?",
+              "answer": "Mansabdari System",
+              "answerHi": "मनसबदारी प्रथा",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The 'city of victory', Fatehpur Sikri, near which city was built during the reign of the Mughals?",
+              "questionHi": "किस शहर के पास 'विजयी शहर' फतेहपुर सीकरी का निर्माण मुगलों के शासनकाल के दौरान किया गया था?",
+              "answer": "Agra",
+              "answerHi": "आगरा",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "During the Mughal period, what was a royal edict or order known as?",
+              "questionHi": "मुगल काल में एक शाही फरमान या आदेश को किस नाम से जाना जाता था?",
+              "answer": "Farman",
+              "answerHi": "फरमान",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The Mir Bakshi of the Mughal Emperors was the head of what?",
+              "questionHi": "मुगल सम्राटों का मीर बख्शी किसका प्रमुख होता था?",
+              "answer": "Army organization",
+              "answerHi": "सेना संगठन",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "What is meant by a Mughal 'Jagir'?",
+              "questionHi": "मुगल 'जागीर' से क्या तात्पर्य है?",
+              "answer": "Giving an officer a right to revenue",
+              "answerHi": "एक अधिकारी को राजस्व का अधिकार देना",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who was the first Indian Hindi scholar of the Mughal period?",
+              "questionHi": "मुगल काल के पहले भारतीय हिंदी विद्वान कौन थे?",
+              "answer": "Malik Muhammad Jayasi",
+              "answerHi": "मलिक मुहम्मद जायसी",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "What was the court language of the Mughals?",
+              "questionHi": "मुगलों की राजभाषा क्या थी?",
+              "answer": "Persian",
+              "answerHi": "फ़ारसी",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which foreign traveller who visited India during the Mughal period left an expert's description of the Peacock Throne?",
+              "questionHi": "मुगल काल के दौरान भारत आने वाले किस विदेशी यात्री ने मयूर सिंहासन का विशेषज्ञ विवरण छोड़ा है?",
+              "answer": "Tavernier",
+              "answerHi": "टै Tavernier",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which Mughal Emperors wrote their own autobiographies?",
+              "questionHi": "किन मुगल सम्राटों ने अपनी आत्मकथाएँ स्वयं लिखीं?",
+              "answer": "Babar and Jahangir",
+              "answerHi": "बाबर और जहाँगीर",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "From their father's side, the Mughals were descendants of whom?",
+              "questionHi": "अपने पिता की ओर से मुगल किसके वंशज थे?",
+              "answer": "Timur",
+              "answerHi": "तैमूर",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "From whom did the Mughals adopt the festival of Navroz?",
+              "questionHi": "मुगलों ने नवरोज का त्योहार किससे अपनाया?",
+              "answer": "The Parsis",
+              "answerHi": "पारसियों से",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who were the successors of Timur, the ruler of Iran, Iraq and modern-day Turkey?",
+              "questionHi": "ईरान, इराक और आधुनिक तुर्की के शासक तैमूर के उत्तराधिकारी कौन थे?",
+              "answer": "The Mughals",
+              "answerHi": "मुगल",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The Red Fort in Delhi was the residence of emperors of which dynasty in the 16th century?",
+              "questionHi": "दिल्ली का लाल किला 16वीं शताब्दी में किस राजवंश के सम्राटों का निवास स्थान था?",
+              "answer": "Mughal",
+              "answerHi": "मुगल",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "What were individuals who joined Mughal services and held a position or rank referred to as?",
+              "questionHi": "मुगल सेवाओं में शामिल होने वाले और पद या रैंक रखने वाले व्यक्तियों को क्या कहा जाता था?",
+              "answer": "Mansabdars",
+              "answerHi": "मनसबदार",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "What was a major industry in the Mughal period?",
+              "questionHi": "मुगल काल में एक प्रमुख उद्योग क्या था?",
+              "answer": "Cotton cloth",
+              "answerHi": "सूती कपड़ा",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "From their mother's side, the Mughals were descendants of whom?",
+              "questionHi": "अपनी माँ की ओर से मुगल किसके वंशज थे?",
+              "answer": "Genghis Khan",
+              "answerHi": "चंगेज खान",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who established the Mughal Empire in India in 1526?",
+              "questionHi": "1526 में भारत में मुगल साम्राज्य की स्थापना किसने की?",
+              "answer": "Babar",
+              "answerHi": "बाबर",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Whom did Mughal Emperor Babar defeat in the Battle of Ghagra in 1529?",
+              "questionHi": "1529 में घाघरा के युद्ध में मुगल सम्राट बाबर ने किसे हराया था?",
+              "answer": "Mahmud Lodi",
+              "answerHi": "महमूद लोदी",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The 1st Battle of Panipat, which laid the foundation of Mughal rule, was fought between Ibrahim Lodi and Babar in which year?",
+              "questionHi": "पानीपत की पहली लड़ाई, जिसने मुगल शासन की नींव रखी, इब्राहिम लोदी और बाबर के बीच किस वर्ष लड़ी गई थी?",
+              "answer": "1526",
+              "answerHi": "1526",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Where did Babar die?",
+              "questionHi": "बाबर की मृत्यु कहाँ हुई?",
+              "answer": "Agra",
+              "answerHi": "आगरा",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who was the first to make use of artillery in warfare in medieval India?",
+              "questionHi": "मध्यकालीन भारत में युद्ध में तोपखाने का प्रयोग करने वाला पहला व्यक्ति कौन था?",
+              "answer": "Babar",
+              "answerHi": "बाबर",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Krishna Deva Raya was a contemporary of which ruler?",
+              "questionHi": "कृष्णदेव राय किस शासक के समकालीन थे?",
+              "answer": "Babar",
+              "answerHi": "बाबर",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "By his own choice, where is the dead body of Babar buried?",
+              "questionHi": "अपनी इच्छानुसार, बाबर का शव कहाँ दफनाया गया है?",
+              "answer": "Kabul",
+              "answerHi": "काबुल",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Whom did Babar defeat at the Battle of Khanwa in 1527?",
+              "questionHi": "1527 में खानवा के युद्ध में बाबर ने किसे हराया था?",
+              "answer": "Rana Sanga",
+              "answerHi": "राणा सांगा",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "After which war did Babar hold the title of 'Ghazi'?",
+              "questionHi": "किस युद्ध के बाद बाबर ने 'गाजी' की उपाधि धारण की?",
+              "answer": "Battle of Khanwa",
+              "answerHi": "खानवा का युद्ध",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In 1528, who defeated the Rajputs at Chanderi?",
+              "questionHi": "1528 में, चंदेरी में राजपूतों को किसने हराया?",
+              "answer": "Babar",
+              "answerHi": "बाबर",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who succeeded to the throne of Ferghana in 1494 when he was only 12 years old?",
+              "questionHi": "1494 में फरगना की गद्दी पर कौन बैठा जब वह केवल 12 वर्ष का था?",
+              "answer": "Babar",
+              "answerHi": "बाबर",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The first Mughal emperor, Babar, came to India from where?",
+              "questionHi": "पहला मुगल सम्राट बाबर भारत में कहाँ से आया था?",
+              "answer": "Ferghana",
+              "answerHi": "फरगना",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who wrote the 'Humayun Nama'?",
+              "questionHi": "'हुमायूँनामा' किसने लिखा था?",
+              "answer": "Gulbadan Begum",
+              "answerHi": "गुलबदन बेगम",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who constructed Humayun's tomb in Delhi?",
+              "questionHi": "दिल्ली में हुमायूँ का मकबरा किसने बनवाया?",
+              "answer": "Haji Begum",
+              "answerHi": "हाजी बेगम",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who succeeded Babar to the Mughal throne?",
+              "questionHi": "बाबर के बाद मुगल सिंहासन पर कौन बैठा?",
+              "answer": "Humayun",
+              "answerHi": "हुमायूँ",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Humayun had to flee from India after he was defeated in which battle?",
+              "questionHi": "किस युद्ध में पराजित होने के बाद हुमायूँ को भारत से भागना पड़ा?",
+              "answer": "Kannauj",
+              "answerHi": "कन्नौज",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who was the architect of Humayun's Tomb?",
+              "questionHi": "हुमायूँ के मकबरे का वास्तुकार कौन था?",
+              "answer": "Mirak Mirza Ghiyath",
+              "answerHi": "मिरक मिर्जा घियाथ",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Indian Mughal paintings originated during the rule of which Mughal Emperor?",
+              "questionHi": "भारतीय मुगल चित्रकला की उत्पत्ति किस मुगल सम्राट के शासनकाल में हुई?",
+              "answer": "Humayun",
+              "answerHi": "हुमायूँ",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which Suri king was defeated by Humayun, allowing him to regain his kingdom?",
+              "questionHi": "किस सूरी राजा को हुमायूँ ने हराकर अपना राज्य पुनः प्राप्त किया?",
+              "answer": "Sikandar Suri",
+              "answerHi": "सिकंदर सूरी",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "What was the silver coin introduced by Sher Shah Suri called?",
+              "questionHi": "शेरशाह सूरी द्वारा प्रचलित चांदी का सिक्का क्या कहलाता था?",
+              "answer": "Rupiya",
+              "answerHi": "रुपया",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The Battle of Chausa was fought between Humayun and Sher Shah Suri on 26 June in which year?",
+              "questionHi": "चौसा का युद्ध हुमायूँ और शेरशाह सूरी के बीच 26 जून को किस वर्ष लड़ा गया था?",
+              "answer": "1539",
+              "answerHi": "1539",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In which battle did Sher Shah defeat Humayun and capture Gaur in 1539 A.D.?",
+              "questionHi": "1539 ई. में शेरशाह ने किस युद्ध में हुमायूँ को हराया और गौड़ पर कब्जा कर लिया?",
+              "answer": "Battle of Chausa",
+              "answerHi": "चौसा का युद्ध",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Whom did Sher Khan defeat at Chausa (1539) and Kannauj (1540), forcing him to flee to Iran?",
+              "questionHi": "शेर खान ने चौसा (1539) और कन्नौज (1540) में किसे हराकर उसे ईरान भागने पर मजबूर कर दिया?",
+              "answer": "Humayun",
+              "answerHi": "हुमायूँ",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In what does the greatness of Sher Shah lie?",
+              "questionHi": "शेरशाह की महानता किसमें निहित है?",
+              "answer": "Administrative reforms",
+              "answerHi": "प्रशासनिक सुधार",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The Grand Trunk Road built by Sher Shah Suri connects which two places?",
+              "questionHi": "शेरशाह सूरी द्वारा बनवाई गई ग्रैंड ट्रंक रोड किन दो स्थानों को जोड़ती है?",
+              "answer": "Lahore to East Bengal",
+              "answerHi": "लाहौर से पूर्वी बंगाल",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Under whom did the brilliant revenue officer Todar Mal serve?",
+              "questionHi": "प्रतिभाशाली राजस्व अधिकारी टोडरमल ने किसके अधीन कार्य किया?",
+              "answer": "Sher Shah Suri",
+              "answerHi": "शेरशाह सूरी",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who built the 'Purana Qila'?",
+              "questionHi": "'पुराना किला' किसने बनवाया?",
+              "answer": "Sher Shah Suri",
+              "answerHi": "शेरशाह सूरी",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who created the raga 'Miyan Ki Malhar'?",
+              "questionHi": "राग 'मियां की मल्हार' की रचना किसने की?",
+              "answer": "Tansen",
+              "answerHi": "तानसेन",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which queen died fighting Mughal armies while defending Garha Katanga in 1564?",
+              "questionHi": "1564 में गढ़ कटंगा की रक्षा करते हुए मुगल सेनाओं से लड़ते हुए किस रानी की मृत्यु हो गई?",
+              "answer": "Rani Durgavati",
+              "answerHi": "रानी दुर्गावती",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Akbar was succeeded by his son, Salim, who took which title meaning 'Conqueror of the World'?",
+              "questionHi": "अकबर का उत्तराधिकारी उसका पुत्र सलीम बना, जिसने 'विश्व विजेता' की उपाधि धारण की, वह कौन सी थी?",
+              "answer": "Jahangir",
+              "answerHi": "जहाँगीर",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Whom did Akbar commission to chronicle his father's story in the 'Humayun-nama'?",
+              "questionHi": "अकबर ने 'हुमायूँ-नामा' में अपने पिता की कहानी का वर्णन करने के लिए किसे नियुक्त किया?",
+              "answer": "Gulbadan Begum",
+              "answerHi": "गुलबदन बेगम",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In which fort of Rajasthan are 'chhatris' (cenotaphs) built in honour of Jaimal and Kalla, who died in the 1568 siege by Emperor Akbar?",
+              "questionHi": "राजस्थान के किस किले में जयमल और कल्ला के सम्मान में 'छतरियां' (स्मारक) बनी हैं, जो 1568 में सम्राट अकबर द्वारा की गई घेराबंदी में मारे गए थे?",
+              "answer": "Chittorgarh Fort",
+              "answerHi": "चित्तौड़गढ़ किला",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Whose army did Maharana Pratap fight in the Battle of Haldighati?",
+              "questionHi": "महाराणा प्रताप ने हल्दीघाटी के युद्ध में किसकी सेना से युद्ध किया?",
+              "answer": "Akbar",
+              "answerHi": "अकबर",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who succeeded to the Mughal throne in the year 1556?",
+              "questionHi": "वर्ष 1556 में मुगल सिंहासन पर कौन बैठा?",
+              "answer": "Akbar",
+              "answerHi": "अकबर",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who was Humayun's heir, born in exile and was only 13 years old when his father died?",
+              "questionHi": "हुमायूँ का उत्तराधिकारी कौन था, जो निर्वासन में पैदा हुआ था और जब उसके पिता की मृत्यु हुई तो वह केवल 13 वर्ष का था?",
+              "answer": "Akbar",
+              "answerHi": "अकबर",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which Mughal emperor died in 1605 and was buried at Sikandra, outside of Agra?",
+              "questionHi": "किस मुगल सम्राट की मृत्यु 1605 में हुई और उसे आगरा के बाहर सिकंदरा में दफनाया गया?",
+              "answer": "Akbar",
+              "answerHi": "अकबर",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which ruler constructed the Buland Darwaza, the highest gateway of victory?",
+              "questionHi": "किस शासक ने विजय के उच्चतम प्रवेश द्वार, बुलंद दरवाजा का निर्माण करवाया?",
+              "answer": "Akbar",
+              "answerHi": "अकबर",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In which year did Emperor Akbar build the Buland Darwaza?",
+              "questionHi": "सम्राट अकबर ने बुलंद दरवाजा का निर्माण किस वर्ष करवाया?",
+              "answer": "1601",
+              "answerHi": "1601",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "When was the 'Battle of Tukaroi' fought?",
+              "questionHi": "'तुकारोई का युद्ध' कब लड़ा गया था?",
+              "answer": "1575",
+              "answerHi": "1575",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who wrote 'Ain-i-Akbari' (Akbarnama), the biography of Akbar?",
+              "questionHi": "अकबर की जीवनी 'आइन-ए-अकबरी' (अकबरनामा) किसने लिखी?",
+              "answer": "Abul Fazl",
+              "answerHi": "अबुल फजल",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Chand Bibi, the famous Muslim ruler, belonged to which kingdom?",
+              "questionHi": "प्रसिद्ध मुस्लिम शासिका चाँद बीबी किस राज्य से संबंधित थीं?",
+              "answer": "Ahmednagar",
+              "answerHi": "अहमदनगर",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Tulsidas wrote 'Ramcharitmanas' during whose reign?",
+              "questionHi": "तुलसीदास ने 'रामचरितमानस' किसके शासनकाल में लिखी?",
+              "answer": "Akbar",
+              "answerHi": "अकबर",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The reputed musician duo, Tansen and Baiju Bawra, flourished during whose reign?",
+              "questionHi": "प्रसिद्ध संगीतकार जोड़ी, तानसेन और बैजू बावरा, किसके शासनकाल में फले-फूले?",
+              "answer": "Akbar",
+              "answerHi": "अकबर",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which Mughal Emperor discouraged the practice of 'Sati'?",
+              "questionHi": "किस मुगल सम्राट ने 'सती' प्रथा को हतोत्साहित किया?",
+              "answer": "Akbar",
+              "answerHi": "अकबर",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who started the new religion 'Din-i-Ilahi'?",
+              "questionHi": "नया धर्म 'दीन-ए-इलाही' किसने शुरू किया?",
+              "answer": "Akbar",
+              "answerHi": "अकबर",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who introduced the Mansabdari system?",
+              "questionHi": "मनसबदारी प्रथा की शुरुआत किसने की?",
+              "answer": "Akbar",
+              "answerHi": "अकबर",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who abolished the Jizya tax?",
+              "questionHi": "जजिया कर किसने समाप्त किया?",
+              "answer": "Akbar",
+              "answerHi": "अकबर",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The Second Battle of Panipat was fought between whom?",
+              "questionHi": "पानीपत की दूसरी लड़ाई किसके बीच लड़ी गई थी?",
+              "answer": "Akbar and Hemu",
+              "answerHi": "अकबर और हेमू",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The Battle of Haldighati was fought between whom?",
+              "questionHi": "हल्दीघाटी का युद्ध किसके बीच लड़ा गया था?",
+              "answer": "Akbar and Rana Pratap Singh",
+              "answerHi": "अकबर और राणा प्रताप सिंह",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who was the regent of Akbar in his early days?",
+              "questionHi": "अकबर के शुरुआती दिनों में उसका संरक्षक कौन था?",
+              "answer": "Bairam Khan",
+              "answerHi": "बैरम खान",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who was the only Hindu courtier of Akbar who accepted Din-i-Ilahi?",
+              "questionHi": "अकबर का एकमात्र हिंदू दरबारी कौन था जिसने दीन-ए-इलाही को स्वीकार किया?",
+              "answer": "Birbal",
+              "answerHi": "बीरबल",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "What did Akbar build to commemorate his conquest of Khandesh in Gujarat?",
+              "questionHi": "अकबर ने गुजरात में खानदेश पर अपनी विजय के उपलक्ष्य में क्या बनवाया?",
+              "answer": "Buland Darwaza",
+              "answerHi": "बुलंद दरवाजा",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "What was the second capital of Akbar?",
+              "questionHi": "अकबर की दूसरी राजधानी क्या थी?",
+              "answer": "Fatehpur Sikri",
+              "answerHi": "फतेहपुर सीकरी",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who was a renowned Jain scholar greatly honoured by Akbar?",
+              "questionHi": "एक प्रसिद्ध जैन विद्वान कौन थे जिन्हें अकबर ने बहुत सम्मानित किया था?",
+              "answer": "Harivijaya",
+              "answerHi": "हरिविजय",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Where did Akbar hold his religious discussions?",
+              "questionHi": "अकबर अपनी धार्मिक चर्चाएँ कहाँ करता था?",
+              "answer": "Ibadat Khana",
+              "answerHi": "इबादत खाना",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Whom did Akbar appoint as his Court Musician?",
+              "questionHi": "अकबर ने किसे अपना दरबारी संगीतकार नियुक्त किया?",
+              "answer": "Mian Tansen",
+              "answerHi": "मियां तानसेन",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "What was the original name of Tansen, the most famous musician at the court of Akbar?",
+              "questionHi": "अकबर के दरबार के सबसे प्रसिद्ध संगीतकार तानसेन का मूल नाम क्या था?",
+              "answer": "Ramtanu Pande",
+              "answerHi": "राम तनु पांडे",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "During Akbar's reign, the Mahabharata was translated into Persian and is known by what name?",
+              "questionHi": "अकबर के शासनकाल के दौरान, महाभारत का फारसी में अनुवाद किया गया और इसे किस नाम से जाना जाता है?",
+              "answer": "Razmnama",
+              "answerHi": "रज़्मनामा",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Where is Akbar's tomb located?",
+              "questionHi": "अकबर का मकबरा कहाँ स्थित है?",
+              "answer": "Sikandara",
+              "answerHi": "सिकंदरा",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "What was the age of Akbar at the time of his coronation at Kalanaur?",
+              "questionHi": "कलानौर में राज्याभिषेक के समय अकबर की आयु क्या थी?",
+              "answer": "Thirteen",
+              "answerHi": "तेरह",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who was Akbar's famous revenue minister?",
+              "questionHi": "अकबर का प्रसिद्ध राजस्व मंत्री कौन था?",
+              "answer": "Todarmal",
+              "answerHi": "टोडरमल",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "What was the basic purpose of the formulation of 'Din-i-Ilahi'?",
+              "questionHi": "'दीन-ए-इलाही' के निर्माण का मूल उद्देश्य क्या था?",
+              "answer": "Universal faith",
+              "answerHi": "सार्वभौमिक आस्था",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which writer has called Akbar's Din-i-Ilahi 'a monument of his folly, not of wisdom'?",
+              "questionHi": "किस लेखक ने अकबर के दीन-ए-इलाही को 'उसकी मूर्खता का स्मारक, बुद्धिमानी का नहीं' कहा है?",
+              "answer": "Vincent Smith",
+              "answerHi": "विन्सेंट स्मिथ",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which monument is known as the 'Dream in Stone'?",
+              "questionHi": "किस स्मारक को 'पत्थर में स्वप्न' के रूप में जाना जाता है?",
+              "answer": "Panch Mahal",
+              "answerHi": "पंच महल",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Rana Pratap Singh of Mewar was defeated by the Mughal army in which battle?",
+              "questionHi": "मेवाड़ के राणा प्रताप सिंह किस युद्ध में मुगल सेना से पराजित हुए थे?",
+              "answer": "Haldighati",
+              "answerHi": "हल्दीघाटी",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who translated the Ramayana into Persian?",
+              "questionHi": "रामायण का फारसी में अनुवाद किसने किया?",
+              "answer": "Badauni",
+              "answerHi": "बदायूंनी",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who translated the 'Mahabharata' into Persian?",
+              "questionHi": "'महाभारत' का फारसी में अनुवाद किसने किया?",
+              "answer": "Badauni",
+              "answerHi": "बदायूंनी",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Where is the Buland Darwaza located?",
+              "questionHi": "बुलंद दरवाजा कहाँ स्थित है?",
+              "answer": "Uttar Pradesh",
+              "answerHi": "उत्तर प्रदेश",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The Persian translation of the 'Mahabharata' done in the Mughal period is known by what name?",
+              "questionHi": "मुगल काल में किए गए 'महाभारत' के फारसी अनुवाद को किस नाम से जाना जाता है?",
+              "answer": "Razmnama",
+              "answerHi": "रज़्मनामा",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "What was the northwestern border of the Mughal Empire during the reign of Akbar?",
+              "questionHi": "अकबर के शासनकाल के दौरान मुगल साम्राज्य की उत्तर-पश्चिमी सीमा क्या थी?",
+              "answer": "Hindukush",
+              "answerHi": "हिन्दुकुश",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which state was not included in the empire of Akbar?",
+              "questionHi": "कौन सा राज्य अकबर के साम्राज्य में शामिल नहीं था?",
+              "answer": "Bijapur",
+              "answerHi": "बीजापुर",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "What was the title of the three-volume history of Akbar's reign written by Abul Fazl?",
+              "questionHi": "अबुल फजल द्वारा लिखे गए अकबर के शासनकाल के तीन-खंडों के इतिहास का शीर्षक क्या था?",
+              "answer": "Akbarnama",
+              "answerHi": "अकबरनामा",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The Battle of Haldighati was fought between which two armies?",
+              "questionHi": "हल्दीघाटी का युद्ध किन दो सेनाओं के बीच लड़ा गया था?",
+              "answer": "Akbar and Maharana Pratap",
+              "answerHi": "अकबर और महाराणा प्रताप",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The Second Battle of Panipat was fought between which two armies?",
+              "questionHi": "पानीपत की दूसरी लड़ाई किन दो सेनाओं के बीच लड़ी गई थी?",
+              "answer": "Akbar and Hemu",
+              "answerHi": "अकबर और हेमू",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which Mughal Emperor was illiterate?",
+              "questionHi": "कौन सा मुगल सम्राट अनपढ़ था?",
+              "answer": "Akbar",
+              "answerHi": "अकबर",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who built the Agra Fort?",
+              "questionHi": "आगरा का किला किसने बनवाया?",
+              "answer": "Akbar",
+              "answerHi": "अकबर",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which Mughal ruler started 'Jharokha Darshan'?",
+              "questionHi": "किस मुगल शासक ने 'झरोखा दर्शन' शुरू किया?",
+              "answer": "Akbar",
+              "answerHi": "अकबर",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Faizi lived in the court of which emperor?",
+              "questionHi": "फैजी किस सम्राट के दरबार में रहता था?",
+              "answer": "Akbar",
+              "answerHi": "अकबर",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who abolished the Jizyah Tax?",
+              "questionHi": "जजिया कर किसने समाप्त किया?",
+              "answer": "Akbar",
+              "answerHi": "अकबर",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In which year was the Sisodiya capital of Chittor seized by Akbar?",
+              "questionHi": "अकबर ने चित्तौड़ की सिसौदिया राजधानी पर किस वर्ष कब्जा किया?",
+              "answer": "1568",
+              "answerHi": "1568",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "What was Akbar's age when he became emperor?",
+              "questionHi": "सम्राट बनने के समय अकबर की आयु क्या थी?",
+              "answer": "13",
+              "answerHi": "13",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "How many volumes of the history of Akbar's reign were written by Abul Fazl?",
+              "questionHi": "अबुल फजल ने अकबर के शासनकाल का इतिहास कितने खंडों में लिखा?",
+              "answer": "3",
+              "answerHi": "3",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which of the following pairs is INCORRECT: 1) Abul Fazl - Chief Advisor 2) Faizi - Poet 3) Birbal - Finance Minister?",
+              "questionHi": "निम्नलिखित में से कौन सा जोड़ा गलत है: 1) अबुल फजल - मुख्य सलाहकार 2) फैजी - कवि 3) बीरबल - वित्त मंत्री?",
+              "answer": "Birbal - Finance Minister",
+              "answerHi": "बीरबल - वित्त मंत्री",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who married Mehr-un-Nisa, whom he gave the title of 'Nur Jahan' (light of the world)?",
+              "questionHi": "मेहर-उन-निसा से किसने शादी की, जिसे उसने 'नूर जहाँ' (दुनिया की रोशनी) की उपाधि दी?",
+              "answer": "Jahangir",
+              "answerHi": "जहाँगीर",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Sir Thomas Roe visited the court of which Mughal ruler as the ambassador of King James I of England?",
+              "questionHi": "सर थॉमस रो ने इंग्लैंड के राजा जेम्स प्रथम के राजदूत के रूप में किस मुगल शासक के दरबार का दौरा किया?",
+              "answer": "Jahangir",
+              "answerHi": "जहाँगीर",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The East India Company sent Captain William Hawkins to the court of which Emperor in 1608 to seek permission to open a factory at Surat?",
+              "questionHi": "ईस्ट इंडिया कंपनी ने 1608 में सूरत में एक कारखाना खोलने की अनुमति लेने के लिए कैप्टन विलियम हॉकिन्स को किस सम्राट के दरबार में भेजा?",
+              "answer": "Jahangir",
+              "answerHi": "जहाँगीर",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Noor Jahan was the wife of which Mughal emperor?",
+              "questionHi": "नूरजहाँ किस मुगल सम्राट की पत्नी थी?",
+              "answer": "Jahangir",
+              "answerHi": "जहाँगीर",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In the last years of his reign, Akbar was distracted by the rebellion of Prince Salim, the future emperor who?",
+              "questionHi": "अपने शासन के अंतिम वर्षों में, अकबर राजकुमार सलीम के विद्रोह से विचलित था, जो भविष्य में कौन सा सम्राट बना?",
+              "answer": "Jahangir",
+              "answerHi": "जहाँगीर",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "During whose reign did Mughal painting reach its highest level?",
+              "questionHi": "किसके शासनकाल में मुगल चित्रकला अपने उच्चतम स्तर पर पहुँची?",
+              "answer": "Jahangir",
+              "answerHi": "जहाँगीर",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which Mughal Emperor wrote his autobiography in Persian?",
+              "questionHi": "किस मुगल सम्राट ने अपनी आत्मकथा फारसी में लिखी?",
+              "answer": "Jahangir",
+              "answerHi": "जहाँगीर",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Ustad Mansur was a famous painter in which Mughal ruler's regime?",
+              "questionHi": "उस्ताद मंसूर किस मुगल शासक के शासनकाल के एक प्रसिद्ध चित्रकार थे?",
+              "answer": "Jahangir",
+              "answerHi": "जहाँगीर",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who was the innovator of the Revenue settlement during the rule of Akbar?",
+              "questionHi": "अकबर के शासनकाल के दौरान राजस्व बंदोबस्त का प्रर्वतक कौन था?",
+              "answer": "Raja Todarmal",
+              "answerHi": "राजा टोडरमल",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who was the fourth Mughal emperor, ruling from 1605 until his death in 1627?",
+              "questionHi": "चौथा मुगल सम्राट कौन था, जिसने 1605 से 1627 में अपनी मृत्यु तक शासन किया?",
+              "answer": "Jahangir",
+              "answerHi": "जहाँगीर",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who was the first Englishman to appear in the Mughal Court during Jahangir's reign?",
+              "questionHi": "जहाँगीर के शासनकाल के दौरान मुगल दरबार में आने वाला पहला अंग्रेज कौन था?",
+              "answer": "Captain William Hawkins",
+              "answerHi": "कैप्टन विलियम हॉकिन्स",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "What does the name 'Jahangir' mean?",
+              "questionHi": "'जहाँगीर' नाम का क्या अर्थ है?",
+              "answer": "Conqueror of the world",
+              "answerHi": "विश्व विजेता",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Mughal painting reached its zenith during whose reign?",
+              "questionHi": "मुगल चित्रकला किसके शासनकाल में अपने चरम पर पहुँची?",
+              "answer": "Jahangir",
+              "answerHi": "जहाँगीर",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which Mughal emperor is credited with the composition of Hindi songs?",
+              "questionHi": "किस मुगल सम्राट को हिंदी गीतों की रचना का श्रेय दिया जाता है?",
+              "answer": "Jahangir",
+              "answerHi": "जहाँगीर",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which painter of Jahangir's reign was conferred the title of 'Nadir-ul-Asra'?",
+              "questionHi": "जहाँगीर के शासनकाल के किस चित्रकार को 'नादिर-उल-अस्र' की उपाधि से सम्मानित किया गया?",
+              "answer": "Mansur",
+              "answerHi": "मंसूर",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "What was the original name of Nur Jahan?",
+              "questionHi": "नूरजहाँ का मूल नाम क्या था?",
+              "answer": "Mehr-un-Nissa",
+              "answerHi": "मेहर-उन-निसा",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In which language is Jahangir's autobiography, 'Tuzuk-i-Jahangiri'?",
+              "questionHi": "जहाँगीर की आत्मकथा, 'तुजुक-ए-जहाँगीरी' किस भाषा में है?",
+              "answer": "Persian",
+              "answerHi": "फ़ारसी",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "To whom was Jahangir married?",
+              "questionHi": "जहाँगीर का विवाह किससे हुआ था?",
+              "answer": "Mehrunissa",
+              "answerHi": "मेहरुन्निसा",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Where in Pakistan is the tomb of Mughal Emperor Jahangir?",
+              "questionHi": "पाकिस्तान में मुगल सम्राट जहाँगीर का मकबरा कहाँ है?",
+              "answer": "Lahore",
+              "answerHi": "लाहौर",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who is considered the chief architect of the Taj Mahal?",
+              "questionHi": "ताजमहल का मुख्य वास्तुकार किसे माना जाता है?",
+              "answer": "Ustad Ahmad Lahauri",
+              "answerHi": "उस्ताद अहमद लाहौरी",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In which century was the Taj Mahal built?",
+              "questionHi": "ताजमहल का निर्माण किस शताब्दी में हुआ था?",
+              "answer": "17th Century",
+              "answerHi": "17वीं शताब्दी",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In which century was the Jama Masjid of Delhi built?",
+              "questionHi": "दिल्ली की जामा मस्जिद का निर्माण किस शताब्दी में हुआ था?",
+              "answer": "17th Century",
+              "answerHi": "17वीं शताब्दी",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "What was the name of the eldest son of Shah Jahan?",
+              "questionHi": "शाहजहाँ के सबसे बड़े पुत्र का क्या नाम था?",
+              "answer": "Dara Shukoh",
+              "answerHi": "दारा शिकोह",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The Red Fort and the Jama Masjid in Delhi are towering achievements of architecture during whose reign?",
+              "questionHi": "दिल्ली का लाल किला और जामा मस्जिद किसके शासनकाल के दौरान वास्तुकला की उत्कृष्ट उपलब्धियाँ हैं?",
+              "answer": "Shah Jahan",
+              "answerHi": "शाहजहाँ",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who had built the Taj Mahal for his wife Mumtaz Mahal on the banks of the Yamuna River in Agra?",
+              "questionHi": "आगरा में यमुना नदी के किनारे अपनी पत्नी मुमताज महल के लिए ताजमहल किसने बनवाया था?",
+              "answer": "Shah Jahan",
+              "answerHi": "शाहजहाँ",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who has been called the 'architect king' as during his reign, the world witnessed a unique development of arts and culture of the Mughal Empire?",
+              "questionHi": "किसे 'वास्तुकार राजा' कहा गया है क्योंकि उसके शासनकाल के दौरान, दुनिया ने मुगल साम्राज्य की कला और संस्कृति का एक अनूठा विकास देखा?",
+              "answer": "Shah Jahan",
+              "answerHi": "शाहजहाँ",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who commissioned the Peacock Throne?",
+              "questionHi": "मयूर सिंहासन का निर्माण किसने करवाया?",
+              "answer": "Shah Jahan",
+              "answerHi": "शाहजहाँ",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Prince Khurram grew up to be known as whom?",
+              "questionHi": "राजकुमार खुर्रम बड़े होकर किस नाम से जाने गए?",
+              "answer": "Shah Jahan",
+              "answerHi": "शाहजहाँ",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "With which Mughal ruler is the Moti Masjid in Agra associated?",
+              "questionHi": "आगरा की मोती मस्जिद किस मुगल शासक से संबंधित है?",
+              "answer": "Shah Jahan",
+              "answerHi": "शाहजहाँ",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In whose reign was the office of the 'Vakil' abolished?",
+              "questionHi": "किसके शासनकाल में 'वकील' का पद समाप्त कर दिया गया?",
+              "answer": "Shah Jahan",
+              "answerHi": "शाहजहाँ",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who was the elder brother of Shah Shuja and Murad Baksh?",
+              "questionHi": "शाह शुजा और मुराद बख्श का बड़ा भाई कौन था?",
+              "answer": "Dara Shikoh",
+              "answerHi": "दारा शिकोह",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who got the Gita translated into Persian?",
+              "questionHi": "गीता का फारसी में अनुवाद किसने करवाया?",
+              "answer": "Dara Shikoh",
+              "answerHi": "दारा शिकोह",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which foreign traveller visited India during the reign of Shah Jahan?",
+              "questionHi": "शाहजहाँ के शासनकाल में किस विदेशी यात्री ने भारत का दौरा किया?",
+              "answer": "Manucci",
+              "answerHi": "मनुची",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The famous Peacock Throne of Shah Jahan was taken away in 1739 by which Persian invader?",
+              "questionHi": "शाहजहाँ के प्रसिद्ध मयूर सिंहासन को 1739 में किस फारसी आक्रमणकारी ने छीन लिया था?",
+              "answer": "Nadir Shah",
+              "answerHi": "नादिर शाह",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Panditraj Jagannath was the poet laureate of which Mughal ruler?",
+              "questionHi": "पंडितराज जगन्नाथ किस मुगल शासक के राजकवि थे?",
+              "answer": "Shah Jahan",
+              "answerHi": "शाहजहाँ",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which Mughal Emperor transferred the Mughal Capital from Agra to Delhi?",
+              "questionHi": "किस मुगल सम्राट ने मुगल राजधानी को आगरा से दिल्ली स्थानांतरित किया?",
+              "answer": "Shah Jahan",
+              "answerHi": "शाहजहाँ",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The Upanishads were translated by Dara Shikoh into Persian under which title?",
+              "questionHi": "दारा शिकोह द्वारा उपनिषदों का फारसी में अनुवाद किस शीर्षक के तहत किया गया?",
+              "answer": "Sirr-i-Akbar",
+              "answerHi": "सिर-ए-अकबर",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which Mughal building is said to possess the unique feature of being exactly equal in length and breadth?",
+              "questionHi": "किस मुगल इमारत के बारे में कहा जाता है कि उसकी लंबाई और चौड़ाई बिल्कुल बराबर होने की अनूठी विशेषता है?",
+              "answer": "Taj Mahal",
+              "answerHi": "ताजमहल",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "'Powa Mecca' in Assam is the tomb of whom?",
+              "questionHi": "असम में 'पोवा मक्का' किसका मकबरा है?",
+              "answer": "Pir Giasuddin Auliya",
+              "answerHi": "पीर गियासुद्दीन औलिया",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which monument was built by emperor Aurangzeb's son Azam Shah?",
+              "questionHi": "सम्राट औरंगजेब के बेटे आजम शाह ने कौन सा स्मारक बनवाया था?",
+              "answer": "Bibi Ka Maqbara",
+              "answerHi": "बीबी का मकबरा",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which Mughal emperor adopted the title of 'Alamgir'?",
+              "questionHi": "किस मुगल सम्राट ने 'आलमगीर' की उपाधि धारण की?",
+              "answer": "Aurangzeb",
+              "answerHi": "औरंगजेब",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Under whose reign did the Mughal Empire reach its peak in terms of area?",
+              "questionHi": "किसके शासनकाल में मुगल साम्राज्य क्षेत्रफल की दृष्टि से अपने चरम पर पहुँच गया?",
+              "answer": "Aurangzeb",
+              "answerHi": "औरंगजेब",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "'Fatwa-i-Alamgiri', a digest of Muslim laws, was written during whose period?",
+              "questionHi": "मुस्लिम कानूनों का एक सार 'फतवा-ए-आलमगिरी' किसके काल में लिखा गया था?",
+              "answer": "Aurangzeb",
+              "answerHi": "औरंगजेब",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "At the time of Aurangzeb's death in 1707, how many Subahs (provinces) did the Mughal Empire consist of?",
+              "questionHi": "1707 में औरंगजेब की मृत्यु के समय मुगल साम्राज्य में कितने सूबे थे?",
+              "answer": "21",
+              "answerHi": "21",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Where did Aurangzeb die?",
+              "questionHi": "औरंगजेब की मृत्यु कहाँ हुई?",
+              "answer": "Ahmednagar",
+              "answerHi": "अहमदनगर",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which Mughal ruler banned music and dancing?",
+              "questionHi": "किस मुगल शासक ने संगीत और नृत्य पर प्रतिबंध लगा दिया?",
+              "answer": "Aurangzeb",
+              "answerHi": "औरंगजेब",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who succeeded Aurangzeb?",
+              "questionHi": "औरंगजेब का उत्तराधिकारी कौन था?",
+              "answer": "Mauzzam (Bahadur Shah I)",
+              "answerHi": "मुअज्जम (बहादुर शाह प्रथम)",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In which year was Bahadur Shah I born?",
+              "questionHi": "बहादुर शाह प्रथम का जन्म किस वर्ष हुआ था?",
+              "answer": "1643",
+              "answerHi": "1643",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who was imprisoned for the rest of his life by Aurangzeb?",
+              "questionHi": "औरंगजेब ने किसे जीवन भर के लिए कैद कर लिया था?",
+              "answer": "Shah Jahan",
+              "answerHi": "शाहजहाँ",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Dara Shikoh was killed in conflict with which brother?",
+              "questionHi": "दारा शिकोह किस भाई के साथ संघर्ष में मारा गया?",
+              "answer": "Aurangzeb",
+              "answerHi": "औरंगजेब",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which Mughal emperor issued a 'farman' granting the East India Company the right to trade duty-free?",
+              "questionHi": "किस मुगल सम्राट ने ईस्ट इंडिया कंपनी को शुल्क मुक्त व्यापार का अधिकार देते हुए एक 'फरमान' जारी किया?",
+              "answer": "Aurangzeb",
+              "answerHi": "औरंगजेब",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who was the last of the powerful Mughal rulers?",
+              "questionHi": "शक्तिशाली मुगल शासकों में अंतिम कौन था?",
+              "answer": "Aurangzeb",
+              "answerHi": "औरंगजेब",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who was also known as 'Zinda Pir' (Living Saint)?",
+              "questionHi": "किसे 'जिंदा पीर' (जीवित संत) के नाम से भी जाना जाता था?",
+              "answer": "Aurangzeb",
+              "answerHi": "औरंगजेब",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who built the Moti Masjid in the Red Fort of Delhi?",
+              "questionHi": "दिल्ली के लाल किले में मोती मस्जिद का निर्माण किसने करवाया?",
+              "answer": "Aurangzeb",
+              "answerHi": "औरंगजेब",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "During the reign of which Mughal ruler was the 'Jizya' re-imposed?",
+              "questionHi": "किस मुगल शासक के शासनकाल में 'जजिया' फिर से लगाया गया?",
+              "answer": "Aurangzeb",
+              "answerHi": "औरंगजेब",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "'Bibi Ka Maqbara', the replica of the Taj Mahal, is situated in which city?",
+              "questionHi": "'बीबी का मकबरा', जो ताजमहल की प्रतिकृति है, किस शहर में स्थित है?",
+              "answer": "Aurangabad",
+              "answerHi": "औरंगाबाद",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which Mughal emperor brought about the fall of the Sayyid Brothers?",
+              "questionHi": "किस मुगल सम्राट ने सैय्यद बंधुओं का पतन किया?",
+              "answer": "Muhammad Shah",
+              "answerHi": "मुहम्मद शाह",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The battle of Karnal (1739) was won by Persian King Nadir Shah by defeating the army of which Mughal Emperor?",
+              "questionHi": "करनाल का युद्ध (1739) फारसी राजा नादिर शाह ने किस मुगल सम्राट की सेना को हराकर जीता था?",
+              "answer": "Muhammad Shah",
+              "answerHi": "मुहम्मद शाह",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Mughal presence in the Red Fort ceased with the fall of whom?",
+              "questionHi": "किसके पतन के साथ लाल किले में मुगलों की उपस्थिति समाप्त हो गई?",
+              "answer": "Bahadur Shah 'Zafar'",
+              "answerHi": "बहादुर शाह 'जफर'",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who was the last Mughal emperor?",
+              "questionHi": "अंतिम मुगल सम्राट कौन था?",
+              "answer": "Bahadur Shah II",
+              "answerHi": "बहादुर शाह द्वितीय",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Where did Bahadur Shah Zafar die in November 1862?",
+              "questionHi": "नवंबर 1862 में बहादुर शाह जफर की मृत्यु कहाँ हुई?",
+              "answer": "Rangoon",
+              "answerHi": "रंगून",
+              "explanation": "",
+              "explanationHi": ""
+            }
+          ]
         }
       ]
     }
