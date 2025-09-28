@@ -1,5 +1,5 @@
 {
-  "version": "1.0.9",
+  "version": "1.0.10",
   "content": [
     {
       "name": "Theory",
@@ -2352,6 +2352,958 @@
               "questionHi": "श्रीलंका में सम्राट अशोक के समकालीन शासक कौन थे?",
               "answer": "Tissa",
               "answerHi": "तिस्स",
+              "explanation": "",
+              "explanationHi": ""
+            }
+          ]
+        },
+        {
+          "name": "Ancient History #6 (LATER MAURYAN PERIOD)",
+          "nameHi": "प्राचीन इतिहास #6 (उत्तर मौर्य काल)",
+          "icon": "date",
+          "type": "list",
+          "content": [
+            {
+              "question": "Which dynasty immediately succeeded the Maurya dynasty and ruled the Magadha Kingdom?",
+              "questionHi": "मौर्य वंश के ठीक बाद किस वंश ने मगध साम्राज्य पर शासन किया?",
+              "answer": "Sunga",
+              "answerHi": "शुंग",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who was the pioneer of Yoga and a contemporary of Pushyamitra Sunga?",
+              "questionHi": "योग के प्रणेता और पुष्यमित्र शुंग के समकालीन कौन थे?",
+              "answer": "Patanjali",
+              "answerHi": "पतंजलि",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who was the founder of the Satavahana Empire?",
+              "questionHi": "सातवाहन साम्राज्य का संस्थापक कौन था?",
+              "answer": "Simuka",
+              "answerHi": "सिमुक",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Carving in the famous Ajanta caves first started during the reign of which dynasty?",
+              "questionHi": "प्रसिद्ध अजंता की गुफाओं में नक्काशी का काम सबसे पहले किसके शासनकाल में शुरू हुआ था?",
+              "answer": "The Satavahanas",
+              "answerHi": "सातवाहन",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The rulers of which dynasty started the practice of granting tax-free villages to Brahmanas and Buddhist Monks?",
+              "questionHi": "किस वंश के शासकों ने ब्राह्मणों और बौद्ध भिक्षुओं को कर-मुक्त गाँव देने की प्रथा शुरू की?",
+              "answer": "Satavahanas",
+              "answerHi": "सातवाहन",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In what material did the Satavahanas predominantly mint their coins?",
+              "questionHi": "सातवाहनों ने अपने सिक्के मुख्य रूप से किस धातु में ढाले?",
+              "answer": "Lead",
+              "answerHi": "सीसा",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who was the greatest ruler of the Satavahanas?",
+              "questionHi": "सातवाहनों का सबसे महान शासक कौन था?",
+              "answer": "Gautamiputra Satkarni",
+              "answerHi": "गौतमीपुत्र सातकर्णि",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "With whom is the 'Junagarh Rock Inscription' associated?",
+              "questionHi": "'जूनागढ़ शिलालेख' किससे संबंधित है?",
+              "answer": "Rudradaman",
+              "answerHi": "रुद्रदामन",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "St. Thomas is said to have come to India to propagate Christianity during the reign of whom?",
+              "questionHi": "कहा जाता है कि सेंट थॉमस किसके शासनकाल में ईसाई धर्म का प्रचार करने भारत आए थे?",
+              "answer": "The Parthians (Gondophares)",
+              "answerHi": "पार्थियन (गोंडोफेरेस)",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who was the founder of the Kushan dynasty?",
+              "questionHi": "कुषाण वंश का संस्थापक कौन था?",
+              "answer": "Kujula Kadphises",
+              "answerHi": "कुजुल कडफिसेस",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who was the most famous Kushan ruler?",
+              "questionHi": "सबसे प्रसिद्ध कुषाण शासक कौन था?",
+              "answer": "Kanishka",
+              "answerHi": "कनिष्क",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who founded the Saka era, commencing from A.D. 78?",
+              "questionHi": "78 ई. से प्रारंभ होने वाले शक संवत की स्थापना किसने की?",
+              "answer": "Kanishka",
+              "answerHi": "कनिष्क",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "What was the year of Kanishka's accession to the throne?",
+              "questionHi": "कनिष्क के सिंहासन पर बैठने का वर्ष क्या था?",
+              "answer": "78 AD",
+              "answerHi": "78 ई.",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "'Charak' was the famous court physician of whom?",
+              "questionHi": "'चरक' किसके प्रसिद्ध दरबारी चिकित्सक थे?",
+              "answer": "Kanishka",
+              "answerHi": "कनिष्क",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who is called the 'Second Ashoka'?",
+              "questionHi": "'दूसरा अशोक' किसे कहा जाता है?",
+              "answer": "Kanishka",
+              "answerHi": "कनिष्क",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "During whose reign did the Gandhara School of Art blossom?",
+              "questionHi": "किसके शासनकाल में गांधार कला शैली का विकास हुआ?",
+              "answer": "Kanishka",
+              "answerHi": "कनिष्क",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who opened the great Silk Route to the Indians?",
+              "questionHi": "भारतीयों के लिए महान रेशम मार्ग किसने खोला?",
+              "answer": "Kanishka",
+              "answerHi": "कनिष्क",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which Kushana ruler patronized Buddhism?",
+              "questionHi": "किस कुषाण शासक ने बौद्ध धर्म को संरक्षण दिया?",
+              "answer": "Kanishka",
+              "answerHi": "कनिष्क",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "What was the capital of Kanishka?",
+              "questionHi": "कनिष्क की राजधानी क्या थी?",
+              "answer": "Purushapura",
+              "answerHi": "पुरुषपुर",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who were the contemporaries of Kanishka?",
+              "questionHi": "कनिष्क के समकालीन कौन थे?",
+              "answer": "Nagarjuna, Asvagosha, Vasumitra",
+              "answerHi": "नागार्जुन, अश्वघोष, वसुमित्र",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The Gandhara style of sculpture during the Kushan period is a combination of what?",
+              "questionHi": "कुषाण काल के दौरान मूर्तिकला की गांधार शैली किसका संयोजन है?",
+              "answer": "Indo-Greek style",
+              "answerHi": "इंडो-ग्रीक शैली",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The greatest development in the Kushana period was in which field?",
+              "questionHi": "कुषाण काल में सबसे बड़ा विकास किस क्षेत्र में हुआ?",
+              "answer": "Art",
+              "answerHi": "कला",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which museum houses the largest collection of Kushan sculptures?",
+              "questionHi": "किस संग्रहालय में कुषाण मूर्तियों का सबसे बड़ा संग्रह है?",
+              "answer": "Mathura Museum",
+              "answerHi": "मथुरा संग्रहालय",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who were the first to issue gold coins in India?",
+              "questionHi": "भारत में सोने के सिक्के जारी करने वाले पहले कौन थे?",
+              "answer": "Kushans",
+              "answerHi": "कुषाण",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who was the founder of the Vakataka dynasty in the third century?",
+              "questionHi": "तीसरी शताब्दी में वाकाटक वंश का संस्थापक कौन था?",
+              "answer": "Vindhyashakti",
+              "answerHi": "विंध्यशक्ति",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In which year was the Shaka Era founded?",
+              "questionHi": "शक संवत की स्थापना किस वर्ष हुई थी?",
+              "answer": "78 A.D.",
+              "answerHi": "78 ई.",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The Amaravati School of art developed under the patronage of the Satavahanas of which region?",
+              "questionHi": "अमरावती कला शैली का विकास किस क्षेत्र के सातवाहनों के संरक्षण में हुआ?",
+              "answer": "Andhra",
+              "answerHi": "आंध्र",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "For which ruler has the term 'Ekabrahmana' been used?",
+              "questionHi": "किस शासक के लिए 'एकब्राह्मण' शब्द का प्रयोग किया गया है?",
+              "answer": "Gautamiputra Shatkarni",
+              "answerHi": "गौतमीपुत्र शातकर्णी",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who was the first ruler of the Pala Dynasty?",
+              "questionHi": "पाल वंश का प्रथम शासक कौन था?",
+              "answer": "Gopala",
+              "answerHi": "गोपाल",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "During the reign of Kanishka, which place was the venue of the fourth Buddhist Council?",
+              "questionHi": "कनिष्क के शासनकाल में, कौन सा स्थान चतुर्थ बौद्ध संगीति का आयोजन स्थल था?",
+              "answer": "Kashmir",
+              "answerHi": "कश्मीर",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Kanishka was a king of which dynasty?",
+              "questionHi": "कनिष्क किस वंश का राजा था?",
+              "answer": "Kushan",
+              "answerHi": "कुषाण",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which rulers were closely associated with the Yuezhi nomadic people?",
+              "questionHi": "कौन से शासक युएझी खानाबदोश लोगों से निकटता से जुड़े थे?",
+              "answer": "Kushan",
+              "answerHi": "कुषाण",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which dynasty developed the Gandhara School of Art in ancient India?",
+              "questionHi": "प्राचीन भारत में गांधार कला शैली का विकास किस वंश ने किया था?",
+              "answer": "Kushana dynasty",
+              "answerHi": "कुषाण वंश",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who is known as the father of Surgery?",
+              "questionHi": "शल्य चिकित्सा का जनक किसे कहा जाता है?",
+              "answer": "Sushruta",
+              "answerHi": "सुश्रुत",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "What is the ancient Sanskrit text on medicine and surgery?",
+              "questionHi": "चिकित्सा और शल्य चिकित्सा पर प्राचीन संस्कृत ग्रंथ कौन सा है?",
+              "answer": "Sushruta Samhita",
+              "answerHi": "सुश्रुत संहिता",
+              "explanation": "",
+              "explanationHi": ""
+            }
+          ]
+        },
+        {
+          "name": "Ancient History #7 (SANGAM PERIOD)",
+          "nameHi": "प्राचीन इतिहास #7 (संगम काल)",
+          "icon": "date",
+          "type": "list",
+          "content": [
+            {
+              "question": "The Sangam Age is associated with the history of which state?",
+              "questionHi": "संगम युग किस राज्य के इतिहास से जुड़ा है?",
+              "answer": "Tamil Nadu",
+              "answerHi": "तमिलनाडु",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "From which modern state did the Alwar saints originate?",
+              "questionHi": "आलवार संतों की उत्पत्ति किस आधुनिक राज्य से हुई?",
+              "answer": "Tamil Nadu",
+              "answerHi": "तमिलनाडु",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "What was the center of Roman trade during the Sangam Age?",
+              "questionHi": "संगम युग के दौरान रोमन व्यापार का केंद्र क्या था?",
+              "answer": "Musiri",
+              "answerHi": "मुसिरी",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "What was the capital of the ancient Chola kingdom?",
+              "questionHi": "प्राचीन चोल साम्राज्य की राजधानी क्या थी?",
+              "answer": "Uraiyur",
+              "answerHi": "उरैयूर",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Over which region did the Chola kings rule?",
+              "questionHi": "चोल राजाओं ने किस क्षेत्र पर शासन किया?",
+              "answer": "Tamil Nadu",
+              "answerHi": "तमिलनाडु",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which dynasty conquered Sri Lanka and South-East Asian countries?",
+              "questionHi": "किस राजवंश ने श्रीलंका और दक्षिण-पूर्व एशियाई देशों पर विजय प्राप्त की?",
+              "answer": "The Cholas",
+              "answerHi": "चोल",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "What was the capital of the Chola Kings?",
+              "questionHi": "चोल राजाओं की राजधानी क्या थी?",
+              "answer": "Tanjore",
+              "answerHi": "तंजौर",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Where is the Brihadeshwar temple, built during the Chola period, located?",
+              "questionHi": "चोल काल में बना बृहदेश्वर मंदिर कहाँ स्थित है?",
+              "answer": "Thanjavur / Tanjore",
+              "answerHi": "तंजावुर / तंजौर",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who built the Brihadeshwara Temple?",
+              "questionHi": "बृहदेश्वर मंदिर का निर्माण किसने करवाया था?",
+              "answer": "Raja Raja Chola",
+              "answerHi": "राजा राज चोल",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "To whom were most of the Chola temples dedicated?",
+              "questionHi": "अधिकांश चोल मंदिर किसे समर्पित थे?",
+              "answer": "Shiva",
+              "answerHi": "शिव",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which Chola king brought the Ganga from North to South?",
+              "questionHi": "कौन सा चोल राजा गंगा को उत्तर से दक्षिण तक लाया?",
+              "answer": "Rajendra Chola",
+              "answerHi": "राजेंद्र चोल",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Prince Ellara, who conquered Sri Lanka in the second century BC, was associated with which Dravida dynasty?",
+              "questionHi": "दूसरी शताब्दी ईसा पूर्व में श्रीलंका पर विजय प्राप्त करने वाले राजकुमार एलारा, किस द्रविड़ राजवंश से संबंधित थे?",
+              "answer": "Chola",
+              "answerHi": "चोल",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which Chola King first conquered Ceylon (Singhal)?",
+              "questionHi": "किस चोल राजा ने सबसे पहले सीलोन (सिंहल) पर विजय प्राप्त की?",
+              "answer": "Rajaraja I",
+              "answerHi": "राजराजा प्रथम",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who was the first Indian ruler to establish the supremacy of the Indian Navy in the Arabian Sea?",
+              "questionHi": "अरब सागर में भारतीय नौसेना की सर्वोच्चता स्थापित करने वाला पहला भारतीय शासक कौन था?",
+              "answer": "Rajaraja I",
+              "answerHi": "राजराजा प्रथम",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which Chola king founded the city of Puhar?",
+              "questionHi": "किस चोल राजा ने पुहार शहर की स्थापना की?",
+              "answer": "Karikala",
+              "answerHi": "करिकाल",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The Uttaramerur inscription provides information on the administration of which dynasty?",
+              "questionHi": "उत्तरमेरुर शिलालेख किस वंश के प्रशासन की जानकारी प्रदान करता है?",
+              "answer": "The Cholas",
+              "answerHi": "चोल",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In which document were the land measures of the Second Pandyan Empire mentioned?",
+              "questionHi": "द्वितीय पांड्य साम्राज्य के भूमि मापों का उल्लेख किस दस्तावेज़ में किया गया था?",
+              "answer": "Thalavaipuram Copper Plates",
+              "answerHi": "थलवाईपुरम ताम्रपत्र",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who were the patrons of Sangam Literature?",
+              "questionHi": "संगम साहित्य के संरक्षक कौन थे?",
+              "answer": "Pandyas",
+              "answerHi": "पांड्य",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Under the Imperial Cholas, what did the term 'shalabhoga' stand for in revenue administration?",
+              "questionHi": "शाही चोलों के अधीन, राजस्व प्रशासन में 'शालाभोग' शब्द का क्या अर्थ था?",
+              "answer": "Land donated for the maintenance of a school",
+              "answerHi": "एक स्कूल के रखरखाव के लिए दान की गई भूमि",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In which century did the Chola Empire of the South emerge?",
+              "questionHi": "दक्षिण का चोल साम्राज्य किस शताब्दी में उभरा?",
+              "answer": "9th century AD",
+              "answerHi": "9वीं शताब्दी ई.",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "According to Chola inscriptions, what was 'Brahmadeya'?",
+              "questionHi": "चोल शिलालेखों के अनुसार, 'ब्रह्मदेय' क्या था?",
+              "answer": "Land gifted to Brahmanas",
+              "answerHi": "ब्राह्मणों को उपहार में दी गई भूमि",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which king gave titles like 'Muvendavelan' and 'Araiyar' to rich landowners as a mark of respect?",
+              "questionHi": "किस राजा ने सम्मान के प्रतीक के रूप में अमीर भूस्वामियों को 'मुवेंदवेलन' और 'अरइयर' जैसी उपाधियाँ दीं?",
+              "answer": "Chola King",
+              "answerHi": "चोल राजा",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The temple for Goddess Nishumbhasudini was built by whom?",
+              "questionHi": "देवी निशुंभसुदिनी का मंदिर किसके द्वारा बनवाया गया था?",
+              "answer": "The Cholas",
+              "answerHi": "चोलों द्वारा",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The bronze sculpture of Nataraja was cast during the period of which dynasty?",
+              "questionHi": "नटराज की कांस्य मूर्ति किस वंश के काल में ढाली गई थी?",
+              "answer": "The Cholas",
+              "answerHi": "चोल",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "According to Chola inscriptions, what was 'Devadana'?",
+              "questionHi": "चोल शिलालेखों के अनुसार, 'देवदान' क्या था?",
+              "answer": "Land gifted to temples",
+              "answerHi": "मंदिरों को उपहार में दी गई भूमि",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "What is the typical style of temple architecture developed by the Cholas in South India called?",
+              "questionHi": "दक्षिण भारत में चोलों द्वारा विकसित मंदिर वास्तुकला की विशिष्ट शैली को क्या कहा जाता है?",
+              "answer": "Dravida style",
+              "answerHi": "द्रविड़ शैली",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The Chola state had to face an attack from which Rashtrakuta ruler?",
+              "questionHi": "चोल राज्य को किस राष्ट्रकूट शासक के आक्रमण का सामना करना पड़ा?",
+              "answer": "Krishna III",
+              "answerHi": "कृष्ण तृतीय",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who invaded the Chola Empire in the early 14th century A.D.?",
+              "questionHi": "14वीं शताब्दी ईस्वी की शुरुआत में चोल साम्राज्य पर किसने आक्रमण किया?",
+              "answer": "Malik Kafur",
+              "answerHi": "मलिक काफूर",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The Brihadeswara temple at Tanjore belongs to which religious sect?",
+              "questionHi": "तंजौर का बृहदेश्वर मंदिर किस धार्मिक संप्रदाय से संबंधित है?",
+              "answer": "Nayanars",
+              "answerHi": "नयनार",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which ruler was not related to the Sangam-era Chera state?",
+              "questionHi": "कौन सा शासक संगम-युग के चेर राज्य से संबंधित नहीं था?",
+              "answer": "Nedeon",
+              "answerHi": "नेदियन",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "According to Chola inscriptions, what was 'Pallichchhandam'?",
+              "questionHi": "चोल शिलालेखों के अनुसार, 'पल्लीच्छंदम' क्या था?",
+              "answer": "Land donated to Jaina institutions",
+              "answerHi": "जैन संस्थानों को दान की गई भूमि",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who was the first important ruler to emerge from the Chola Dynasty?",
+              "questionHi": "चोल वंश से उभरने वाला पहला महत्वपूर्ण शासक कौन था?",
+              "answer": "Rajaraja Chola",
+              "answerHi": "राजराजा चोल",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Rajendra I was the son of whom?",
+              "questionHi": "राजेंद्र प्रथम किसका पुत्र था?",
+              "answer": "Rajaraja I",
+              "answerHi": "राजराजा प्रथम",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who assumed the title of 'Gangaikondachola' (conqueror of the river Ganga)?",
+              "questionHi": "'गंगईकोंडचोल' (गंगा नदी का विजेता) की उपाधि किसने धारण की?",
+              "answer": "Rajendra Chola I",
+              "answerHi": "राजेंद्र चोल प्रथम",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who was the first king of the Chola dynasty to conquer Sri Lanka?",
+              "questionHi": "श्रीलंका को जीतने वाला चोल वंश का पहला राजा कौन था?",
+              "answer": "Rajendra I",
+              "answerHi": "राजेंद्र प्रथम",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "According to Chola inscriptions, what was 'Shalabhoga'?",
+              "questionHi": "चोल शिलालेखों के अनुसार, 'शालाभोग' क्या था?",
+              "answer": "Land for the maintenance of schools",
+              "answerHi": "विद्यालयों के रखरखाव के लिए भूमि",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The Chola kingdom mostly ruled which region of India?",
+              "questionHi": "चोल साम्राज्य ने अधिकतर भारत के किस क्षेत्र पर शासन किया?",
+              "answer": "South",
+              "answerHi": "दक्षिण",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "According to Chola inscriptions, what was 'Vellanvagai'?",
+              "questionHi": "चोल शिलालेखों के अनुसार, 'वेल्लनवगाई' क्या था?",
+              "answer": "Land of non-Brahmana peasant proprietors",
+              "answerHi": "गैर-ब्राह्मण किसान स्वामियों की भूमि",
+              "explanation": "",
+              "explanationHi": ""
+            }
+          ]
+        },
+        {
+          "name": "Ancient History #8 (GUPTA EMPIRE)",
+          "nameHi": "प्राचीन इतिहास #8 (गुप्त साम्राज्य)",
+          "icon": "date",
+          "type": "list",
+          "content": [
+            {
+              "question": "Who is considered the founder of the Gupta Empire?",
+              "questionHi": "गुप्त साम्राज्य का संस्थापक किसे माना जाता है?",
+              "answer": "Srigupta",
+              "answerHi": "श्रीगुप्त",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "What was the official court language of the Guptas?",
+              "questionHi": "गुप्तों की राजभाषा क्या थी?",
+              "answer": "Sanskrit",
+              "answerHi": "संस्कृत",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which coin was issued in silver during the Gupta period?",
+              "questionHi": "गुप्त काल में चाँदी का कौन-सा सिक्का जारी किया गया था?",
+              "answer": "Rupyaka",
+              "answerHi": "रूप्यक",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The coins of which dynasty reveal their love for music?",
+              "questionHi": "किस वंश के सिक्के उनके संगीत प्रेम को दर्शाते हैं?",
+              "answer": "Guptas",
+              "answerHi": "गुप्त",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In the Gupta period, the largest number of coins were issued in which metal?",
+              "questionHi": "गुप्त काल में सर्वाधिक संख्या में सिक्के किस धातु में जारी किये गये?",
+              "answer": "Gold",
+              "answerHi": "सोना",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The Ajanta paintings belong to which period?",
+              "questionHi": "अजंता की चित्रकला किस काल की है?",
+              "answer": "Gupta period",
+              "answerHi": "गुप्त काल",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The Ajanta Caves were built during which period?",
+              "questionHi": "अजंता की गुफाओं का निर्माण किस काल में हुआ था?",
+              "answer": "Gupta",
+              "answerHi": "गुप्त",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "For what was the Gupta Dynasty famous?",
+              "questionHi": "गुप्त वंश किस लिए प्रसिद्ध था?",
+              "answer": "Art and architecture",
+              "answerHi": "कला और वास्तुकला",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who was called 'Lichchhavi Dauhitra'?",
+              "questionHi": "'लिच्छवि दौहित्र' किसे कहा जाता था?",
+              "answer": "Chandragupta I",
+              "answerHi": "चंद्रगुप्त प्रथम",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who founded the Gupta Era (Saka)?",
+              "questionHi": "गुप्त संवत की स्थापना किसने की?",
+              "answer": "Chandra Gupta I",
+              "answerHi": "चंद्रगुप्त प्रथम",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who was called 'India's Napoleon' because of his victories?",
+              "questionHi": "अपनी विजयों के कारण 'भारत का नेपोलियन' किसे कहा जाता था?",
+              "answer": "Samudragupta",
+              "answerHi": "समुद्रगुप्त",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Whose achievements are recorded in the Allahabad Pillar inscription?",
+              "questionHi": "इलाहाबाद स्तंभ शिलालेख में किसकी उपलब्धियों का वर्णन है?",
+              "answer": "Samudra Gupta",
+              "answerHi": "समुद्रगुप्त",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who composed the Allahabad Pillar inscription?",
+              "questionHi": "इलाहाबाद स्तंभ शिलालेख की रचना किसने की?",
+              "answer": "Harisena",
+              "answerHi": "हरिषेण",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The illustrious names of Aryabhatta, Kalidasa, Dhanvantari, and Varahamihir were in the court of which Gupta Emperor?",
+              "questionHi": "आर्यभट्ट, कालिदास, धन्वंतरि और वराहमिहिर जैसे यशस्वी नाम किस गुप्त सम्राट के दरबार में थे?",
+              "answer": "Chandra Gupta II",
+              "answerHi": "चंद्रगुप्त द्वितीय",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which Gupta king assumed the title of 'Vikramaditya'?",
+              "questionHi": "किस गुप्त राजा ने 'विक्रमादित्य' की उपाधि धारण की?",
+              "answer": "Chandragupta II",
+              "answerHi": "चंद्रगुप्त द्वितीय",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "During which Gupta King's reign did the Chinese traveller Fa-Hien visit India?",
+              "questionHi": "किस गुप्त राजा के शासनकाल में चीनी यात्री फाह्यान भारत आया था?",
+              "answer": "Chandra Gupta II",
+              "answerHi": "चंद्रगुप्त द्वितीय",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The 'Pancha Siddhantam' of Varahamihira deals with what subject?",
+              "questionHi": "वराहमिहिर का 'पंच सिद्धान्तम्' किस विषय से संबंधित है?",
+              "answer": "Astronomy",
+              "answerHi": "खगोल विज्ञान",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who was a great astronomer and mathematician (who invented zero) during the Gupta period?",
+              "questionHi": "गुप्त काल के दौरान एक महान खगोलशास्त्री और गणितज्ञ (जिन्होंने शून्य का आविष्कार किया) कौन थे?",
+              "answer": "Aryabhatta",
+              "answerHi": "आर्यभट्ट",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who is hailed as the 'God of Medicine' by practitioners of Ayurveda?",
+              "questionHi": "आयुर्वेद के चिकित्सकों द्वारा किसे 'चिकित्सा का देवता' कहा जाता है?",
+              "answer": "Dhanwantari",
+              "answerHi": "धन्वंतरि",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which of these literary works belongs to classical Sanskrit literature?",
+              "questionHi": "इनमें से कौन सी साहित्यिक कृति शास्त्रीय संस्कृत साहित्य से संबंधित है?",
+              "answer": "Meghadutam",
+              "answerHi": "मेघदूतम्",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which Gupta king stopped the Huns from invading India?",
+              "questionHi": "किस गुप्त राजा ने हूणों को भारत पर आक्रमण करने से रोका?",
+              "answer": "Skandagupta",
+              "answerHi": "स्कंदगुप्त",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which was the oldest university?",
+              "questionHi": "सबसे पुराना विश्वविद्यालय कौन सा था?",
+              "answer": "Nalanda",
+              "answerHi": "नालंदा",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which university became famous in the post-Gupta era?",
+              "questionHi": "गुप्तोत्तर काल में कौन सा विश्वविद्यालय प्रसिद्ध हुआ?",
+              "answer": "Nalanda",
+              "answerHi": "नालंदा",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "In which state was Nalanda University located?",
+              "questionHi": "नालंदा विश्वविद्यालय किस राज्य में स्थित था?",
+              "answer": "Bihar",
+              "answerHi": "बिहार",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who compiled the tales of 'The Panchatantra'?",
+              "questionHi": "'पंचतंत्र' की कहानियों का संकलन किसने किया?",
+              "answer": "Vishnu Sharma",
+              "answerHi": "विष्णु शर्मा",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who among the following was a Gupta ruler?",
+              "questionHi": "निम्नलिखित में से कौन एक गुप्त शासक था?",
+              "answer": "Vikramaditya",
+              "answerHi": "विक्रमादित्य",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which books were written by the great Indian poet and dramatist Mahakavi Kalidas?",
+              "questionHi": "महान भारतीय कवि और नाटककार महाकवि कालिदास द्वारा कौन सी पुस्तकें लिखी गई थीं?",
+              "answer": "Abhijñānaśākuntalam, Raghuvamsa, Meghadūta, Vikramõrvaśīyam, Kumārasambhava",
+              "answerHi": "अभिज्ञानशाकुन्तलम्, रघुवंश, मेघदूत, विक्रमोर्वशीयम्, कुमारसंभव",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Where can the best specimens of Gupta paintings be seen?",
+              "questionHi": "गुप्त चित्रकला के सर्वोत्तम नमूने कहाँ देखे जा सकते हैं?",
+              "answer": "Ajanta",
+              "answerHi": "अजंता",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which ancient Indian treatise on statecraft, economic policy, and military strategy was written in Sanskrit by Kautilya?",
+              "questionHi": "कौटिल्य द्वारा संस्कृत में लिखा गया शासन कला, आर्थिक नीति और सैन्य रणनीति पर प्राचीन भारतीय ग्रंथ कौन सा है?",
+              "answer": "Arthashastra",
+              "answerHi": "अर्थशास्त्र",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who first calculated the value of 'pi' (π)?",
+              "questionHi": "सबसे पहले 'पाई' (π) का मान किसने ज्ञात किया?",
+              "answer": "Aryabhatt",
+              "answerHi": "आर्यभट्ट",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which book was written by Varahamihira?",
+              "questionHi": "वराहमिहिर द्वारा कौन सी पुस्तक लिखी गई है?",
+              "answer": "Brihat Samhita",
+              "answerHi": "बृहत् संहिता",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who was the first ruler of the Gupta dynasty to adopt the grand title of 'Maharaj-adhiraja'?",
+              "questionHi": "गुप्त वंश का पहला शासक कौन था जिसने 'महाराजाधिराज' की भव्य उपाधि धारण की?",
+              "answer": "Chandragupta I",
+              "answerHi": "चंद्रगुप्त प्रथम",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Kautilya was the Prime Minister of which emperor?",
+              "questionHi": "कौटिल्य किस सम्राट के प्रधानमंत्री थे?",
+              "answer": "Chandragupta Maurya",
+              "answerHi": "चंद्रगुप्त मौर्य",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Where is the famous rust-resistant iron pillar located?",
+              "questionHi": "प्रसिद्ध जंग प्रतिरोधी लौह स्तंभ कहाँ स्थित है?",
+              "answer": "Delhi",
+              "answerHi": "दिल्ली",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "What were gold coins called during the Gupta Period?",
+              "questionHi": "गुप्त काल में सोने के सिक्कों को क्या कहा जाता था?",
+              "answer": "Dinaras",
+              "answerHi": "दीनार",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The reign of which dynasty has been described as the golden age of Indian civilization?",
+              "questionHi": "किस राजवंश के शासनकाल को भारतीय सभ्यता का स्वर्ण युग कहा गया है?",
+              "answer": "Gupta",
+              "answerHi": "गुप्त",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who was the court poet of Samudragupta?",
+              "questionHi": "समुद्रगुप्त का दरबारी कवि कौन था?",
+              "answer": "Harishen",
+              "answerHi": "हरिषेण",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who is the author of the famous book 'Meghdoot'?",
+              "questionHi": "प्रसिद्ध पुस्तक 'मेघदूत' के लेखक कौन हैं?",
+              "answer": "Kalidas",
+              "answerHi": "कालिदास",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who was a professor of political science and economics at the University of Taxila?",
+              "questionHi": "तक्षशिला विश्वविद्यालय में राजनीति विज्ञान और अर्थशास्त्र के प्रोफेसर कौन थे?",
+              "answer": "Kautilya",
+              "answerHi": "कौटिल्य",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who started the construction of Nalanda University (Mahavihara)?",
+              "questionHi": "नालंदा विश्वविद्यालय (महाविहार) का निर्माण किसने शुरू करवाया?",
+              "answer": "Kumaragupta",
+              "answerHi": "कुमारगुप्त",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who succeeded Chandragupta I?",
+              "questionHi": "चन्द्रगुप्त प्रथम का उत्तराधिकारी कौन था?",
+              "answer": "Samudragupta",
+              "answerHi": "समुद्रगुप्त",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who was the last ruler of the Gupta Dynasty?",
+              "questionHi": "गुप्त वंश का अंतिम शासक कौन था?",
+              "answer": "Skanda Gupta",
+              "answerHi": "स्कंदगुप्त",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who was NOT a part of the 'Navratna' at Vikramaditya's court?",
+              "questionHi": "विक्रमादित्य के दरबार में 'नवरत्न' का हिस्सा कौन नहीं था?",
+              "answer": "Surdas",
+              "answerHi": "सूरदास",
               "explanation": "",
               "explanationHi": ""
             }
