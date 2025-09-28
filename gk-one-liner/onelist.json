@@ -1,5 +1,5 @@
 {
-  "version": "1.0.13",
+  "version": "1.0.14",
   "content": [
     {
       "name": "Theory",
@@ -6116,7 +6116,407 @@
               "explanationHi": ""
             }
           ]
-        }
+        },
+        {
+          "name": "Medieval History #4 (Powerful Kingdoms: Rajputs)",
+          "nameHi": "मध्यकालीन इतिहास #4 (शक्तिशाली राज्य: राजपूत)",
+          "icon": "date",
+          "type": "list",
+          "content": [
+            {
+              "question": "Which monument is pink in colour?",
+              "questionHi": "कौन सा स्मारक गुलाबी रंग का है?",
+              "answer": "Hawa Mahal",
+              "answerHi": "हवा महल",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who built the Hawa Mahal in Jaipur in the year 1799?",
+              "questionHi": "1799 में जयपुर में स्थित हवा महल का निर्माण किसने करवाया?",
+              "answer": "Sawai Pratap Singh",
+              "answerHi": "सवाई प्रताप सिंह",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Known as Ayesha to friends and family, this princess married Sawai Man Singh II Bahadur and was known to the world as whom?",
+              "questionHi": "दोस्तों और परिवार में आयशा के नाम से जानी जाने वाली इस राजकुमारी ने सवाई मान सिंह द्वितीय बहादुर से शादी की और दुनिया में किस नाम से जानी गई?",
+              "answer": "Maharani Gayatri Devi",
+              "answerHi": "महारानी गायत्री देवी",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who built the Sheesh Mahal in Patiala?",
+              "questionHi": "पटियाला में शीश महल किसने बनवाया?",
+              "answer": "Maharaja Narinder Singh",
+              "answerHi": "महाराजा नरिंदर सिंह",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who built the Khajuraho temples?",
+              "questionHi": "खजुराहो के मंदिरों का निर्माण किसने करवाया?",
+              "answer": "Chandela Rajputs",
+              "answerHi": "चंदेल राजपूत",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which Tomar ruler is credited with founding the city of Delhi?",
+              "questionHi": "दिल्ली शहर की स्थापना का श्रेय किस तोमर शासक को दिया जाता है?",
+              "answer": "Anangpal",
+              "answerHi": "अनंगपाल",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "What was Ranthambhor?",
+              "questionHi": "रणथंभौर क्या था?",
+              "answer": "A Rajput fort",
+              "answerHi": "एक राजपूत किला",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "At which locations did Maharaja Sawai Jai Singh of Jaipur build observatories (Jantar Mantar)?",
+              "questionHi": "जयपुर के महाराजा सवाई जय सिंह ने किन स्थानों पर वेधशालाओं (जंतर मंतर) का निर्माण करवाया?",
+              "answer": "Delhi, Jaipur, Benares, Ujjain, and Mathura",
+              "answerHi": "दिल्ली, जयपुर, बनारस, उज्जैन और मथुरा",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who wrote 'Prithviraj Raso'?",
+              "questionHi": "'पृथ्वीराज रासो' किसने लिखा?",
+              "answer": "Chand Bardai",
+              "answerHi": "चंद बरदाई",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The famous city of Bhopal was founded by which Rajput ruler?",
+              "questionHi": "प्रसिद्ध भोपाल शहर की स्थापना किस राजपूत शासक ने की थी?",
+              "answer": "Raja Bhoja",
+              "answerHi": "राजा भोज",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which Rajput ruler drew up a set of tables called 'Zij Muhammadshahi' to enable people to make astronomical observations?",
+              "questionHi": "किस राजपूत शासक ने लोगों को खगोलीय अवलोकन करने में सक्षम बनाने के लिए 'जीज मुहम्मदशाही' नामक सारणियों का एक सेट तैयार किया?",
+              "answer": "Raja Sawai Jai Singh",
+              "answerHi": "राजा सवाई जय सिंह",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who built the 'Kirti Stambha' (Tower of Victory) at Chittor?",
+              "questionHi": "चित्तौड़ में 'कीर्ति स्तंभ' (विजय स्तंभ) का निर्माण किसने करवाया था?",
+              "answer": "Rana Kumbha",
+              "answerHi": "राणा कुंभा",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who founded the city of Dhillika (Delhi)?",
+              "questionHi": "ढिल्लिका (दिल्ली) शहर की स्थापना किसने की?",
+              "answer": "The Tomars",
+              "answerHi": "तोमरों ने",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Who built the 'Amer Fort'?",
+              "questionHi": "'आमेर का किला' किसने बनवाया?",
+              "answer": "Raja Man Singh",
+              "answerHi": "राजा मान सिंह",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "What were the two major cities under the control of the Chahamanas?",
+              "questionHi": "चाहमानों के नियंत्रण में दो प्रमुख शहर कौन से थे?",
+              "answer": "Delhi and Ajmer",
+              "answerHi": "दिल्ली और अजमेर",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Which city first became the capital of a kingdom under the Tomara Rajputs?",
+              "questionHi": "कौन सा शहर सबसे पहले तोमर राजपूतों के अधीन एक राज्य की राजधानी बना?",
+              "answer": "Delhi",
+              "answerHi": "दिल्ली",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "Prithviraja III (1168-1192) was a best-known ruler of which dynasty?",
+              "questionHi": "पृथ्वीराज तृतीय (1168-1192) किस वंश का सबसे प्रसिद्ध शासक था?",
+              "answer": "Chahamana",
+              "answerHi": "चाहमान",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "What is Jantar Mantar?",
+              "questionHi": "जंतर मंतर क्या है?",
+              "answer": "An astronomical observatory",
+              "answerHi": "एक खगोलीय वेधशाला",
+              "explanation": "",
+              "explanationHi": ""
+            },
+            {
+              "question": "The Tomara Rajputs were defeated in the middle of the twelfth century by the Chauhans of which city?",
+              "questionHi": "तोमर राजपूतों को बारहवीं शताब्दी के मध्य में किस शहर के चौहानों ने हराया था?",
+              "answer": "Ajmer",
+              "answerHi": "अजमेर",
+              "explanation": "",
+              "explanationHi": ""
+            }
+          ]
+        },
+        {
+  "name": "Medieval History #5 (Powerful Kingdoms: Sikhs)",
+  "nameHi": "मध्यकालीन इतिहास #5 (शक्तिशाली राज्य: सिख)",
+  "icon": "date",
+  "type": "list",
+  "content": [
+    {
+      "question": "Guru Gobind Singh was which Sikh Guru in sequence?",
+      "questionHi": "गुरु गोबिंद सिंह क्रम में कौन से सिख गुरु थे?",
+      "answer": "Tenth",
+      "answerHi": "दसवें",
+      "explanation": "",
+      "explanationHi": ""
+    },
+    {
+      "question": "Which Guru is known as the cobbler saint?",
+      "questionHi": "किस गुरु को मोची संत के रूप में जाना जाता है?",
+      "answer": "Ravidas",
+      "answerHi": "रविदास",
+      "explanation": "",
+      "explanationHi": ""
+    },
+    {
+      "question": "Who is well-known for the golden beautification of the Harmandir Sahib Gurdwara in Amritsar (the Golden Temple)?",
+      "questionHi": "अमृतसर में हरमंदिर साहिब गुरुद्वारे (स्वर्ण मंदिर) के सुनहरे सौंदर्यीकरण के लिए कौन प्रसिद्ध है?",
+      "answer": "Ranjit Singh",
+      "answerHi": "रणजीत सिंह",
+      "explanation": "",
+      "explanationHi": ""
+    },
+    {
+      "question": "Which five items did Guru Gobind Singh command Sikhs to wear at all times?",
+      "questionHi": "गुरु गोबिंद सिंह ने सिखों को हर समय कौन सी पांच चीजें पहनने का आदेश दिया?",
+      "answer": "Kara, Kachera, Kirpan, Kesh, and Kanga",
+      "answerHi": "कड़ा, कचेरा, कृपाण, केश और कंघा",
+      "explanation": "",
+      "explanationHi": ""
+    },
+    {
+      "question": "Who was the fifth of the ten Sikh gurus?",
+      "questionHi": "दस सिख गुरुओं में से पांचवें कौन थे?",
+      "answer": "Guru Arjan Dev",
+      "answerHi": "गुरु अर्जन देव",
+      "explanation": "",
+      "explanationHi": ""
+    },
+    {
+      "question": "Which Sikh Guru compiled the Adi Granth, the first official edition of the Sikh scripture?",
+      "questionHi": "किस सिख गुरु ने सिख धर्मग्रंथ के पहले आधिकारिक संस्करण, आदि ग्रंथ का संकलन किया?",
+      "answer": "Guru Arjan Dev",
+      "answerHi": "गुरु अर्जन देव",
+      "explanation": "",
+      "explanationHi": ""
+    },
+    {
+      "question": "The Gurmukhi script of the Punjabi language was created in the 16th century CE by which second Sikh guru?",
+      "questionHi": "पंजाबी भाषा की गुरुमुखी लिपि 16वीं शताब्दी ईस्वी में किस दूसरे सिख गुरु द्वारा बनाई गई थी?",
+      "answer": "Guru Angad",
+      "answerHi": "गुरु अंगद",
+      "explanation": "",
+      "explanationHi": ""
+    },
+    {
+      "question": "Who built the world-famous Harmandir Sahib, popularly known as the Golden Temple, in Amritsar?",
+      "questionHi": "अमृतसर में विश्व प्रसिद्ध हरमंदिर साहिब, जिसे स्वर्ण मंदिर के नाम से जाना जाता है, का निर्माण किसने करवाया?",
+      "answer": "Guru Arjan Dev",
+      "answerHi": "गुरु अर्जन देव",
+      "explanation": "",
+      "explanationHi": ""
+    },
+    {
+      "question": "In which year did Guru Gobind Singh create the Khalsa Panth?",
+      "questionHi": "गुरु गोबिंद सिंह ने खालसा पंथ की स्थापना किस वर्ष की थी?",
+      "answer": "1699",
+      "answerHi": "1699",
+      "explanation": "",
+      "explanationHi": ""
+    },
+    {
+      "question": "Who introduced the Sikh military sect, 'the Khalsa'?",
+      "questionHi": "सिख सैन्य पंथ 'खालसा' की शुरुआत किसने की?",
+      "answer": "Guru Gobind Singh",
+      "answerHi": "गुरु गोबिंद सिंह",
+      "explanation": "",
+      "explanationHi": ""
+    },
+    {
+      "question": "Who succeeded Guru Nanak?",
+      "questionHi": "गुरु नानक का उत्तराधिकारी कौन था?",
+      "answer": "Guru Angad",
+      "answerHi": "गुरु अंगद",
+      "explanation": "",
+      "explanationHi": ""
+    },
+    {
+      "question": "Which Sikh Guru wrote Guru Nanak's biography?",
+      "questionHi": "किस सिख गुरु ने गुरु नानक की जीवनी लिखी?",
+      "answer": "Guru Angad Dev",
+      "answerHi": "गुरु अंगद देव",
+      "explanation": "",
+      "explanationHi": ""
+    },
+    {
+      "question": "Which Sikh Guru wrote 'Zafarnama' in Persian?",
+      "questionHi": "किस सिख गुरु ने फारसी में 'जफरनामा' लिखा?",
+      "answer": "Guru Gobind Singh",
+      "answerHi": "गुरु गोबिंद सिंह",
+      "explanation": "",
+      "explanationHi": ""
+    },
+    {
+      "question": "Who was the last Guru of the Sikhs?",
+      "questionHi": "सिखों के अंतिम गुरु कौन थे?",
+      "answer": "Guru Gobind Singh",
+      "answerHi": "गुरु गोबिंद सिंह",
+      "explanation": "",
+      "explanationHi": ""
+    },
+    {
+      "question": "What is the holy book of the Sikh religion?",
+      "questionHi": "सिख धर्म की पवित्र पुस्तक कौन सी है?",
+      "answer": "Guru Granth Sahib",
+      "answerHi": "गुरु ग्रंथ साहिब",
+      "explanation": "",
+      "explanationHi": ""
+    },
+    {
+      "question": "Who built the Akaal Takht?",
+      "questionHi": "अकाल तख्त का निर्माण किसने करवाया?",
+      "answer": "Guru Hargobind",
+      "answerHi": "गुरु हरगोबिंद",
+      "explanation": "",
+      "explanationHi": ""
+    },
+    {
+      "question": "Which Sikh Guru laid the foundation of Amritsar?",
+      "questionHi": "किस सिख गुरु ने अमृतसर की नींव रखी थी?",
+      "answer": "Guru Ram Das",
+      "answerHi": "गुरु राम दास",
+      "explanation": "",
+      "explanationHi": ""
+    },
+    {
+      "question": "Which Sikh Guru called himself the 'Sacha Badshah' (True Emperor)?",
+      "questionHi": "किस सिख गुरु ने स्वयं को 'सच्चा बादशाह' कहा?",
+      "answer": "Guru Tegh Bahadur",
+      "answerHi": "गुरु तेग बहादुर",
+      "explanation": "",
+      "explanationHi": ""
+    },
+    {
+      "question": "Who was the founder of the independent Sikh State?",
+      "questionHi": "स्वतंत्र सिख राज्य के संस्थापक कौन थे?",
+      "answer": "Ranjit Singh",
+      "answerHi": "रणजीत सिंह",
+      "explanation": "",
+      "explanationHi": ""
+    },
+    {
+      "question": "Where was Guru Nanak Dev, the originator of the Sikh religion, born?",
+      "questionHi": "सिख धर्म के प्रवर्तक गुरु नानक देव का जन्म कहाँ हुआ था?",
+      "answer": "Talwandi",
+      "answerHi": "तलवंडी",
+      "explanation": "",
+      "explanationHi": ""
+    },
+    {
+      "question": "The Sikh Khalsa Army was formed under whose rule?",
+      "questionHi": "सिख खालसा सेना का गठन किसके शासन में हुआ था?",
+      "answer": "Ranjit Singh",
+      "answerHi": "रणजीत सिंह",
+      "explanation": "",
+      "explanationHi": ""
+    },
+    {
+      "question": "Lahore was Ranjit Singh's political capital. Which city was called his religious capital?",
+      "questionHi": "लाहौर रणजीत सिंह की राजनीतिक राजधानी थी। किस शहर को उनकी धार्मिक राजधानी कहा जाता था?",
+      "answer": "Amritsar",
+      "answerHi": "अमृतसर",
+      "explanation": "",
+      "explanationHi": ""
+    },
+    {
+      "question": "What is the birthplace of the tenth and last Guru of the Sikhs, Guru Gobind Singh?",
+      "questionHi": "सिखों के दसवें और अंतिम गुरु, गुरु गोबिंद सिंह का जन्म स्थान क्या है?",
+      "answer": "Patna Sahib",
+      "answerHi": "पटना साहिब",
+      "explanation": "",
+      "explanationHi": ""
+    },
+    {
+      "question": "Who was the successor of Sikh Guru Har Krishan?",
+      "questionHi": "सिख गुरु हर कृष्ण के उत्तराधिकारी कौन थे?",
+      "answer": "Guru Tegh Bahadur",
+      "answerHi": "गुरु तेग बहादुर",
+      "explanation": "",
+      "explanationHi": ""
+    },
+    {
+      "question": "Guru Gobind Singh, the 10th Guru of Sikhs, was the son of whom?",
+      "questionHi": "सिखों के 10वें गुरु, गुरु गोबिंद सिंह किसके पुत्र थे?",
+      "answer": "Guru Tegh Bahadur",
+      "answerHi": "गुरु तेग बहादुर",
+      "explanation": "",
+      "explanationHi": ""
+    },
+    {
+      "question": "Where was Guru Gobind Singh educated and where did he learn Persian?",
+      "questionHi": "गुरु गोबिंद सिंह ने कहाँ शिक्षा प्राप्त की और फारसी सीखी?",
+      "answer": "Anandpur Sahib",
+      "answerHi": "आनंदपुर साहिब",
+      "explanation": "",
+      "explanationHi": ""
+    },
+    {
+      "question": "In which centuries was Sikhism founded?",
+      "questionHi": "सिख धर्म की स्थापना किस शताब्दी में हुई थी?",
+      "answer": "15th-16th century",
+      "answerHi": "15वीं-16वीं शताब्दी",
+      "explanation": "",
+      "explanationHi": ""
+    },
+    {
+      "question": "When was Guru Nanak Dev born?",
+      "questionHi": "गुरु नानक देव का जन्म कब हुआ था?",
+      "answer": "1469 AD",
+      "answerHi": "1469 ई.",
+      "explanation": "",
+      "explanationHi": ""
+    },
+    {
+      "question": "What was the capital city of Maharaja Ranjit Singh's empire?",
+      "questionHi": "महाराजा रणजीत सिंह के साम्राज्य की राजधानी क्या थी?",
+      "answer": "Lahore",
+      "answerHi": "लाहौर",
+      "explanation": "",
+      "explanationHi": ""
+    }
+  ]
+}
       ]
     }
   ]
